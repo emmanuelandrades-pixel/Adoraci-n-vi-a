@@ -1,0 +1,103 @@
+{
+  "id": "setlist-001",
+  "nombre": "Culto Dominical 8 Junio",
+  "evento_id": "event-001",
+  "evento_detalles": {
+    "nombre": "Culto Dominical",
+    "fecha": "2026-06-08",
+    "hora": "10:00",
+    "lugar": "Santuario Talca"
+  },
+  "metadata": {
+    "creado": "2026-06-03T10:00:00Z",
+    "modificado": "2026-06-03T10:00:00Z",
+    "descripcion": "Set list para culto dominical del 8 de junio"
+  },
+  "duracion_total_segundos": 1350,
+  "canciones": [
+    {
+      "orden": 1,
+      "cancion_id": "song-003",
+      "version_id": "v003-original",
+      "tonalidad_evento": "D",
+      "duracion_segundos": 240,
+      "participaciones": {
+        "vocalista_principal": "Juan García",
+        "coristas": ["María López", "Ana Martínez"],
+        "instrumentistas": {
+          "guitarra": "Juan García",
+          "bajo": "Carlos Ruiz",
+          "bateria": "Pedro Silva",
+          "teclado": "Luis Gómez"
+        }
+      },
+      "notas": {
+        "observaciones": "Empezar con energía alta",
+        "arreglos_especiales": "Intro extendida 8 compases"
+      }
+    },
+    {
+      "orden": 2,
+      "cancion_id": "song-001",
+      "version_id": "v001-vina",
+      "tonalidad_evento": "A",
+      "duracion_segundos": 285,
+      "participaciones": {
+        "vocalista_principal": "María López",
+        "coristas": ["Juan García"],
+        "instrumentistas": {
+          "guitarra": "Juan García",
+          "bajo": "Carlos Ruiz",
+          "bateria": "Pedro Silva",
+          "teclado": "Luis Gómez"
+        }
+      },
+      "notas": {
+        "observaciones": "Repetir coro final 2 veces",
+        "arreglos_especiales": ""
+      }
+    },
+    {
+      "orden": 3,
+      "cancion_id": "song-004",
+      "version_id": "v004-vina",
+      "tonalidad_evento": "G",
+      "duracion_segundos": 440,
+      "participaciones": {
+        "vocalista_principal": "Ana Martínez",
+        "coristas": ["María López"],
+        "instrumentistas": {
+          "guitarra": "Juan García",
+          "bajo": "Carlos Ruiz",
+          "bateria": "Pedro Silva",
+          "teclado": "Luis Gómez"
+        }
+      },
+      "notas": {
+        "observaciones": "Bajar intensidad, momento de adoración",
+        "arreglos_especiales": "Puente repetir 3 veces"
+      }
+    },
+    {
+      "orden": 4,
+      "cancion_id": "song-002",
+      "version_id": "v002-original",
+      "tonalidad_evento": "C",
+      "duracion_segundos": 360,
+      "participaciones": {
+        "vocalista_principal": "Juan García",
+        "coristas": ["María López", "Ana Martínez"],
+        "instrumentistas": {
+          "guitarra": "Juan García",
+          "bajo": "Carlos Ruiz",
+          "bateria": "Pedro Silva",
+          "teclado": "Luis Gómez"
+        }
+      },
+      "notas": {
+        "observaciones": "Cierre del tiempo de adoración",
+        "arreglos_especiales": ""
+      }
+    }
+  ]
+}

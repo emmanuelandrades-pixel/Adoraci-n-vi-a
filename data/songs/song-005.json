@@ -1,0 +1,53 @@
+{
+  "id": "song-005",
+  "titulo": "Renuévame",
+  "artista": "Marcos Witt",
+  "autor": "Marcos Witt",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-02-28T16:00:00Z",
+  "fecha_actualizacion": "2024-04-10T13:20:00Z",
+  "versions": [
+    {
+      "id": "v005-original",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 68,
+      "compas": "3/4",
+      "duracion_segundos": 240,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s701",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": ["E", "A", "B"],
+          "contenido": "Renuévame, renuévame\nNo quiero ser igual\nRenuévame, renuévame\nTú puedes transformar"
+        },
+        {
+          "id": "s702",
+          "tipo": "coro",
+          "numero": null,
+          "acordes": ["A", "E", "B", "C#m"],
+          "contenido": "Espíritu Santo, ven\nY cámbiame por dentro\nHaz de mí un instrumento\nDe tu paz y de tu amor"
+        },
+        {
+          "id": "s703",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": ["E", "A", "B"],
+          "contenido": "Transforma mi mente\nRenueva mi corazón\nQue sea más como tú\nEsa es mi oración"
+        },
+        {
+          "id": "s704",
+          "tipo": "puente",
+          "numero": null,
+          "acordes": ["C#m", "A", "E", "B"],
+          "contenido": "Que tu voluntad\nSea hecha en mí\nYo me rindo a ti\nSeñor"
+        }
+      ]
+    }
+  ]
+}

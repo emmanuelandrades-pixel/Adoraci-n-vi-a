@@ -1,0 +1,82 @@
+{
+  "ministerio": {
+    "nombre_oficial": "Adoración Viña Casa de Amor",
+    "ubicacion": "Talca, Región del Maule, Chile",
+    "quienes_somos": "Somos el ministerio de alabanza y adoración de Viña Casa de Amor Talca. Nuestro corazón es crear espacios de encuentro genuino con Dios a través de la música y la adoración. Creemos que la adoración es más que música; es un estilo de vida que transforma corazones y comunidades.",
+    "mision": "Llevar a la congregación a un encuentro genuino y transformador con Dios a través de la adoración, equipando al cuerpo de Cristo para vivir una vida de adoración continua.",
+    "vision": "Ser un ministerio que levante adoradores en espíritu y en verdad, que impacten a Talca y la Región del Maule con la presencia de Dios.",
+    "valores": [
+      "Excelencia en el servicio a Dios",
+      "Autenticidad en la adoración",
+      "Unidad del equipo",
+      "Crecimiento continuo",
+      "Corazón de siervo"
+    ]
+  },
+  "contacto": {
+    "email": "adoracion@vinacasadeamor.cl",
+    "telefono": "+56 9 1234 5678",
+    "ubicacion": "Talca, Región del Maule, Chile"
+  },
+  "redes_sociales": {
+    "instagram": "@adoracionvina_talca",
+    "facebook": "Adoración Viña Casa de Amor Talca",
+    "youtube": "Adoración Viña Talca"
+  },
+  "integrantes": [
+    {
+      "id": "user-001",
+      "nombre": "Juan García",
+      "instrumento_principal": "Guitarra",
+      "instrumentos_secundarios": ["Voz"],
+      "rol_ministerial": "Director Musical",
+      "telefono": "+56 9 1111 1111",
+      "email": "juan@vinacasadeamor.cl"
+    },
+    {
+      "id": "user-002",
+      "nombre": "María López",
+      "instrumento_principal": "Voz",
+      "instrumentos_secundarios": ["Piano"],
+      "rol_ministerial": "Vocalista Principal",
+      "telefono": "+56 9 2222 2222",
+      "email": "maria@vinacasadeamor.cl"
+    },
+    {
+      "id": "user-003",
+      "nombre": "Carlos Ruiz",
+      "instrumento_principal": "Bajo",
+      "instrumentos_secundarios": [],
+      "rol_ministerial": "Bajista",
+      "telefono": "+56 9 3333 3333",
+      "email": "carlos@vinacasadeamor.cl"
+    },
+    {
+      "id": "user-004",
+      "nombre": "Pedro Silva",
+      "instrumento_principal": "Batería",
+      "instrumentos_secundarios": [],
+      "rol_ministerial": "Baterista",
+      "telefono": "+56 9 4444 4444",
+      "email": "pedro@vinacasadeamor.cl"
+    },
+    {
+      "id": "user-005",
+      "nombre": "Luis Gómez",
+      "instrumento_principal": "Teclado",
+      "instrumentos_secundarios": ["Voz"],
+      "rol_ministerial": "Tecladista",
+      "telefono": "+56 9 5555 5555",
+      "email": "luis@vinacasadeamor.cl"
+    },
+    {
+      "id": "user-006",
+      "nombre": "Ana Martínez",
+      "instrumento_principal": "Voz",
+      "instrumentos_secundarios": ["Guitarra Acústica"],
+      "rol_ministerial": "Vocalista",
+      "telefono": "+56 9 6666 6666",
+      "email": "ana@vinacasadeamor.cl"
+    }
+  ]
+}

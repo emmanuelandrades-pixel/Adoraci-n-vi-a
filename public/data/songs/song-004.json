@@ -1,0 +1,85 @@
+{
+  "id": "song-004",
+  "titulo": "Oceans (Aguas Profundas)",
+  "artista": "Hillsong United",
+  "autor": "Matt Crocker, Joel Houston, Salomon Ligthelm",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": true,
+  "activa": true,
+  "fecha_creacion": "2024-01-20T14:00:00Z",
+  "fecha_actualizacion": "2024-05-15T09:45:00Z",
+  "versions": [
+    {
+      "id": "v004-original",
+      "nombre": "Original",
+      "tonalidad": "Bb",
+      "bpm": 58,
+      "compas": "4/4",
+      "duracion_segundos": 420,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s501",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": ["Bb", "F", "Gm", "Eb"],
+          "contenido": "Tú me llamas sobre las aguas\nEn la tormenta y sobre el mar\nY siempre que duermo o camino\nMi alma estará en tu lugar"
+        },
+        {
+          "id": "s502",
+          "tipo": "pre-coro",
+          "numero": null,
+          "acordes": ["Gm", "Eb", "Bb", "F"],
+          "contenido": "Guía mis pies\nSostén mi vida\nEn aguas que no puedo ver"
+        },
+        {
+          "id": "s503",
+          "tipo": "coro",
+          "numero": null,
+          "acordes": ["Bb", "F", "Gm", "Eb"],
+          "contenido": "Espíritu llévame donde mi fe\nSea más profunda cada vez\nDonde los pies pueden fallar\nY el temor me quiere invadir\nEn medio del mar clamaré"
+        },
+        {
+          "id": "s504",
+          "tipo": "puente",
+          "numero": null,
+          "acordes": ["Eb", "Bb", "F", "Gm"],
+          "contenido": "Tu gracia me sostiene\nCon fe caminaré\nEn medio de las aguas profundas\nYo confiaré"
+        }
+      ]
+    },
+    {
+      "id": "v004-vina",
+      "nombre": "Adoración Viña",
+      "tonalidad": "G",
+      "bpm": 60,
+      "compas": "4/4",
+      "duracion_segundos": 440,
+      "es_original": false,
+      "secciones": [
+        {
+          "id": "s601",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": ["G", "D", "Em", "C"],
+          "contenido": "Tú me llamas sobre las aguas\nEn la tormenta y sobre el mar\nY siempre que duermo o camino\nMi alma estará en tu lugar"
+        },
+        {
+          "id": "s602",
+          "tipo": "coro",
+          "numero": null,
+          "acordes": ["G", "D", "Em", "C"],
+          "contenido": "Espíritu llévame donde mi fe\nSea más profunda cada vez\nDonde los pies pueden fallar\nY el temor me quiere invadir\nEn medio del mar clamaré"
+        },
+        {
+          "id": "s603",
+          "tipo": "puente",
+          "numero": null,
+          "acordes": ["C", "G", "D", "Em"],
+          "contenido": "Tu gracia me sostiene\nCon fe caminaré\nEn medio de las aguas profundas\nYo confiaré"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "eventos": [
+    {
+      "id": "event-001",
+      "nombre": "Culto Dominical",
+      "fecha": "2026-06-08",
+      "hora": "10:00",
+      "lugar": "Santuario Talca",
+      "descripcion": "Culto dominical regular con alabanza y adoración",
+      "tipo": "culto",
+      "estado": "confirmado",
+      "setlists": ["setlist-001"]
+    },
+    {
+      "id": "event-002",
+      "nombre": "Ensayo General",
+      "fecha": "2026-06-06",
+      "hora": "19:00",
+      "lugar": "Sala de Ensayo",
+      "descripcion": "Ensayo general para el culto del domingo",
+      "tipo": "ensayo",
+      "estado": "confirmado",
+      "setlists": []
+    },
+    {
+      "id": "event-003",
+      "nombre": "Noche de Adoración",
+      "fecha": "2026-06-20",
+      "hora": "20:00",
+      "lugar": "Santuario Talca",
+      "descripcion": "Noche especial de adoración y búsqueda de Dios",
+      "tipo": "especial",
+      "estado": "tentativo",
+      "setlists": []
+    },
+    {
+      "id": "event-004",
+      "nombre": "Conferencia Jóvenes",
+      "fecha": "2026-07-05",
+      "hora": "09:00",
+      "lugar": "Centro Viña Talca",
+      "descripcion": "Conferencia anual de jóvenes Viña",
+      "tipo": "conferencia",
+      "estado": "confirmado",
+      "setlists": []
+    }
+  ]
+}

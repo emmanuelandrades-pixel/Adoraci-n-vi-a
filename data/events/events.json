@@ -43,6 +43,17 @@
       "tipo": "conferencia",
       "estado": "confirmado",
       "setlists": []
+      },
+    {
+      "id": "event-005",
+      "nombre": "Ensayo Reunión Domingo 7 de Junio",
+      "fecha": "2026-07-04",
+      "hora": "19:30",
+      "lugar": "Casa Abby",
+      "descripcion": "Ensayo general",
+      "tipo": "Ensayo",
+      "estado": "confirmado",
+      "setlists": []
     }
   ]
 }

@@ -14,7 +14,7 @@ export function LineaConAcordes({ texto, acordes, semitonos, tonalidad }: Props)
   const tieneAcordes = acordes.length > 0;
 
   return (
-    <div style={{ fontFamily: "Courier New, monospace", lineHeight: 1.8 }}>
+    <div style={{ fontFamily: "Courier New, monospace", lineHeight: 1.8, overflowX: "auto" }}>
       {tieneAcordes && (
         <div style={{ position: "relative", height: "1.4em", marginBottom: 2 }}>
           {acordes.map((a, i) => (

@@ -23,13 +23,272 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Bm",
-            "G",
-            "D",
-            "A"
-          ],
-          "contenido": "William Matthews, Rick Seibold, Lauren Evans\nVi - niste a habitar,\nA vivir entre nosotros\nSin - tiendo el dolor, de la humanidad\nY a llevarnos más alto\nInfinito Dios\nTú vida rendiste para\nMi culpa borrar, mi vergüenza quitar\nY llevarnos más alto\nVamos de gloria en gloria en gloria\nJamás será igual, jamás seré igual\nVamos de gloria en gloria en gloria (Vamos más alto, más alto, más alto)\nGracia que cambió nuestro corazón\nTú amigo yo soy\nA tú Reino me has traído\nEsclavo fui yo, ahora tú hijo soy\nY me llevas más alto\nJesús queremos ver, tú rostro y majestad\nPor siempre cantaremos, Santo, Santo\nTú amor va allá, no alcanzo a comprender\nPor siempre cantaremos, Digno, Digno\nInterludio: G – D – Bm – A\nLa tumba venció,\nLa muerte poder no tiene\nJesucristo triunfó, y el cielo se abrió\nY nos llevas más alto"
+          "lineas": [
+            {
+              "texto": "William Matthews, Rick Seibold, Lauren Evans",
+              "acordes": []
+            },
+            {
+              "texto": "Vi - niste a habitar,",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "A vivir entre nosotros",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Sin - tiendo el dolor, de la humanidad",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Y a llevarnos más alto",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Infinito Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Tú vida rendiste para",
+              "acordes": []
+            },
+            {
+              "texto": "Mi culpa borrar, mi vergüenza quitar",
+              "acordes": []
+            },
+            {
+              "texto": "Y llevarnos más alto",
+              "acordes": []
+            },
+            {
+              "texto": "Vamos de gloria en gloria en gloria",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Jamás será igual, jamás seré igual",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Vamos de gloria en gloria en gloria (Vamos más alto, más alto, más alto)",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Gracia que cambió nuestro corazón",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Tú amigo yo soy",
+              "acordes": []
+            },
+            {
+              "texto": "A tú Reino me has traído",
+              "acordes": []
+            },
+            {
+              "texto": "Esclavo fui yo, ahora tú hijo soy",
+              "acordes": []
+            },
+            {
+              "texto": "Y me llevas más alto",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús queremos ver, tú rostro y majestad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre cantaremos, Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 30
+                },
+                {
+                  "acorde": "A",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Tú amor va allá, no alcanzo a comprender",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre cantaremos, Digno, Digno",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 30
+                },
+                {
+                  "acorde": "A",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Interludio: G – D – Bm – A",
+              "acordes": []
+            },
+            {
+              "texto": "La tumba venció,",
+              "acordes": []
+            },
+            {
+              "texto": "La muerte poder no tiene",
+              "acordes": []
+            },
+            {
+              "texto": "Jesucristo triunfó, y el cielo se abrió",
+              "acordes": []
+            },
+            {
+              "texto": "Y nos llevas más alto",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

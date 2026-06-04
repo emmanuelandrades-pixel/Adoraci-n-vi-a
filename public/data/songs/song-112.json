@@ -23,14 +23,290 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "D",
-            "Em",
-            "Bm"
-          ],
-          "contenido": "Me rodeas hoy con una canción\nDe liberación\nEl mal tuvo que huir estando ante ti\nTemores ya no hay\nYa no soy un esclavo del temor,\nSoy un hijo de Dios\nAun antes de nacer, me escogiste Dios\nTu amor me encontró\nEn tu familia Dios he vuelto a nacer\nTu sangre fluye en mi\n(Armonía del Interludio)\nEstoy rodeado por los brazos del Padre\nEstoy rodeado por tu canto de libertad\nNos has liberado del pasado\nComo hijos e hijas hoy cantamos libres...\n/ Oh, oh, oh, oh, oh /\nAbriste el mar para que yo cruzara\nTu gran amor ahogó el temor\nMe rescataste y hoy puedo cantar\nSoy un hijo de Dios"
+          "lineas": [
+            {
+              "texto": "Me rodeas hoy con una canción",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "De liberación",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "El mal tuvo que huir estando ante ti",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Temores ya no hay",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Ya no soy un esclavo del temor,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Soy un hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Aun antes de nacer, me escogiste Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor me encontró",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "En tu familia Dios he vuelto a nacer",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Tu sangre fluye en mi",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "(Armonía del Interludio)",
+              "acordes": []
+            },
+            {
+              "texto": "Estoy rodeado por los brazos del Padre",
+              "acordes": []
+            },
+            {
+              "texto": "Estoy rodeado por tu canto de libertad",
+              "acordes": []
+            },
+            {
+              "texto": "Nos has liberado del pasado",
+              "acordes": []
+            },
+            {
+              "texto": "Como hijos e hijas hoy cantamos libres...",
+              "acordes": []
+            },
+            {
+              "texto": "Oh, oh, oh, oh, oh",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Abriste el mar para que yo cruzara",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Tu gran amor ahogó el temor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Me rescataste y hoy puedo cantar",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Soy un hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
         }
       ]
     }

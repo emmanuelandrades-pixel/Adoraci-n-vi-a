@@ -23,25 +23,228 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "G",
-            "Am"
-          ],
-          "contenido": "Luian Berdía, David Berguño\nDeclaramos que Él es Rey\nSoberano sobre toda la creación\nCielo y tierra se someten ante Él\nNo hay otro igual\nLa justicia y el poder\nPertenecen al que en el trono está\nQuien defiende al extranjero y sin hogar\nNo hay otro igual\nDigno de Honor"
+          "lineas": [
+            {
+              "texto": "Luian Berdía, David Berguño",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "C",
-            "F",
-            "G",
-            "Am"
-          ],
-          "contenido": "Gloria y Majestad\nDigno de Honor\nC - G\nPor siempre reinarás\nAm – G/B - C\nPor la eternidad\nTuya es la Gloria\nSiempre el mismo, siempre Fiel\nEl que es, que fue y que pronto volverá\nA reinar con rectitud y con bondad\nNo hay otro igual\nTodo ojo lo verá\nToda la creación ante Él se postrará\nToda lengua solo a Él confesará\nNo hay otro igual\nHoy podemos escuchar\nComo el cielo te adora sin cesar\nNos unimos hoy al coro celestial\nNo hay otro igual\nAleluya"
+          "lineas": [
+            {
+              "texto": "Declaramos que Él es Rey",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Soberano sobre toda la creación",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Cielo y tierra se someten ante Él",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro igual",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "La justicia y el poder",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Pertenecen al que en el trono está",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Quien defiende al extranjero y sin hogar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro igual",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Digno de Honor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Gloria y Majestad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Digno de Honor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "C - G",
+              "acordes": []
+            },
+            {
+              "texto": "Por siempre reinarás",
+              "acordes": []
+            },
+            {
+              "texto": "Am – G/B - C",
+              "acordes": []
+            },
+            {
+              "texto": "Por la eternidad",
+              "acordes": []
+            },
+            {
+              "texto": "Tuya es la Gloria",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Siempre el mismo, siempre Fiel",
+              "acordes": []
+            },
+            {
+              "texto": "El que es, que fue y que pronto volverá",
+              "acordes": []
+            },
+            {
+              "texto": "A reinar con rectitud y con bondad",
+              "acordes": []
+            },
+            {
+              "texto": "No hay otro igual",
+              "acordes": []
+            },
+            {
+              "texto": "Todo ojo lo verá",
+              "acordes": []
+            },
+            {
+              "texto": "Toda la creación ante Él se postrará",
+              "acordes": []
+            },
+            {
+              "texto": "Toda lengua solo a Él confesará",
+              "acordes": []
+            },
+            {
+              "texto": "No hay otro igual",
+              "acordes": []
+            },
+            {
+              "texto": "Hoy podemos escuchar",
+              "acordes": []
+            },
+            {
+              "texto": "Como el cielo te adora sin cesar",
+              "acordes": []
+            },
+            {
+              "texto": "Nos unimos hoy al coro celestial",
+              "acordes": []
+            },
+            {
+              "texto": "No hay otro igual",
+              "acordes": []
+            },
+            {
+              "texto": "Aleluya",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
         }
       ]
     }

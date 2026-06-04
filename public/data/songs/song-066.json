@@ -23,14 +23,350 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "D",
-            "Am",
-            "C",
-            "Em"
-          ],
-          "contenido": "Miel San Marcos\nJesucristo, precioso Rey Nada en la tierra ni en el cielo\nQue se comparare a Ti, mi Dios, Tú mi tesoro, mi gran amor\nMover Tu corazón es lo que quiero hacer\nRendirte todo mi amor, y ante Ti permanecer\nNo importa el costo, Dios, te entrego\nTodo solo a Ti, solo a Ti\nJesucristo, Te ofreceré Mis ambiciones y mis sueños\nToda mi vida, te rindo a Ti, para adorarte\nMover Tu corazón es lo que quiero hacer\nRendirte todo mi amor, y ante Ti permanecer\nNo importa el costo, Dios, te entrego\nTodo solo a Ti, solo a Ti\nMover tu corazón y perderme en tu mirar\nEn Tu presencia, Dios, es dónde quiero estar\nContigo habitar y derramar mi vida entera\nAnte a Ti Solo a Ti\nPuente: C – G – Em – D\nSi es una fragancia, te la entregare, Señor\nSi es mi vida entera, te la doy a Ti, Señor\nSi es una canción que canto, mi melodía Te la doy\nDime que Te mueve, yo quiero moverte"
+          "lineas": [
+            {
+              "texto": "Miel San Marcos",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Jesucristo, precioso Rey Nada en la tierra ni en el cielo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 26
+                },
+                {
+                  "acorde": "C",
+                  "pos": 44
+                },
+                {
+                  "acorde": "D",
+                  "pos": 55
+                }
+              ]
+            },
+            {
+              "texto": "Que se comparare a Ti, mi Dios, Tú mi tesoro, mi gran amor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 29
+                },
+                {
+                  "acorde": "C",
+                  "pos": 45
+                },
+                {
+                  "acorde": "D",
+                  "pos": 57
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Mover Tu corazón es lo que quiero hacer",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Rendirte todo mi amor, y ante Ti permanecer",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D",
+                  "pos": 32
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "No importa el costo, Dios, te entrego",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Todo solo a Ti, solo a Ti",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Jesucristo, Te ofreceré Mis ambiciones y mis sueños",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 25
+                },
+                {
+                  "acorde": "C",
+                  "pos": 41
+                },
+                {
+                  "acorde": "D",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "Toda mi vida, te rindo a Ti, para adorarte",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 25
+                },
+                {
+                  "acorde": "C",
+                  "pos": 28
+                },
+                {
+                  "acorde": "D",
+                  "pos": 39
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Mover Tu corazón es lo que quiero hacer",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Rendirte todo mi amor, y ante Ti permanecer",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D",
+                  "pos": 32
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "No importa el costo, Dios, te entrego",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Todo solo a Ti, solo a Ti",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Mover tu corazón y perderme en tu mirar",
+              "acordes": []
+            },
+            {
+              "texto": "En Tu presencia, Dios, es dónde quiero estar",
+              "acordes": []
+            },
+            {
+              "texto": "Contigo habitar y derramar mi vida entera",
+              "acordes": []
+            },
+            {
+              "texto": "Ante a Ti Solo a Ti",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Puente: C – G – Em – D",
+              "acordes": []
+            },
+            {
+              "texto": "Si es una fragancia, te la entregare, Señor",
+              "acordes": []
+            },
+            {
+              "texto": "Si es mi vida entera, te la doy a Ti, Señor",
+              "acordes": []
+            },
+            {
+              "texto": "Si es una canción que canto, mi melodía Te la doy",
+              "acordes": []
+            },
+            {
+              "texto": "Dime que Te mueve, yo quiero moverte",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

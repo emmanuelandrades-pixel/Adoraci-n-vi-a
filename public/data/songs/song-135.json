@@ -23,17 +23,235 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Eb",
-            "F",
-            "Gm",
-            "Bb/D",
-            "Eb/G",
-            "Bb",
-            "F/A",
-            "Cm"
-          ],
-          "contenido": "Tú eres mi herencia\nLo tengo todo en Ti\nTú eres mi porción\nTú me proteges\nAun en la oscuridad\nSiempre me guiarás\nMi corazón segu - ro está\nMi cuerpo en ti descan - sa - rá\nAquí a mi lado Tú es – tás\nNo me abandonas\nNo me abandonas\n¿Por qué temeré?\n¿Por qué temeré?\nTú siempre estás conmigo\nTú siempre estás conmigo\nEn las tormentas\nDe dudas y temor\nMi ancla eres Tú\nTú me rodeas\nCon cantos de amor\nY de liberación\nTú lo prome - tiste\nY nunca falla - rás\nY nunca falla – rás\nSiempre Tú estarás\nConmigo hasta el final\nConmigo hasta el final"
+          "lineas": [
+            {
+              "texto": "Tú eres mi herencia",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Lo tengo todo en Ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres mi porción",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tú me proteges",
+              "acordes": []
+            },
+            {
+              "texto": "Aun en la oscuridad",
+              "acordes": []
+            },
+            {
+              "texto": "Siempre me guiarás",
+              "acordes": []
+            },
+            {
+              "texto": "Mi corazón segu - ro está",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 23
+                },
+                {
+                  "acorde": "F",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Mi cuerpo en ti descan - sa - rá",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 25
+                },
+                {
+                  "acorde": "Bb/D",
+                  "pos": 28
+                },
+                {
+                  "acorde": "F",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Aquí a mi lado Tú es – tás",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 24
+                },
+                {
+                  "acorde": "F",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "No me abandonas",
+              "acordes": [
+                {
+                  "acorde": "Eb/G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "No me abandonas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "¿Por qué temeré?",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "¿Por qué temeré?",
+              "acordes": [
+                {
+                  "acorde": "F/A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tú siempre estás conmigo",
+              "acordes": [
+                {
+                  "acorde": "Cm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tú siempre estás conmigo",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "En las tormentas",
+              "acordes": []
+            },
+            {
+              "texto": "De dudas y temor",
+              "acordes": []
+            },
+            {
+              "texto": "Mi ancla eres Tú",
+              "acordes": []
+            },
+            {
+              "texto": "Tú me rodeas",
+              "acordes": []
+            },
+            {
+              "texto": "Con cantos de amor",
+              "acordes": []
+            },
+            {
+              "texto": "Y de liberación",
+              "acordes": []
+            },
+            {
+              "texto": "Tú lo prome - tiste",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Y nunca falla - rás",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Y nunca falla – rás",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Siempre Tú estarás",
+              "acordes": []
+            },
+            {
+              "texto": "Conmigo hasta el final",
+              "acordes": []
+            },
+            {
+              "texto": "Conmigo hasta el final",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

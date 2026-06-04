@@ -23,13 +23,185 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "Am",
-            "G",
-            "F"
-          ],
-          "contenido": "En Espíritu Y En Verdad\nAmamos todo de ti\nCielo y tierra te adoran\nLos reinos se rinden\nHijo de Dios\nTú eres por quien\nTú eres por quien\nVivimos hoy\nTú eres quien nos liberta\nTú eres la Luz que guía\nComo un fuego ardiente\nHijo de Dios\nTú eres por quien\nTú eres por quien\nVivimos hoy\nVamos a cantar con la música del cielo\nVamos a cantar alegres porque escuchas\nCuando cantamos para exaltar tu nombre\nEntre coro final: C - A# - Am - C"
+          "lineas": [
+            {
+              "texto": "En Espíritu Y En Verdad",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Amamos todo de ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cielo y tierra te adoran",
+              "acordes": []
+            },
+            {
+              "texto": "Los reinos se rinden",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Hijo de Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres por quien",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres por quien",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Vivimos hoy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú eres quien nos liberta",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres la Luz que guía",
+              "acordes": []
+            },
+            {
+              "texto": "Como un fuego ardiente",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Hijo de Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres por quien",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres por quien",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Vivimos hoy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Vamos a cantar con la música del cielo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Vamos a cantar alegres porque escuchas",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Cuando cantamos para exaltar tu nombre",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Entre coro final: C - A# - Am - C",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

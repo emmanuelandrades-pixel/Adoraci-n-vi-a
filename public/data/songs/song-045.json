@@ -23,38 +23,252 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "Em",
-            "C"
-          ],
-          "contenido": "Estoy preparando el camino\nEnderezando las veredas\nCada vez más disminuyendo\nPorque importa que él crezca\nMi placer en él está"
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "G",
-            "D",
-            "C",
-            "Em",
-            "Bm"
-          ],
-          "contenido": "Yo no soy digno de desatar\nSus sandalias\nMi vida entera en él está\nY yo camino con la certeza\nDe que volverá\nEs él\nPor él que estoy gastando mi vida\nPerdiendo todo por amor y con alegría\nDueño de mis días"
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": [
-            "D",
-            "Em",
-            "Dm",
-            "C",
-            "G"
-          ],
-          "contenido": "Estoy preparando el camino\nEnderezando las veredas\nCada vez más disminuyendo\nPorque importa que él crezca\nÉl volverá, soberano en poder\nÉl volverá, y el gobierno en él está\nVean, él traerá en sus manos su recompensa"
+          "lineas": [
+            {
+              "texto": "Estoy preparando el camino",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Enderezando las veredas",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Cada vez más disminuyendo",
+              "acordes": []
+            },
+            {
+              "texto": "Porque importa que él crezca",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Mi placer en él está",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Yo no soy digno de desatar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Sus sandalias",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Mi vida entera en él está",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Y yo camino con la certeza",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "De que volverá",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Es él",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Por él que estoy gastando mi vida",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Perdiendo todo por amor y con alegría",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Dueño de mis días",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Estoy preparando el camino",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Enderezando las veredas",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Cada vez más disminuyendo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Porque importa que él crezca",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Él volverá, soberano en poder",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Él volverá, y el gobierno en él está",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Vean, él traerá en sus manos su recompensa",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
         }
       ]
     }

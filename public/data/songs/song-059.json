@@ -23,13 +23,240 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "Am",
-            "G"
-          ],
-          "contenido": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens\nLevanto un aleluya, en presencia de mis enemigos\nLevanto un aleluya, aun en la incredulidad\nLevanto un aleluya, mi arma es mi melodía\nLevanto un aleluya, el Cielo peleará por mi\nEn la tormenta, yo cantaré\nFuerte y más alto, un rugir se oirá\nDe las cenizas, esperanza vendrá\nLa muerte es venciste, el Rey vivo está\nLevanto un aleluya, con todo lo que hay en mi\nLevanto un aleluya, veré a la oscuridad huir\nLevanto un aleluya, aunque no pueda entender\nLevanto un aleluya, el temor ya no me detendrá\nCántalo más fuerte (en presencia de mis enemigos)\nCántalo más fuerte (aun en la incredulidad)\nCántalo más fuerte (mi arma es mi melodía)\nCántalo más fuerte (el Cielo peleará por mi)\nLevanto un aleluya (en presencia de mis enemigos)\nLevanto un aleluya (aun en la incredulidad)\nLevanto un aleluya (mi arma es mi melodía)\nLevanto un aleluya (el Cielo peleará por mi)"
+          "lineas": [
+            {
+              "texto": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens",
+              "acordes": []
+            },
+            {
+              "texto": "Levanto un aleluya, en presencia de mis enemigos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, aun en la incredulidad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, mi arma es mi melodía",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, el Cielo peleará por mi",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "En la tormenta, yo cantaré",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Fuerte y más alto, un rugir se oirá",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "De las cenizas, esperanza vendrá",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "La muerte es venciste, el Rey vivo está",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, con todo lo que hay en mi",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, veré a la oscuridad huir",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, aunque no pueda entender",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya, el temor ya no me detendrá",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Cántalo más fuerte (en presencia de mis enemigos)",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cántalo más fuerte (aun en la incredulidad)",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cántalo más fuerte (mi arma es mi melodía)",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cántalo más fuerte (el Cielo peleará por mi)",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya (en presencia de mis enemigos)",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya (aun en la incredulidad)",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya (mi arma es mi melodía)",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya (el Cielo peleará por mi)",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
         }
       ]
     }

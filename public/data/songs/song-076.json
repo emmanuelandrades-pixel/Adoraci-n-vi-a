@@ -23,39 +23,264 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "G",
-            "Am",
-            "Dm"
-          ],
-          "contenido": "Tú eres el Padre\nY nosotros tus hijos\nNos muestras amor,\nNos muestras amor\nAún en la oscuridad\nNo nos podemos alejar\nDe tu amor, de tu amor"
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "F",
-            "G",
-            "Am",
-            "C"
-          ],
-          "contenido": "Y aun así muestras amor\nNos abrazas en dolor\nSecas nuestras lágrimas"
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": [
-            "C",
-            "G",
-            "Am",
-            "F",
-            "Dm"
-          ],
-          "contenido": "Reafirmas nuestra alma\nY nos das identidad\nNos recibes sin juzgar\nPues tu amor es incondicional\nGC\nY no podemos entender tanto amor\nIncondicional\nFuiste a la cruz a demostrar tu amor C\nTú me guías y me muestras la verdad\nTú eres el Padre bueno y fiel\nTú eres fiel, Tú eres fiel\nNos proteges con fervor\nTú provees nuestro pan\nAun en dificultad tu mano no me\nsoltará\nNo nos vas a abandonar\nTú eres fiel, Tú eres fiel\nTú corriges nuestro mal"
+          "lineas": [
+            {
+              "texto": "C              F                     Y aun así muestras amor",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres el Padre                           G          Am",
+              "acordes": []
+            },
+            {
+              "texto": "C        F G Am                      Nos abrazas en dolor",
+              "acordes": []
+            },
+            {
+              "texto": "Y nosotros tus hijos                     F        G         C",
+              "acordes": []
+            },
+            {
+              "texto": "F           Am                      Secas nuestras lágrimas",
+              "acordes": []
+            },
+            {
+              "texto": "Nos muestras amor,",
+              "acordes": []
+            },
+            {
+              "texto": "Nos muestras amor                    Reafirmas nuestra alma",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 37
+                },
+                {
+                  "acorde": "G",
+                  "pos": 48
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 58
+                }
+              ]
+            },
+            {
+              "texto": "Aún en la oscuridad                  Y nos das identidad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                },
+                {
+                  "acorde": "F",
+                  "pos": 46
+                },
+                {
+                  "acorde": "G",
+                  "pos": 48
+                },
+                {
+                  "acorde": "C",
+                  "pos": 55
+                }
+              ]
+            },
+            {
+              "texto": "No nos podemos alejar                Nos recibes sin juzgar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 21
+                },
+                {
+                  "acorde": "C",
+                  "pos": 37
+                },
+                {
+                  "acorde": "G",
+                  "pos": 46
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 57
+                }
+              ]
+            },
+            {
+              "texto": "De tu amor, de tu amor               Pues tu amor es incondicional",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 19
+                },
+                {
+                  "acorde": "F",
+                  "pos": 45
+                },
+                {
+                  "acorde": "G",
+                  "pos": 54
+                },
+                {
+                  "acorde": "C",
+                  "pos": 64
+                },
+                {
+                  "acorde": "G",
+                  "pos": 65
+                }
+              ]
+            },
+            {
+              "texto": "C             F    G       Dm       GC",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 37
+                },
+                {
+                  "acorde": "F",
+                  "pos": 37
+                },
+                {
+                  "acorde": "G",
+                  "pos": 37
+                },
+                {
+                  "acorde": "C",
+                  "pos": 37
+                },
+                {
+                  "acorde": "G",
+                  "pos": 37
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 37
+                },
+                {
+                  "acorde": "F",
+                  "pos": 37
+                }
+              ]
+            },
+            {
+              "texto": "Y no podemos entender tanto amor     ///Incondicional",
+              "acordes": []
+            },
+            {
+              "texto": "Fuiste a la cruz a demostrar tu amor C           F C            F G",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F",
+                  "pos": 27
+                },
+                {
+                  "acorde": "G",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "C       G                    Am      Tú me guías y me muestras la verdad",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 43
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres el Padre bueno y fiel        F         Am F               C",
+              "acordes": []
+            },
+            {
+              "texto": "F     G          C            Tú eres fiel, Tú eres fiel",
+              "acordes": []
+            },
+            {
+              "texto": "Nos proteges con fervor              C          F     C       F     G",
+              "acordes": []
+            },
+            {
+              "texto": "Tú provees nuestro pan               Aun en dificultad tu mano no me",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 43
+                }
+              ]
+            },
+            {
+              "texto": "F        G          C             soltará",
+              "acordes": []
+            },
+            {
+              "texto": "No nos vas a abandonar               F         Am       F       Dm",
+              "acordes": []
+            },
+            {
+              "texto": "C          G          Am            Tú eres fiel, Tú eres fiel",
+              "acordes": []
+            },
+            {
+              "texto": "Tú corriges nuestro mal",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

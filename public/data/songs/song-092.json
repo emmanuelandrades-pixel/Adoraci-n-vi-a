@@ -23,13 +23,243 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "Am",
-            "G"
-          ],
-          "contenido": "Hunter Thompson, Kalley Heiligenthal, Jeremy Riddle\nCantamos la canción\nDe eterna adoración\nY con el Cielo hoy\nUnimos nuestra voz\nGrande fidelidad\nY gracia sin final\nDel Rey que se entregó\nY se sacrificó\nSé entronado en la adoración\nDe mil generaciones\nEres digno, Tú eres Dios\nPara Ti resucitado\nRey Cantamos con el Cielo\nEres digno, Tú eres Dios\nEn nuestro caminar\nY hasta la eternidad\nNuestro clamor será\nJesús glorificar\n/ Te exaltamos, Tú eres Dios /\nTe exaltamos, eres Digno, Tú eres Dios"
+          "lineas": [
+            {
+              "texto": "Hunter Thompson, Kalley Heiligenthal, Jeremy Riddle",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Cantamos la canción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "De eterna adoración",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Y con el Cielo hoy",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Unimos nuestra voz",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Grande fidelidad",
+              "acordes": []
+            },
+            {
+              "texto": "Y gracia sin final",
+              "acordes": []
+            },
+            {
+              "texto": "Del Rey que se entregó",
+              "acordes": []
+            },
+            {
+              "texto": "Y se sacrificó",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Sé entronado en la adoración",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "De mil generaciones",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Eres digno, Tú eres Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Para Ti resucitado",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Rey Cantamos con el Cielo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Eres digno, Tú eres Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "En nuestro caminar",
+              "acordes": []
+            },
+            {
+              "texto": "Y hasta la eternidad",
+              "acordes": []
+            },
+            {
+              "texto": "Nuestro clamor será",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús glorificar",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Te exaltamos, Tú eres Dios",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Te exaltamos, eres Digno, Tú eres Dios",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 37
+                }
+              ]
+            }
+          ]
         }
       ]
     }

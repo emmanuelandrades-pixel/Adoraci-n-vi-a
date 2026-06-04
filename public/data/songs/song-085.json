@@ -23,23 +23,136 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G/B"
-          ],
-          "contenido": "Reuben Morgan & Jason Ingram\nBueno es Dios, bueno es Dios\nCuando nada hay bueno en mí\nTu amor, Tu amor\nNo se puede resistir\nEres luz, eres luz\nAun en la oscuridad\nEres fiel, eres fiel\nHas borrado mi maldad\nEres paz, eres paz\nAun en medio del temor\nLa verdad, la verdad\nCuando ando en confusión\nLa razón, la razón\nDe mi gozo está en Jesús\nÉl venció, Él venció\nA la muerte en la cruz"
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "C",
-            "G",
-            "Am",
-            "F"
-          ],
-          "contenido": "Tú me abrazas con tu amor\nMe abrazas con tu amor\nTu gracia me encontró\nCambió mi corazón\nNada se puede comparar\nReinas por la eternidad\nEres más, eres más\nDe lo que puedo expresar\nEres Rey, eres Rey\nLa creación proclamará\nAquí estás, aquí estás\nTu presencia es real\nEres Dios, eres Dios\nLo pasado dejo atrás\nSolo a ti\nYo cantaré\nCristo, Cristo"
+          "lineas": [
+            {
+              "texto": "Reuben Morgan & Jason Ingram",
+              "acordes": []
+            },
+            {
+              "texto": "Bueno es Dios, bueno es Dios   Tú me abrazas con tu amor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                },
+                {
+                  "acorde": "G",
+                  "pos": 55
+                }
+              ]
+            },
+            {
+              "texto": "Cuando nada hay bueno en mí                       Am",
+              "acordes": []
+            },
+            {
+              "texto": "G/B                        Me abrazas con tu amor",
+              "acordes": []
+            },
+            {
+              "texto": "Tu amor, Tu amor               Tu gracia me encontró",
+              "acordes": []
+            },
+            {
+              "texto": "No se puede resistir                G           F",
+              "acordes": []
+            },
+            {
+              "texto": "Cambió mi corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Eres luz, eres luz                       Am G           F",
+              "acordes": []
+            },
+            {
+              "texto": "Aun en la oscuridad            Nada se puede comparar",
+              "acordes": []
+            },
+            {
+              "texto": "Eres fiel, eres fiel                     Am G F",
+              "acordes": []
+            },
+            {
+              "texto": "Has borrado mi maldad          Reinas por la eternidad",
+              "acordes": []
+            },
+            {
+              "texto": "Eres más, eres más",
+              "acordes": []
+            },
+            {
+              "texto": "Eres paz, eres paz             De lo que puedo expresar",
+              "acordes": []
+            },
+            {
+              "texto": "Aun en medio del temor         Eres Rey, eres Rey",
+              "acordes": []
+            },
+            {
+              "texto": "La verdad, la verdad           La creación proclamará",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando ando en confusión",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estás, aquí estás",
+              "acordes": []
+            },
+            {
+              "texto": "La razón, la razón             Tu presencia es real",
+              "acordes": []
+            },
+            {
+              "texto": "De mi gozo está en Jesús       Eres Dios, eres Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Él venció, Él venció           Lo pasado dejo atrás",
+              "acordes": []
+            },
+            {
+              "texto": "A la muerte en la cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Solo a ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Yo cantaré",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, Cristo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
         }
       ]
     }

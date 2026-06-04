@@ -23,39 +23,261 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Dm",
-            "G/B",
-            "C/E",
-            "F",
-            "C"
-          ],
-          "contenido": "Toma Tu Lugar\nEres tan hermoso\nEres el más bello\nQuiero conocerte más\nSanto, santo, santo\nReinas para siempre\nY aquí te esperaré cantándote\nY aquí te esperaré\nY aquí te esperaré\nY aquí te esperaré\nY aquí te esperaré"
+          "lineas": [
+            {
+              "texto": "Toma Tu Lugar",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "Dm",
-            "G/B",
-            "C/E",
-            "F"
-          ],
-          "contenido": "Con todo el corazón\nDerramado a tus pies\nLevanto hoy mi voz\n¡Y no dejo de amarte y cantarte eh!"
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": [
-            "F",
-            "G/B",
-            "Am",
-            "G",
-            "C"
-          ],
-          "contenido": "Opción para continuar:\nYeshua\nMi amado es\nEl más bello entre\nMillares y millares\nSi te tengo a ti\nLo tengo todo\nMi amado\nMi tesoro\nFuera de ti\nNada deseo\nSeñor"
+          "lineas": [
+            {
+              "texto": "Eres tan hermoso",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Eres el más bello",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Quiero conocerte más",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "G/B                            Opción para continuar:",
+              "acordes": []
+            },
+            {
+              "texto": "Santo, santo, santo",
+              "acordes": []
+            },
+            {
+              "texto": "Reinas para siempre                     Yeshua",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F",
+                  "pos": 38
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 40
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 45
+                }
+              ]
+            },
+            {
+              "texto": "Y aquí te esperaré cantándote                    F",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Mi amado es",
+              "acordes": []
+            },
+            {
+              "texto": "Y aquí te esperaré                    El más bello entre",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "Y aquí te esperaré                    Millares y millares",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 41
+                },
+                {
+                  "acorde": "G",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "Y aquí te esperaré",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Si te tengo a ti",
+              "acordes": []
+            },
+            {
+              "texto": "Lo tengo todo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Y aquí te esperaré",
+              "acordes": []
+            },
+            {
+              "texto": "Mi amado",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Mi tesoro",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Con todo el corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Fuera de ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Derramado a tus pies",
+              "acordes": []
+            },
+            {
+              "texto": "Nada deseo",
+              "acordes": []
+            },
+            {
+              "texto": "Levanto hoy mi voz",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Señor",
+              "acordes": []
+            },
+            {
+              "texto": "¡Y no dejo de amarte y cantarte eh!",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
         }
       ]
     }

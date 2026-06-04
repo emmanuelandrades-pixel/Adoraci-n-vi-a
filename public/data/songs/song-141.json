@@ -23,40 +23,220 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Dm",
-            "C/E",
-            "Am",
-            "F",
-            "G",
-            "C"
-          ],
-          "contenido": "United Pursuit\nFaithful one no matter how far I run\nYou lead me home you extend your\nlove\nPatiently fathering the orphan in me\nYou say I am your own\nI never am alone\nI never am alone\nYou found me\nAnd I've made up my mind\nI'm never going back\nI'm never going back\nRighteousness found only in your\nface\nYou see my heart you extend your\ngrace\nEyes open falling in love again\nYou say I'm your own"
+          "lineas": [
+            {
+              "texto": "United Pursuit",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "F",
-            "C/E",
-            "Am",
-            "G"
-          ],
-          "contenido": "It was always you\nIt was always you\nYou found me\nYou call me your own\nI'm never going back\nI'm never going back"
+          "lineas": [
+            {
+              "texto": "Faithful one no matter how far I run                  F C/E",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Am            F                           It was always you",
+              "acordes": []
+            },
+            {
+              "texto": "You lead me home you extend your                      Am",
+              "acordes": []
+            },
+            {
+              "texto": "love                                         It was always you",
+              "acordes": []
+            },
+            {
+              "texto": "Patiently fathering the orphan in me         You found me",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 18
+                },
+                {
+                  "acorde": "G",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "You say I am your own                                    F       C",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "You call me your own",
+              "acordes": []
+            },
+            {
+              "texto": "I never am alone                 I'm never going back",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 15
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "I never am alone                 I'm never going back",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "You found me                     F",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "I'm singing out your lovely name",
+              "acordes": []
+            },
+            {
+              "texto": "And I've made up my mind               I'm giving you everything",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "I'm never going back                   You make my soul alive",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "I'm never going back                   You put your love inside",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 39
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "C",
-            "F",
-            "C/E",
-            "Am",
-            "G"
-          ],
-          "contenido": "I'm singing out your lovely name\nI'm giving you everything\nYou make my soul alive\nYou put your love inside\nThere's nothing that I have need of\nCuz there's nothing you haven't\ndone\nYou make my soul alive\nYou put your love inside"
+          "lineas": [
+            {
+              "texto": "Righteousness found only in your       There's nothing that I have need of",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 20
+                },
+                {
+                  "acorde": "F",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "face                                   C/E",
+              "acordes": []
+            },
+            {
+              "texto": "Am            F                      Cuz there's nothing you haven't",
+              "acordes": []
+            },
+            {
+              "texto": "You see my heart you extend your       done",
+              "acordes": []
+            },
+            {
+              "texto": "grace                                  Am",
+              "acordes": []
+            },
+            {
+              "texto": "Dm              C/E                    You make my soul alive",
+              "acordes": []
+            },
+            {
+              "texto": "Eyes open falling in love again        G",
+              "acordes": []
+            },
+            {
+              "texto": "Am       F                           You put your love inside",
+              "acordes": []
+            },
+            {
+              "texto": "You say I'm your own",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

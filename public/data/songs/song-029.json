@@ -23,14 +23,328 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F",
-            "C",
-            "G",
-            "Am",
-            "Dm"
-          ],
-          "contenido": "Joel Houston\nMil veces te fallé, mas tú fuiste fiel\nTu gracia me levantó, me basta tu amor\nDios Eterno, tu luz por siempre brillará\nY tu gloria, incomparable sin final\nSeñor, tu voluntad permanecerá\nEn ti me quiero perder en adoración\nDios Eterno, tu luz por siempre brillará\nY tu gloria, incomparable sin final\nDe mi corazón te doy el control\nConsume todo mi interior, Dios\nJusticia y amor me abrazan, Señor\nTe amo desde mi interior\nDios Eterno, tu luz por siempre brillará\nY tu gloria, incomparable sin final\nEl clamor de mi ser es contigo estar\nDesde mi interior, mi alma clamará"
+          "lineas": [
+            {
+              "texto": "Joel Houston",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Mil veces te fallé, mas tú fuiste fiel",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Tu gracia me levantó, me basta tu amor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Dios Eterno, tu luz por siempre brillará",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Y tu gloria, incomparable sin final",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Señor, tu voluntad permanecerá",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "En ti me quiero perder en adoración",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Dios Eterno, tu luz por siempre brillará",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 24
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Y tu gloria, incomparable sin final",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "De mi corazón te doy el control",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Consume todo mi interior, Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Justicia y amor me abrazan, Señor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Te amo desde mi interior",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Dios Eterno, tu luz por siempre brillará",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Y tu gloria, incomparable sin final",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "El clamor de mi ser es contigo estar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Desde mi interior, mi alma clamará",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
         }
       ]
     }

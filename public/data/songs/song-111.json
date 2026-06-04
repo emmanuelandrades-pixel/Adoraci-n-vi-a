@@ -23,14 +23,285 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "F#m",
-            "E",
-            "A/C#"
-          ],
-          "contenido": "Brooke Ligertwood\nEn la prueba, en la espera\nVino nuevo harás\nAnte ti, yo, hoy me entrego\nUn camino abrirás\nEn tus manos sé que puedo descansar\nAún si no entiendo en ti puedo confiar\nRindo mi vida\nComo una ofrenda a ti\nHaz lo que quieras\nHacer tú de mí\nQué puedo entregarte\nSi todo viene de ti\nDios, vino nuevo haz de mí\nDonde hay vino nuevo\nHay nuevas fuerzas\nHay esperanza\nTu reino está aquí\nLo viejo entrego\nPues tu nuevo fuego arde en mí"
+          "lineas": [
+            {
+              "texto": "Brooke Ligertwood",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "En la prueba, en la espera",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Vino nuevo harás",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Ante ti, yo, hoy me entrego",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Un camino abrirás",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "En tus manos sé que puedo descansar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 21
+                },
+                {
+                  "acorde": "E",
+                  "pos": 31
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Aún si no entiendo en ti puedo confiar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 21
+                },
+                {
+                  "acorde": "E",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Rindo mi vida",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Como una ofrenda a ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Haz lo que quieras",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Hacer tú de mí",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Qué puedo entregarte",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Si todo viene de ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Dios, vino nuevo haz de mí",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Donde hay vino nuevo",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Hay nuevas fuerzas",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Hay esperanza",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Tu reino está aquí",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Lo viejo entrego",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Pues tu nuevo fuego arde en mí",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 10
+                },
+                {
+                  "acorde": "E",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
         }
       ]
     }

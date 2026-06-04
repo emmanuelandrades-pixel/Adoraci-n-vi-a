@@ -23,14 +23,232 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "B",
-            "C#m",
-            "A",
-            "B/D#"
-          ],
-          "contenido": "Jaz Jacob\nCuando pienso en tu amor y en tu fidelidad\nNo puedo hacer más que postrarme y adorar\nCuando pienso en como he sido y hasta donde me has traído\nMe asombro de Ti\nY no me quiero conformar,\nA (B/D# - E)\nHe probado y quiero más\nYo quiero enamorarme más de ti, enséñame a amarte y a vivir\nA/C# - B/D# - E\nConforme a tu justicia y tu verdad, con mi vida quiero a -dorar\nCon todo lo que tengo y lo que soy, todo lo que he sido te lo doy\nA/C# - B/D# - A (E)\nQue mi vida sea para ti como un perfume a tus pies\nCuando pienso en tu cruz y en todo lo que has dado\nTu sangre por mí, por llevar mi pecado\nCuando pienso en tu mano, que hasta aquí hemos llegado\nPor tu fidelidad\nQue nuestras vidas sean derramadas\nAnte ti, el único digno de gloria"
+          "lineas": [
+            {
+              "texto": "Jaz Jacob",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Cuando pienso en tu amor y en tu fidelidad",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 39
+                },
+                {
+                  "acorde": "B",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "No puedo hacer más que postrarme y adorar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 15
+                },
+                {
+                  "acorde": "E",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Cuando pienso en como he sido y hasta donde me has traído",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 27
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 54
+                }
+              ]
+            },
+            {
+              "texto": "Me asombro de Ti",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Y no me quiero conformar,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "C#m B               A (B/D# - E)",
+              "acordes": []
+            },
+            {
+              "texto": "He probado y quiero más",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Yo quiero enamorarme más de ti, enséñame a amarte y a vivir",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 30
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 58
+                }
+              ]
+            },
+            {
+              "texto": "B             A                   A/C# - B/D# - E",
+              "acordes": []
+            },
+            {
+              "texto": "Conforme a tu justicia y tu verdad, con mi vida quiero a -dorar",
+              "acordes": []
+            },
+            {
+              "texto": "Con todo lo que tengo y lo que soy, todo lo que he sido te lo doy",
+              "acordes": [
+                {
+                  "acorde": "B/D#",
+                  "pos": 32
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 62
+                }
+              ]
+            },
+            {
+              "texto": "B          A             A/C# - B/D# - A (E)",
+              "acordes": []
+            },
+            {
+              "texto": "Que mi vida sea para ti como un perfume a tus pies",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Cuando pienso en tu cruz y en todo lo que has dado",
+              "acordes": []
+            },
+            {
+              "texto": "Tu sangre por mí, por llevar mi pecado",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando pienso en tu mano, que hasta aquí hemos llegado",
+              "acordes": []
+            },
+            {
+              "texto": "Por tu fidelidad",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Que nuestras vidas sean derramadas",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Ante ti, el único digno de gloria",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                },
+                {
+                  "acorde": "B",
+                  "pos": 19
+                },
+                {
+                  "acorde": "E",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
         }
       ]
     }

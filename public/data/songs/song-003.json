@@ -23,20 +23,254 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Samuel Lane"
+          "lineas": [
+            {
+              "texto": "Samuel Lane",
+              "acordes": []
+            },
+            {
+              "texto": "Por su gracia nos salvó",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "No es por obras, es por fe",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Sólo hay vida en Jesús",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Vivir es un gozo, vivir es Él",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "Am",
-            "F",
-            "C",
-            "G"
-          ],
-          "contenido": "Por su gracia nos salvó\nNo es por obras, es por fe\nSólo hay vida en Jesús\nVivir es un gozo, vivir es Él\nVen y adoremos\nVen y adoremos\nResucitados en Jesús\nFijamos la mirada en Él\nPara ser llenos de nuestro Dios\nY caminar en Su libertad\nA nuestro Dios\nA nuestro Padre\nSea la gloria\nPor siempre y siempre\nOh, adoremos\nOh, adoremos"
+          "lineas": [
+            {
+              "texto": "Ven y adoremos",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Ven y adoremos",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Resucitados en Jesús",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Fijamos la mirada en Él",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Para ser llenos de nuestro Dios",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Y caminar en Su libertad",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "A nuestro Dios",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "A nuestro Padre",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Sea la gloria",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre y siempre",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Oh, adoremos",
+              "acordes": []
+            },
+            {
+              "texto": "Oh, adoremos",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

@@ -23,13 +23,244 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Bm",
-            "A",
-            "D",
-            "G"
-          ],
-          "contenido": "Bethel Music\nYou have been\nAnd You will be\nYou have seen\nAnd You will see\nYou know when I rise and when I fall\nWhen I come or go, You see it all\nAnd you hung the stars and You move the sea,\nAnd still You know me\nWhoa oh oh oh oh oh\nOh oh oh oh You know me oh\nAnd nothing is hidden from Your sight\nWherever I go, You find me\nYou know every detail of my life\nYou are God and You don't miss a thing"
+          "lineas": [
+            {
+              "texto": "Bethel Music",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "You have been",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "And You will be",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "You have seen",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "And You will see",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "You know when I rise and when I fall",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "When I come or go, You see it all",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "And you hung the stars and You move the sea,",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "A",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "And still You know me",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Whoa oh oh oh oh oh",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Oh oh oh oh You know me oh",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "And nothing is hidden from Your sight",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Wherever I go, You find me",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "You know every detail of my life",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "You are God and You don't miss a thing",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
         }
       ]
     }

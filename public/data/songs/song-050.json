@@ -23,17 +23,235 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "Em7",
-            "A/C#",
-            "Bm7",
-            "G2",
-            "A",
-            "Bm",
-            "G"
-          ],
-          "contenido": "Jared Anderson\nD //// Em7 // A/C#\nMe quiero acercar a tu lado estar\nQue el cielo sea real y la muerte negar\nQuiero oír las voces de ángeles hoy. Cantando unidos\nAleluya, Santo, Santo, Poderoso, Gran Yo Soy\nAl que es digno, incomparable, Poderoso, Gran Yo Soy\nMe quiero acercar a tu lado estar\nAl mundo amar y lo oscuro odiar\nEl valle de huesos ver revivir\nCantando unidos\nA // Bm7 // G2 /\nTiembla ante Ti la tierra, demonios huyen ya\nAl mencionar tu nombre, Rey de Majestad\nNo hay poder infernal que pueda resistir\nAnte el poder y la presencia del\nD //// A /\nGran Yo Soy, Gran Yo Soy, Gran Yo Soy\nD //// A /\nGran Yo Soy, Gran Yo Soy, Gran Yo Soy"
+          "lineas": [
+            {
+              "texto": "Jared Anderson",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "D //// Em7 // A/C#",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Me quiero acercar a tu lado estar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Que el cielo sea real y la muerte negar",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Quiero oír las voces de ángeles hoy. Cantando unidos",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 37
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Aleluya, Santo, Santo, Poderoso, Gran Yo Soy",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 28
+                },
+                {
+                  "acorde": "A",
+                  "pos": 42
+                }
+              ]
+            },
+            {
+              "texto": "Al que es digno, incomparable, Poderoso, Gran Yo Soy",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 46
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Me quiero acercar a tu lado estar",
+              "acordes": []
+            },
+            {
+              "texto": "Al mundo amar y lo oscuro odiar",
+              "acordes": []
+            },
+            {
+              "texto": "El valle de huesos ver revivir",
+              "acordes": []
+            },
+            {
+              "texto": "Cantando unidos",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "A // Bm7 // G2",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Tiembla ante Ti la tierra, demonios huyen ya",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Al mencionar tu nombre, Rey de Majestad",
+              "acordes": [
+                {
+                  "acorde": "G2",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "No hay poder infernal que pueda resistir",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Ante el poder y la presencia del",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Bm         G          D //// A",
+              "acordes": []
+            },
+            {
+              "texto": "Gran Yo Soy, Gran Yo Soy, Gran Yo Soy",
+              "acordes": []
+            },
+            {
+              "texto": "Bm               G         D //// A",
+              "acordes": []
+            },
+            {
+              "texto": "Gran Yo Soy, Gran Yo Soy, Gran Yo Soy",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

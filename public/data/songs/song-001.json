@@ -23,13 +23,208 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F",
-            "C",
-            "G",
-            "Am7"
-          ],
-          "contenido": "Aquí estas Te vemos mover Te adorare Te adorare\nAquí estas Obrando en mi Te adorare Te adorare // te cantamos\nMilagroso abres caminos cumples promesas\nluz en tinieblas mi Dios así eres tú\nAquí estas sanando mi corazón te adorare te adorare.\nAquí estas tocando mi corazón\nTe adorare te adorare. Te cantamos\nAsí eres tú, así eres tú, así eres tú, así eres tú\nAunque no pueda ver estas obrando\nAunque no pueda ver estas obrando\nSiempre estas, siempre estas obrando\nSiempre estas, siempre estas obrando"
+          "lineas": [
+            {
+              "texto": "Aquí estas Te vemos mover Te adorare Te adorare",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "G",
+                  "pos": 37
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Aquí estas Obrando en mi Te adorare Te adorare // te cantamos",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                },
+                {
+                  "acorde": "G",
+                  "pos": 33
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Milagroso abres caminos cumples promesas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "luz en tinieblas mi Dios así eres tú",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Aquí estas sanando mi corazón te adorare te adorare.",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 28
+                },
+                {
+                  "acorde": "G",
+                  "pos": 39
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 47
+                }
+              ]
+            },
+            {
+              "texto": "Aquí estas tocando mi corazón",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Te adorare te adorare. Te cantamos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Así eres tú, así eres tú, así eres tú, así eres tú",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "G",
+                  "pos": 36
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Aunque no pueda ver estas obrando",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Aunque no pueda ver estas obrando",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Siempre estas, siempre estas obrando",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Siempre estas, siempre estas obrando",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,14 +23,198 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G/B",
-            "Am",
-            "F",
-            "G"
-          ],
-          "contenido": "Chris Tomlin\nEl esplendor del Rey, vestido en Majestad\nLa tierra alegre está, la tierra alegre está\nCubierto está de luz, venció a la oscuridad\nY tiembla a su voz, y tiembla a su voz\nCuán grande es Dios, cántale\nCuán grande es Dios, todos lo verán\nCuán grande es Dios\nDía a día Él está, el tiempo está en Él\nPrincipio y el Fin, Principio y el Fin\nLa Trinidad en Dios, Padre, Hijo, Espíritu\nCordero y el León, Cordero y el León\nTu nombre sobre todo es\nEres digno de alabar\nY mi ser dirá: Cuán grande es Dios"
+          "lineas": [
+            {
+              "texto": "Chris Tomlin",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "El esplendor del Rey, vestido en Majestad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "La tierra alegre está, la tierra alegre está",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 18
+                },
+                {
+                  "acorde": "G",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Cubierto está de luz, venció a la oscuridad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Y tiembla a su voz, y tiembla a su voz",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Cuán grande es Dios, cántale",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Cuán grande es Dios, todos lo verán",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Cuán grande es Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Día a día Él está, el tiempo está en Él",
+              "acordes": []
+            },
+            {
+              "texto": "Principio y el Fin, Principio y el Fin",
+              "acordes": []
+            },
+            {
+              "texto": "La Trinidad en Dios, Padre, Hijo, Espíritu",
+              "acordes": []
+            },
+            {
+              "texto": "Cordero y el León, Cordero y el León",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Tu nombre sobre todo es",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Eres digno de alabar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Y mi ser dirá: Cuán grande es Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                }
+              ]
+            }
+          ]
         }
       ]
     }

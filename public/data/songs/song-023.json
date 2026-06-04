@@ -23,13 +23,168 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Am",
-            "F",
-            "C",
-            "G"
-          ],
-          "contenido": "Julio Melgar\nQuiero levantar a Ti mis manos\nMaravilloso Jesús, milagroso Señor,\nLlena este lugar de Tu presencia\nY haz descender Tu poder\nA los que estamos aquí\nCreo en Ti, Je - sús\nY en lo que harás en mi\nEn mi, en mi\nRecibe toda la gloria,\nRecibe toda la honra\nPrecioso Hijo de Dios"
+          "lineas": [
+            {
+              "texto": "Julio Melgar",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Quiero levantar a Ti mis manos",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Maravilloso Jesús, milagroso Señor,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Llena este lugar de Tu presencia",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Y haz descender Tu poder",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "A los que estamos aquí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Creo en Ti, Je - sús",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "F",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Y en lo que harás en mi",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "En mi, en mi",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Recibe toda la gloria,",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Recibe toda la honra",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Precioso Hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,23 +23,420 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Marcos Witt"
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "G",
-            "D",
-            "Em",
-            "C",
-            "Am",
-            "G/B",
-            "D/F#"
-          ],
-          "contenido": "Venid fieles todos a Belén marchemos\nDe gozo triunfantes y llenos de amor\nY al Rey de los cielos humilde veremos\nVenid y adoremos\nVenid y adoremos\nVenid y adoremos\nA Cristo el Señor\nEn pobre pesebre, yace reclinado\nAl hombre ofreciendo eternal salvación\nEl Santo Mesías, el verbo humanado\nVenid y adoremos\nVenid y adoremos\nVenid y adoremos\nEm – D - C\nA Cristo el Señor\nCantad jubilosas, célicas criaturas\nResuenen los cielos con vuestra canción\nAl Dios bondadoso gloria en las alturas\nVenid y adoremos\nVenid y adoremos\nVenid y adoremos\nA Cristo el Señor"
+          "lineas": [
+            {
+              "texto": "Marcos Witt",
+              "acordes": []
+            },
+            {
+              "texto": "Venid fieles todos a Belén marchemos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 30
+                },
+                {
+                  "acorde": "D",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "De gozo triunfantes y llenos de amor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 24
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Y al Rey de los cielos humilde veremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 24
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "A Cristo el Señor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "En pobre pesebre, yace reclinado",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 28
+                },
+                {
+                  "acorde": "D",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Al hombre ofreciendo eternal salvación",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 24
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "El Santo Mesías, el verbo humanado",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "C D               / Em – D - C",
+              "acordes": []
+            },
+            {
+              "texto": "A Cristo el Señor",
+              "acordes": []
+            },
+            {
+              "texto": "Cantad jubilosas, célicas criaturas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                },
+                {
+                  "acorde": "G",
+                  "pos": 30
+                },
+                {
+                  "acorde": "D",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Resuenen los cielos con vuestra canción",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 29
+                },
+                {
+                  "acorde": "D",
+                  "pos": 37
+                }
+              ]
+            },
+            {
+              "texto": "Al Dios bondadoso gloria en las alturas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Venid y adoremos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "A Cristo el Señor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
         }
       ]
     }

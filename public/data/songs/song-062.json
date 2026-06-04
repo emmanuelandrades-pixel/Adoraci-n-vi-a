@@ -23,129 +23,195 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Gadd9",
-            "Dsus2",
-            "Asus4",
-            "A/C#"
-          ],
-          "contenido": "Dios, me dejo encontrar,\nAnte tu majestad."
+          "lineas": [
+            {
+              "texto": "Dios, me dejo encontrar,",
+              "acordes": [
+                {
+                  "acorde": "Gadd9",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dsus2",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Ante tu majestad.",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Dsus2",
+                  "pos": 16
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Señor, tu amor es suficiente,",
+              "acordes": [
+                {
+                  "acorde": "Gadd9",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dsus2",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "No quiero nada más.",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Dsus2",
+                  "pos": 18
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "Dsus2",
-            "Asus4",
-            "Gadd9"
-          ],
-          "contenido": "Señor, tu amor es suficiente,"
+          "lineas": [
+            {
+              "texto": "Gadd9            (variación: Em7 – D/F#-Gadd9 - Asus4)",
+              "acordes": []
+            },
+            {
+              "texto": "Y aunque tormentas vengan,",
+              "acordes": []
+            },
+            {
+              "texto": "Bm7 Asus4               Gadd9 - Bm7 - Asus4",
+              "acordes": []
+            },
+            {
+              "texto": "De ti no me apartaré.",
+              "acordes": []
+            },
+            {
+              "texto": "Y si el mal me acecha,",
+              "acordes": [
+                {
+                  "acorde": "Gadd9",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Asus4          Gadd9 - Bm7 - Asus4",
+              "acordes": []
+            },
+            {
+              "texto": "De ti yo me aferraré.",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "Asus4",
-            "Gadd9",
-            "Dsus2",
-            "A/C#"
-          ],
-          "contenido": "No quiero nada más."
+          "lineas": [
+            {
+              "texto": "Padre, de ti fluye el amor, me has regalado tu corazón.",
+              "acordes": []
+            },
+            {
+              "texto": "Padre, me cobijo en tus brazos, a tu lado quiero estar.",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s004",
           "tipo": "verso",
           "numero": 3,
-          "acordes": [
-            "Gadd9"
-          ],
-          "contenido": "(variación: Em7 – D/F#-Gadd9 - Asus4)"
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "acordes": [
-            "Bm7",
-            "Asus4"
-          ],
-          "contenido": "Y aunque tormentas vengan,"
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "acordes": [],
-          "contenido": "Gadd9 - Bm7 - Asus4"
-        },
-        {
-          "id": "s007",
-          "tipo": "verso",
-          "numero": 6,
-          "acordes": [
-            "Gadd9"
-          ],
-          "contenido": "De ti no me apartaré."
-        },
-        {
-          "id": "s008",
-          "tipo": "verso",
-          "numero": 7,
-          "acordes": [
-            "Bm7",
-            "Asus4"
-          ],
-          "contenido": "Y si el mal me acecha,"
-        },
-        {
-          "id": "s009",
-          "tipo": "verso",
-          "numero": 8,
-          "acordes": [],
-          "contenido": "Gadd9 - Bm7 - Asus4"
-        },
-        {
-          "id": "s010",
-          "tipo": "verso",
-          "numero": 9,
-          "acordes": [],
-          "contenido": "De ti yo me aferraré."
-        },
-        {
-          "id": "s011",
-          "tipo": "verso",
-          "numero": 10,
-          "acordes": [],
-          "contenido": "Padre, de ti fluye el amor, me has regalado tu corazón.\nPadre, me cobijo en tus brazos, a tu lado quiero estar."
-        },
-        {
-          "id": "s012",
-          "tipo": "verso",
-          "numero": 11,
-          "acordes": [
-            "D/F#",
-            "Gadd9",
-            "Bm7"
-          ],
-          "contenido": "Mi Dios,"
-        },
-        {
-          "id": "s013",
-          "tipo": "verso",
-          "numero": 12,
-          "acordes": [],
-          "contenido": "mi"
-        },
-        {
-          "id": "s014",
-          "tipo": "verso",
-          "numero": 13,
-          "acordes": [
-            "Asus4"
-          ],
-          "contenido": "rey, te alabo, te exalto"
+          "lineas": [
+            {
+              "texto": "Mi Dios,      mi      rey, te alabo, te exalto",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 42
+                }
+              ]
+            }
+          ]
         }
       ]
     }

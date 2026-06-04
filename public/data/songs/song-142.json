@@ -23,24 +23,277 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "United Pursuit\nCapo 4"
+          "lineas": [
+            {
+              "texto": "United Pursuit",
+              "acordes": []
+            },
+            {
+              "texto": "Capo 4",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "C",
-            "G/B",
-            "D",
-            "G",
-            "Em",
-            "G/D",
-            "Am",
-            "Bm"
-          ],
-          "contenido": "Lord I don't want to rush on ahead\nIn my own strength, when you're right here\nI'm not in a hurry\nWhen it comes to your Spirit\nWhen it comes to your presence\nWhen it comes to your voice\nI'm learning to listen\nJust to rest in your nearness\nI'm starting to notice You are speaking\nLord I want to love like you\nI want to feel what you feel\nI want to see what you see\nOpen my eyes I want to see You\nOpen my ears I want to hear You speak\nTell me your thoughts whats on your mind\nI'll be your friend, I want to see through your eyes\nI want to see through your eyes"
+          "lineas": [
+            {
+              "texto": "Lord I don't want to rush on ahead",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "In my own strength, when you're right here",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                },
+                {
+                  "acorde": "D",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "I'm not in a hurry",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "When it comes to your Spirit",
+              "acordes": [
+                {
+                  "acorde": "G/D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "When it comes to your presence",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "When it comes to your voice",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "I'm learning to listen",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Just to rest in your nearness",
+              "acordes": [
+                {
+                  "acorde": "G/D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "I'm starting to notice You are speaking",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Lord I want to love like you",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "I want to feel what you feel",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "I want to see what you see",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Open my eyes I want to see You",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Open my ears I want to hear You speak",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Tell me your thoughts whats on your mind",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "I'll be your friend, I want to see through your eyes",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 27
+                },
+                {
+                  "acorde": "D",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "I want to see through your eyes",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
         }
       ]
     }

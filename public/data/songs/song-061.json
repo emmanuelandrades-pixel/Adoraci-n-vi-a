@@ -23,16 +23,201 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "A",
-            "E/G#",
-            "Bm7",
-            "A/C#",
-            "E",
-            "F#m7"
-          ],
-          "contenido": "Jeremy Riddle\nEn la calma de mi ser\nEn la paz escu - cho tu voz\nLlenas mi corazón\nNo puedo describirte con palabras\nCristo eres más que un amigo\nCristo eres más de lo que yo puedo expresar\nTu gracia y amor nunca fallan\nTu misericordia me sana,\nTraes gozo a mi ser, gozo a mi ser\nAnhelo adorarte, oh mi Rey\nAnhelo traerte ofrendas de amo"
+          "lineas": [
+            {
+              "texto": "Jeremy Riddle",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "En la calma de mi ser",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "En la paz escu - cho tu voz",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Llenas mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "No puedo describirte con palabras",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 17
+                },
+                {
+                  "acorde": "E",
+                  "pos": 32
+                },
+                {
+                  "acorde": "A",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Cristo eres más que un amigo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Cristo eres más de lo que yo puedo expresar",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                },
+                {
+                  "acorde": "E",
+                  "pos": 29
+                },
+                {
+                  "acorde": "A",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Tu gracia y amor nunca fallan",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Tu misericordia me sana,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Traes gozo a mi ser, gozo a mi ser",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Anhelo adorarte, oh mi Rey",
+              "acordes": []
+            },
+            {
+              "texto": "Anhelo traerte ofrendas de amo",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

@@ -23,12 +23,63 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "E"
-          ],
-          "contenido": "Luian Berdía, David Berguño\nTu recorres mi interior\nY refrescas mi corazón\nMi corazón\nTu eres la fuente de vida\nQue nadie puede contener"
+          "lineas": [
+            {
+              "texto": "Luian Berdía, David Berguño",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tu recorres mi interior",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Y refrescas mi corazón",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Tu eres la fuente de vida",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Que nadie puede contener",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
         }
       ]
     }

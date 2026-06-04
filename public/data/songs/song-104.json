@@ -23,74 +23,248 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C/G",
-            "G",
-            "Em",
-            "G/D",
-            "C"
-          ],
-          "contenido": "Brandon Lake, Chris Brown, Steven Furtick & Tiffany Hammer\nEl mundo busqué\nY no pudo llenarme\nNingún tesoro que pueda ganar\nMe saciará"
+          "lineas": [
+            {
+              "texto": "Brandon Lake, Chris Brown, Steven Furtick & Tiffany Hammer",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "G",
-            "C",
-            "Em",
-            "G/D"
-          ],
-          "contenido": "Vengo a ti\nSin miedo y sin reservas\nCada fracaso has visto Señor\nY aún tu amigo soy"
+          "lineas": [
+            {
+              "texto": "El mundo busqué                       Vengo a ti",
+              "acordes": [
+                {
+                  "acorde": "C/G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 43
+                }
+              ]
+            },
+            {
+              "texto": "Y no pudo llenarme                    Sin miedo y sin reservas",
+              "acordes": [
+                {
+                  "acorde": "C/G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 42
+                },
+                {
+                  "acorde": "G",
+                  "pos": 50
+                }
+              ]
+            },
+            {
+              "texto": "Ningún tesoro que pueda ganar         Cada fracaso has visto Señor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 42
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 56
+                }
+              ]
+            },
+            {
+              "texto": "Me saciará                            Y aún tu amigo soy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "Mas llegaste tú                       Porque el Dios de los montes",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "Me diste vida nueva                   Es el Dios de los valles",
+              "acordes": [
+                {
+                  "acorde": "C/G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 41
+                },
+                {
+                  "acorde": "G",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "Y cada deseo se cumplirá              No hay lugar que me pueda alejar",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 43
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 58
+                }
+              ]
+            },
+            {
+              "texto": "Aquí en tu amor                       De tu gracia y amor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "G                               G                CG",
+              "acordes": []
+            },
+            {
+              "texto": "Oh no hay nada, nada mejor            /Cambias lamento en danza",
+              "acordes": []
+            },
+            {
+              "texto": "Em                                             CG",
+              "acordes": []
+            },
+            {
+              "texto": "No hay nada, nada mejor               De cenizas traes vida",
+              "acordes": []
+            },
+            {
+              "texto": "C            G                   Cambias culpa por gloria",
+              "acordes": []
+            },
+            {
+              "texto": "No hay nada, nada mejor que mi           Em C          G",
+              "acordes": []
+            },
+            {
+              "texto": "Dios                                  Sé que solo tú lo harás",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "G",
-            "C/G",
-            "Em",
-            "G/D",
-            "C"
-          ],
-          "contenido": "Mas llegaste tú\nMe diste vida nueva\nY cada deseo se cumplirá\nAquí en tu amor"
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "acordes": [
-            "G",
-            "Am",
-            "Em",
-            "G/D",
-            "C"
-          ],
-          "contenido": "Porque el Dios de los montes\nEs el Dios de los valles\nNo hay lugar que me pueda alejar\nDe tu gracia y amor"
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "acordes": [
-            "G",
-            "Em",
-            "C"
-          ],
-          "contenido": "Oh no hay nada, nada mejor\nNo hay nada, nada mejor\nNo hay nada, nada mejor que mi\nDios"
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "acordes": [
-            "G",
-            "Em",
-            "C"
-          ],
-          "contenido": "CG\nCambias lamento en danza\nCG\nDe cenizas traes vida\nCambias culpa por gloria\nSé que solo tú lo harás\nCG\nDe las ruinas y tumbas\nCG\nNacen nuevos jardines\nResucitas los huesos\nSé que solo tú lo harás\nSé que solo tú lo hará"
+          "lineas": [
+            {
+              "texto": "CG",
+              "acordes": []
+            },
+            {
+              "texto": "De las ruinas y tumbas",
+              "acordes": []
+            },
+            {
+              "texto": "CG",
+              "acordes": []
+            },
+            {
+              "texto": "Nacen nuevos jardines",
+              "acordes": []
+            },
+            {
+              "texto": "Resucitas los huesos",
+              "acordes": []
+            },
+            {
+              "texto": "Sé que solo tú lo harás",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Sé que solo tú lo hará",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 21
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
         }
       ]
     }

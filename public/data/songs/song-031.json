@@ -23,13 +23,267 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "Am",
-            "G"
-          ],
-          "contenido": "Jeremy Riddle\nDespierta alma\nYa despierta\nAl hambre, a buscar\nA la sed\nDespierta primer amor\nYa despierta\nY haz lo que hacías\nAl comenzar\nEspíritu del Dios que vive ven refréscame\nDespierta mi dormir\nSopla en la tumba de mi ser\nLléname hasta rebalsar\nHasta rebalsar\nEspíritu ven y llena\nEste lugar\nC (Gsus4 – G - G2 - G)\nQue tu gloria ahora irrumpa"
+          "lineas": [
+            {
+              "texto": "Jeremy Riddle",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Despierta alma",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Ya despierta",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Al hambre, a buscar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "A la sed",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Despierta primer amor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Ya despierta",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Y haz lo que hacías",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Al comenzar",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Espíritu del Dios que vive ven refréscame",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Despierta mi dormir",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Sopla en la tumba de mi ser",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Lléname hasta rebalsar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 17
+                },
+                {
+                  "acorde": "F",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Hasta rebalsar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Espíritu ven y llena",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Este lugar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "F                C (Gsus4 – G - G2 - G)",
+              "acordes": []
+            },
+            {
+              "texto": "Que tu gloria ahora irrumpa",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

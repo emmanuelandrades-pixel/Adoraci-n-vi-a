@@ -23,16 +23,159 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "EM7",
-            "E/A",
-            "B",
-            "C#m",
-            "A",
-            "Bsus"
-          ],
-          "contenido": "Paul Baloche\nAbre mis ojos oh Cristo\nAbre mis ojos Te pido\nYo quiero verte\nYo quiero verte\nY contemplar Tu Majestad\nY el resplandor de Tu Gloria\nDerrama Tu amor y poder\nCuando cantamos:\nSanto, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nYo quiero verte"
+          "lineas": [
+            {
+              "texto": "Paul Baloche",
+              "acordes": []
+            },
+            {
+              "texto": "Abre mis ojos oh Cristo",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Abre mis ojos Te pido",
+              "acordes": [
+                {
+                  "acorde": "EM7",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Yo quiero verte",
+              "acordes": [
+                {
+                  "acorde": "E/A",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Yo quiero verte",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Y contemplar Tu Majestad",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Y el resplandor de Tu Gloria",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Derrama Tu amor y poder",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Cuando cantamos:",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "Bsus",
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Santo, Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Santo, Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "EM7",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Santo, Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "E/A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Yo quiero verte",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

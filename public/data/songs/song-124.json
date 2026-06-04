@@ -23,59 +23,315 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "A",
-            "B",
-            "C#m",
-            "E/G#",
-            "B/D#",
-            "Asus2"
-          ],
-          "contenido": "Dean Salyn\n¿Quién se mueve por las aguas?\n¿Quién la luna hace salir?\n¿Quién aparta las tinieblas\nCon la ardiente luz del sol?\n¿Quién aun las montañas cubre\nY anda en la profundidad?\nEs más grande que los cielos\nY me ama con pasión"
+          "lineas": [
+            {
+              "texto": "Dean Salyn",
+              "acordes": []
+            },
+            {
+              "texto": "¿Quién se mueve por las aguas?    ¿Quién es El que me alegra?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 28
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 55
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién la luna hace salir?       ¿Quién es El que me da paz?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 23
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B",
+                  "pos": 55
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién aparta las tinieblas       ¿Quién es El que me conforta?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 58
+                }
+              ]
+            },
+            {
+              "texto": "Con la ardiente luz del sol?      ¿Quién lo amargo endulzara?",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 25
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B",
+                  "pos": 57
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién aun las montañas cubre     ¿Quién es el que me apasiona?",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 25
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 60
+                }
+              ]
+            },
+            {
+              "texto": "Y anda en la profundidad?         ¿Quién está creciendo en mi?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 22
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 57
+                }
+              ]
+            },
+            {
+              "texto": "Es más grande que los cielos      ¿Quién llena mi alma hambrienta,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Asus2",
+                  "pos": 24
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B",
+                  "pos": 52
+                },
+                {
+                  "acorde": "Asus2",
+                  "pos": 62
+                }
+              ]
+            },
+            {
+              "texto": "Y me ama con pasión               Y sacia mi necesidad?",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 39
+                },
+                {
+                  "acorde": "B",
+                  "pos": 53
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "E",
-            "A",
-            "B",
-            "C#m",
-            "E/G#",
-            "B/D#",
-            "Asus2"
-          ],
-          "contenido": "¿Quién es El que me alegra?\n¿Quién es El que me da paz?\n¿Quién es El que me conforta?\n¿Quién lo amargo endulzara?\n¿Quién es el que me apasiona?\n¿Quién está creciendo en mi?\n¿Quién llena mi alma hambrienta,\nY sacia mi necesidad?"
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": [
-            "C#m",
-            "B",
-            "E/G#",
-            "A"
-          ],
-          "contenido": "E/G#-A\nDios Creador es Yahve\nEl Gran Yo Soy es Yahve\nDe todo Dios es Yahve\nE/G#-A\nRosa de Sarón es Yahve\nEl Hijo Justo es Yahve\nLa trinidad es Yahve"
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "acordes": [
-            "A",
-            "B",
-            "E",
-            "B/D#",
-            "C#m7",
-            "C#m",
-            "A/C#",
-            "E/G#"
-          ],
-          "contenido": "Eres Santo y Eterno\nY por siempre reinarás\nB-A\nToda rodilla y toda lengua\nSe doblará y te confesará\nB-A\nTodo ángel te da gloria\nAnte tu gran Majestad\nB-A\nY aquí nos reunimos\nPara declararte oh Dios, a ti mi Dios"
+          "lineas": [
+            {
+              "texto": "Eres Santo y Eterno",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 18
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "E/G#-A           C#m              E     B/D#          C#m7",
+              "acordes": []
+            },
+            {
+              "texto": "Dios Creador es Yahve             Y por siempre reinarás",
+              "acordes": []
+            },
+            {
+              "texto": "B                 E/G#            B-A                   B",
+              "acordes": []
+            },
+            {
+              "texto": "El Gran Yo Soy es Yahve           Toda rodilla y toda lengua",
+              "acordes": []
+            },
+            {
+              "texto": "De todo Dios es Yahve             Se doblará y te confesará",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 17
+                },
+                {
+                  "acorde": "B",
+                  "pos": 21
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "E/G#-A             C#m            B-A                   B",
+              "acordes": []
+            },
+            {
+              "texto": "Rosa de Sarón es Yahve            Todo ángel te da gloria",
+              "acordes": []
+            },
+            {
+              "texto": "El Hijo Justo es Yahve            Ante tu gran Majestad",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 19
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 40
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 54
+                }
+              ]
+            },
+            {
+              "texto": "A             C#m B               B-A               B",
+              "acordes": []
+            },
+            {
+              "texto": "La trinidad es Yahve              Y aquí nos reunimos",
+              "acordes": []
+            },
+            {
+              "texto": "Para declararte oh Dios, a ti mi Dios",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 36
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 36
+                },
+                {
+                  "acorde": "A",
+                  "pos": 36
+                }
+              ]
+            }
+          ]
         }
       ]
     }

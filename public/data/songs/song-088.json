@@ -23,13 +23,160 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "A",
-            "G",
-            "Bm"
-          ],
-          "contenido": "Brenton Brown\nSanto, santo, poderoso\nQuién fue y quién vendrá\nDios de gloria, hoy Tus santos\nSe rinden a ti\nEn la tierra Santo eres Tú\nTodos tus caminos rectos son\nTodo lo que has hecho justo es\nSanto, Santo eres Dios\nToda honra, toda bendición pertenece a Ti\nTodo poder es tuyo Señor"
+          "lineas": [
+            {
+              "texto": "Brenton Brown",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Santo, santo, poderoso",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Quién fue y quién vendrá",
+              "acordes": []
+            },
+            {
+              "texto": "Dios de gloria, hoy Tus santos",
+              "acordes": []
+            },
+            {
+              "texto": "Se rinden a ti",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "En la tierra Santo eres Tú",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Todos tus caminos rectos son",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                },
+                {
+                  "acorde": "D",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Todo lo que has hecho justo es",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                },
+                {
+                  "acorde": "D",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Santo, Santo eres Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Toda honra, toda bendición pertenece a Ti",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                },
+                {
+                  "acorde": "D",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Todo poder es tuyo Señor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
         }
       ]
     }

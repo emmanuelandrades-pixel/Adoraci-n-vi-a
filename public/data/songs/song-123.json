@@ -23,17 +23,175 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "G/B",
-            "Em7",
-            "G",
-            "A",
-            "Bm7",
-            "D/F#",
-            "Bm"
-          ],
-          "contenido": "Upperroom\nNo quiero nada más que a ti\nEres más de lo que soñé\nD/f#\nTodo lo que busqué y anhelé\nNo se compara a ti\nAhora eres mío y tuyo soy\nQue gran misterio es nuestro amor\nQuiero por siempre estar perdido\nEn el placer de tu mirar\nDame a Cristo\nSolo a Cristo\nDejo todo por él\nDejo todo por él\nNo quiero a nadie mas\nNo necesito nada mas\nEres mi todo\nEres mi todo"
+          "lineas": [
+            {
+              "texto": "Upperroom",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "No quiero nada más que a ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Eres más de lo que soñé",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Em7        D/f#",
+              "acordes": []
+            },
+            {
+              "texto": "Todo lo que busqué y anhelé",
+              "acordes": []
+            },
+            {
+              "texto": "No se compara a ti",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Ahora eres mío y tuyo soy",
+              "acordes": []
+            },
+            {
+              "texto": "Que gran misterio es nuestro amor",
+              "acordes": []
+            },
+            {
+              "texto": "Quiero por siempre estar perdido",
+              "acordes": []
+            },
+            {
+              "texto": "En el placer de tu mirar",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Dame a Cristo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Solo a Cristo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Dejo todo por él",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Dejo todo por él",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "No quiero a nadie mas",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "No necesito nada mas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi todo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi todo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

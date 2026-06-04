@@ -23,13 +23,107 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "B",
-            "F#m",
-            "A"
-          ],
-          "contenido": "Darren Clarke, Jesse Lane\nC#m - B - A\nTu presencia,\nC#m - B - A\nY tu gloria\nC#m - B - A\nTraen paz,\nC#m - B - A\nA mi ser\nEn tu amor,\nProfundo\nEncontré,\nTotal paz\nAnhelo estar, en tu presencia\nAnhelo estar, en tu presencia\nAnhelo estar, contigo Cristo\nAnhelo estar, en tu presencia"
+          "lineas": [
+            {
+              "texto": "Darren Clarke, Jesse Lane",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "C#m - B - A",
+              "acordes": []
+            },
+            {
+              "texto": "Tu presencia,",
+              "acordes": []
+            },
+            {
+              "texto": "C#m - B - A",
+              "acordes": []
+            },
+            {
+              "texto": "Y tu gloria",
+              "acordes": []
+            },
+            {
+              "texto": "C#m - B - A",
+              "acordes": []
+            },
+            {
+              "texto": "Traen paz,",
+              "acordes": []
+            },
+            {
+              "texto": "C#m - B - A",
+              "acordes": []
+            },
+            {
+              "texto": "A mi ser",
+              "acordes": []
+            },
+            {
+              "texto": "En tu amor,",
+              "acordes": []
+            },
+            {
+              "texto": "Profundo",
+              "acordes": []
+            },
+            {
+              "texto": "Encontré,",
+              "acordes": []
+            },
+            {
+              "texto": "Total paz",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Anhelo estar, en tu presencia",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Anhelo estar, en tu presencia",
+              "acordes": []
+            },
+            {
+              "texto": "Anhelo estar, contigo Cristo",
+              "acordes": []
+            },
+            {
+              "texto": "Anhelo estar, en tu presencia",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

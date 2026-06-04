@@ -23,12 +23,314 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G",
-            "Em"
-          ],
-          "contenido": "Daniel Heeldon, Marc James\nTrae fuego a tu iglesia\nSanto Espíri - tu\nQuita lo que no es tuyo\nArde en nuestro ser\nEspíritu,\nConsúmenos\nGlorifícate\nQue tu Reino venga hoy aquí\nPadre muéstrate\nQue tu gloria brille en nuestro ser\nQue tu viento recio sople\nSobre este lugar\nInunda nuestras calles Dios\nCon tu salvación\nEspíritu, consúmenos\nFuego Santo, cae aquí\nMárcanos, para llevar tu nombre\nVen con poder, ven y reina\nSantifica y sacúdenos"
+          "lineas": [
+            {
+              "texto": "Daniel Heeldon, Marc James",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Trae fuego a tu iglesia",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Santo Espíri - tu",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Quita lo que no es tuyo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Arde en nuestro ser",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Espíritu,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Consúmenos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Glorifícate",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Que tu Reino venga hoy aquí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Padre muéstrate",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Que tu gloria brille en nuestro ser",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Que tu viento recio sople",
+              "acordes": []
+            },
+            {
+              "texto": "Sobre este lugar",
+              "acordes": []
+            },
+            {
+              "texto": "Inunda nuestras calles Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Con tu salvación",
+              "acordes": []
+            },
+            {
+              "texto": "Espíritu, consúmenos",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Fuego Santo, cae aquí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Márcanos, para llevar tu nombre",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Ven con poder, ven y reina",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Santifica y sacúdenos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
         }
       ]
     }

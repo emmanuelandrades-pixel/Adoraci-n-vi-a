@@ -23,14 +23,210 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "B",
-            "F#m",
-            "A",
-            "E/G#"
-          ],
-          "contenido": "Tim Hughes\nOh luz del mundo, bajaste a tinieblas\nY ciego ya no fui más\nAl ver tu belleza yo quiero adorarte\nTengo esperanza en ti\nVengo a adorarte, vengo a postrarme\nVengo a decir que tú eres Dios\nCompletamente bueno, totalmente digno\nTan maravilloso eres Tú\nEterno Rey, en lo alto te exalto\nToda la gloria a Ti\nEn humildad, a la tierra viniste\nFue por tu amor y bondad\nJamás sabré cuánto costó\nVer mi pecado sobre esa cruz"
+          "lineas": [
+            {
+              "texto": "Tim Hughes",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Oh luz del mundo, bajaste a tinieblas",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 16
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Y ciego ya no fui más",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Al ver tu belleza yo quiero adorarte",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Tengo esperanza en ti",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Vengo a adorarte, vengo a postrarme",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 11
+                },
+                {
+                  "acorde": "B",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Vengo a decir que tú eres Dios",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Completamente bueno, totalmente digno",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 15
+                },
+                {
+                  "acorde": "B",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Tan maravilloso eres Tú",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Eterno Rey, en lo alto te exalto",
+              "acordes": []
+            },
+            {
+              "texto": "Toda la gloria a Ti",
+              "acordes": []
+            },
+            {
+              "texto": "En humildad, a la tierra viniste",
+              "acordes": []
+            },
+            {
+              "texto": "Fue por tu amor y bondad",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Jamás sabré cuánto costó",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Ver mi pecado sobre esa cruz",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
         }
       ]
     }

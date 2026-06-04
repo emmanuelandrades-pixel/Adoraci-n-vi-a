@@ -23,57 +23,307 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "Bm",
-            "A/C#",
-            "D",
-            "E",
-            "F#m"
-          ],
-          "contenido": "Houghton & New Breed\nEl centro de todo eres Jesús\nEl centro de todo eres Jesús\nDesde el principio y hasta el\nfin\nTú has sido y siempre serás\nCristo, Cristo"
+          "lineas": [
+            {
+              "texto": "Houghton & New Breed",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "A",
-            "Bm",
-            "A/C#",
-            "D",
-            "E",
-            "F#m"
-          ],
-          "contenido": "El centro de mi vida se Jesús\nEl centro de mi vida se Jesús\nDesde el principio y hasta el\nfin\nTú has sido y siempre serás\nCristo, Cristo"
+          "lineas": [
+            {
+              "texto": "El centro de todo eres Jesús    El centro de mi vida se Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 20
+                },
+                {
+                  "acorde": "A",
+                  "pos": 36
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 44
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "El centro de todo eres Jesús    El centro de mi vida se Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                },
+                {
+                  "acorde": "E",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 36
+                },
+                {
+                  "acorde": "A",
+                  "pos": 44
+                },
+                {
+                  "acorde": "E",
+                  "pos": 51
+                }
+              ]
+            },
+            {
+              "texto": "Desde el principio y hasta el   Desde el principio y hasta el",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                },
+                {
+                  "acorde": "D",
+                  "pos": 41
+                },
+                {
+                  "acorde": "A",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "fin                             fin",
+              "acordes": []
+            },
+            {
+              "texto": "Tú has sido y siempre serás     Tú has sido y siempre serás",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 21
+                },
+                {
+                  "acorde": "E",
+                  "pos": 38
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 45
+                },
+                {
+                  "acorde": "E",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, Cristo                  Cristo, Cristo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 33
+                },
+                {
+                  "acorde": "E",
+                  "pos": 40
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "A",
-            "A/C#",
-            "D",
-            "Bm",
-            "F#m",
-            "E"
-          ],
-          "contenido": "Tu eres el centro\nNada importa más que tu\nTodo el universo\nGira en pos de ti Jesús\nDe ti Jesús, (el centro eres\nsolo tú)"
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "acordes": [
-            "E",
-            "F#m",
-            "D",
-            "A",
-            "Bm",
-            "A/C#"
-          ],
-          "contenido": "De mi ser hasta el cielo\nCristo se el Centro\nMi vida eres tú, si, mi vida eres\ntú\nEl centro de tu iglesia se Jesús\nEl centro de tu iglesia se Jesús\nCada rodilla se doblará\nY cada lengua te confesará\nCristo, Cristo"
+          "lineas": [
+            {
+              "texto": "Tu eres el centro               De mi ser hasta el cielo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "E",
+                  "pos": 37
+                }
+              ]
+            },
+            {
+              "texto": "Nada importa más que tu         Cristo se el Centro",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 17
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Todo el universo                Mi vida eres tú, si, mi vida eres",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                },
+                {
+                  "acorde": "E",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "Bm             F#m             tú",
+              "acordes": []
+            },
+            {
+              "texto": "Gira en pos de ti Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "De ti Jesús, (el centro eres       A        Bm          A/C#",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "solo tú)                        El centro de tu iglesia se Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "El centro de tu iglesia se Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 31
+                },
+                {
+                  "acorde": "A",
+                  "pos": 31
+                },
+                {
+                  "acorde": "E",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Cada rodilla se doblará",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Y cada lengua te confesará",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 25
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 25
+                },
+                {
+                  "acorde": "E",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, Cristo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
         }
       ]
     }

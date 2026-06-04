@@ -23,8 +23,63 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "United Pursuit\nC – F – Am – F\nNo place I would rather be\nNo place I would rather be\nNo place I would rather be\nThan here in Your love, here in Your love\nSet a fire down in my soul\nThat I can't contain and I can't control\nI want more of You, God\nI want more of You, God\nI want more /x6\nWon't You pour it out?"
+          "lineas": [
+            {
+              "texto": "United Pursuit",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "C – F – Am – F",
+              "acordes": []
+            },
+            {
+              "texto": "No place I would rather be",
+              "acordes": []
+            },
+            {
+              "texto": "No place I would rather be",
+              "acordes": []
+            },
+            {
+              "texto": "No place I would rather be",
+              "acordes": []
+            },
+            {
+              "texto": "Than here in Your love, here in Your love",
+              "acordes": []
+            },
+            {
+              "texto": "Set a fire down in my soul",
+              "acordes": []
+            },
+            {
+              "texto": "That I can't contain and I can't control",
+              "acordes": []
+            },
+            {
+              "texto": "I want more of You, God",
+              "acordes": []
+            },
+            {
+              "texto": "I want more of You, God",
+              "acordes": []
+            },
+            {
+              "texto": "I want more /x6",
+              "acordes": []
+            },
+            {
+              "texto": "Won't You pour it out?",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

@@ -23,15 +23,247 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Am",
-            "G",
-            "Em",
-            "Bm",
-            "C",
-            "D"
-          ],
-          "contenido": "Preciosa sangre se derramó\nPreciosa sangre fluyó por amor\nSobre ti el dolor\nTus venas lloraron\nJesús, Jesús, Jesús.\nHay poder en la sangre\nQue fluyó por amor\nHay poder en la sangre\nQue Él derramó.\nPreciosa sangre que me purificó\nPreciosa sangre que me transformó\nSobre ti el dolor\nTus venas lloraron\nJesús, Jesús, Jesús.\nTu sangre me transformó\nTu sangre me perdonó\nTu sangre me limpió\nTu sangre me sanó\nTu sangre me sanó"
+          "lineas": [
+            {
+              "texto": "Preciosa sangre se derramó",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Preciosa sangre fluyó por amor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Sobre ti el dolor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Tus venas lloraron",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, Jesús, Jesús.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Hay poder en la sangre",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Que fluyó por amor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Hay poder en la sangre",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Que Él derramó.",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Preciosa sangre que me purificó",
+              "acordes": []
+            },
+            {
+              "texto": "Preciosa sangre que me transformó",
+              "acordes": []
+            },
+            {
+              "texto": "Sobre ti el dolor",
+              "acordes": []
+            },
+            {
+              "texto": "Tus venas lloraron",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús, Jesús, Jesús.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Tu sangre me transformó",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Tu sangre me perdonó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Tu sangre me limpió",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Tu sangre me sanó",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tu sangre me sanó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
         }
       ]
     }

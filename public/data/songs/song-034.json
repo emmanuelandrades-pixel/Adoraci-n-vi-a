@@ -23,14 +23,216 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "Bm7",
-            "Em",
-            "G",
-            "A"
-          ],
-          "contenido": "Leeland\nSiempre quiero más\nSiempre quiero más\nDe tu infinito amor\nQuiero más Señor\nNo puedo escapar\nNo puedo escapar\nPues te he podido ver\nY ya no quiero volver\nQuiero estar dónde Tú estás\nCerca de Tu corazón\nPues no hay nadie como Tú\nJesús, no hay nadie como Tú\nSanto, Santo\nEres Santo, Santo\nEres Santo, Santo\nCristo Te amo, Cristo Te amo\nQuiero estar dónde Tú estás\nCerca de Tu corazón\nPues no hay nadie como Tú\nJesús, no hay nadie como Tú"
+          "lineas": [
+            {
+              "texto": "Leeland",
+              "acordes": []
+            },
+            {
+              "texto": "Siempre quiero más",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Siempre quiero más",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "De tu infinito amor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Quiero más Señor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "No puedo escapar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "No puedo escapar",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Pues te he podido ver",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Y ya no quiero volver",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Quiero estar dónde Tú estás",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cerca de Tu corazón",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Pues no hay nadie como Tú",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, no hay nadie como Tú",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Eres Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Eres Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Cristo Te amo, Cristo Te amo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Quiero estar dónde Tú estás",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Cerca de Tu corazón",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Pues no hay nadie como Tú",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, no hay nadie como Tú",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
         }
       ]
     }

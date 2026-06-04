@@ -23,17 +23,182 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F/C",
-            "C/E",
-            "F",
-            "G",
-            "Am",
-            "Dm",
-            "Gsus4"
-          ],
-          "contenido": "Daphne Rademarker\nEl cielo es mi hogar\nY la tierra mi estrado\nGsus4-G\nDonde construirás un lugar para mi\nQuien oirá el clamor de mi alma\nDonde podré descansar\nHe aquí, te preparé un lugar Señor\nMi anhelo es verte allí morar\nHe aquí, te preparé un lugar Señor\nHe aquí te espero solo a ti"
+          "lineas": [
+            {
+              "texto": "Daphne Rademarker",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "El cielo es mi hogar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F/C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Y la tierra mi estrado",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F/C",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "C/E               F             Gsus4-G",
+              "acordes": []
+            },
+            {
+              "texto": "Donde construirás un lugar para mi",
+              "acordes": []
+            },
+            {
+              "texto": "Quien oirá el clamor de mi alma",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F/C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 28
+                },
+                {
+                  "acorde": "F/C",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Donde podré descansar",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "He aquí, te preparé un lugar Señor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Mi anhelo es verte allí morar",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "He aquí, te preparé un lugar Señor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "G",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "He aquí te espero solo a ti",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Gsus4",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                }
+              ]
+            }
+          ]
         }
       ]
     }

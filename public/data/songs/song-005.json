@@ -2,7 +2,7 @@
   "id": "song-005",
   "titulo": "Alaba",
   "artista": "Praise",
-  "autor": "Steven Furtick, Chandler Moore, Brandon Lake, Pat Barrett, Cody Carnes, Chris Brown",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -20,101 +20,275 @@
       "es_original": true,
       "secciones": [
         {
-          "id": "s002",
-          "tipo": "intro",
+          "id": "s001",
+          "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Que toda la creación\nAlabe a Dios\nAlabe a Dios"
+          "lineas": [
+            {
+              "texto": "Steven Furtick, Chandler Moore, Brandon Lake, Pat Barrett, Cody Carnes, Chris Brown",
+              "acordes": []
+            },
+            {
+              "texto": "VAMP:                                         PRE-CORO",
+              "acordes": []
+            },
+            {
+              "texto": "Que toda la creación",
+              "acordes": []
+            },
+            {
+              "texto": "Alabe a Dios                               CORO",
+              "acordes": []
+            },
+            {
+              "texto": "Alabe a Dios",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "VERSO 1:                                        F#m",
+              "acordes": []
+            },
+            {
+              "texto": "A                                          No me detengo",
+              "acordes": []
+            },
+            {
+              "texto": "Te alabo en el valle                            D",
+              "acordes": []
+            },
+            {
+              "texto": "D/A           A                            Mi Dios vivo está",
+              "acordes": []
+            },
+            {
+              "texto": "Te alabo en el monte                          A              E",
+              "acordes": []
+            },
+            {
+              "texto": "E             D                         Cómo me voy a callar",
+              "acordes": []
+            },
+            {
+              "texto": "Te alabo en el día                           F#m D          A          E A",
+              "acordes": []
+            },
+            {
+              "texto": "A                            A - la - ba a Dios mi corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Te alabo en la noche",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "A",
-            "D/A",
-            "E",
-            "D",
-            "E/G#"
-          ],
-          "contenido": "Te alabo en el valle\nTe alabo en el monte\nTe alabo en el día\nTe alabo en la noche\nTe alabo en el medio\nEstando rodeado\nPorque cuando alabo\nTú estás a mi lado"
-        },
-        {
-          "id": "s004",
-          "tipo": "pre-coro",
-          "numero": null,
-          "acordes": [
-            "E",
-            "D"
-          ],
-          "contenido": "Mientras tenga aliento\nMi alma canta y"
-        },
-        {
-          "id": "s005",
-          "tipo": "coro",
-          "numero": null,
-          "acordes": [
-            "F#m",
-            "D",
-            "A",
-            "E"
-          ],
-          "contenido": "A - la - ba a Dios\nMi corazón"
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": [
-            "A",
-            "D/A",
-            "E",
-            "D",
-            "E/G#"
-          ],
-          "contenido": "Te alabo al sentirlo\nY aun cuando no\nTe alabo y sé\nQue estás en control\nEs más que un sonido\nEs adoración\nY cuando alabamos\nCaerá Jericó"
-        },
-        {
-          "id": "s007",
-          "tipo": "outro",
-          "numero": null,
-          "acordes": [
-            "F#m",
-            "D",
-            "A",
-            "E"
-          ],
-          "contenido": "No me detengo\nMi Dios vivo está\nCómo me voy a callar\nA - la - ba a Dios mi corazón"
-        },
-        {
-          "id": "s008",
           "tipo": "puente",
           "numero": null,
-          "acordes": [
-            "A"
-          ],
-          "contenido": "Alabo al que reina\nAlabo al Señor\nAlabo a aquel que la tumba venció\nAlabo al que es bueno\nAlabo al que es fiel\nLe alabo porque no hay otro como él"
-        },
-        {
-          "id": "s009",
-          "tipo": "puente",
-          "numero": null,
-          "acordes": [
-            "A",
-            "Bm",
-            "F#m",
-            "D",
-            "E/G#",
-            "E"
-          ],
-          "contenido": "Alabo al que reina\nAlabo al Señor\nAlabo a aquel que la tumba venció\nAlabo al que es bueno\nAlabo al que es fiel\nLe alabo porque no hay otro como él"
-        },
-        {
-          "id": "s011",
-          "tipo": "instrumental",
-          "numero": null,
-          "acordes": [],
-          "contenido": "F#m – D – A – E"
+          "lineas": [
+            {
+              "texto": "Te alabo en el medio                        Alabo al que reina",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "D/A        A                             Alabo al Señor",
+              "acordes": []
+            },
+            {
+              "texto": "Estando rodeado                             Alabo a aquel que la tumba venció",
+              "acordes": []
+            },
+            {
+              "texto": "Porque cuando alabo                          Alabo al que es bueno",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "A                             Alabo al que es fiel",
+              "acordes": []
+            },
+            {
+              "texto": "Tú estás a mi lado                           Le alabo porque no hay otro como él",
+              "acordes": []
+            },
+            {
+              "texto": "PRE-CORO:                                     PUENTE 2",
+              "acordes": []
+            },
+            {
+              "texto": "Mientras tenga aliento                     Alabo al que reina",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "Mi alma canta y                            Alabo al Señor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "CORO:                                           Alabo a aquel que la tumba venció",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 49
+                },
+                {
+                  "acorde": "D",
+                  "pos": 69
+                }
+              ]
+            },
+            {
+              "texto": "A - la - ba a Dios                             A",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "E                                      Alabo al que es bueno",
+              "acordes": []
+            },
+            {
+              "texto": "Mi corazón/                                     Bm",
+              "acordes": []
+            },
+            {
+              "texto": "Alabo al que es fiel",
+              "acordes": []
+            },
+            {
+              "texto": "VERSO 2:                                           E/G#                E",
+              "acordes": []
+            },
+            {
+              "texto": "A                                     Le alabo porque no hay otro como él",
+              "acordes": []
+            },
+            {
+              "texto": "Te alabo al sentirlo",
+              "acordes": []
+            },
+            {
+              "texto": "D/A           A                     CORO",
+              "acordes": []
+            },
+            {
+              "texto": "Y aun cuando no                        TAG (x2)",
+              "acordes": []
+            },
+            {
+              "texto": "E                                 CORO",
+              "acordes": []
+            },
+            {
+              "texto": "Te alabo y sé",
+              "acordes": []
+            },
+            {
+              "texto": "D                A                     INSTRUMENTAL:",
+              "acordes": []
+            },
+            {
+              "texto": "Que estás en control                     / F#m – D – A – E",
+              "acordes": []
+            },
+            {
+              "texto": "Es más que un sonido                   VAMP",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Es adoración",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Y cuando alabamos",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Caerá Jericó",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,26 +23,247 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "A",
-            "Bm",
-            "F#m",
-            "D"
-          ],
-          "contenido": "David Berguño\nAlguna vez escuché\nQue aquel primer amor\nFue tan solo un momento\nUn tiempo que pasó\nAlguna vez yo lo creí\nY avancé y me conformé\nCon un amor tan tibio\nYa no, no más\nPorque ya sé lo que quieres\nde mi\nYa no, no más\nHoy vuelvo al primer amor"
+          "lineas": [
+            {
+              "texto": "David Berguño",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "G",
-            "A",
-            "Bm",
-            "D"
-          ],
-          "contenido": "Porque mi amor se enciende\nAl mirarte de nuevo\nAl ver esos ojos de fuego ardiendo\nPorque mi amor se aviva\nCuando corro a tus brazos\nY dejo que tus ojos quemen mis\nmiedos\nY volveré a hacer\nLas cosas que hice al comienzo\nCuando me enamoré\nY nada era imposible\nY volveré a creer\nComo un niño en ti mi fe pondré\nY ya no olvidaré\nNinguna de tus promesas"
+          "lineas": [
+            {
+              "texto": "Alguna vez escuché                 Porque mi amor se enciende",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 54
+                }
+              ]
+            },
+            {
+              "texto": "Que aquel primer amor              Al mirarte de nuevo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 17
+                },
+                {
+                  "acorde": "A",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "Fue tan solo un momento            Al ver esos ojos de fuego ardiendo",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 47
+                },
+                {
+                  "acorde": "A",
+                  "pos": 61
+                },
+                {
+                  "acorde": "D",
+                  "pos": 63
+                }
+              ]
+            },
+            {
+              "texto": "Un tiempo que pasó                 Porque mi amor se aviva",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "Alguna vez yo lo creí              Cuando corro a tus brazos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 16
+                },
+                {
+                  "acorde": "A",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "Y avancé y me conformé                       Bm          A    D",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "F#m                Y dejo que tus ojos quemen mis",
+              "acordes": []
+            },
+            {
+              "texto": "Con un amor tan tibio              miedos",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Ya no, no más                 Y volveré a hacer",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                },
+                {
+                  "acorde": "G",
+                  "pos": 35
+                },
+                {
+                  "acorde": "A",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Porque ya sé lo que quieres   Las cosas que hice al comienzo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 27
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 55
+                }
+              ]
+            },
+            {
+              "texto": "de mi                         G               A",
+              "acordes": []
+            },
+            {
+              "texto": "D G D A                       Cuando me enamoré",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no, no más",
+              "acordes": []
+            },
+            {
+              "texto": "Y nada era imposible",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 18
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Hoy vuelvo al primer amor",
+              "acordes": []
+            },
+            {
+              "texto": "Y volveré a creer",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 16
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Como un niño en ti mi fe pondré",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 30
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Y ya no olvidaré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Ninguna de tus promesas",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
         }
       ]
     }

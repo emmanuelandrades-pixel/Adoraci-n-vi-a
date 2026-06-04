@@ -23,70 +23,318 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Em",
-            "G/B",
-            "C",
-            "D"
-          ],
-          "contenido": "(Open Heaven (River Wild))\nMatthew Crocker y Marty Sampson\nCon señales descendió\nEl Espíritu Santo\nSu presencia cayó\nCon poder de lo alto"
+          "lineas": [
+            {
+              "texto": "(Open Heaven (River Wild))",
+              "acordes": []
+            },
+            {
+              "texto": "Matthew Crocker y Marty Sampson",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "C",
-            "D",
-            "G/B"
-          ],
-          "contenido": "Espíritu Santo\nVen como fuego\nQue consume\nMe consumes"
+          "lineas": [
+            {
+              "texto": "Con señales descendió                  /Espíritu Santo",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 23
+                },
+                {
+                  "acorde": "C",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "El Espíritu Santo                       Ven como fuego",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Su presencia cayó                       Que consume",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Con poder de lo alto                    Me consumes",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 40
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "G/B",
-            "C",
-            "D",
-            "Em"
-          ],
-          "contenido": "Espíritu de Dios\nComo lluvia ven\nCon tu eterno amor\nTú inundas mi ser\nEspíritu de Dios\nArde en mi interior\nSolo a ti clamaré\nG/B C D Em (G/B – C)\nSolo a ti clamaré"
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "acordes": [
-            "C",
-            "D",
-            "G/B"
-          ],
-          "contenido": "En tu presencia\nA ti me rindo\nEn tu gloria\nPor tu gloria"
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "acordes": [
-            "Em",
-            "G/B",
-            "C",
-            "D"
-          ],
-          "contenido": "Al venir ante tus pies\nTu amor me revelas\nPuedo ver tu corazón\nContemplar tu grandeza"
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "acordes": [
-            "C",
-            "D",
-            "G/B"
-          ],
-          "contenido": "Agua viva\nFluye en mi ser\nMe sumerges\nEn tu gracia\nCielo abierto\nInundándome\nMe restauras\nEn tu gloria"
+          "lineas": [
+            {
+              "texto": "Espíritu de Dios                        En tu presencia",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Como lluvia ven                         A ti me rindo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Con tu eterno amor                      En tu gloria",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Tú inundas mi ser                       Por tu gloria",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Espíritu de Dios",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Arde en mi interior               Agua viva",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Solo a ti clamaré                 Fluye en mi ser",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "G/B C D Em (G/B – C)          G/B",
+              "acordes": []
+            },
+            {
+              "texto": "Solo a ti clamaré                 Me sumerges",
+              "acordes": []
+            },
+            {
+              "texto": "Em G/B         C     D Em         En tu gracia",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Al venir ante tus pies            C",
+              "acordes": []
+            },
+            {
+              "texto": "Em G/B C D Em                     Cielo abierto",
+              "acordes": []
+            },
+            {
+              "texto": "Tu amor me revelas                D",
+              "acordes": []
+            },
+            {
+              "texto": "Em G/B         C D Em             Inundándome",
+              "acordes": []
+            },
+            {
+              "texto": "Puedo ver tu corazón              G/B",
+              "acordes": []
+            },
+            {
+              "texto": "Em G/B           C D Em           Me restauras",
+              "acordes": []
+            },
+            {
+              "texto": "Contemplar tu grandeza            C",
+              "acordes": []
+            },
+            {
+              "texto": "En tu gloria",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

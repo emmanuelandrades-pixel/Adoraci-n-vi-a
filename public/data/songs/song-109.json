@@ -23,14 +23,331 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "Am",
-            "Dm",
-            "A#"
-          ],
-          "contenido": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock\nSi abatido y dolido estás\ny cansado del peso cargar\nCristo nos llama\nSi al final del camino estás\nsin saber hacia dónde mirar\nCristo nos llama\nVen ante su trono\nEl Padre te recibirá\ncon sangre preciosa\nJesús borró nuestra maldad\nDeja atrás tu vergüenza y pesar\nven a Él ya no esperes más\nCristo nos llama\nTrae toda tristeza al altar\nnueva Vida Jesús te dará\nCristo nos llama\nOh cuán hermoso\nEs nuestro Salvador\nCanta aleluya, Cristo vive\nNadie es más grande\nSolo Él es Señor\nCanta aleluya, Cristo vive\nHasta un día llegar frente a él\nde Su amor a todos contaré"
+          "lineas": [
+            {
+              "texto": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Si abatido y dolido estás",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "y cansado del peso cargar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Cristo nos llama",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Si al final del camino estás",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "sin saber hacia dónde mirar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Cristo nos llama",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Ven ante su trono",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "El Padre te recibirá",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "con sangre preciosa",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Jesús borró nuestra maldad",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Deja atrás tu vergüenza y pesar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "ven a Él ya no esperes más",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Cristo nos llama",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Trae toda tristeza al altar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "nueva Vida Jesús te dará",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Cristo nos llama",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Oh cuán hermoso",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Es nuestro Salvador",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Canta aleluya, Cristo vive",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Nadie es más grande",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Solo Él es Señor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Canta aleluya, Cristo vive",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Hasta un día llegar frente a él",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "de Su amor a todos contaré",
+              "acordes": [
+                {
+                  "acorde": "A#",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,15 +23,307 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "B",
-            "E",
-            "C#m",
-            "F#",
-            "B/D#",
-            "G#m"
-          ],
-          "contenido": "Heather Laskin\nEn reposo, en silencio sé que\nTú eres Señor\nAl estar en tu presencia sé que\nHay restauración\nAl o - ír tu dul - ce voz,\nTe se - gui - ré mi Rey, mi Dios.\nNo hay nadie como Tú,\nSólo Cristo\nMoriste por mi en la cruz,\nViviré para alabar\nEn el caos, en tormenta sé que\nSigues siendo Dios\nCuando siento que soy débil me das\nLa gracia para seguir\nAl oír tu dulce voz,\nCantaré esta canción\nG#m - E - F# - B (X4)\nMi deleite está en ti\nG #m\nMi corazón, toda mi fe\nMi deleite está en ti,\nPor siempre"
+          "lineas": [
+            {
+              "texto": "Heather Laskin",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "En reposo, en silencio sé que",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres Señor",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Al estar en tu presencia sé que",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Hay restauración",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Al o - ír tu dul - ce voz,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "E",
+                  "pos": 19
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 21
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Te se - gui - ré mi Rey, mi Dios.",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "B",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 15
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 17
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "No hay nadie como Tú,",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 14
+                },
+                {
+                  "acorde": "B",
+                  "pos": 16
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Sólo Cristo",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Moriste por mi en la cruz,",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 16
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Viviré para alabar",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "En el caos, en tormenta sé que",
+              "acordes": []
+            },
+            {
+              "texto": "Sigues siendo Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando siento que soy débil me das",
+              "acordes": []
+            },
+            {
+              "texto": "La gracia para seguir",
+              "acordes": []
+            },
+            {
+              "texto": "Al oír tu dulce voz,",
+              "acordes": []
+            },
+            {
+              "texto": "Cantaré esta canción",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "G#m - E - F# - B (X4)",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Mi deleite está en ti",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "C#m          G #m",
+              "acordes": []
+            },
+            {
+              "texto": "Mi corazón, toda mi fe",
+              "acordes": []
+            },
+            {
+              "texto": "Mi deleite está en ti,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,8 +23,104 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Wladimir Aranda\nPrecioso Verbo de Dios\nEn las calles nos mostraste tu amor\nTu marcaste la historia\nMarcaste mi historia\nLa multitud vio tu luz\nY mi corazón se encendió\nTú marcaste la historia\nMarcaste mi historia\nMe has enamorado Nazareno\nMe has enamorado mi Jesús\nMe has atrapado con cuerdas de amor\nY no voy a huir\nFijaste tus ojos en mi\nY entendí el valor que tengo para ti\nTú amaste la historia\nAmaste mi historia"
+          "lineas": [
+            {
+              "texto": "Wladimir Aranda",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Precioso Verbo de Dios",
+              "acordes": []
+            },
+            {
+              "texto": "En las calles nos mostraste tu amor",
+              "acordes": []
+            },
+            {
+              "texto": "Tu marcaste la historia",
+              "acordes": []
+            },
+            {
+              "texto": "Marcaste mi historia",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "La multitud vio tu luz",
+              "acordes": []
+            },
+            {
+              "texto": "Y mi corazón se encendió",
+              "acordes": []
+            },
+            {
+              "texto": "Tú marcaste la historia",
+              "acordes": []
+            },
+            {
+              "texto": "Marcaste mi historia",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Me has enamorado Nazareno",
+              "acordes": []
+            },
+            {
+              "texto": "Me has enamorado mi Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "Me has atrapado con cuerdas de amor",
+              "acordes": []
+            },
+            {
+              "texto": "Y no voy a huir",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Fijaste tus ojos en mi",
+              "acordes": []
+            },
+            {
+              "texto": "Y entendí el valor que tengo para ti",
+              "acordes": []
+            },
+            {
+              "texto": "Tú amaste la historia",
+              "acordes": []
+            },
+            {
+              "texto": "Amaste mi historia",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

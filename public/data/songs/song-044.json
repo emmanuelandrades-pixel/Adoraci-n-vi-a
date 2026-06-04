@@ -23,24 +23,189 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "B",
-            "D",
-            "A",
-            "C",
-            "E/G#"
-          ],
-          "contenido": "Israel Houghton\nSeñor eres fiel y tu misericordia eterna,\nSeñor eres fiel y tu misericordia eterna,\nGente de toda lengua y nación\nDe generación a generación.\nTe adoramos hoy aleluya, aleluya,\nTe adoramos hoy, eres Señor,\nTe adoramos hoy, aleluya, aleluya\nTe adoramos hoy eres Señor,\nEres fiel"
+          "lineas": [
+            {
+              "texto": "Israel Houghton",
+              "acordes": []
+            },
+            {
+              "texto": "Señor eres fiel y tu misericordia eterna,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                },
+                {
+                  "acorde": "A",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Señor eres fiel y tu misericordia eterna,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                },
+                {
+                  "acorde": "A",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Gente de toda lengua y nación",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "De generación a generación.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Te adoramos hoy aleluya, aleluya,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Te adoramos hoy, eres Señor,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Te adoramos hoy, aleluya, aleluya",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Te adoramos hoy eres Señor,",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Eres fiel",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "puente",
           "numero": null,
-          "acordes": [
-            "Em"
-          ],
-          "contenido": "E G A – E D C | B"
+          "lineas": [
+            {
+              "texto": "E G A – E D C | B",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
         }
       ]
     }

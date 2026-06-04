@@ -23,26 +23,142 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "B/Db",
-            "C#m",
-            "B",
-            "E"
-          ],
-          "contenido": "Marcos Brunet\nYeshua\nMi amado es\nEl más bello entre\nMillares y millares"
+          "lineas": [
+            {
+              "texto": "Marcos Brunet",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "A",
-            "C#m",
-            "B",
-            "E"
-          ],
-          "contenido": "Si te tengo a ti\nLo tengo todo\nMi amado\nMi tesoro\nFuera de ti\nNada deseo\nSeñor"
+          "lineas": [
+            {
+              "texto": "Yeshua",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/Db",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Mi amado es",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "El más bello entre",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Millares y millares",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Si te tengo a ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Lo tengo todo",
+              "acordes": []
+            },
+            {
+              "texto": "Mi amado",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Mi tesoro",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Fuera de ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Nada deseo",
+              "acordes": []
+            },
+            {
+              "texto": "Señor",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
         }
       ]
     }

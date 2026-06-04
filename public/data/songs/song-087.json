@@ -23,14 +23,202 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E/G#",
-            "A",
-            "B",
-            "C#m7",
-            "E"
-          ],
-          "contenido": "Surrounded (This Is How I Fight My Battles)\nElyssa Smith\nC#m7- A E-B\nTú preparas una mesa para mí\nEn presencia de mis enemigos\nCuerpo y sangre vertiste tú por mí\nAsí peleo mis batallas\nCreo que tú has vencido\nLevanto hoy mi canto\nPor lo que has hecho en mí\nAsí peleo mis batallas\nAsí peleo mis batallas\nAsí peleo mis batallas\nEn el valle tú estás junto a mí\nTu bondad y tu gracia, por siempre junto a mí\nMis armas son amor y adoración\nAsí peleo mis batallas\nAun rodeado de problemas, estoy rodeado por ti\nY mi victoria está en Jesús\nY mi victoria está en Jesús"
+          "lineas": [
+            {
+              "texto": "Surrounded (This Is How I Fight My Battles)",
+              "acordes": []
+            },
+            {
+              "texto": "Elyssa Smith",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "C#m7- A E-B",
+              "acordes": []
+            },
+            {
+              "texto": "Tú preparas una mesa para mí",
+              "acordes": []
+            },
+            {
+              "texto": "En presencia de mis enemigos",
+              "acordes": []
+            },
+            {
+              "texto": "Cuerpo y sangre vertiste tú por mí",
+              "acordes": []
+            },
+            {
+              "texto": "Así peleo mis batallas",
+              "acordes": []
+            },
+            {
+              "texto": "Creo que tú has vencido",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Levanto hoy mi canto",
+              "acordes": [
+                {
+                  "acorde": "C#m7",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Por lo que has hecho en mí",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "B",
+                  "pos": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Así peleo mis batallas",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Así peleo mis batallas",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Así peleo mis batallas",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                },
+                {
+                  "acorde": "B",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "En el valle tú estás junto a mí",
+              "acordes": []
+            },
+            {
+              "texto": "Tu bondad y tu gracia, por siempre junto a mí",
+              "acordes": []
+            },
+            {
+              "texto": "Mis armas son amor y adoración",
+              "acordes": []
+            },
+            {
+              "texto": "Así peleo mis batallas",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Aun rodeado de problemas, estoy rodeado por ti",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                },
+                {
+                  "acorde": "B",
+                  "pos": 23
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Y mi victoria está en Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "Y mi victoria está en Jesús",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

@@ -23,17 +23,411 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G/B",
-            "Am",
-            "G",
-            "D",
-            "Em",
-            "D/F#",
-            "F#"
-          ],
-          "contenido": "David Berguño\nSanto Espíritu\nEnséñanos a oír tu voz\nSanto Espíritu\nEnséñanos a oír tu voz\nSanto Espíritu\n/Enséñanos a oír tu voz/\nTe invitamos aquí\nTe esperamos solo a ti\nToda nuestra atención\nEsta puesta solo en ti\nOoh oh ohh oh oh oh\nTu susurro quiero escuchar\nY que tu voz se vuelva familiar\nQue tu voz se vuelva familiar\nTu descanso\ny tu paz llenando\nCada hogar cada familia\nDescanso en ti\nPerfecta paz"
+          "lineas": [
+            {
+              "texto": "David Berguño",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Santo Espíritu",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Enséñanos a oír tu voz",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Santo Espíritu",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Enséñanos a oír tu voz",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Santo Espíritu",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Enséñanos a oír tu voz",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 7,
+          "lineas": [
+            {
+              "texto": "Te invitamos aquí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Te esperamos solo a ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Toda nuestra atención",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Esta puesta solo en ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s009",
+          "tipo": "verso",
+          "numero": 8,
+          "lineas": [
+            {
+              "texto": "Ooh oh ohh oh oh oh",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s010",
+          "tipo": "verso",
+          "numero": 9,
+          "lineas": [
+            {
+              "texto": "Tu susurro quiero escuchar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Y que tu voz se vuelva familiar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Que tu voz se vuelva familiar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s011",
+          "tipo": "verso",
+          "numero": 10,
+          "lineas": [
+            {
+              "texto": "Tu descanso",
+              "acordes": []
+            },
+            {
+              "texto": "y tu paz llenando",
+              "acordes": []
+            },
+            {
+              "texto": "Cada hogar cada familia",
+              "acordes": []
+            },
+            {
+              "texto": "Descanso en ti",
+              "acordes": []
+            },
+            {
+              "texto": "Perfecta paz",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

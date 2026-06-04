@@ -23,13 +23,237 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "A",
-            "F#m",
-            "E"
-          ],
-          "contenido": "Ben Fielding & Reuben Morgan\nTodos necesitan\nAmor que nunca falla\nTu gracia y compasión\nTodos necesitan\nPerdón y esperanza\nD–E–D–E\nY un Dios que salva\nCristo puede mover montes\nSólo Dios puede salvar,\nMi Dios puede salvar\nPor siempre, autor de salvación\nJesús la muerte venció,\nÉl la muerte venció\nAun con mis temores\nSé que me aceptas\nLléname otra vez\nMi vida entera ofrezco\nPara seguir tus pasos\nA Ti me rindo\nEn la tierra, tu luz brillará, cantamos\nPor la gloria de Tu majestad, Jesús"
+          "lineas": [
+            {
+              "texto": "Ben Fielding & Reuben Morgan",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Todos necesitan",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Amor que nunca falla",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Tu gracia y compasión",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Todos necesitan",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Perdón y esperanza",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "E            D–E–D–E",
+              "acordes": []
+            },
+            {
+              "texto": "Y un Dios que salva",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Cristo puede mover montes",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Sólo Dios puede salvar,",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Mi Dios puede salvar",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 9
+                },
+                {
+                  "acorde": "E",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre, autor de salvación",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "E",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Jesús la muerte venció,",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Él la muerte venció",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Aun con mis temores",
+              "acordes": []
+            },
+            {
+              "texto": "Sé que me aceptas",
+              "acordes": []
+            },
+            {
+              "texto": "Lléname otra vez",
+              "acordes": []
+            },
+            {
+              "texto": "Mi vida entera ofrezco",
+              "acordes": []
+            },
+            {
+              "texto": "Para seguir tus pasos",
+              "acordes": []
+            },
+            {
+              "texto": "A Ti me rindo",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "En la tierra, tu luz brillará, cantamos",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                },
+                {
+                  "acorde": "E",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Por la gloria de Tu majestad, Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,8 +23,116 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Viña Ágape\nC–F–G-C\nVengo frente a ti rendido\nY ante tus pies me humillo quebrantándome\nVengo ante ti humilde\nCon sed de tu fragancia\nLlena tú mi ser\nAm – F – C - G\nY en mis fracasos\nVeo tu amor una y otra vez\nCada vez que me levantas\nYa no importa lo de atrás\nY en mis batallas\nVeo tu amor una y otra vez\nY estás fortaleciendo siempre\nEn mi débil ser\nG–F-C\nMi corazón rindo a ti\nPrevalece tú en mí\nAm – C"
+          "lineas": [
+            {
+              "texto": "Viña Ágape",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "C–F–G-C",
+              "acordes": []
+            },
+            {
+              "texto": "Vengo frente a ti rendido",
+              "acordes": []
+            },
+            {
+              "texto": "Y ante tus pies me humillo quebrantándome",
+              "acordes": []
+            },
+            {
+              "texto": "Vengo ante ti humilde",
+              "acordes": []
+            },
+            {
+              "texto": "Con sed de tu fragancia",
+              "acordes": []
+            },
+            {
+              "texto": "Llena tú mi ser",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Am – F – C - G",
+              "acordes": []
+            },
+            {
+              "texto": "Y en mis fracasos",
+              "acordes": []
+            },
+            {
+              "texto": "Veo tu amor una y otra vez",
+              "acordes": []
+            },
+            {
+              "texto": "Cada vez que me levantas",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no importa lo de atrás",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Y en mis batallas",
+              "acordes": []
+            },
+            {
+              "texto": "Veo tu amor una y otra vez",
+              "acordes": []
+            },
+            {
+              "texto": "Y estás fortaleciendo siempre",
+              "acordes": []
+            },
+            {
+              "texto": "En mi débil ser",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "G–F-C",
+              "acordes": []
+            },
+            {
+              "texto": "Mi corazón rindo a ti",
+              "acordes": []
+            },
+            {
+              "texto": "Prevalece tú en mí",
+              "acordes": []
+            },
+            {
+              "texto": "Am – C",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

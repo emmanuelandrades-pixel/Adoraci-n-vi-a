@@ -23,16 +23,213 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "Em",
-            "Asus4",
-            "A",
-            "D",
-            "D/F#",
-            "G/B"
-          ],
-          "contenido": "Nada puede apagar Tu amor\nLos mares no pueden cubrirlo\nRíos de temor no pueden apagar\nTu amor por mi\nTu amor por mi\nSanto amor, fluye en mí,\nA - A/C#\nLléname con tu amor por mi\nCon Tu santidad cae sobre mí,\nSanto amor fluye en mi\nLa angustia no puede apagar Tu amor,\nEl mal no puede detenerlo\nNo temeré, Tu amor está aquí\nPara llenarme de Ti\nPara llenarme de Ti\nSolo en ti hay sanidad,\nSolo en ti encuentro paz\nY yo sé que no hoy ríos tan anchos ni montes tan altos\nNi mares profundos que me aparten de Ti"
+          "lineas": [
+            {
+              "texto": "Nada puede apagar Tu amor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Los mares no pueden cubrirlo",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Ríos de temor no pueden apagar",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 17
+                },
+                {
+                  "acorde": "A",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor por mi",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor por mi",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Santo amor, fluye en mí,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "G      G/B          D      A - A/C#",
+              "acordes": []
+            },
+            {
+              "texto": "Lléname con tu amor por mi",
+              "acordes": []
+            },
+            {
+              "texto": "Con Tu santidad cae sobre mí,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 21
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Santo amor fluye en mi",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "La angustia no puede apagar Tu amor,",
+              "acordes": []
+            },
+            {
+              "texto": "El mal no puede detenerlo",
+              "acordes": []
+            },
+            {
+              "texto": "No temeré, Tu amor está aquí",
+              "acordes": []
+            },
+            {
+              "texto": "Para llenarme de Ti",
+              "acordes": []
+            },
+            {
+              "texto": "Para llenarme de Ti",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Solo en ti hay sanidad,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Solo en ti encuentro paz",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Y yo sé que no hoy ríos tan anchos ni montes tan altos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 20
+                },
+                {
+                  "acorde": "A",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Ni mares profundos que me aparten de Ti",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 29
+                }
+              ]
+            }
+          ]
         }
       ]
     }

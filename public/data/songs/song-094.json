@@ -23,27 +23,206 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "E/G#",
-            "F#m",
-            "D",
-            "Bm",
-            "E",
-            "C#m"
-          ],
-          "contenido": "Fuimos perdonados y hoy cantamos de redención\nArde un fuego en nuestro ser, un fuego en nuestro ser\nNada nos detiene, correremos en la oscuridad\nArde un fuego en nuestro ser, un fuego en nuestro ser\nSomos una generación que canta\nDe tu misericordia\nTú eres quien nos pone en movimiento\nTuya es la gloria\nHay un fuego en mi ser que arde por ti\nNunca se apagará\nSomos libres, tuya es la gloria\nResucitados, hoy vivimos para ti\nLa pasión no morirá, la pasión no morirá\nNada nos detiene, correremos en la oscuridad\nLa pasión no morirá, la pasión no morirá\nResucitaste con poder"
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "A",
-            "D",
-            "Bm"
-          ],
-          "contenido": "Te levantaste y nos levantaremos\nLevantaremos\nAl mundo que amaste Tú\nAl mundo iremos y nos levantaremos\nLevantaremos, levantaremos"
+          "lineas": [
+            {
+              "texto": "Fuimos perdonados y hoy cantamos de redención",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Arde un fuego en nuestro ser, un fuego en nuestro ser",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 34
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "Nada nos detiene, correremos en la oscuridad",
+              "acordes": []
+            },
+            {
+              "texto": "Arde un fuego en nuestro ser, un fuego en nuestro ser",
+              "acordes": []
+            },
+            {
+              "texto": "Somos una generación que canta",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "De tu misericordia",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres quien nos pone en movimiento",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Tuya es la gloria",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Hay un fuego en mi ser que arde por ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Nunca se apagará",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Somos libres, tuya es la gloria",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Resucitados, hoy vivimos para ti",
+              "acordes": []
+            },
+            {
+              "texto": "La pasión no morirá, la pasión no morirá",
+              "acordes": []
+            },
+            {
+              "texto": "Nada nos detiene, correremos en la oscuridad",
+              "acordes": []
+            },
+            {
+              "texto": "La pasión no morirá, la pasión no morirá",
+              "acordes": []
+            },
+            {
+              "texto": "Resucitaste con poder",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Te levantaste y nos levantaremos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Levantaremos",
+              "acordes": []
+            },
+            {
+              "texto": "Al mundo que amaste Tú",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Al mundo iremos y nos levantaremos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Levantaremos, levantaremos",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            }
+          ]
         }
       ]
     }

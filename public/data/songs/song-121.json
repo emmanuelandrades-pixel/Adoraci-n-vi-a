@@ -23,14 +23,236 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "E",
-            "E/G#",
-            "F#m"
-          ],
-          "contenido": "Kelly Carpenter\nAtráeme hacia ti\nNo me dejes ir\nOtra vez me rindo a ti\nPara oír que tu amigo soy\nMi anhelo eres Tú\nY nadie más será\nPues nada puede reemplazar\nEl tierno abrazo que me das\nGuíame Señor\nVuélveme hacia ti\nTú eres Señor\nTodo lo que he querido\nHazme saber\nQue estas cerca de mi"
+          "lineas": [
+            {
+              "texto": "Kelly Carpenter",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Atráeme hacia ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "No me dejes ir",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Otra vez me rindo a ti",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Para oír que tu amigo soy",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Mi anhelo eres Tú",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Y nadie más será",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Pues nada puede reemplazar",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "El tierno abrazo que me das",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Guíame Señor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Vuélveme hacia ti",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                },
+                {
+                  "acorde": "E",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú eres Señor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Todo lo que he querido",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Hazme saber",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Que estas cerca de mi",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 13
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
         }
       ]
     }

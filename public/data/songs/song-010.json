@@ -23,16 +23,219 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "G",
-            "C/E",
-            "Dm",
-            "G/B",
-            "Am"
-          ],
-          "contenido": "Matt Redman\nAl adorar se bienvenido\nQue al cantar puedas ver\nAquí estamos para ti\nAquí estamos para ti\nTu aliento venga del cielo\nDando vida al corazón\nAquí estamos para ti\nSe abren corazones nada se esconde a ti\nTe deseamos Dios\nSolo tu eres santo solo tu eres digno\nVen santo espíritu\nNuestro clamor sea un himno\nQue tu honor llene el lugar\nAquí estamos para ti\nQue el poder de tu palabra\nTraiga vida donde no hay\nAquí estamos para ti\nOh ven, oh ven\nOh ven\nSe bienvenido aquí\nDios de poder y amor\nSe bienvenido aquí\nQue todo corazón despierte al adorar\nDios de poder y amor\nSe bienvenido aquí"
+          "lineas": [
+            {
+              "texto": "Matt Redman",
+              "acordes": []
+            },
+            {
+              "texto": "Al adorar se bienvenido",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Que al cantar puedas ver",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estamos para ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Aquí estamos para ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Tu aliento venga del cielo",
+              "acordes": []
+            },
+            {
+              "texto": "Dando vida al corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estamos para ti",
+              "acordes": []
+            },
+            {
+              "texto": "Se abren corazones nada se esconde a ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 19
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "Te deseamos Dios",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Solo tu eres santo solo tu eres digno",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Ven santo espíritu",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro clamor sea un himno",
+              "acordes": []
+            },
+            {
+              "texto": "Que tu honor llene el lugar",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estamos para ti",
+              "acordes": []
+            },
+            {
+              "texto": "Que el poder de tu palabra",
+              "acordes": []
+            },
+            {
+              "texto": "Traiga vida donde no hay",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estamos para ti",
+              "acordes": []
+            },
+            {
+              "texto": "Oh ven, oh ven",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Oh ven",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Se bienvenido aquí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Dios de poder y amor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Se bienvenido aquí",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Que todo corazón despierte al adorar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Dios de poder y amor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Se bienvenido aquí",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
         }
       ]
     }

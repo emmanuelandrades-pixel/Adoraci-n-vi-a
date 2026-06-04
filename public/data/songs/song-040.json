@@ -23,8 +23,139 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "CALVARIO\nHimno\nHerido, triste, fui Jesús, mostrele mi\ndolor;\nPerdido, errante, vi su luz,\nbendíjome en su amor.\nEn la cruz, en la cruz, do primero\nvi la luz,\nY las manchas de mi alma yo\nlavé;\nFue allí por fe do vi a Jesús,\nY siempre feliz con el seré.\nEN EL MONTE\nCALVARIO\nEn el monte calvario\nEstaba una cruz\nEmblema de afrenta y dolor\nMás yo amo esa cruz\nDónde murió mi Jesús\nPor salvar al más vil pecador\nOh, yo siempre amaré esa cruz\nEn sus triunfos mi gloria será\nY algún día en vez de una cruz\nMi corona, Jesús, me dará"
+          "lineas": [
+            {
+              "texto": "CALVARIO",
+              "acordes": []
+            },
+            {
+              "texto": "Himno",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Herido, triste, fui Jesús, mostrele mi",
+              "acordes": []
+            },
+            {
+              "texto": "dolor;",
+              "acordes": []
+            },
+            {
+              "texto": "Perdido, errante, vi su luz,",
+              "acordes": []
+            },
+            {
+              "texto": "bendíjome en su amor.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "En la cruz, en la cruz, do primero",
+              "acordes": []
+            },
+            {
+              "texto": "vi la luz,",
+              "acordes": []
+            },
+            {
+              "texto": "Y las manchas de mi alma yo",
+              "acordes": []
+            },
+            {
+              "texto": "lavé;",
+              "acordes": []
+            },
+            {
+              "texto": "Fue allí por fe do vi a Jesús,",
+              "acordes": []
+            },
+            {
+              "texto": "Y siempre feliz con el seré.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "EN EL MONTE",
+              "acordes": []
+            },
+            {
+              "texto": "CALVARIO",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "En el monte calvario",
+              "acordes": []
+            },
+            {
+              "texto": "Estaba una cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Emblema de afrenta y dolor",
+              "acordes": []
+            },
+            {
+              "texto": "Más yo amo esa cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Dónde murió mi Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "Por salvar al más vil pecador",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Oh, yo siempre amaré esa cruz",
+              "acordes": []
+            },
+            {
+              "texto": "En sus triunfos mi gloria será",
+              "acordes": []
+            },
+            {
+              "texto": "Y algún día en vez de una cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Mi corona, Jesús, me dará",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

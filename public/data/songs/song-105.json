@@ -23,28 +23,234 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "B",
-            "A",
-            "E",
-            "C#m"
-          ],
-          "contenido": "Israel & New Breed Version\nTu Presencia es el cielo para mi\nY cantamos Oh Cristo, Oh Cristo-o\nTu Presencia es el cielo para mi\nOh alaba\nSimplemente alaba\nEstás llorando alaba\nEn la prueba alaba\nEstás sufriendo alaba\nNo importa alaba\nTu alabanza él escuchará\nDios va al frente abriendo caminos\nQuebrando cadenas sacando espinas\nManda a sus ángeles contigo a luchar\nÉl abre puertas nadie puede cerrar\nÉl trabaja para los que confían\nCamina contigo de noche y de día\nLevanta tus manos tu victoria llego\nComienza a cantar y"
+          "lineas": [
+            {
+              "texto": "Israel & New Breed Version",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "E",
-            "C#m",
-            "A",
-            "B",
-            "F#",
-            "D#m",
-            "C#"
-          ],
-          "contenido": "Alaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nDios va al frente abriendo caminos\nQuebrando cadenas sacando espinas\nManda a sus ángeles contigo a luchar\nÉl abre puertas nadie puede cerrar\nÉl trabaja para los que confían\nCamina contigo de noche y de día\nLevanta tus manos tu victoria llego\nComienza a cantar y\nMi Dios Cuán grande es\nCuán grande eres tú"
+          "lineas": [
+            {
+              "texto": "Tu Presencia es el cielo para mi           E",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Y cantamos Oh Cristo, Oh Cristo-o      Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 14
+                },
+                {
+                  "acorde": "B",
+                  "pos": 25
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 43
+                }
+              ]
+            },
+            {
+              "texto": "Tu Presencia es el cielo para mi       Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "E",
+                  "pos": 31
+                },
+                {
+                  "acorde": "A",
+                  "pos": 44
+                }
+              ]
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Oh alaba                               B     F#",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Simplemente alaba                      Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Estás llorando alaba                   Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D#m",
+                  "pos": 44
+                }
+              ]
+            },
+            {
+              "texto": "En la prueba alaba                          B",
+              "acordes": []
+            },
+            {
+              "texto": "B                          Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Estás sufriendo alaba                       C#",
+              "acordes": []
+            },
+            {
+              "texto": "No importa alaba                       Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Tu alabanza él escuchará               F#",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 12
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Dios va al frente abriendo caminos",
+              "acordes": []
+            },
+            {
+              "texto": "E                                      Quebrando cadenas sacando espinas",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Dios va al frente abriendo caminos     B",
+              "acordes": []
+            },
+            {
+              "texto": "C#m                                    Manda a sus ángeles contigo a luchar",
+              "acordes": []
+            },
+            {
+              "texto": "Quebrando cadenas sacando espinas      C#",
+              "acordes": []
+            },
+            {
+              "texto": "A                                      Él abre puertas nadie puede cerrar",
+              "acordes": []
+            },
+            {
+              "texto": "Manda a sus ángeles contigo a luchar",
+              "acordes": []
+            },
+            {
+              "texto": "Él abre puertas nadie puede cerrar     F#",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Él trabaja para los que confían",
+              "acordes": []
+            },
+            {
+              "texto": "E                                      Camina contigo de noche y de día",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Él trabaja para los que confían        B",
+              "acordes": []
+            },
+            {
+              "texto": "C#m                                    Levanta tus manos tu victoria llego",
+              "acordes": []
+            },
+            {
+              "texto": "Camina contigo de noche y de día       C#",
+              "acordes": []
+            },
+            {
+              "texto": "A                                      Comienza a cantar y",
+              "acordes": []
+            },
+            {
+              "texto": "Levanta tus manos tu victoria llego",
+              "acordes": []
+            },
+            {
+              "texto": "Comienza a cantar y                    B D#m C# F#",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi Dios Cuán grande es",
+              "acordes": []
+            },
+            {
+              "texto": "Cuán grande eres tú",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

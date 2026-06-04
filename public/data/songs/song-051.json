@@ -23,27 +23,240 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "F#m",
-            "Bm",
-            "E",
-            "B",
-            "G#m",
-            "C#m"
-          ],
-          "contenido": "Marcos Witt\nHe decidido Seguir a Cristo\nHe decidido Seguir a Cristo\nHe decidido Seguir a Cristo\nNo vuelvo atrás, no vuelvo atrás\nAlgunos vuelven yo sigo a Cristo\nAlgunos vuelven yo sigo a Cristo\nAlgunos vuelven yo sigo a Cristo\nNo vuelvo atrás, no vuelvo atrás\nLa Cruz delante, el mundo atrás\nLa Cruz delante, el mundo atrás\nLa Cruz delante, el mundo atrás\nNo vuelvo atrás, no vuelvo atrás\nHe decidió Seguir a Cristo\nHe decidió Seguir a Cristo\nHe decidió Seguir a Cristo\nNo vuelvo atrás, no vuelvo atrás"
+          "lineas": [
+            {
+              "texto": "Marcos Witt",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "F#",
-            "G"
-          ],
-          "contenido": ""
+          "lineas": [
+            {
+              "texto": "He decidido Seguir a Cristo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "He decidido Seguir a Cristo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "He decidido Seguir a Cristo",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "No vuelvo atrás, no vuelvo atrás",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 31
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Algunos vuelven yo sigo a Cristo",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Algunos vuelven yo sigo a Cristo",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Algunos vuelven yo sigo a Cristo",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "No vuelvo atrás, no vuelvo atrás",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 17
+                },
+                {
+                  "acorde": "B",
+                  "pos": 24
+                },
+                {
+                  "acorde": "G",
+                  "pos": 31
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "La Cruz delante, el mundo atrás",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La Cruz delante, el mundo atrás",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "La Cruz delante, el mundo atrás",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "No vuelvo atrás, no vuelvo atrás",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "He decidió Seguir a Cristo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "He decidió Seguir a Cristo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "He decidió Seguir a Cristo",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "No vuelvo atrás, no vuelvo atrás",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
         }
       ]
     }

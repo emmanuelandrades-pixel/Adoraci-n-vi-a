@@ -23,15 +23,254 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "A/C#",
-            "F#m",
-            "Bm",
-            "E"
-          ],
-          "contenido": "Joel Houston\nTú eres el principio\nTuya es la eternidad\nLlamaste el mundo a existencia\nMe acerco a ti\nMoriste por mis fracasos\nLlevaste mi culpa en la cruz\nCargaste en tus hombros mi carga\nMe acerco a ti\n¿Qué puedo hacer?\n¿Qué puedo decir?\nTe ofrezco mi corazón\nCompletamente a ti\nTu salvación camino\nTu Espíritu vive en mí\nDeclararé tus promesas\nMe acerco a ti\nAquí estoy\nCon manos alzadas vengo\nPues tú todo lo diste por mí\nAquí estoy\nMi alma a ti entrego\nTuyo soy, Señor"
+          "lineas": [
+            {
+              "texto": "Joel Houston",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tú eres el principio",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tuya es la eternidad",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Llamaste el mundo a existencia",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Me acerco a ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Moriste por mis fracasos",
+              "acordes": []
+            },
+            {
+              "texto": "Llevaste mi culpa en la cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Cargaste en tus hombros mi carga",
+              "acordes": []
+            },
+            {
+              "texto": "Me acerco a ti",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "¿Qué puedo hacer?",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "¿Qué puedo decir?",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Te ofrezco mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 14
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Completamente a ti",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Tu salvación camino",
+              "acordes": []
+            },
+            {
+              "texto": "Tu Espíritu vive en mí",
+              "acordes": []
+            },
+            {
+              "texto": "Declararé tus promesas",
+              "acordes": []
+            },
+            {
+              "texto": "Me acerco a ti",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estoy",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Con manos alzadas vengo",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Pues tú todo lo diste por mí",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Aquí estoy",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Mi alma a ti entrego",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tuyo soy, Señor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
         }
       ]
     }

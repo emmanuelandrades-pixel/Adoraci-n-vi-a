@@ -23,14 +23,158 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F",
-            "Am",
-            "G",
-            "C",
-            "C9"
-          ],
-          "contenido": "Jeremy Riddle\nNada nos puede separar\nDe su inmenso amor\nHemos visto solo un destello\nHemos escuchado un susurro\nDe su afecto y pasión\nSu amor es ancho, es profundo\nY nos cubre\nSu amor es fuerte, es feroz\nEs furioso\nSu amor es dulce, es salvaje\nNos despierta a vivir\nDe tal manera el Padre nos amó\nQue el Hijo por todos murió\nÉl nos derrama su amor eterno\nY nos recibe como sus hijos\nSu amor nos busca"
+          "lineas": [
+            {
+              "texto": "Jeremy Riddle",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Nada nos puede separar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "De su inmenso amor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Hemos visto solo un destello",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Hemos escuchado un susurro",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "De su afecto y pasión",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Su amor es ancho, es profundo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y nos cubre",
+              "acordes": []
+            },
+            {
+              "texto": "Su amor es fuerte, es feroz",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Es furioso",
+              "acordes": []
+            },
+            {
+              "texto": "Su amor es dulce, es salvaje",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Nos despierta a vivir",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "De tal manera el Padre nos amó",
+              "acordes": []
+            },
+            {
+              "texto": "Que el Hijo por todos murió",
+              "acordes": []
+            },
+            {
+              "texto": "Él nos derrama su amor eterno",
+              "acordes": []
+            },
+            {
+              "texto": "Y nos recibe como sus hijos",
+              "acordes": []
+            },
+            {
+              "texto": "Su amor nos busca",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

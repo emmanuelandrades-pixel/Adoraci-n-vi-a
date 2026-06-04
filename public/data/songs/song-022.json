@@ -23,27 +23,225 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "Am",
-            "C",
-            "Em",
-            "D"
-          ],
-          "contenido": "Leeland Mooring, Brenton Brown, Brian Johnson\nEn nubes llegará\nLos reinos se inclina -rán\nCadenas romperá\nY toda alma alabará"
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "D",
-            "G",
-            "Em",
-            "C",
-            "Am"
-          ],
-          "contenido": "Pues quién detiene al poderoso\nNuestro Dios es León\nEl León de Judá\nQuien ruge y pelea\nEn nuestras batallas\nTodos se postrarán ante Él\nNuestro Dios es Cordero\nQue inmolado fue\nEl pecado quitó\nY nos dio libertad\nTodos se postrarán ante\nEl Cordero y el León\nSe postrará ante ti la tierra\nOh puertas se abren ya\nCamino para nuestro Rey\nÉl vino a salvar\nY al cautivo liberar\nPues quién detiene al poderoso\n¿Quién detiene al poderoso?\n¿Quién detiene al poderoso? // (Quién lo detiene a Él...)"
+          "lineas": [
+            {
+              "texto": "Leeland Mooring, Brenton Brown, Brian Johnson",
+              "acordes": []
+            },
+            {
+              "texto": "En nubes llegará",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Los reinos se inclina -rán",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 16
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Cadenas romperá",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Y toda alma alabará",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Pues quién detiene al poderoso",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro Dios es León",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "El León de Judá",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Quien ruge y pelea",
+              "acordes": []
+            },
+            {
+              "texto": "En nuestras batallas",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Todos se postrarán ante Él",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro Dios es Cordero",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Que inmolado fue",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "El pecado quitó",
+              "acordes": []
+            },
+            {
+              "texto": "Y nos dio libertad",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Todos se postrarán ante",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "El Cordero y el León",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Se postrará ante ti la tierra",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Oh puertas se abren ya",
+              "acordes": []
+            },
+            {
+              "texto": "Camino para nuestro Rey",
+              "acordes": []
+            },
+            {
+              "texto": "Él vino a salvar",
+              "acordes": []
+            },
+            {
+              "texto": "Y al cautivo liberar",
+              "acordes": []
+            },
+            {
+              "texto": "Pues quién detiene al poderoso",
+              "acordes": []
+            },
+            {
+              "texto": "¿Quién detiene al poderoso?",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién detiene al poderoso? // (Quién lo detiene a Él...)",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
         }
       ]
     }

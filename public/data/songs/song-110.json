@@ -23,15 +23,166 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "A/E",
-            "B",
-            "F#m7",
-            "A",
-            "C#m"
-          ],
-          "contenido": "Brian Doerksen\nVen, es hora de Adorarle\nVen, abre tu corazón a Él\nVen, ante su trono estamos\nVen, ante la majestad de Dios, Ven.\nToda lengua confesará que Él es Dios\nLas rodillas se doblarán,\nY un tesoro eterno tendrás en Él\nSi escoges su Amor.\nEres fiel"
+          "lineas": [
+            {
+              "texto": "Brian Doerksen",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Ven, es hora de Adorarle",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/E",
+                  "pos": 17
+                },
+                {
+                  "acorde": "E",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Ven, abre tu corazón a Él",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Ven, ante su trono estamos",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/E",
+                  "pos": 16
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Ven, ante la majestad de Dios, Ven.",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 16
+                },
+                {
+                  "acorde": "A",
+                  "pos": 25
+                },
+                {
+                  "acorde": "E",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Toda lengua confesará que Él es Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Las rodillas se doblarán,",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Y un tesoro eterno tendrás en Él",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Si escoges su Amor.",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Eres fiel",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

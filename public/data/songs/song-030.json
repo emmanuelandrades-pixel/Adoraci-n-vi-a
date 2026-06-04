@@ -23,16 +23,345 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "A",
-            "Bsus",
-            "C#m",
-            "C#m7",
-            "B",
-            "F#m"
-          ],
-          "contenido": "Brooke Ligertwood\nPuedes oír qué hermoso es, son los pasos del Salvador\nÉl está ahora aquí moviéndose, cuando alabamos Él ve fe\n(E) - A - C#m7 - A\nDespierta mi alma y canta al Se - ñor\nCanta al Señor\nDespierta mi alma y canta al Se - ñor\nCanta al Señor\nE - A - C#m7 - A\nPuedo escuchar la oración de un pueblo rendido ante Dios\nQuien duerme despierta ya, es tiempo de adorar\nY al orar Él obrará, caminos nuevos abrirá\nCada promesa es sí y amén\nY al orar no dudes más, todo el infierno temblará\nLa gloria a Dios, la gloria al Rey\n¡Hey! ¡Oh! Está pasando el Rey de gloria\n¡Hey! ¡Oh! Ante Él nos postramos a adorar\n¡Hey! ¡Oh! Le cantamos por la eternidad"
+          "lineas": [
+            {
+              "texto": "Brooke Ligertwood",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Puedes oír qué hermoso es, son los pasos del Salvador",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Él está ahora aquí moviéndose, cuando alabamos Él ve fe",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "(E) - A - C#m7 - A",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Despierta mi alma y canta al Se - ñor",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Canta al Señor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Despierta mi alma y canta al Se - ñor",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Canta al Señor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "E - A - C#m7 - A",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Puedo escuchar la oración de un pueblo rendido ante Dios",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Quien duerme despierta ya, es tiempo de adorar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Y al orar Él obrará, caminos nuevos abrirá",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Cada promesa es sí y amén",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Y al orar no dudes más, todo el infierno temblará",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "La gloria a Dios, la gloria al Rey",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 10
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 7,
+          "lineas": [
+            {
+              "texto": "¡Hey! ¡Oh! Está pasando el Rey de gloria",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "¡Hey! ¡Oh! Ante Él nos postramos a adorar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "¡Hey! ¡Oh! Le cantamos por la eternidad",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

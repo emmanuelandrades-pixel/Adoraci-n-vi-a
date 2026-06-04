@@ -23,12 +23,183 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "G",
-            "Bm"
-          ],
-          "contenido": "Upperroom\nLike the Spirit was moving over the waters\nSpirit, come move over us\nCome rest on us\nCome rest on us\nCome down\nSpirit, when You move You make my heart pound\nWhen You fill the room\nYou're here and I know You are moving\nI'm here and I know You will fill me\nAnd fire and wind, come and do it again\nOpen up the gates, let heaven on in\nCome rest on us\nCome rest on us\nHoly Spirit, come rest on us\nYou're all we want\nYou're all we want"
+          "lineas": [
+            {
+              "texto": "Upperroom",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Like the Spirit was moving over the waters",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Spirit, come move over us",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Come rest on us",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Come rest on us",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Come down",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Spirit, when You move You make my heart pound",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "When You fill the room",
+              "acordes": []
+            },
+            {
+              "texto": "You're here and I know You are moving",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "I'm here and I know You will fill me",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "And fire and wind, come and do it again",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Open up the gates, let heaven on in",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Come rest on us",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Come rest on us",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Holy Spirit, come rest on us",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "You're all we want",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "You're all we want",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
         }
       ]
     }

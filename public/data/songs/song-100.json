@@ -23,8 +23,92 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Karen Espinosa, Justin Williams, Tianna Horsey & Lemuel Marin\nAbriste mis ojos hacia ti\nY ahora puedo ver tu reflejo frente a mí\nEstás en el viento\nEn cada respiro\nEn mis pensamientos\nTú nunca te alejas\nEn todo estás\nTú eres todo lo que yo he soñado\nMucho más de lo que he imaginado\nAquí estás y me dices que tu tesoro soy\nMi único deseo\nQue todos te conozcan\nComo yo te conozco"
+          "lineas": [
+            {
+              "texto": "Karen Espinosa, Justin Williams, Tianna Horsey & Lemuel Marin",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Abriste mis ojos hacia ti",
+              "acordes": []
+            },
+            {
+              "texto": "Y ahora puedo ver tu reflejo frente a mí",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Estás en el viento",
+              "acordes": []
+            },
+            {
+              "texto": "En cada respiro",
+              "acordes": []
+            },
+            {
+              "texto": "En mis pensamientos",
+              "acordes": []
+            },
+            {
+              "texto": "Tú nunca te alejas",
+              "acordes": []
+            },
+            {
+              "texto": "En todo estás",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Tú eres todo lo que yo he soñado",
+              "acordes": []
+            },
+            {
+              "texto": "Mucho más de lo que he imaginado",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estás y me dices que tu tesoro soy",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Mi único deseo",
+              "acordes": []
+            },
+            {
+              "texto": "Que todos te conozcan",
+              "acordes": []
+            },
+            {
+              "texto": "Como yo te conozco",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

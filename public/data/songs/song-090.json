@@ -23,16 +23,240 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C9",
-            "G/B",
-            "D",
-            "Em",
-            "Am",
-            "C"
-          ],
-          "contenido": "Marcos Brunet\nTodo está preparado aquí\nLa casa y mi corazón también\nEres el único motivo que me hizo llegar\nLos hijos ya están llegando aquí\nAhora somos dos o tres o más\nEncuentra mi corazón dispuesto a quemar por ti\nTodos los versos y canciones que conseguí cantar\nTodas las veces quebrantado, yo quiero declarar\nTuyo es el reino, la gloria por siempre\nTuyo el dominio, el poder, amén, amén\nInterludio: G – C9 – G/B – Am – G/B – C\nTú eres Santo\nY Tú eres Santo\nY no hay otro como Tú\nNo hay otro como tú\nNo hay otro como Tú\nNo hay otro como Jesús\nUna cosa pediré\nMe quiero quedar en este lugar\nTodos los días de mi vida"
+          "lineas": [
+            {
+              "texto": "Marcos Brunet",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Todo está preparado aquí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La casa y mi corazón también",
+              "acordes": [
+                {
+                  "acorde": "C9",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Eres el único motivo que me hizo llegar",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 26
+                },
+                {
+                  "acorde": "D",
+                  "pos": 29
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 31
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Los hijos ya están llegando aquí",
+              "acordes": []
+            },
+            {
+              "texto": "Ahora somos dos o tres o más",
+              "acordes": []
+            },
+            {
+              "texto": "Encuentra mi corazón dispuesto a quemar por ti",
+              "acordes": []
+            },
+            {
+              "texto": "Todos los versos y canciones que conseguí cantar",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "Todas las veces quebrantado, yo quiero declarar",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 36
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Tuyo es el reino, la gloria por siempre",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Tuyo el dominio, el poder, amén, amén",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Interludio: G – C9 – G/B – Am – G/B – C",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres Santo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Y Tú eres Santo",
+              "acordes": [
+                {
+                  "acorde": "C9",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Y no hay otro como Tú",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro como tú",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro como Tú",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro como Jesús",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Una cosa pediré",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Me quiero quedar en este lugar",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Todos los días de mi vida",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
         }
       ]
     }

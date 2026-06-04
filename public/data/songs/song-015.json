@@ -23,14 +23,169 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "Am7",
-            "G",
-            "G/B"
-          ],
-          "contenido": "Padre, abrázame, quiero tu amor y paz\nRendirme en tu bondad y en tu gracia reposar\nY en el momento más oscuro\nTú vienes sobre mí\nPara calmar mis emociones y verme sonreír\nMi buen padre, mi buen padre\nTú luchas mis batallas, tú vienes sobre mí\nMe guías en tormentas, tú siempre estás aquí\nAun cuando me caiga, tú vienes sobre mí\nPor eso hoy yo canto tú siempre estás aquí\nMi buen padre, mi buen padre"
+          "lineas": [
+            {
+              "texto": "Padre, abrázame, quiero tu amor y paz",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Rendirme en tu bondad y en tu gracia reposar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 21
+                },
+                {
+                  "acorde": "F",
+                  "pos": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Y en el momento más oscuro",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Tú vienes sobre mí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Para calmar mis emociones y verme sonreír",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Mi buen padre, mi buen padre",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 24
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú luchas mis batallas, tú vienes sobre mí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "Me guías en tormentas, tú siempre estás aquí",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Aun cuando me caiga, tú vienes sobre mí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Por eso hoy yo canto tú siempre estás aquí",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Mi buen padre, mi buen padre",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 27
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
         }
       ]
     }

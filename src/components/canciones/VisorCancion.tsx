@@ -4,9 +4,10 @@ import { useEffect, useState } from "react";
 import { useCancionesStore } from "@/store/cancionesStore";
 import { Cancion, Version, Seccion } from "@/types/cancion";
 import { transponerAcorde } from "@/lib/utils/transposicion";
-import { Star, ChevronDown, ChevronUp, Minus, Plus, RotateCcw, Maximize2, ArrowLeft } from "lucide-react";
+import { Star, Minus, Plus, RotateCcw, Maximize2, ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { LineaConAcordes } from "./LineaConAcordes";
 
 const ETIQUETAS_SECCION: Record<string, string> = {
   intro: "Intro",
@@ -42,34 +43,37 @@ interface SeccionViewProps {
 }
 
 function SeccionView({ seccion, semitonos, tonalidad }: SeccionViewProps) {
-  const acordesTranspuestos = seccion.acordes.map((a) =>
-    transponerAcorde(a, semitonos, tonalidad)
-  );
-
   return (
-    <div className="space-y-3">
-      {/* Etiqueta */}
-      <div className="flex items-center gap-2">
-        <span className={cn(
-          "text-xs font-semibold px-2.5 py-1 rounded-full border",
-          COLORES_SECCION[seccion.tipo] ?? "bg-secondary text-muted-foreground border-border"
-        )}>
-          {etiquetaSeccion(seccion)}
-        </span>
-        {acordesTranspuestos.length > 0 && (
-          <div className="flex items-center gap-1.5 flex-wrap">
-            {acordesTranspuestos.map((a, i) => (
-              <span key={i} className="text-xs font-mono text-blue-400 bg-blue-500/10 px-1.5 py-0.5 rounded">
-                {a}
-              </span>
-            ))}
-          </div>
-        )}
-      </div>
-      {/* Contenido */}
-      <pre className="font-sans text-sm text-foreground/90 leading-relaxed whitespace-pre-wrap">
-        {seccion.contenido}
-      </pre>
+    <div className="space-y-2">
+      {/* Etiqueta de sección */}
+      <span className={cn(
+        "inline-block text-xs font-semibold px-2.5 py-1 rounded-full border",
+        COLORES_SECCION[seccion.tipo] ?? "bg-secondary text-muted-foreground border-border"
+      )}>
+        {etiquetaSeccion(seccion)}
+      </span>
+
+      {/* Formato nuevo: líneas con acordes posicionados */}
+      {seccion.lineas && seccion.lineas.length > 0 && (
+        <div className="space-y-1">
+          {seccion.lineas.map((linea, i) => (
+            <LineaConAcordes
+              key={i}
+              texto={linea.texto}
+              acordes={linea.acordes}
+              semitonos={semitonos}
+              tonalidad={tonalidad}
+            />
+          ))}
+        </div>
+      )}
+
+      {/* Formato legacy: texto plano */}
+      {!seccion.lineas && seccion.contenido && (
+        <pre className="font-mono text-sm text-foreground/90 leading-relaxed whitespace-pre-wrap">
+          {seccion.contenido}
+        </pre>
+      )}
     </div>
   );
 }

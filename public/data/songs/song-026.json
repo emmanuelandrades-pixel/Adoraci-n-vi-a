@@ -23,13 +23,146 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F/A",
-            "G",
-            "F"
-          ],
-          "contenido": "Él es celoso de mí,\nSu amor es un huracán, un árbol soy yo,\nDoblándose por el viento de su grandeza.\nCuando de repente,\nMis aflicciones se eclipsan por su presencia\nY al estar allí reconozco tu amor\nY cuan grande es tu afecto por mí.\nOh, cuánto nos ama Dios,\nCuánto nos ama,\nCuánto nos ama Dios\nÉl nos ama,\nCuánto nos ama\nCuánto nos ama\nCuánto nos ama\nSomos su herencia, Él es nuestra meta\nAtraídos a Él por su gracia y amor\nSi su gracia es un mar nos estamos hundiendo\nEl cielo y la tierra como un beso se encuentran\nY mi corazón arde dentro de mi\nY no tengo tiempo para estar mirando atrás\nCuando pienso que... Dios"
+          "lineas": [
+            {
+              "texto": "Él es celoso de mí,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Su amor es un huracán, un árbol soy yo,",
+              "acordes": [
+                {
+                  "acorde": "F/A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Doblándose por el viento de su grandeza.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Cuando de repente,",
+              "acordes": []
+            },
+            {
+              "texto": "Mis aflicciones se eclipsan por su presencia",
+              "acordes": []
+            },
+            {
+              "texto": "Y al estar allí reconozco tu amor",
+              "acordes": []
+            },
+            {
+              "texto": "Y cuan grande es tu afecto por mí.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Oh, cuánto nos ama Dios,",
+              "acordes": []
+            },
+            {
+              "texto": "Cuánto nos ama,",
+              "acordes": []
+            },
+            {
+              "texto": "Cuánto nos ama Dios",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Él nos ama,",
+              "acordes": []
+            },
+            {
+              "texto": "Cuánto nos ama",
+              "acordes": []
+            },
+            {
+              "texto": "Cuánto nos ama",
+              "acordes": []
+            },
+            {
+              "texto": "Cuánto nos ama",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Somos su herencia, Él es nuestra meta",
+              "acordes": []
+            },
+            {
+              "texto": "Atraídos a Él por su gracia y amor",
+              "acordes": []
+            },
+            {
+              "texto": "Si su gracia es un mar nos estamos hundiendo",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "El cielo y la tierra como un beso se encuentran",
+              "acordes": []
+            },
+            {
+              "texto": "Y mi corazón arde dentro de mi",
+              "acordes": []
+            },
+            {
+              "texto": "Y no tengo tiempo para estar mirando atrás",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando pienso que... Dios",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

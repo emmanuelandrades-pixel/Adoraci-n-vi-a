@@ -23,15 +23,341 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G",
-            "D",
-            "Em7",
-            "D/F#",
-            "Gmaj7"
-          ],
-          "contenido": "En Espíritu y en Verdad\nEl mismo Dios creador de estrellas\nEl hacedor del cielo y tierra.\nQuien dibujó el amanecer es aquel que acusado fue.\nLas manos que nos dieron vida\nY que del polvo nos formaron.\nManos que fueron traspasadas para comprar mi libertad.\nJesús, Hijo de Dios que grande el costo de mi redención\nMi Salvador, Eterno Rey toda mi alma ante tus pies se postra.\nEl mismo hombre crucificado,\nEl mismo que cargó mi culpa,\nSe levantó y venció la muerte Él es Rey, Él es Rey.\nJesús, Hijo de Dios todo te rinde adoración\nDigno eres Tú, Eterno Rey toda creación ante tus pies\nC | Em7 | Gmaj7\nSe postra\nAleluya a nuestro Dios al Cordero y el León\nAleluya a nuestro Rey Él venció, Él venció.\nAleluya a nuestro Dios al Cordero y el León\nD|D|\nAleluya a nuestro Rey Él venció, Él venció."
+          "lineas": [
+            {
+              "texto": "En Espíritu y en Verdad",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "El mismo Dios creador de estrellas",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "El hacedor del cielo y tierra.",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Quien dibujó el amanecer es aquel que acusado fue.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 23
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Las manos que nos dieron vida",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Y que del polvo nos formaron.",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Manos que fueron traspasadas para comprar mi libertad.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 23
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Jesús, Hijo de Dios que grande el costo de mi redención",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 31
+                },
+                {
+                  "acorde": "D",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "Mi Salvador, Eterno Rey toda mi alma ante tus pies se postra.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 34
+                },
+                {
+                  "acorde": "D",
+                  "pos": 49
+                },
+                {
+                  "acorde": "C",
+                  "pos": 56
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "El mismo hombre crucificado,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "El mismo que cargó mi culpa,",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Se levantó y venció la muerte Él es Rey, Él es Rey.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 37
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 46
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Jesús, Hijo de Dios todo te rinde adoración",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 29
+                },
+                {
+                  "acorde": "D",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Digno eres Tú, Eterno Rey toda creación ante tus pies",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 22
+                },
+                {
+                  "acorde": "G",
+                  "pos": 41
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 47
+                },
+                {
+                  "acorde": "D",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "C | Em7 | Gmaj7",
+              "acordes": []
+            },
+            {
+              "texto": "Se postra",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Aleluya a nuestro Dios al Cordero y el León",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 37
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 42
+                }
+              ]
+            },
+            {
+              "texto": "Aleluya a nuestro Rey Él venció, Él venció.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 37
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 42
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 7,
+          "lineas": [
+            {
+              "texto": "Aleluya a nuestro Dios al Cordero y el León",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 37
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 42
+                }
+              ]
+            },
+            {
+              "texto": "C                            Em7        D|D|",
+              "acordes": []
+            },
+            {
+              "texto": "Aleluya a nuestro Rey Él venció, Él venció.",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

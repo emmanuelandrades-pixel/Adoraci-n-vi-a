@@ -23,14 +23,220 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "D",
-            "Em7",
-            "G/B"
-          ],
-          "contenido": "Tu fidelidad, tus promesas sobre mí\nSé que cumplirás\nComo lluvia sobre el mar\nAbundantemente entregarás\nTú me guiarás, tú me guiarás\nAunque cambien de lugar las montañas\nAunque tiemblen las colinas Él no cambiará\nY cantaré confiado sin dudar\nY tú me sostendrás por la eternidad\nInterludio: G – C - Em7 - D - G/B - C - Em7 – D\nY no temeré, avergonzado no seré\nTú a mi lado estás, no me abandonarás"
+          "lineas": [
+            {
+              "texto": "Tu fidelidad, tus promesas sobre mí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Sé que cumplirás",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Como lluvia sobre el mar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Abundantemente entregarás",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Tú me guiarás, tú me guiarás",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Aunque cambien de lugar las montañas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 25
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Aunque tiemblen las colinas Él no cambiará",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 28
+                },
+                {
+                  "acorde": "D",
+                  "pos": 32
+                },
+                {
+                  "acorde": "G",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Y cantaré confiado sin dudar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Y tú me sostendrás por la eternidad",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "G",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Interludio: G – C - Em7 - D - G/B - C - Em7 – D",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Y no temeré, avergonzado no seré",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Tú a mi lado estás, no me abandonarás",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                }
+              ]
+            }
+          ]
         }
       ]
     }

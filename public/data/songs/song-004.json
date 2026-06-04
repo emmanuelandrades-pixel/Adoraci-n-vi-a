@@ -23,14 +23,239 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "E",
-            "D/F#",
-            "F#m"
-          ],
-          "contenido": "Michael W. Smith\nAle - lu - ya,\nAle - luya\nNuestro Dios poderoso es Rey\nAle – lu – ya\nSa…an – to, Santo\nEres tú Dios poderoso Rey\nDigno eres Tú, Cordero de Dios\nTú eres Santo, Santo\nEres tú Dios poderoso Rey\nDigno eres Tú, Cordero de Dios\nAa…aa – mén"
+          "lineas": [
+            {
+              "texto": "Michael W. Smith",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Ale - lu - ya,",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Ale - luya",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro Dios poderoso es Rey",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 13
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Ale – lu – ya",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Sa…an – to, Santo",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "E",
+                  "pos": 13
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Eres tú Dios poderoso Rey",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 16
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Digno eres Tú, Cordero de Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Tú eres Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Eres tú Dios poderoso Rey",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 17
+                },
+                {
+                  "acorde": "E",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Digno eres Tú, Cordero de Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Aa…aa – mén",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
         }
       ]
     }

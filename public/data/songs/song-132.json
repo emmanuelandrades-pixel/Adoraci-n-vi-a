@@ -23,15 +23,267 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Gm",
-            "Eb",
-            "Bb",
-            "F/A",
-            "F",
-            "Cm"
-          ],
-          "contenido": "Anthony Skinner, Chris Mcclarney\nNada nos separará\nAunque quiera escapar de ti\nTu amor nunca falla\nSé que me he equivocado\nTú me perdonas una y otra vez\nTu amor nunca falla\nTú sigues siendo el mismo\nTu amor nunca cambia\nY si hay dolor en la noche\nEl gozo viene en la mañana\nY si el mar se levanta\nNada tengo que temer\nPorque yo sé que me amas\nTu amor nunca falla\nEs fuerte el viento y profundo el mar\nYo no estoy solo, Tú estás junto a mi\nTu amor nunca falla\nEl desafío es grande\nJamás pensé que lo podría lograr\nTu amor nunca falla\nJesús, tu haces que todo sea para mi bien"
+          "lineas": [
+            {
+              "texto": "Anthony Skinner, Chris Mcclarney",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Nada nos separará",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Aunque quiera escapar de ti",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor nunca falla",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 17
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Sé que me he equivocado",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Tú me perdonas una y otra vez",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor nunca falla",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 15
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú sigues siendo el mismo",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor nunca cambia",
+              "acordes": [
+                {
+                  "acorde": "Cm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Y si hay dolor en la noche",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "El gozo viene en la mañana",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Y si el mar se levanta",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Nada tengo que temer",
+              "acordes": [
+                {
+                  "acorde": "Cm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Porque yo sé que me amas",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor nunca falla",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Es fuerte el viento y profundo el mar",
+              "acordes": []
+            },
+            {
+              "texto": "Yo no estoy solo, Tú estás junto a mi",
+              "acordes": []
+            },
+            {
+              "texto": "Tu amor nunca falla",
+              "acordes": []
+            },
+            {
+              "texto": "El desafío es grande",
+              "acordes": []
+            },
+            {
+              "texto": "Jamás pensé que lo podría lograr",
+              "acordes": []
+            },
+            {
+              "texto": "Tu amor nunca falla",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús, tu haces que todo sea para mi bien",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

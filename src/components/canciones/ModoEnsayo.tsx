@@ -158,7 +158,6 @@ export function ModoEnsayo({ id }: Props) {
         {/* Secciones */}
         {secciones.map((seccion, idx) => {
           const esActual = idx === seccionIdx;
-          const acordes = seccion.acordes.map((a) => transponerAcorde(a, semitonos, version.tonalidad));
 
           return (
             <div
@@ -172,29 +171,45 @@ export function ModoEnsayo({ id }: Props) {
               )}
             >
               {/* Etiqueta */}
-              <div className="flex items-center gap-3 mb-3">
-                <span className={cn(
-                  "text-xs font-bold tracking-widest",
-                  COLORES[seccion.tipo] ?? "text-white/50"
-                )}>
+              <div className="mb-3">
+                <span className={cn("text-xs font-bold tracking-widest", COLORES[seccion.tipo] ?? "text-white/50")}>
                   {seccion.numero ? `${ETIQUETAS[seccion.tipo] ?? seccion.tipo} ${seccion.numero}` : ETIQUETAS[seccion.tipo] ?? seccion.tipo}
                 </span>
-                <div className="flex gap-1.5">
-                  {acordes.map((a, i) => (
-                    <span key={i} className="text-xs font-mono text-blue-400 bg-blue-500/15 px-1.5 py-0.5 rounded">
-                      {a}
-                    </span>
-                  ))}
-                </div>
               </div>
 
-              {/* Letra */}
-              <pre
-                className="font-sans text-white/90 leading-relaxed whitespace-pre-wrap"
-                style={{ fontSize: `${fontSize}px` }}
-              >
-                {seccion.contenido}
-              </pre>
+              {/* Formato nuevo: líneas con acordes posicionados */}
+              {seccion.lineas && seccion.lineas.length > 0 && (
+                <div className="space-y-1">
+                  {seccion.lineas.map((linea, i) => {
+                    // Construir línea de acordes posicionada
+                    let lineaAcordes = "";
+                    for (const { acorde, pos } of linea.acordes) {
+                      const a = transponerAcorde(acorde, semitonos, version.tonalidad);
+                      while (lineaAcordes.length < pos) lineaAcordes += " ";
+                      lineaAcordes += a + " ";
+                    }
+                    return (
+                      <div key={i} style={{ fontSize: `${Math.round(fontSize * 0.8)}px` }}>
+                        {linea.acordes.length > 0 && (
+                          <pre className="font-mono text-blue-400 font-semibold whitespace-pre leading-snug select-none">
+                            {lineaAcordes}
+                          </pre>
+                        )}
+                        <pre className="font-mono text-white/90 whitespace-pre leading-snug" style={{ fontSize: `${fontSize}px` }}>
+                          {linea.texto}
+                        </pre>
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+
+              {/* Formato legacy */}
+              {!seccion.lineas && seccion.contenido && (
+                <pre className="font-mono text-white/90 leading-relaxed whitespace-pre-wrap" style={{ fontSize: `${fontSize}px` }}>
+                  {seccion.contenido}
+                </pre>
+              )}
             </div>
           );
         })}

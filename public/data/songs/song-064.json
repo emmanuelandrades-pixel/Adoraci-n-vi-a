@@ -23,15 +23,112 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Camila Bravo"
+          "lineas": [
+            {
+              "texto": "Camila Bravo",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [],
-          "contenido": "Guíame y te seguiré\nMuéstrame tu camino\nTe suplico que me ayudes\nEn esto\nOh grandioso Dios\nEres un perfecto amor\nOh grandioso Dios\nEres perfecto en todo sentido\nTodo lo que has creado\nCada detalle es perfecto\nQuiero que todos sepan\nTodo el amor que puedes dar\nQue es infinito\nInfinito\nEs un gozo seguirte\nAdorarte, alabarte\nMe siento más cerca de ti\nMuy cerca de ti"
+          "lineas": [
+            {
+              "texto": "Guíame y te seguiré",
+              "acordes": []
+            },
+            {
+              "texto": "Muéstrame tu camino",
+              "acordes": []
+            },
+            {
+              "texto": "Te suplico que me ayudes",
+              "acordes": []
+            },
+            {
+              "texto": "En esto",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Oh grandioso Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Eres un perfecto amor",
+              "acordes": []
+            },
+            {
+              "texto": "Oh grandioso Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Eres perfecto en todo sentido",
+              "acordes": []
+            },
+            {
+              "texto": "Todo lo que has creado",
+              "acordes": []
+            },
+            {
+              "texto": "Cada detalle es perfecto",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Quiero que todos sepan",
+              "acordes": []
+            },
+            {
+              "texto": "Todo el amor que puedes dar",
+              "acordes": []
+            },
+            {
+              "texto": "Que es infinito",
+              "acordes": []
+            },
+            {
+              "texto": "Infinito",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Es un gozo seguirte",
+              "acordes": []
+            },
+            {
+              "texto": "Adorarte, alabarte",
+              "acordes": []
+            },
+            {
+              "texto": "Me siento más cerca de ti",
+              "acordes": []
+            },
+            {
+              "texto": "Muy cerca de ti",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

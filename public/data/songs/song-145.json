@@ -23,14 +23,305 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "D",
-            "C",
-            "Am",
-            "Em"
-          ],
-          "contenido": "United Pursuit\nCapo 4\nYou are the light, Song of my life\nYou always lead me, You are the voice inside\nYou are my love, No one before You\nAll that I am, Points to You\nAnd I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\nYou are the light, Song of my life\nYou always lead me, You are the voice inside\nYou are my love, No one before You\nAll that I am, Points to You\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm a new creation\nI'm forever changed\nIn you, is all I need\nYou’re my breath, you’re my life, you’re my everything"
+          "lineas": [
+            {
+              "texto": "United Pursuit",
+              "acordes": []
+            },
+            {
+              "texto": "Capo 4",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "You are the light, Song of my life",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "You always lead me, You are the voice inside",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "You are my love, No one before You",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "All that I am, Points to You",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "And I was made by You",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "I was made for You",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "I am unfulfilled",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Without full communion",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "You are the light, Song of my life",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "You always lead me, You are the voice inside",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "You are my love, No one before You",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "All that I am, Points to You",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Since Your love got a hold of me",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Since Your love got a hold of me",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "I'm a new creation",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "I'm forever changed",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "In you, is all I need",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "You’re my breath, you’re my life, you’re my everything",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                },
+                {
+                  "acorde": "D",
+                  "pos": 41
+                },
+                {
+                  "acorde": "G",
+                  "pos": 48
+                }
+              ]
+            }
+          ]
         }
       ]
     }

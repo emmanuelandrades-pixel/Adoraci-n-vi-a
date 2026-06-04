@@ -23,13 +23,198 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C#m",
-            "B",
-            "A",
-            "E"
-          ],
-          "contenido": "Cory Asbury\nAntes de hablar,\nTú cantabas sobre mí,\nBueno has sido para mi\nAntes de respirar,\nSoplaste tu aliento en mí,\nDulce has sido para mi\nTan inmenso, tan inagotable\nEs tu intenso amor\nMe persigue y deja a las\nNoventa y nueve y va por mi\nNo lo merezco, ni lo merecía\nY aún te entregaste por mi\nTan inmenso, tan inagotable\nEs tu intenso amor\nTu enemigo fui\nPero tu amor lucho por mí,\nBueno has sido para mi\nMe sentí sin valor\nPero tu amor pagó por mi\nDulce has sido para mi\nNo hay sombra que no alumbres\nNi monte que no escales\nCuando vienes por mi\nNo hay muro que no rompas\nMentira que se oponga\nCuando vienes por mi"
+          "lineas": [
+            {
+              "texto": "Cory Asbury",
+              "acordes": []
+            },
+            {
+              "texto": "Antes de hablar,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Tú cantabas sobre mí,",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Bueno has sido para mi",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Antes de respirar,",
+              "acordes": []
+            },
+            {
+              "texto": "Soplaste tu aliento en mí,",
+              "acordes": []
+            },
+            {
+              "texto": "Dulce has sido para mi",
+              "acordes": []
+            },
+            {
+              "texto": "Tan inmenso, tan inagotable",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Es tu intenso amor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Me persigue y deja a las",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Noventa y nueve y va por mi",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 10
+                },
+                {
+                  "acorde": "E",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "No lo merezco, ni lo merecía",
+              "acordes": []
+            },
+            {
+              "texto": "Y aún te entregaste por mi",
+              "acordes": []
+            },
+            {
+              "texto": "Tan inmenso, tan inagotable",
+              "acordes": []
+            },
+            {
+              "texto": "Es tu intenso amor",
+              "acordes": []
+            },
+            {
+              "texto": "Tu enemigo fui",
+              "acordes": []
+            },
+            {
+              "texto": "Pero tu amor lucho por mí,",
+              "acordes": []
+            },
+            {
+              "texto": "Bueno has sido para mi",
+              "acordes": []
+            },
+            {
+              "texto": "Me sentí sin valor",
+              "acordes": []
+            },
+            {
+              "texto": "Pero tu amor pagó por mi",
+              "acordes": []
+            },
+            {
+              "texto": "Dulce has sido para mi",
+              "acordes": []
+            },
+            {
+              "texto": "No hay sombra que no alumbres",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Ni monte que no escales",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Cuando vienes por mi",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "No hay muro que no rompas",
+              "acordes": []
+            },
+            {
+              "texto": "Mentira que se oponga",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando vienes por mi",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

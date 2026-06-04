@@ -23,22 +23,284 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C#m"
-          ],
-          "contenido": "TOMA TU LUGAR\nExiste un trono"
+          "lineas": [
+            {
+              "texto": "TOMA TU LUGAR",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "A",
-            "C#m",
-            "B",
-            "E"
-          ],
-          "contenido": "Colocado en el más alto lugar\nRodeado de ángeles\nDonde Dios reina\nY en mi vida Él gobierna\nY este Rey vino a mí\nCon sus ojos en llamas\nLe pregunté sobre sus ojos\nSonriendo me dijo que:\nEl fuego nunca duerme\nEl fuego no se apaga\nNo se apagará no oh\nDios nunca muere\nDios nunca es vencido\nNunca es vencido\nC#m …\nExiste un amor más celoso que la muerte\nToda mi vida Él gobierna / x4\nAlto más alto, Alto más alto\nLevantamos hoy tu nombre,\nLevantamos hoy tu nombre"
+          "lineas": [
+            {
+              "texto": "Existe un trono",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Colocado en el más alto lugar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Rodeado de ángeles",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Donde Dios reina",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Y en mi vida Él gobierna",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 13
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Y este Rey vino a mí",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Con sus ojos en llamas",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Le pregunté sobre sus ojos",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Sonriendo me dijo que:",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "El fuego nunca duerme",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "El fuego no se apaga",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "No se apagará no oh",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Dios nunca muere",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Dios nunca es vencido",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Nunca es vencido",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "C#m …                               A",
+              "acordes": []
+            },
+            {
+              "texto": "Existe un amor más celoso que la muerte",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Toda mi vida Él gobierna / x4",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 7,
+          "lineas": [
+            {
+              "texto": "Alto más alto, Alto más alto",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Levantamos hoy tu nombre,",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Levantamos hoy tu nombre",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 23
+                }
+              ]
+            }
+          ]
         }
       ]
     }

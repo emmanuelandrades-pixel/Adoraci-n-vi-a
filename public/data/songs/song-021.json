@@ -23,8 +23,12 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Vastián Valenzuela"
+          "lineas": [
+            {
+              "texto": "Vastián Valenzuela",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

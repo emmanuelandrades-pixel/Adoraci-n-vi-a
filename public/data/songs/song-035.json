@@ -23,14 +23,178 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "B",
-            "F#",
-            "G#m",
-            "E",
-            "C#m"
-          ],
-          "contenido": "Jeremy Riddle\nMiro a la cruz, de ella me sostendré\nDe su sufrimiento beberé, de su obra cantaré\nMi salvador en ella, todo maltratado\nDemostró que Dios, es justicia y amor\nEn la cruz Tú me cautivas\nSuavemente me arrodillas estoy\nSin palabras enamorado\nDulcemente quebrantado\nY sin merecer, el regalo de la vida\nCristo me has dado, por medio de la cruz\nTú me has llamado, de la muerte a la vida\nTu ira merecía, hoy por la cruz reconciliados\nAsombrado en la cruz confesaré\nQue grandioso es tu amor redentor\nY tú fidelidad"
+          "lineas": [
+            {
+              "texto": "Jeremy Riddle",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Miro a la cruz, de ella me sostendré",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "De su sufrimiento beberé, de su obra cantaré",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 20
+                },
+                {
+                  "acorde": "E",
+                  "pos": 42
+                }
+              ]
+            },
+            {
+              "texto": "Mi salvador en ella, todo maltratado",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 17
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Demostró que Dios, es justicia y amor",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "En la cruz Tú me cautivas",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Suavemente me arrodillas estoy",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Sin palabras enamorado",
+              "acordes": []
+            },
+            {
+              "texto": "Dulcemente quebrantado",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Y sin merecer, el regalo de la vida",
+              "acordes": []
+            },
+            {
+              "texto": "Cristo me has dado, por medio de la cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Tú me has llamado, de la muerte a la vida",
+              "acordes": []
+            },
+            {
+              "texto": "Tu ira merecía, hoy por la cruz reconciliados",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Asombrado en la cruz confesaré",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Que grandioso es tu amor redentor",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Y tú fidelidad",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
         }
       ]
     }

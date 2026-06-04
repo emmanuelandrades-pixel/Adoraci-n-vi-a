@@ -23,14 +23,213 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Bm",
-            "A/C#",
-            "D",
-            "A",
-            "G"
-          ],
-          "contenido": "Tu voz me llama a las aguas\nDonde mis pies pueden fallar\nAhí te encuentro en lo incierto\nCaminaré sobre el mar\nA tu nombre clamaré\nEn ti mis ojos fijaré\nEn tempestad,\nDescansaré en tu poder\nPues tuyo soy\nA Bm - A/C# - D - A - G(Em)\nHasta el final\nTu gracia abunda en la tormenta\nTu mano Dios me guiará\nCuando hay temor en mi camino\nTú eres fiel y no cambiarás\nBm(G)\nG(D)\nQue tu espíritu me guíe sin fronteras\nD(A)\nA(Em)\nMás allá de las barreras, adonde tu me llames\nTú me llevas más allá de lo soñado\nDonde puedo estar confiado\nAl estar en tu presencia"
+          "lineas": [
+            {
+              "texto": "Tu voz me llama a las aguas",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 16
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Donde mis pies pueden fallar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Ahí te encuentro en lo incierto",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Caminaré sobre el mar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "A tu nombre clamaré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "En ti mis ojos fijaré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "En tempestad,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Descansaré en tu poder",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Pues tuyo soy",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "A Bm - A/C# - D - A - G(Em)",
+              "acordes": []
+            },
+            {
+              "texto": "Hasta el final",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tu gracia abunda en la tormenta",
+              "acordes": []
+            },
+            {
+              "texto": "Tu mano Dios me guiará",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando hay temor en mi camino",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres fiel y no cambiarás",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Bm(G)               G(D)",
+              "acordes": []
+            },
+            {
+              "texto": "Que tu espíritu me guíe sin fronteras",
+              "acordes": []
+            },
+            {
+              "texto": "D(A)                A(Em)",
+              "acordes": []
+            },
+            {
+              "texto": "Más allá de las barreras, adonde tu me llames",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Tú me llevas más allá de lo soñado",
+              "acordes": []
+            },
+            {
+              "texto": "Donde puedo estar confiado",
+              "acordes": []
+            },
+            {
+              "texto": "Al estar en tu presencia",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

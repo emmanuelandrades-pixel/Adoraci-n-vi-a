@@ -23,15 +23,257 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Eb",
-            "Bb",
-            "F",
-            "Gm",
-            "Cm",
-            "Bb/D"
-          ],
-          "contenido": "Brian Johnson, Jeremy Riddle, Christa Black\nMás alto que los montes frente a mi\nMás fuerte que la muerte y su poder\nConstante en las pruebas y el dolor\nTu amor\npermanece fiel\nTu amor nunca falla, nunca se acaba\nNunca me dejará (3x)\nTu amor\nPorque sigue, sigue y siempre seguirá\nTu amor llena y satisface mi alma\nY jamás tendré que volver a temer\nTu amor permanece fiel\nEn la vida, en la muerte\nSe que Tú me cubres con\nEl poder de tu inmenso amor\nMi pecado fue pagado\nNo hay nada que me pueda separar\nDe tu gran amor"
+          "lineas": [
+            {
+              "texto": "Brian Johnson, Jeremy Riddle, Christa Black",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Más alto que los montes frente a mi",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Más fuerte que la muerte y su poder",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 19
+                },
+                {
+                  "acorde": "F",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Constante en las pruebas y el dolor",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor      permanece fiel",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tu amor nunca falla, nunca se acaba",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Nunca me dejará (3x)",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Porque sigue, sigue y siempre seguirá",
+              "acordes": []
+            },
+            {
+              "texto": "Tu amor llena y satisface mi alma",
+              "acordes": []
+            },
+            {
+              "texto": "Y jamás tendré que volver a temer",
+              "acordes": []
+            },
+            {
+              "texto": "Tu amor permanece fiel",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "En la vida, en la muerte",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Se que Tú me cubres con",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "El poder de tu inmenso amor",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bb/D",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Mi pecado fue pagado",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "No hay nada que me pueda separar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 24
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "De tu gran amor",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,67 +23,323 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D"
-          ],
-          "contenido": "Un Corazón\nDicen que Dios tiene sueños"
+          "lineas": [
+            {
+              "texto": "Un Corazón",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "D",
-            "G"
-          ],
-          "contenido": "Ya no hay nada que temer, ooh-oh"
+          "lineas": [
+            {
+              "texto": "Dicen que Dios tiene sueños                Ya no hay nada que temer, ooh-oh",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 43
+                },
+                {
+                  "acorde": "G",
+                  "pos": 57
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "G",
-            "Bm",
-            "D"
-          ],
-          "contenido": "Ocho billones de sueños\nDicen que eres uno de ellos\n¡Mira qué hermoso destello eres de Él!"
+          "lineas": [
+            {
+              "texto": "Ocho billones de sueños                     Bm                     G",
+              "acordes": []
+            },
+            {
+              "texto": "G                                         Todos a la mesa, nadie queda fuera",
+              "acordes": []
+            },
+            {
+              "texto": "Dicen que eres uno de ellos                 D               G",
+              "acordes": []
+            },
+            {
+              "texto": "Bm           G            D              Ya no hay tiempo que perder",
+              "acordes": []
+            },
+            {
+              "texto": "¡Mira qué hermoso destello eres de Él!      Bm             G",
+              "acordes": []
+            },
+            {
+              "texto": "Esta es la promesa, gracia y vida eterna",
+              "acordes": []
+            },
+            {
+              "texto": "Dicen que hay una casa                     Ya no hay nada que temer",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 43
+                },
+                {
+                  "acorde": "G",
+                  "pos": 58
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s004",
           "tipo": "verso",
           "numero": 3,
-          "acordes": [
-            "Bm",
-            "G",
-            "D"
-          ],
-          "contenido": "Todos a la mesa, nadie queda fuera\nYa no hay tiempo que perder\nEsta es la promesa, gracia y vida eterna\nYa no hay nada que temer"
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "acordes": [
-            "D",
-            "G",
-            "Bm"
-          ],
-          "contenido": "Dicen que hay una casa\nEn donde el tiempo no pasa\nDicen que no está muy lejos\nPuedes llegar si te atreves a creer\nTodos a la mesa, nadie queda fuera\nYa no hay tiempo que perder\nEsta es la promesa, gracia y vida eterna\nYa no hay nada que temer, ooh-oh\n( D G Bm/G )\nDicen que hay un banquete inagotable y\ncreciente\nDicen que el Rey quiere verte\nHay un lugar preparado para ti\nHay un lugar preparado para mí\nTodos a la mesa, nadie queda fuera\nYa no hay tiempo que perder\nEsta es la promesa, gracia y vida eterna"
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "acordes": [
-            "D",
-            "Em",
-            "Bm",
-            "G",
-            "A",
-            "D/F#"
-          ],
-          "contenido": "Oh-oh-oh, oh-oh-oh-oh-oh\nYa no hay nada que temer\nOh-oh-oh, oh-oh-oh-oh-oh\nYa no hay nada que temer\nDicen que Dios tiene sueños\nOcho billones de sueños\nDicen que eres uno de ellos\n¡Mira qué hermoso destello eres de Él!\n¡Mira qué hermoso destello eres de Él!\nUn lisiado a la mesa se sentó\nCon vergüenza, sus heridas, ocultó\nMás, al Rey, no le importó su condición\nBienvenido, hijo mío, declaró\nY el lisiado en la historia era yo"
+          "lineas": [
+            {
+              "texto": "En donde el tiempo no pasa                  D          Em",
+              "acordes": []
+            },
+            {
+              "texto": "G                                          Oh-oh-oh, oh-oh-oh-oh-oh",
+              "acordes": []
+            },
+            {
+              "texto": "Dicen que no está muy lejos                 Bm             G",
+              "acordes": []
+            },
+            {
+              "texto": "Bm               G         D              Ya no hay nada que temer",
+              "acordes": []
+            },
+            {
+              "texto": "Puedes llegar si te atreves a creer         D         Em",
+              "acordes": []
+            },
+            {
+              "texto": "Oh-oh-oh, oh-oh-oh-oh-oh",
+              "acordes": []
+            },
+            {
+              "texto": "Todos a la mesa, nadie queda fuera         Ya no hay nada que temer",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 43
+                },
+                {
+                  "acorde": "G",
+                  "pos": 58
+                }
+              ]
+            },
+            {
+              "texto": "Ya no hay tiempo que perder                 D",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Bm             G                           Dicen que Dios tiene sueños",
+              "acordes": []
+            },
+            {
+              "texto": "Esta es la promesa, gracia y vida eterna                Em",
+              "acordes": []
+            },
+            {
+              "texto": "D             G       D                   Ocho billones de sueños",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no hay nada que temer, ooh-oh            Bm",
+              "acordes": []
+            },
+            {
+              "texto": "Dicen que eres uno de ellos",
+              "acordes": []
+            },
+            {
+              "texto": "( D G Bm/G )                                            G                     Bm",
+              "acordes": []
+            },
+            {
+              "texto": "¡Mira qué hermoso destello eres de Él!",
+              "acordes": []
+            },
+            {
+              "texto": "Dicen que hay un banquete inagotable y     ¡Mira qué hermoso destello eres de Él!",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 59
+                },
+                {
+                  "acorde": "D",
+                  "pos": 71
+                }
+              ]
+            },
+            {
+              "texto": "creciente",
+              "acordes": []
+            },
+            {
+              "texto": "Dicen que el Rey quiere verte              Un lisiado a la mesa se sentó",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 43
+                },
+                {
+                  "acorde": "G",
+                  "pos": 55
+                },
+                {
+                  "acorde": "D",
+                  "pos": 64
+                }
+              ]
+            },
+            {
+              "texto": "Hay un lugar preparado para ti             Con vergüenza, sus heridas, ocultó",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "D",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 57
+                },
+                {
+                  "acorde": "A",
+                  "pos": 65
+                }
+              ]
+            },
+            {
+              "texto": "Hay un lugar preparado para mí             Más, al Rey, no le importó su condición",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 61
+                },
+                {
+                  "acorde": "A",
+                  "pos": 69
+                }
+              ]
+            },
+            {
+              "texto": "Bm             G                           Bienvenido, hijo mío, declaró",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 44
+                },
+                {
+                  "acorde": "A",
+                  "pos": 54
+                },
+                {
+                  "acorde": "D",
+                  "pos": 62
+                }
+              ]
+            },
+            {
+              "texto": "Todos a la mesa, nadie queda fuera",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no hay tiempo que perder                   G         A          D",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Bm               G                         Y el lisiado en la historia era yo",
+              "acordes": []
+            },
+            {
+              "texto": "Esta es la promesa, gracia y vida eterna",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

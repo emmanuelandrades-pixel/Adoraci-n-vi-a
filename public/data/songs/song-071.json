@@ -23,70 +23,251 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G",
-            "D"
-          ],
-          "contenido": "Majo y Dan\nSolía vivir la vida en temor\nY me encontró\nUn camino mejor"
+          "lineas": [
+            {
+              "texto": "Majo y Dan",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "C",
-            "G",
-            "D"
-          ],
-          "contenido": "Y crucificado junto a ti\nYa no vivo yo\nTú vives en mí"
+          "lineas": [
+            {
+              "texto": "Solía vivir la vida en temor   Y crucificado junto a ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                },
+                {
+                  "acorde": "G",
+                  "pos": 51
+                }
+              ]
+            },
+            {
+              "texto": "Y me encontró                  Ya no vivo yo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 31
+                },
+                {
+                  "acorde": "C",
+                  "pos": 43
+                }
+              ]
+            },
+            {
+              "texto": "Un camino mejor                Tú vives en mí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 16
+                },
+                {
+                  "acorde": "G",
+                  "pos": 44
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "C",
-            "G",
-            "D"
-          ],
-          "contenido": "Toda mi carga Y condenación\nCambiada fue\npor tu gracia y perdón"
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "acordes": [
-            "C",
-            "D",
-            "Em",
-            "Bm"
-          ],
-          "contenido": "Y no hay nada más\nQue pueda aportar\nTu gracia Jesús\nMe bastará"
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "acordes": [
-            "D",
-            "Em",
-            "C",
-            "G"
-          ],
-          "contenido": "Y no me hace falta nada ya\nNo yo sino Cristo\nNo yo sino Cristo\nLo que fui no soy más\nTú en mí vivo estás\nNo yo solo Cristo"
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "acordes": [
-            "C",
-            "D",
-            "Em",
-            "G"
-          ],
-          "contenido": "Y consumado fue\nPor la fe puedo ver\nY este corazón\nTodo tuyo es\nY hoy mi adoración\nVengo a darte Señor\nEres mi porción\nPara siempre"
+          "lineas": [
+            {
+              "texto": "Toda mi carga Y condenación    Y no hay nada más",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Cambiada fue                   Que pueda aportar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 42
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 47
+                }
+              ]
+            },
+            {
+              "texto": "por tu gracia y perdón         Tu gracia Jesús",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 31
+                },
+                {
+                  "acorde": "C",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "D      Em C     Me bastará",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Y no me hace falta nada ya",
+              "acordes": []
+            },
+            {
+              "texto": "G           C G                Y consumado fue",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "No yo sino Cristo                      D     Em",
+              "acordes": []
+            },
+            {
+              "texto": "C G                Por la fe puedo ver",
+              "acordes": []
+            },
+            {
+              "texto": "No yo sino Cristo              C",
+              "acordes": []
+            },
+            {
+              "texto": "Y este corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Lo que fui no soy más               Todo tuyo es",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Tú en mí vivo estás                 Y hoy mi adoración",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "No yo solo Cristo                   Vengo a darte Señor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 48
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 54
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi porción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Para siempre",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
         }
       ]
     }

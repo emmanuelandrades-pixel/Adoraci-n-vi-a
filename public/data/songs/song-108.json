@@ -23,13 +23,258 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Bm",
-            "D",
-            "A",
-            "G"
-          ],
-          "contenido": "Broken vassels (Amazing Grace)\nJoel Houston, Jonas Mirin\nMi alma estaba rota y herida\nPero tu gracia la restauró\nManos vacías que tú llenaste\nSoy libre en ti\nSoy libre en ti\nSublime gracia del Señor\nQue a un pecador salvó\nFui ciego más hoy veo yo\nPerdido y Él me halló\nAhora puedo ver\nOh puedo ver sus ojos de amor\nQuebrantado fue\nPara darnos su salvación\nTú no me juzgas por mis fracasos\nTú me aceptas tal como soy\nToma mi vida como vasija\nPara mostrar tu gloria en mi"
+          "lineas": [
+            {
+              "texto": "Broken vassels (Amazing Grace)",
+              "acordes": []
+            },
+            {
+              "texto": "Joel Houston, Jonas Mirin",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Mi alma estaba rota y herida",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Pero tu gracia la restauró",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Manos vacías que tú llenaste",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Soy libre en ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Soy libre en ti",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Sublime gracia del Señor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Que a un pecador salvó",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Fui ciego más hoy veo yo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Perdido y Él me halló",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Ahora puedo ver",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Oh puedo ver sus ojos de amor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Quebrantado fue",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Para darnos su salvación",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Tú no me juzgas por mis fracasos",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Tú me aceptas tal como soy",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Toma mi vida como vasija",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Para mostrar tu gloria en mi",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 16
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
         }
       ]
     }

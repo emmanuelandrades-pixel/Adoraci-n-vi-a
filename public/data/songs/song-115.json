@@ -23,15 +23,277 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "G",
-            "F",
-            "C/E",
-            "Dm7",
-            "Am7"
-          ],
-          "contenido": "Evan Craft\nCapo 7\nAl mundo paz, nació Jesús\nAlégrense\nNació ya nuestro Rey\nLlego el Rey\nEl corazón ya tiene luz\nAl mundo paz\nY paz su santa grey\nBuena voluntad\nY paz su santa grey\nCristo Jesús\nY paz, y paz su santa grey\nNo hay igual\nÉl es el Rey\nAl mundo paz, el Salvador\nAlégrense\nEn tierra reinará\nY al mundo paz\nYa es feliz el pecador\nJesús perdón le da\nAl mundo Él gobernará\nJesús perdón le da\nCon gracia y con poder\nJesús, Jesús\nA las naciones Él mostrará\nPerdón le da\nSu amor y su poder\nSu amor y su poder\nSu amor, su amor y su poder"
+          "lineas": [
+            {
+              "texto": "Evan Craft",
+              "acordes": []
+            },
+            {
+              "texto": "Capo 7",
+              "acordes": []
+            },
+            {
+              "texto": "Al mundo paz, nació Jesús  Alégrense",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Nació ya nuestro Rey       Llego el Rey",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 30
+                },
+                {
+                  "acorde": "F",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "El corazón ya tiene luz    Al mundo paz",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                },
+                {
+                  "acorde": "G",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Y paz su santa grey        Buena voluntad",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 35
+                },
+                {
+                  "acorde": "F",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Y paz su santa grey        Cristo Jesús",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 32
+                },
+                {
+                  "acorde": "G",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Y paz, y paz su santa grey No hay igual",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 19
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 30
+                },
+                {
+                  "acorde": "F",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "C                          Él es el Rey",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 30
+                },
+                {
+                  "acorde": "G",
+                  "pos": 37
+                }
+              ]
+            },
+            {
+              "texto": "Al mundo paz, el Salvador  C/E      F",
+              "acordes": []
+            },
+            {
+              "texto": "F     G C              Alégrense",
+              "acordes": []
+            },
+            {
+              "texto": "En tierra reinará             Dm7          C",
+              "acordes": []
+            },
+            {
+              "texto": "C                             Y al mundo paz",
+              "acordes": []
+            },
+            {
+              "texto": "Ya es feliz el pecador",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús perdón le da         Al mundo Él gobernará",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Jesús perdón le da         Con gracia y con poder",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 32
+                },
+                {
+                  "acorde": "G",
+                  "pos": 40
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 47
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, Jesús               A las naciones Él mostrará",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Perdón le da               Su amor y su poder",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Su amor y su poder",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Su amor, su amor y su poder",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 26
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                },
+                {
+                  "acorde": "F",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
         }
       ]
     }

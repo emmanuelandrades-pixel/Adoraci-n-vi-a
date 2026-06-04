@@ -23,13 +23,187 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Am",
-            "F",
-            "C",
-            "G"
-          ],
-          "contenido": "Chris Dupre\nPues tú has venido sobre los montes, por las montañas\nCorriste hacia mí, oh Señor, tuyo es mi corazón\nConmigo danza\nEl que ama mi alma\nEscucha la canción\nYo le amo\nAl que ama mi alma\nEscucha la canción\nContigo iré, eres mi amor, eres mi dueño\nEl invierno paso y la primavera llegó"
+          "lineas": [
+            {
+              "texto": "Chris Dupre",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Pues tú has venido sobre los montes, por las montañas",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 32
+                },
+                {
+                  "acorde": "G",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "Corriste hacia mí, oh Señor, tuyo es mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 16
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G",
+                  "pos": 45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Conmigo danza",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "El que ama mi alma",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "F",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Escucha la canción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Yo le amo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Al que ama mi alma",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Escucha la canción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Contigo iré, eres mi amor, eres mi dueño",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "G",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "El invierno paso y la primavera llegó",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                },
+                {
+                  "acorde": "G",
+                  "pos": 35
+                }
+              ]
+            }
+          ]
         }
       ]
     }

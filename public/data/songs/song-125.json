@@ -23,13 +23,204 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "Em",
-            "D"
-          ],
-          "contenido": "Andy Park\nEn secreto, en mi soledad\nYo te hallo, ahí estás\nEn secreto, en silencio\nTe esperare solo a tí\nQuiero conocerte más\nQuiero conocerte\nQuiero escuchar tu voz\nQuiero conocerte más\nQuiero tocarte\nQuiero tu rostro ver\nQuiero conocerte más\nYo procuro el premio mayor\nQue me quieres entregar\nYo prosigo dejo todo\nPeso atrás, lejos de mí\nQuiero conocerte más"
+          "lineas": [
+            {
+              "texto": "Andy Park",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "En secreto, en mi soledad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Yo te hallo, ahí estás",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "En secreto, en silencio",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Te esperare solo a tí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Quiero conocerte más",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Quiero conocerte",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Quiero escuchar tu voz",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Quiero conocerte más",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Quiero tocarte",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Quiero tu rostro ver",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Quiero conocerte más",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Yo procuro el premio mayor",
+              "acordes": []
+            },
+            {
+              "texto": "Que me quieres entregar",
+              "acordes": []
+            },
+            {
+              "texto": "Yo prosigo dejo todo",
+              "acordes": []
+            },
+            {
+              "texto": "Peso atrás, lejos de mí",
+              "acordes": []
+            },
+            {
+              "texto": "Quiero conocerte más",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

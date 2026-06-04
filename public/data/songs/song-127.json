@@ -23,14 +23,204 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "D",
-            "Em",
-            "C",
-            "D/F#"
-          ],
-          "contenido": "Hillsong United\nCapo 6\nVengo ante ti postrado,\ncon todo mi ser te quiero ver,\ntuyo soy, Señor.\nMi vida pongo en tus manos,\nDios de gracia, vengo en humildad,\nEn tu presencia quiero estar.\nClamé, me oíste, me viniste a rescatar,\nContigo quiero estar.\nCon mi fe te exaltaré,\nCon mi amor te exaltaré,\nCon mi ser te exaltaré."
+          "lineas": [
+            {
+              "texto": "Hillsong United",
+              "acordes": []
+            },
+            {
+              "texto": "Capo 6",
+              "acordes": []
+            },
+            {
+              "texto": "Vengo ante ti postrado,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "con todo mi ser te quiero ver,",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "tuyo soy, Señor.",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Mi vida pongo en tus manos,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Dios de gracia, vengo en humildad,",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "En tu presencia quiero estar.",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Clamé, me oíste, me viniste a rescatar,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Contigo quiero estar.",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Con mi fe te exaltaré,",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Con mi amor te exaltaré,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Con mi ser te exaltaré.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,12 +23,102 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "F",
-            "Am"
-          ],
-          "contenido": "United Persuit\nNo hay mejor lugar\nNo hay mejor lugar\nAquí yo quiero estar\nPerdido en tu amor\nEnciende un fuego en mi corazón\nQue arda en mi ser\nFuera de control\nQuiero más de ti Dios\nQuiero más de ti Dios"
+          "lineas": [
+            {
+              "texto": "United Persuit",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "No hay mejor lugar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "No hay mejor lugar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Aquí yo quiero estar",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Perdido en tu amor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Enciende un fuego en mi corazón",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Que arda en mi ser",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Fuera de control",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Quiero más de ti Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Quiero más de ti Dios",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
         }
       ]
     }

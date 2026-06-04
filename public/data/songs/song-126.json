@@ -23,25 +23,236 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "Em",
-            "G",
-            "D"
-          ],
-          "contenido": "Hannah Hobbs, Aodhan King & Michael Fatkin\nQuieto en tu presencia\nAnte ti me presento\nQuiero oír tu voz\nTe escucho señor\nMi atención te entrego\nA tus pies yo espero\nAquí quiero estar\nMi corazón anhela más de\nti\nHaz algo nuevo en mí\nA ti me entrego Dios\nTodo en mí\nEs movido por tu amor\nCautivado por tu voz\nMi deseo es conocerte más señor"
+          "lineas": [
+            {
+              "texto": "Hannah Hobbs, Aodhan King & Michael Fatkin",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "C",
-            "D",
-            "Em",
-            "G"
-          ],
-          "contenido": "A tus pies me rendiré\nY mis miedos dejaré\nTransformado soy en tu\npresencia\nTú eres fuego en el día\nTú eres briza en la noche\nAliento en mí ser\nTú sacias mi sed\nNo hay duda alguna de tu amor y tu\nafecto\nNo hay nada igual\nMi corazón abierto esta\nMi corazón abierto está Dios\nHaz lo que quieras en mí\nHaz tu voluntad en mi Dios"
+          "lineas": [
+            {
+              "texto": "Quieto en tu presencia               A tus pies me rendiré",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 37
+                },
+                {
+                  "acorde": "D",
+                  "pos": 50
+                }
+              ]
+            },
+            {
+              "texto": "Ante ti me presento                  Y mis miedos dejaré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 49
+                }
+              ]
+            },
+            {
+              "texto": "Quiero oír tu voz                    Transformado soy en tu",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "C                           presencia",
+              "acordes": []
+            },
+            {
+              "texto": "Te escucho señor",
+              "acordes": []
+            },
+            {
+              "texto": "Mi atención te entrego               C               Em",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "G                       Tú eres fuego en el día",
+              "acordes": []
+            },
+            {
+              "texto": "A tus pies yo espero                                 G",
+              "acordes": []
+            },
+            {
+              "texto": "D                         Tú eres briza en la noche",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí quiero estar                               D",
+              "acordes": []
+            },
+            {
+              "texto": "Aliento en mí ser",
+              "acordes": []
+            },
+            {
+              "texto": "Mi corazón anhela más de       Tú sacias mi sed",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "ti                                        Em             G",
+              "acordes": []
+            },
+            {
+              "texto": "Em                             No hay duda alguna de tu amor y tu",
+              "acordes": []
+            },
+            {
+              "texto": "Haz algo nuevo en mí           afecto",
+              "acordes": []
+            },
+            {
+              "texto": "A ti me entrego Dios           No hay nada igual",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Todo en mí                           //Mi corazón abierto esta",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 46
+                },
+                {
+                  "acorde": "D",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "Es movido por tu amor                Mi corazón abierto está Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 45
+                },
+                {
+                  "acorde": "G",
+                  "pos": 54
+                }
+              ]
+            },
+            {
+              "texto": "Cautivado por tu voz                 Haz lo que quieras en mí",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 43
+                },
+                {
+                  "acorde": "D",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "Mi deseo es conocerte más señor      Haz tu voluntad en mi Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 54
+                },
+                {
+                  "acorde": "C",
+                  "pos": 60
+                }
+              ]
+            }
+          ]
         }
       ]
     }

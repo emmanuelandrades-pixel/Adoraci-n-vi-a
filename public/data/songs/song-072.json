@@ -2,7 +2,7 @@
   "id": "song-072",
   "titulo": "Nuestro Dios Reina",
   "artista": "Our God Reigns",
-  "autor": "Martin Smith",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -20,18 +20,70 @@
       "es_original": true,
       "secciones": [
         {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Martin Smith",
+              "acordes": []
+            }
+          ]
+        },
+        {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "Bb/D",
-            "Eb",
-            "F",
-            "Gm",
-            "F/A",
-            "Bb"
-          ],
-          "contenido": "Nuestro Dios\nReina hoy\nPor siempre\nSu reino es"
+          "lineas": [
+            {
+              "texto": "Nuestro Dios",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Reina hoy",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Su reino es",
+              "acordes": [
+                {
+                  "acorde": "F/A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
         }
       ]
     }

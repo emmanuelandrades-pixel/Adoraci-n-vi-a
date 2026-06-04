@@ -23,12 +23,114 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "D"
-          ],
-          "contenido": "Daniel Hernández\nQuiero servir, quiero ser instrumento,\nQuiero saber cuándo te estás moviendo.\nQuiero adorar y sentirte en el viento,\nQuiero adorar y que me queme tu fuego.\nY yo cantaré\nY con mi canto yo te alabaré,\nY yo danzaré\nY con mi danza te bendeciré."
+          "lineas": [
+            {
+              "texto": "Daniel Hernández",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Quiero servir, quiero ser instrumento,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Quiero saber cuándo te estás moviendo.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Quiero adorar y sentirte en el viento,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Quiero adorar y que me queme tu fuego.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Y yo cantaré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y con mi canto yo te alabaré,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Y yo danzaré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y con mi danza te bendeciré.",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
         }
       ]
     }

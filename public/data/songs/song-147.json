@@ -23,24 +23,146 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "E7",
-            "G",
-            "D"
-          ],
-          "contenido": "Cumpleaños feliz\nTe deseamos a tí,\nQue el Señor te bendiga\nY te haga feliz"
+          "lineas": [
+            {
+              "texto": "Cumpleaños feliz",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E7",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Te deseamos a tí,",
+              "acordes": [
+                {
+                  "acorde": "E7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Que el Señor te bendiga",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Y te haga feliz",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "D",
-            "E",
-            "A"
-          ],
-          "contenido": "2° Canción\nFeliz, feliz en tu día\n(nombre) que Dios te bendiga\nQue reine la paz en tu vida\nY que cumplas muchos más"
+          "lineas": [
+            {
+              "texto": "2° Canción",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Feliz, feliz en tu día",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "(nombre) que Dios te bendiga",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 13
+                },
+                {
+                  "acorde": "A",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Que reine la paz en tu vida",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Y que cumplas muchos más",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "E",
+                  "pos": 22
+                },
+                {
+                  "acorde": "A",
+                  "pos": 23
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,16 +23,209 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "E/G#",
-            "F#m",
-            "D",
-            "E",
-            "F#m7",
-            "A/C#"
-          ],
-          "contenido": "Miel San Marcos\nA tus pies arde mi corazón\nA tus pies entrego lo que soy\nEs el lugar de mi seguridad\nDonde nadie me puede señalar\nMe perdonaste, me acercaste a tu presencia\nMe levantaste, hoy me postro a adorarte\nNo hay lugar más alto\nMás grande, que estar a tus pies\nQue estar a tus pies\nY aquí permaneceré\nPostrado a tus pies\nY aquí permaneceré\nA los pies de Cristo"
+          "lineas": [
+            {
+              "texto": "Miel San Marcos",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "A tus pies arde mi corazón",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "A tus pies entrego lo que soy",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Es el lugar de mi seguridad",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Donde nadie me puede señalar",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Me perdonaste, me acercaste a tu presencia",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "Me levantaste, hoy me postro a adorarte",
+              "acordes": [
+                {
+                  "acorde": "F#m7",
+                  "pos": 16
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "No hay lugar más alto",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Más grande, que estar a tus pies",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Que estar a tus pies",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Y aquí permaneceré",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Postrado a tus pies",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "E",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Y aquí permaneceré",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "A los pies de Cristo",
+              "acordes": [
+                {
+                  "acorde": "F#m7",
+                  "pos": 14
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -23,15 +23,280 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Bm",
-            "A",
-            "D/F#",
-            "G",
-            "D",
-            "A/C#"
-          ],
-          "contenido": "Bethel Music\nYour love has ravished my heart\nAnd taken me over, taken me over\nAnd all I want is to be\nWith You forever, with You forever\nPull me a little closer\nBmTake me a little deeper\nI want to know Your heart\nI want to know Your heart\n'Cause Your love is so much sweeter\nThan anything I’ve tasted\nI want to know Your heart\nEm D/F# G (2x)\nI want to know Your heart\nWhoa, whoa, how great Your love is for me\nWhoa, whoa, how great is Your love\nPull me a little closer\nTake me a little deeper\nI want to know Your heart\nI want to know Your heart\n'Cause Your love is so much stronger\nThan anything I’ve tasted\nI want to know Your heart\nI want to know Your heart"
+          "lineas": [
+            {
+              "texto": "Bethel Music",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Your love has ravished my heart",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "And taken me over, taken me over",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "And all I want is to be",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "With You forever, with You forever",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Pull me a little closer",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "BmTake me a little deeper",
+              "acordes": []
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "'Cause Your love is so much sweeter",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Than anything I’ve tasted",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Em D/F# G (2x)",
+              "acordes": []
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Whoa, whoa, how great Your love is for me",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Whoa, whoa, how great is Your love",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Pull me a little closer",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Take me a little deeper",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "'Cause Your love is so much stronger",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Than anything I’ve tasted",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "I want to know Your heart",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
         }
       ]
     }

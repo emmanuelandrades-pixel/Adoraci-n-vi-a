@@ -23,17 +23,203 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "D",
-            "G/B",
-            "G",
-            "D/F#",
-            "Bm",
-            "Em",
-            "Am"
-          ],
-          "contenido": "David Brymer\nÁngeles y Santos\nSe postran ante ti\nLos ancianos cantan\nY rinden sus coronas ante Ti\nEres digno de honor\nEres digno de honor\nTodo viene de Ti\nY todo es para Ti\nTú mereces gloria\nDía y noche, noche y día\nTe damos honor\nDía y noche, noche y día\nTe damos honor\nDía y noche, noche y día\nTe damos honor\nDía y noche, noche y día\nTe damos honor"
+          "lineas": [
+            {
+              "texto": "David Brymer",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Ángeles y Santos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Se postran ante ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Los ancianos cantan",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Y rinden sus coronas ante Ti",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Eres digno de honor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Eres digno de honor",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Todo viene de Ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Y todo es para Ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Tú mereces gloria",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Día y noche, noche y día",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Te damos honor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Día y noche, noche y día",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Te damos honor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Día y noche, noche y día",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Te damos honor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Día y noche, noche y día",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Te damos honor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
         }
       ]
     }

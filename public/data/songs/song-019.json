@@ -23,15 +23,222 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "G/B",
-            "Am",
-            "Em",
-            "D"
-          ],
-          "contenido": "Pat Barrett, Matt Redman, Brett Younker, Kirby Kaple, Karl Martin\nDigno de recibir toda adoración\nDigno de recibir hoy toda canción\nDigno de cada aliento que hay en mi ser\nVivo por ti\nCristo, el nombre que no tiene igual\nCristo, el único que puede salvar\nDigno de cada aliento que hay en mi ser\nVivo por ti, vivo por ti\nSanto e incomparable,\nTan inigualable\nHoy revélanos tu gloria\nMuéstrate tal como eres\nY llena nuestras vidas\nPara amar como tu amas\nYo construiré mi vida en ti\nSobre tu amor que es firme\nY yo confiaré, solo en ti\nFirme estaré por siempre"
+          "lineas": [
+            {
+              "texto": "Pat Barrett, Matt Redman, Brett Younker, Kirby Kaple, Karl Martin",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Digno de recibir toda adoración",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Digno de recibir hoy toda canción",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Digno de cada aliento que hay en mi ser",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Vivo por ti",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Cristo, el nombre que no tiene igual",
+              "acordes": []
+            },
+            {
+              "texto": "Cristo, el único que puede salvar",
+              "acordes": []
+            },
+            {
+              "texto": "Digno de cada aliento que hay en mi ser",
+              "acordes": []
+            },
+            {
+              "texto": "Vivo por ti, vivo por ti",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Santo e incomparable,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Tan inigualable",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Hoy revélanos tu gloria",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Muéstrate tal como eres",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Y llena nuestras vidas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Para amar como tu amas",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Yo construiré mi vida en ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Sobre tu amor que es firme",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Y yo confiaré, solo en ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Firme estaré por siempre",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
         }
       ]
     }

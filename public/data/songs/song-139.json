@@ -20,16 +20,353 @@
       "es_original": true,
       "secciones": [
         {
-          "id": "s002",
+          "id": "s001",
           "tipo": "verso",
-          "numero": 1,
-          "acordes": [
-            "D",
-            "G",
-            "Bm",
-            "A"
-          ],
-          "contenido": "You go before, I know\nThat You've even gone to win my war\nYou come back with the head of my enemy\nYou come back and you call it my victory\nYou go before, I know\nThat You've even gone to win my war\nYour love becomes my greatest defense\nIt leads me from the dry wilderness\nAll I did was praise\nAll I did was worship\nAll I did was bow down\nAll I did was stay still\nHallelujah, You have saved me\nSo much better this way\nHallelujah, Great Defender\nSo much better Your way\nYou know before I do\nWhere my heart can seek to find Your truth\nYour mercy is the shade I'm living in\nYou restore my faith and hope again\nWhen I thought I lost me\nYou knew where I left me\nYou reintroduced me to Your love\nYou picked up all my pieces\nPut me back together\nYou are the Defender of my heart"
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Bethel Music",
+              "acordes": []
+            },
+            {
+              "texto": "You go before, I know",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "That You've even gone to win my war",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "You come back with the head of my enemy",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "You come back and you call it my victory",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "You go before, I know",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "That You've even gone to win my war",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Your love becomes my greatest defense",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "It leads me from the dry wilderness",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "All I did was praise",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "All I did was worship",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "All I did was bow down",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "All I did was stay still",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Hallelujah, You have saved me",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "So much better this way",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Hallelujah, Great Defender",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "So much better Your way",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "You know before I do",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Where my heart can seek to find Your truth",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Your mercy is the shade I'm living in",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "You restore my faith and hope again",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "When I thought I lost me",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "You knew where I left me",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "You reintroduced me to Your love",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "You picked up all my pieces",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Put me back together",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "You are the Defender of my heart",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
         }
       ]
     }

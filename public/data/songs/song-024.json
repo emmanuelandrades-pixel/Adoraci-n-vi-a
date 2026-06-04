@@ -23,14 +23,224 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F",
-            "C",
-            "G",
-            "Am",
-            "Dm"
-          ],
-          "contenido": "Paul Mcclure / Hannah Mcclure / Kalley Heiligenthal\nLa tierra pasará, tu amor se mantendrá\nSolo es tu gracia mi piedra angular\nLo muerto levantarás, Tú siempre brillarás\nLa oscuridad no prevalecerá\nPor lo que Tú has hecho\nEn amor respondemos a Ti\nCantamos Dios\nCristo te amamos\nCuanto te amamos\nNuestro corazón hoy te adora a ti\nAm - G - F (C)\n( //// Te adora a ti //// )\nTú la esperanza das, el huérfano tiene hogar\nEl perdido encuentra su lugar en Ti\nLevantas nuestro mirar, al débil fuerzas le das\nA los huesos secos das vida en Ti Jesús\nNuestro afecto y devoción, ponemos a tus pies oh Cristo\nNuestro afecto y devoción, ponemos a tus pies oh Cristo\nNuestro afecto y devoción, ponemos a tus pies oh Cristo"
+          "lineas": [
+            {
+              "texto": "Paul Mcclure / Hannah Mcclure / Kalley Heiligenthal",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "La tierra pasará, tu amor se mantendrá",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Solo es tu gracia mi piedra angular",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Lo muerto levantarás, Tú siempre brillarás",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "La oscuridad no prevalecerá",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Por lo que Tú has hecho",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "En amor respondemos a Ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Cantamos Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Cristo te amamos",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Cuanto te amamos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro corazón hoy te adora a ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Am - G - F (C)",
+              "acordes": []
+            },
+            {
+              "texto": "( //// Te adora a ti //// )",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Tú la esperanza das, el huérfano tiene hogar",
+              "acordes": []
+            },
+            {
+              "texto": "El perdido encuentra su lugar en Ti",
+              "acordes": []
+            },
+            {
+              "texto": "Levantas nuestro mirar, al débil fuerzas le das",
+              "acordes": []
+            },
+            {
+              "texto": "A los huesos secos das vida en Ti Jesús",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Nuestro afecto y devoción, ponemos a tus pies oh Cristo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro afecto y devoción, ponemos a tus pies oh Cristo",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro afecto y devoción, ponemos a tus pies oh Cristo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 30
+                }
+              ]
+            }
+          ]
         }
       ]
     }

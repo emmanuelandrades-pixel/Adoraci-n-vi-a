@@ -2,12 +2,25 @@ export type TipoSeccion =
   | "intro" | "verso" | "pre-coro" | "coro"
   | "puente" | "final-coro" | "outro" | "instrumental";
 
+export interface AcordePosicionado {
+  acorde: string;
+  pos: number;
+}
+
+export interface Linea {
+  texto: string;
+  acordes: AcordePosicionado[];
+}
+
 export interface Seccion {
   id: string;
   tipo: TipoSeccion;
   numero: number | null;
-  acordes: string[];
-  contenido: string;
+  // Formato nuevo: líneas con acordes posicionados
+  lineas?: Linea[];
+  // Formato legacy: texto plano + array de acordes
+  acordes?: string[];
+  contenido?: string;
 }
 
 export interface Version {

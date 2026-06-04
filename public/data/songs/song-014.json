@@ -23,32 +23,161 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "Asus4",
-            "Dsus2",
-            "A/C#",
-            "Bm7",
-            "Esus4",
-            "Bm",
-            "D"
-          ],
-          "contenido": "Pat Barrett, Anthony Brown\nHe oído mil historias\nDe cómo eres Tú\nPero yo he escuchado\nEn la noche tu dulce voz\nY me dices que me amas\nY que solo no estoy\nEres buen buen Padre\nAsí eres Tú, así eres Tú, así eres Tú\nY soy amado por ti\nTal como soy, tal como soy, tal como\nsoy"
+          "lineas": [
+            {
+              "texto": "Pat Barrett, Anthony Brown",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "Dsus2",
-            "F#m",
-            "Bm7",
-            "A",
-            "E",
-            "A/C#",
-            "Bm"
-          ],
-          "contenido": "He visto a muchos buscando\nRespuestas por todo lugar\nPero sé que lo que buscamos\nSolo Tú nos puedes dar\nPorque sabes lo que anhelo\nAntes de mi oración\nY perfecta es tu voluntad\nY perfecta es tu voluntad\nY perfecta es tu voluntad para mi\nTu amor es tan innegable\nQue no me puedo contener\nPaz tan inexplicable\nImposible de comprender\nY me llamas más profundo\nMe llamas más profundo\nMe llamas más profundo\nEn tu amor, tu dulce amor"
+          "lineas": [
+            {
+              "texto": "A Asus4 A                          He visto a muchos buscando",
+              "acordes": []
+            },
+            {
+              "texto": "He oído mil historias                   Respuestas por todo lugar",
+              "acordes": []
+            },
+            {
+              "texto": "Asus4 A                        Pero sé que lo que buscamos",
+              "acordes": []
+            },
+            {
+              "texto": "De cómo eres Tú                         Solo Tú nos puedes dar",
+              "acordes": []
+            },
+            {
+              "texto": "Asus4       A                     Porque sabes lo que anhelo",
+              "acordes": []
+            },
+            {
+              "texto": "Pero yo he escuchado                    Antes de mi oración",
+              "acordes": []
+            },
+            {
+              "texto": "En la noche tu dulce voz                    Dsus2             F#m",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Dsus2 A/C#                        //Y perfecta es tu voluntad",
+              "acordes": []
+            },
+            {
+              "texto": "Y me dices que me amas                     Bm7                A",
+              "acordes": []
+            },
+            {
+              "texto": "Bm7         Esus4                      Y perfecta es tu voluntad",
+              "acordes": []
+            },
+            {
+              "texto": "Y que solo no estoy                       Dsus2             F#m        E",
+              "acordes": []
+            },
+            {
+              "texto": "Y perfecta es tu voluntad para mi",
+              "acordes": []
+            },
+            {
+              "texto": "Eres buen buen Padre                      A",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "A           Bm          Esus4      Tu amor es tan innegable",
+              "acordes": []
+            },
+            {
+              "texto": "Así eres Tú, así eres Tú, así eres Tú   Que no me puedo contener",
+              "acordes": []
+            },
+            {
+              "texto": "D                  Paz tan inexplicable",
+              "acordes": []
+            },
+            {
+              "texto": "Y soy amado por ti                      Imposible de comprender",
+              "acordes": []
+            },
+            {
+              "texto": "Tal como soy, tal como soy, tal como           Dsus2 A/C#",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Esus4",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "soy                                     Y me llamas más profundo",
+              "acordes": []
+            },
+            {
+              "texto": "Me llamas más profundo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 21
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Me llamas más profundo",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 21
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "En tu amor, tu dulce amor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 24
+                },
+                {
+                  "acorde": "E",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
         }
       ]
     }

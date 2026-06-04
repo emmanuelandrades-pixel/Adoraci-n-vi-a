@@ -23,14 +23,238 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F",
-            "C",
-            "Am",
-            "G",
-            "C/E"
-          ],
-          "contenido": "United Pursuit\nYou're full of life now\nAnd full of passion\nThat's how He made you\nJust let it happen\nAnd he calls each one of us\nBy our names, to come away\nAnd he whispers, to your heart\nTo let it go and to be a light\nAnd he whispers, to your heart\nTo let it go and to be a light\nBe a light, Be a light, Be a light, Be a light\nCome Alive, Come Alive, Come Alive, Come Alive\nSo take me back, Back to the beginning\nWhen I was young\nRunning through the fields with you"
+          "lineas": [
+            {
+              "texto": "United Pursuit",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "You're full of life now",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "And full of passion",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "That's how He made you",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Just let it happen",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "And he calls each one of us",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "By our names, to come away",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "And he whispers, to your heart",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "To let it go and to be a light",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "And he whispers, to your heart",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "To let it go and to be a light",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Be a light, Be a light, Be a light, Be a light",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 21
+                },
+                {
+                  "acorde": "F",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Come Alive, Come Alive, Come Alive, Come Alive",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 21
+                },
+                {
+                  "acorde": "F",
+                  "pos": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "So take me back, Back to the beginning",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "When I was young",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Running through the fields with you",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

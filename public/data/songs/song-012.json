@@ -23,14 +23,195 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F",
-            "Am",
-            "G",
-            "C",
-            "Dm"
-          ],
-          "contenido": "Gabriel Ávalos, David Berguño\nCuán grande es tu bondad\nF - Am - G\ny cuan celoso es tu infinito amor\nNo hay otro Dios fuera de Ti\nF - Am – G/B\nque sea digno de mi adoración\nAquí me tienes Dios,\nAm - G/B\nte amo, te amo\nDe nadie más seré\nAm - G\nsoy tuyo, soy tuyo\nDía a día tu amor\ny tu verdad me atraen hacia Ti\nNo cerraré mis labios,\nsiempre cantaré de lo que has hecho en mí\nPodría ofrecerte un sacrificio\npero tu deleite es mi corazón\nPor eso me entrego y te diré"
+          "lineas": [
+            {
+              "texto": "Gabriel Ávalos, David Berguño",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Cuán grande es tu bondad",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Am         G           F - Am - G",
+              "acordes": []
+            },
+            {
+              "texto": "y cuan celoso es tu infinito amor",
+              "acordes": []
+            },
+            {
+              "texto": "No hay otro Dios fuera de Ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Am        G              F - Am – G/B",
+              "acordes": []
+            },
+            {
+              "texto": "que sea digno de mi adoración",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Aquí me tienes Dios,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "F        Am - G/B",
+              "acordes": []
+            },
+            {
+              "texto": "te amo, te amo",
+              "acordes": []
+            },
+            {
+              "texto": "De nadie más seré",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Dm         Am - G",
+              "acordes": []
+            },
+            {
+              "texto": "soy tuyo, soy tuyo",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Día a día tu amor",
+              "acordes": []
+            },
+            {
+              "texto": "y tu verdad me atraen hacia Ti",
+              "acordes": []
+            },
+            {
+              "texto": "No cerraré mis labios,",
+              "acordes": []
+            },
+            {
+              "texto": "siempre cantaré de lo que has hecho en mí",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Podría ofrecerte un sacrificio",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "pero tu deleite es mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Por eso me entrego y te diré",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                },
+                {
+                  "acorde": "F",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
         }
       ]
     }

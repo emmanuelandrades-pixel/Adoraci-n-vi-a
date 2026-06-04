@@ -23,15 +23,183 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "G",
-            "A",
-            "D/F#",
-            "Em",
-            "Bm"
-          ],
-          "contenido": "Marcus Meier\nOh padre del cielo\nSanto es tu nombre\nQue venga tu reino\nHaz tu voluntad\nEn la tierra como es en el cielo\nQue el cielo venga\nEn la tierra como es en el cielo\nQue el cielo venga hoy\nDel cielo ven, del cielo ven\nTuyo es el reino, tuyo el poder\nTuya es la gloria por siempre amén"
+          "lineas": [
+            {
+              "texto": "Marcus Meier",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Oh padre del cielo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Santo es tu nombre",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Que venga tu reino",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Haz tu voluntad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "En la tierra como es en el cielo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Que el cielo venga",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "En la tierra como es en el cielo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Que el cielo venga hoy",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Del cielo ven, del cielo ven",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 27
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Tuyo es el reino, tuyo el poder",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Tuya es la gloria por siempre amén",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
         }
       ]
     }

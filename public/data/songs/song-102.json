@@ -23,15 +23,174 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "D",
-            "Am",
-            "D/F#",
-            "Em"
-          ],
-          "contenido": "Mike Van der Westhuizen\nHoy clamamos a ti, Dios del cielo y de la Tierra;\nLibera nuestro corazón del temor.\nAbre nuestros ojos ciegos para ver con tus ojos,\nPadre escucha hoy nuestro clamor.\nLibera a tus hijos, sana nuestro corazón;\nRestaura nuestra identidad\nTransforma nuestra mente, enséñanos la fe\nMuéstranos que ves en nosotros\nTrae tu reino sobre nosotros,\nQue tu presencia sea derramada,\nQue tu belleza sea revelada,\nY que tus hijos sepan quiénes son.\nHoy clamamos a ti, Dios del cielo y de la Tierra;\nLibera nuestro corazón del temor.\nLa creación espera que tus hijos ya no teman,\nPadre escucha hoy nuestro clamor."
+          "lineas": [
+            {
+              "texto": "Mike Van der Westhuizen",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Hoy clamamos a ti, Dios del cielo y de la Tierra;",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Libera nuestro corazón del temor.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 21
+                },
+                {
+                  "acorde": "D",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Abre nuestros ojos ciegos para ver con tus ojos,",
+              "acordes": []
+            },
+            {
+              "texto": "Padre escucha hoy nuestro clamor.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Libera a tus hijos, sana nuestro corazón;",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 37
+                }
+              ]
+            },
+            {
+              "texto": "Restaura nuestra identidad",
+              "acordes": []
+            },
+            {
+              "texto": "Transforma nuestra mente, enséñanos la fe",
+              "acordes": []
+            },
+            {
+              "texto": "Muéstranos que ves en nosotros",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Trae tu reino sobre nosotros,",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Que tu presencia sea derramada,",
+              "acordes": []
+            },
+            {
+              "texto": "Que tu belleza sea revelada,",
+              "acordes": []
+            },
+            {
+              "texto": "Y que tus hijos sepan quiénes son.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Hoy clamamos a ti, Dios del cielo y de la Tierra;",
+              "acordes": []
+            },
+            {
+              "texto": "Libera nuestro corazón del temor.",
+              "acordes": []
+            },
+            {
+              "texto": "La creación espera que tus hijos ya no teman,",
+              "acordes": []
+            },
+            {
+              "texto": "Padre escucha hoy nuestro clamor.",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

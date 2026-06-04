@@ -23,8 +23,81 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Viña Ágape\nEn ti hay paz señor\nEn ti descanso yo\nEntraré en el reposo que\nSer tu hijo es\nMis cargas llevarás\nTú me resguardarás\nMe haces disfrutar de tu presencia\nDonde anhelo estás\nHermoso es contemplarte por tu creación\nHermoso es adorarte y alzar mi voz\nHermoso es darte gracias por tu gran amor\nPadre exaltarte es mi bendición"
+          "lineas": [
+            {
+              "texto": "Viña Ágape",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "En ti hay paz señor",
+              "acordes": []
+            },
+            {
+              "texto": "En ti descanso yo",
+              "acordes": []
+            },
+            {
+              "texto": "Entraré en el reposo que",
+              "acordes": []
+            },
+            {
+              "texto": "Ser tu hijo es",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Mis cargas llevarás",
+              "acordes": []
+            },
+            {
+              "texto": "Tú me resguardarás",
+              "acordes": []
+            },
+            {
+              "texto": "Me haces disfrutar de tu presencia",
+              "acordes": []
+            },
+            {
+              "texto": "Donde anhelo estás",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Hermoso es contemplarte por tu creación",
+              "acordes": []
+            },
+            {
+              "texto": "Hermoso es adorarte y alzar mi voz",
+              "acordes": []
+            },
+            {
+              "texto": "Hermoso es darte gracias por tu gran amor",
+              "acordes": []
+            },
+            {
+              "texto": "Padre exaltarte es mi bendición",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

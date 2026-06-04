@@ -23,14 +23,242 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Eb",
-            "Bb/D",
-            "Bb",
-            "Eb/G",
-            "F/A"
-          ],
-          "contenido": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock\nMuros rodeando estoy\nPensé que caerían hoy\nMás nunca me has fallado Dios\nLa espera terminará\nSé que has vencido ya\nNunca me has fallado Dios\nEn ti confiaré\nTu promesa sigue en pie\nTú eres fiel\nConfiado andaré\nEn tus manos estaré\nBb/D – Eb\nSiempre has sido fiel\nLa noche acabará\nTu Palabra se cumplirá\nMi corazón te alabará\nCristo, mi Salvador\nCúbreme con tu amor\nMi corazón te alabará\nF/A Bd F/A Bd\nYo sé que tú,\nMueves montañas\nYo creo en ti,\nSé que lo harás otra vez\nAbriste el mar en el desierto\nYo creo en ti, sé que lo harás otra vez"
+          "lineas": [
+            {
+              "texto": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock",
+              "acordes": []
+            },
+            {
+              "texto": "Muros rodeando estoy",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Pensé que caerían hoy",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Más nunca me has fallado Dios",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "La espera terminará",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Sé que has vencido ya",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Nunca me has fallado Dios",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "En ti confiaré",
+              "acordes": [
+                {
+                  "acorde": "Eb/G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Tu promesa sigue en pie",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres fiel",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Confiado andaré",
+              "acordes": [
+                {
+                  "acorde": "Eb/G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "En tus manos estaré",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Eb                 // Bb/D – Eb",
+              "acordes": []
+            },
+            {
+              "texto": "Siempre has sido fiel",
+              "acordes": []
+            },
+            {
+              "texto": "La noche acabará",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tu Palabra se cumplirá",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón te alabará",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, mi Salvador",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cúbreme con tu amor",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón te alabará",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "F/A Bd F/A Bd",
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bb/D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Yo sé que tú,",
+              "acordes": []
+            },
+            {
+              "texto": "Mueves montañas",
+              "acordes": []
+            },
+            {
+              "texto": "Yo creo en ti,",
+              "acordes": []
+            },
+            {
+              "texto": "Sé que lo harás otra vez",
+              "acordes": []
+            },
+            {
+              "texto": "Abriste el mar en el desierto",
+              "acordes": []
+            },
+            {
+              "texto": "Yo creo en ti, sé que lo harás otra vez",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

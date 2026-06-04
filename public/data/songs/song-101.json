@@ -23,38 +23,264 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "Bm",
-            "A",
-            "F#m",
-            "E"
-          ],
-          "contenido": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís\nGonzález\nHasta que Él venga sonará\nLa melodía del clamor de tu iglesia\nJesús, ¡Regresa!\nHasta que Él venga subirá\nLa adoración de los que anhelan tu belleza\nJesús, ¡Regresa!\nY mientras te esperamos\nEl fuego no se apagará\nEl fuego no se apagará\nÁbranse las puertas\nEl Rey de gloria viene ya\ny todo ojo lo verá\nToda lengua y toda nación\nToda lengua y toda nación\nToda lengua y toda nación\nAlabe tu nombre\nInterludio:"
+          "lineas": [
+            {
+              "texto": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís",
+              "acordes": []
+            },
+            {
+              "texto": "González",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "F#m",
-            "A",
-            "D",
-            "E"
-          ],
-          "contenido": "Oh oh oh oh oh oh oh"
+          "lineas": [
+            {
+              "texto": "Hasta que Él venga sonará",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "La melodía del clamor de tu iglesia",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, ¡Regresa!",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
-          "acordes": [
-            "F#m",
-            "A",
-            "D",
-            "E"
-          ],
-          "contenido": "Santo y digno es el cordero\nQue murió y resucitó"
+          "lineas": [
+            {
+              "texto": "Hasta que Él venga subirá",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "La adoración de los que anhelan tu belleza",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, ¡Regresa!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Y mientras te esperamos",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "El fuego no se apagará",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "El fuego no se apagará",
+              "acordes": []
+            },
+            {
+              "texto": "Ábranse las puertas",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "El Rey de gloria viene ya",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "y todo ojo lo verá",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Toda lengua y toda nación",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Toda lengua y toda nación",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Toda lengua y toda nación",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Alabe tu nombre",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Interludio:   F#m A D A E",
+              "acordes": []
+            },
+            {
+              "texto": "Oh oh oh oh oh oh oh",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "lineas": [
+            {
+              "texto": "Santo y digno es el cordero",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                },
+                {
+                  "acorde": "E",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Que murió y resucitó",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                },
+                {
+                  "acorde": "E",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
         }
       ]
     }

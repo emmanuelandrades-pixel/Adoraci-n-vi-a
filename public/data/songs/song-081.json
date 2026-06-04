@@ -23,13 +23,187 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "F#m",
-            "E",
-            "D",
-            "Bm"
-          ],
-          "contenido": "Toma Tu Lugar\nSobre el trono de justicia eternamente\nHabrá un Rey\nEl Volverá para gobernar las naciones\nEn amor\nQue ruja el león,\nque la tierra se estremezca\nAnte la majestad de Jesús\nEl descendiente de David\nEl hombre más notable\nÉl ama la justicia y odia la iniquidad\nLEON\nE-D\nHoy se oye rugiendo\nAl León de Judá\nRuge"
+          "lineas": [
+            {
+              "texto": "Toma Tu Lugar",
+              "acordes": []
+            },
+            {
+              "texto": "Sobre el trono de justicia eternamente",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Habrá un Rey",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "El Volverá para gobernar las naciones",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "En amor",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Que ruja el león,",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "que la tierra se estremezca",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Ante la majestad de Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "El descendiente de David",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "El hombre más notable",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Él ama la justicia y odia la iniquidad",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "LEON",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "F#m                E-D",
+              "acordes": []
+            },
+            {
+              "texto": "Hoy se oye rugiendo",
+              "acordes": []
+            },
+            {
+              "texto": "Al León de Judá",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Ruge",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

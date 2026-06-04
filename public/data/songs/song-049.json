@@ -23,14 +23,169 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "F#m",
-            "E",
-            "A",
-            "Asus4"
-          ],
-          "contenido": "All Sons And Daughters\nVida das, y amor\nBrillas en las tinieblas\nSanas el corazón\nQuebrantado y herido\nGrande eres Dios\nEs tu aliento, en mi ser\nQue me hace adorar, me hace adorar\nEs tu aliento, en mi ser\nQue me hace adorarte, solo a ti\nLa tierra te adorará\nLos huesos secos cantarán\nGrande eres Dios"
+          "lineas": [
+            {
+              "texto": "All Sons And Daughters",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Vida das, y amor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Brillas en las tinieblas",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Sanas el corazón",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Quebrantado y herido",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Grande eres Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "E",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Es tu aliento, en mi ser",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Que me hace adorar, me hace adorar",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Es tu aliento, en mi ser",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Que me hace adorarte, solo a ti",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "La tierra te adorará",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Los huesos secos cantarán",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Grande eres Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
         }
       ]
     }

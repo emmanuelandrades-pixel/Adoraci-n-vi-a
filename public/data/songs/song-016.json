@@ -23,15 +23,305 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "Bm7",
-            "G",
-            "A",
-            "Bm",
-            "D/F#"
-          ],
-          "contenido": "Mike Van der Westhuizen\nAnhelo ver tu belleza y estar cada vez más cerca\nNada podrá separarnos, ni lo alto ni lo profundo\nY yo quiero estar tan cerca de ti Dios\nY habitar bajo tus alas, escuchar tu corazón\nY conocer cada detalle de tu personalidad\nHasta percibir tus pensamientos, compartir tus pensamientos\nOh, oh, oh, oh\nOh, oh, oh\nMis ojos anhelan verte, mi boca el adorarte\nMi alma se rinde a ti, mi razón de vivir es amarte\nMis ojos anhelan verte, mi boca el adorarte\nMi alma se rinde a ti, por siempre\nY yo quiero estar tan cerca de ti Dios\nY habitar bajo tus alas, escuchar tu corazón\nY conocer cada detalle de tu personalidad\nHasta percibir tus pensamientos, compartir tus pensamientos"
+          "lineas": [
+            {
+              "texto": "Mike Van der Westhuizen",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Anhelo ver tu belleza y estar cada vez más cerca",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 45
+                }
+              ]
+            },
+            {
+              "texto": "Nada podrá separarnos, ni lo alto ni lo profundo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 43
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Y yo quiero estar tan cerca de ti Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Y habitar bajo tus alas, escuchar tu corazón",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 30
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 42
+                }
+              ]
+            },
+            {
+              "texto": "Y conocer cada detalle de tu personalidad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 30
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Hasta percibir tus pensamientos, compartir tus pensamientos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 27
+                },
+                {
+                  "acorde": "D",
+                  "pos": 42
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 53
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Oh, oh, oh, oh",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Oh, oh, oh",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Mis ojos anhelan verte, mi boca el adorarte",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi alma se rinde a ti, mi razón de vivir es amarte",
+              "acordes": []
+            },
+            {
+              "texto": "Mis ojos anhelan verte, mi boca el adorarte",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi alma se rinde a ti, por siempre",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Y yo quiero estar tan cerca de ti Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Y habitar bajo tus alas, escuchar tu corazón",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 30
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "Y conocer cada detalle de tu personalidad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 30
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Hasta percibir tus pensamientos, compartir tus pensamientos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 27
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 42
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 54
+                }
+              ]
+            }
+          ]
         }
       ]
     }

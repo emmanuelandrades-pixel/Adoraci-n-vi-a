@@ -23,13 +23,138 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "G",
-            "C",
-            "D7",
-            "D"
-          ],
-          "contenido": "C-A#- C-A# - G-F-G-F\nD–C – G-F–G\nC-G\nAlzo mis manos\nC-G\nAlzo mis manos\nLe digo a Dios yo te amo\n¡Dios yo te amo!\nC-G\nEres mi escudo\nC-G\nMi fortaleza\nD# - D - G\nEres mi Rey y Señor\nPara ti quiero bailar\nPara ti quiero saltar\nPara ti quiero vivir\nMi Rey Señor"
+          "lineas": [
+            {
+              "texto": "C-A#- C-A# - G-F-G-F",
+              "acordes": []
+            },
+            {
+              "texto": "D–C – G-F–G",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "G                C-G",
+              "acordes": []
+            },
+            {
+              "texto": "Alzo mis manos",
+              "acordes": []
+            },
+            {
+              "texto": "C-G",
+              "acordes": []
+            },
+            {
+              "texto": "Alzo mis manos",
+              "acordes": []
+            },
+            {
+              "texto": "Le digo a Dios yo te amo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "¡Dios yo te amo!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "C-G",
+              "acordes": []
+            },
+            {
+              "texto": "Eres mi escudo",
+              "acordes": []
+            },
+            {
+              "texto": "C-G",
+              "acordes": []
+            },
+            {
+              "texto": "Mi fortaleza",
+              "acordes": []
+            },
+            {
+              "texto": "D# - D - G",
+              "acordes": []
+            },
+            {
+              "texto": "Eres mi Rey y Señor",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Para ti quiero bailar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Para ti quiero saltar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Para ti quiero vivir",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Mi Rey Señor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
         }
       ]
     }

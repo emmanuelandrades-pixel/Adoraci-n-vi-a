@@ -23,15 +23,272 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "E",
-            "F#m",
-            "F#m/E",
-            "A/C#"
-          ],
-          "contenido": "Mi esperanza está en Jesús\nEn su justicia y en la cruz\nDe nadie más dependeré\nSolo en su nombre confiare\nEn Jesús,\nFuerte soy\nSolo el\nEs mi roca es\nSobre la tempestad\nÉl es rey\nCuando no puedo ver su faz\nSe que su gracia es siempre igual\nA la tormenta venceré\nMi ancla firme está en el\nMi ancla firme está en el\nUn día el regresara\nEn su presencia voy a estar\nSin mancha ante el vendré\nJustificado por la fe"
+          "lineas": [
+            {
+              "texto": "Mi esperanza está en Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "En su justicia y en la cruz",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "De nadie más dependeré",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m/E",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Solo en su nombre confiare",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "En Jesús,",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Fuerte soy",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Solo el",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Es mi roca es",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Sobre la tempestad",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Él es rey",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Cuando no puedo ver su faz",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Se que su gracia es siempre igual",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "A la tormenta venceré",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m/E",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Mi ancla firme está en el",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Mi ancla firme está en el",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Un día el regresara",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "En su presencia voy a estar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Sin mancha ante el vendré",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m/E",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Justificado por la fe",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            }
+          ]
         }
       ]
     }

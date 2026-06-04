@@ -23,25 +23,196 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "F#m",
-            "D",
-            "E"
-          ],
-          "contenido": "Christine D´Clario\nDios bienvenido a este lugar\nY en nuestro corazón\nVen y haz tu voluntad\nDios te queremos conocer\nCon tu fuego abrazador\nVen y muévete otra vez\nEspíritu, avívanos\nTe anhelamos dios\nAnte tu gloria y majestad\nSabemos que estás\nPara darnos libertad\nEntrónate en nuestra adoración\nAsombroso eres señor\nCon tu presencia llénanos"
+          "lineas": [
+            {
+              "texto": "Christine D´Clario",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "D",
-            "E",
-            "F#m",
-            "A"
-          ],
-          "contenido": "Espíritu, avívanos\nTe anhelamos dios\nOoh… Te anhelamos Señor…\nQue se abra el cielo\nMuévete, señor\nVenga aquí tu reino\nOh gran Dios (Oh gran Dios)\nNo hay cielos cerrados, se abren\nTu reino se mueve aquí\nEn ti está nuestra esperanza)\nOh gran Dios"
+          "lineas": [
+            {
+              "texto": "Dios bienvenido a este lugar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y en nuestro corazón               D E F#m D E F#m",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "D          A                     / Espíritu, avívanos",
+              "acordes": []
+            },
+            {
+              "texto": "Ven y haz tu voluntad              D E F#m        E",
+              "acordes": []
+            },
+            {
+              "texto": "A                                 Te anhelamos dios",
+              "acordes": []
+            },
+            {
+              "texto": "Dios te queremos conocer",
+              "acordes": []
+            },
+            {
+              "texto": "Con tu fuego abrazador           Ooh… Te anhelamos Señor…",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 33
+                },
+                {
+                  "acorde": "D",
+                  "pos": 37
+                },
+                {
+                  "acorde": "A",
+                  "pos": 39
+                },
+                {
+                  "acorde": "E",
+                  "pos": 41
+                }
+              ]
+            },
+            {
+              "texto": "Ven y muévete otra vez",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "D E F#m D E F#m                  Que se abra el cielo",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Espíritu, avívanos                 D",
+              "acordes": []
+            },
+            {
+              "texto": "D E F#m        E                 Muévete, señor",
+              "acordes": []
+            },
+            {
+              "texto": "Te anhelamos dios                A",
+              "acordes": []
+            },
+            {
+              "texto": "Venga aquí tu reino",
+              "acordes": []
+            },
+            {
+              "texto": "Ante tu gloria y majestad        Oh gran Dios (Oh gran Dios)",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "Sabemos que estás",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Para darnos libertad             No hay cielos cerrados, se abren",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "A                                Tu reino se mueve aquí",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Entrónate en nuestra adoración   A",
+              "acordes": []
+            },
+            {
+              "texto": "A             F#m                En ti está nuestra esperanza)",
+              "acordes": []
+            },
+            {
+              "texto": "Asombroso eres señor               E",
+              "acordes": []
+            },
+            {
+              "texto": "D                    A           / Oh gran Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Con tu presencia llénanos",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

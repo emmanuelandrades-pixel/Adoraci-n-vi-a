@@ -23,40 +23,195 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Em",
-            "Bm",
-            "C",
-            "G",
-            "D",
-            "F#m",
-            "Am",
-            "G/B"
-          ],
-          "contenido": "Santa la noche Hermosas las\nestrellas\nLa noche en que nació El\nSalvador\nTanto esperó el mundo en su\npecado\nHasta ese día en que Cristo\nllegó\nUna esperanza al mundo\nregocija\nLa luz de un nuevo día al fin\nbrilló\nCoro 1: Em\nHoy adorad, Los ángeles lo\nanuncian\nOh Noche Divi-----na\nGD\n(Intro)\nNació El Salvador\nNos libertó rompió nuestras\ncadenas\nSu ley, su amor y su paz Él nos\ndió\nNos enseñó amarnos uno al\notro\nY en Su nombre ya no hay más\nopresión\nCon gratitud traemos\nalabanzas\nLa gloria y el poder son del\nSeñor"
+          "lineas": [
+            {
+              "texto": "Nos libertó rompió nuestras",
+              "acordes": []
+            },
+            {
+              "texto": "Em        Bm    C         G       cadenas",
+              "acordes": []
+            },
+            {
+              "texto": "Santa la noche Hermosas las                    Em      D    G",
+              "acordes": []
+            },
+            {
+              "texto": "estrellas                         Su ley, su amor y su paz Él nos",
+              "acordes": []
+            },
+            {
+              "texto": "Em       D      G           dió",
+              "acordes": []
+            },
+            {
+              "texto": "La noche en que nació El          Em      Bm C             G",
+              "acordes": []
+            },
+            {
+              "texto": "Salvador                          Nos enseñó amarnos uno al",
+              "acordes": []
+            },
+            {
+              "texto": "Em        Bm C          G         otro",
+              "acordes": []
+            },
+            {
+              "texto": "Tanto esperó el mundo en su                Bm           F#m",
+              "acordes": []
+            },
+            {
+              "texto": "pecado                            G",
+              "acordes": []
+            },
+            {
+              "texto": "Bm      F#m      G        Y en Su nombre ya no hay más",
+              "acordes": []
+            },
+            {
+              "texto": "Hasta ese día en que Cristo       opresión",
+              "acordes": []
+            },
+            {
+              "texto": "llegó",
+              "acordes": []
+            },
+            {
+              "texto": "D          G                      Con gratitud traemos",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 47
+                },
+                {
+                  "acorde": "G",
+                  "pos": 53
+                }
+              ]
+            },
+            {
+              "texto": "Una esperanza al mundo             alabanzas",
+              "acordes": []
+            },
+            {
+              "texto": "regocija                              D             G",
+              "acordes": []
+            },
+            {
+              "texto": "D          G                    La gloria y el poder son del",
+              "acordes": []
+            },
+            {
+              "texto": "La luz de un nuevo día al fin      Señor",
+              "acordes": []
+            },
+            {
+              "texto": "brilló",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "coro",
           "numero": null,
-          "acordes": [],
-          "contenido": "Em - D - Bm - C - G (x4) ...D/F"
-        },
-        {
-          "id": "s003",
-          "tipo": "coro",
-          "numero": null,
-          "acordes": [
-            "Em",
-            "Bm",
-            "Am",
-            "G",
-            "D",
-            "G/B",
-            "C",
-            "D/F#"
-          ],
-          "contenido": "Hoy adorad, Postrados\nadoren\nOh Noche Divi-----na\nGD\nNació El Salvador\nOh Noche Divi-----na\nNació Cristo El Señor"
+          "lineas": [
+            {
+              "texto": "Coro 1: Em    Bm Am              Em",
+              "acordes": []
+            },
+            {
+              "texto": "Hoy adorad, Los ángeles lo       Em - D - Bm - C - G (x4) ...D/F",
+              "acordes": []
+            },
+            {
+              "texto": "anuncian",
+              "acordes": []
+            },
+            {
+              "texto": "G D G/B C                     Coro 1",
+              "acordes": []
+            },
+            {
+              "texto": "Oh Noche Divi-----na",
+              "acordes": []
+            },
+            {
+              "texto": "GD       G         (Intro)     Em     Bm     Am Em               D/F#",
+              "acordes": []
+            },
+            {
+              "texto": "Nació El Salvador                Hoy adorad, Postrados",
+              "acordes": []
+            },
+            {
+              "texto": "adoren",
+              "acordes": []
+            },
+            {
+              "texto": "Oh Noche Divi-----na",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 19
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "GD       G/B Em",
+              "acordes": []
+            },
+            {
+              "texto": "Nació El Salvador",
+              "acordes": []
+            },
+            {
+              "texto": "Oh Noche Divi-----na",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 19
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Nació Cristo El Señor",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                }
+              ]
+            }
+          ]
         }
       ]
     }

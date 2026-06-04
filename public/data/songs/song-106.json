@@ -23,24 +23,314 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "D",
-            "G",
-            "Bm"
-          ],
-          "contenido": "Upperroon\nElijo hoy agradecerte Dios\nTe adoraré, con mi corazón\nDespierto en tu presencia\nDespierto en ti, mi Dios\nBueno eres Dios, gracias\nPor tu misericordia, gracias\nEn espíritu y verdad, gracias\nYo te digo gracias\nComo el sol es tu fidelidad\nTu infinito amor Inmenso como el mar\nDespierto en tu presencia\nDespierto en ti, mi Dios\nTú y sólo tú"
+          "lineas": [
+            {
+              "texto": "Upperroon",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": [
-            "A",
-            "D",
-            "Bm",
-            "G"
-          ],
-          "contenido": "Despiertas mi interior\nMi gozo es darte gracias, gracias\nPor llamarme tu amigo, gracias\nPor ser mi defensor, gracias\nPor tu infinito amor, gracias\nYo te digo gracias"
+          "lineas": [
+            {
+              "texto": "Elijo hoy agradecerte Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Te adoraré, con mi corazón",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Despierto en tu presencia",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Despierto en ti, mi Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Bueno eres Dios, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Por tu misericordia, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "En espíritu y verdad, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Yo te digo gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Como el sol es tu fidelidad",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Tu infinito amor Inmenso como el mar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Despierto en tu presencia",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Despierto en ti, mi Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Tú y sólo tú",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Despiertas mi interior",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Mi gozo es darte gracias, gracias",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Por llamarme tu amigo, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Por ser mi defensor, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Por tu infinito amor, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Yo te digo gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
         }
       ]
     }

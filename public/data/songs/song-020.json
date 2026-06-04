@@ -23,14 +23,256 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "C",
-            "D",
-            "G/B",
-            "Em",
-            "G"
-          ],
-          "contenido": "Mike Van Der Westhuisen\nCapo 2\nTú eres mi porción\nTú eres mi satisfacción\nMi valor está en tus manos, en tus manos\nMi valor está en tus pies, en tu costado\nMi importancia está en tu boca, en tus palabras\nDios abre mis oídos para escucharte\nContigo, contigo\nContigo quiero estar\nMi valor está en tus manos, en tus manos\nMi valor está en tus pies, en tu costado\nMi importancia está en tu boca, en tus palabras\nDios abre mis oídos para escucharte"
+          "lineas": [
+            {
+              "texto": "Mike Van Der Westhuisen",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Capo 2",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú eres mi porción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres mi satisfacción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Mi valor está en tus manos, en tus manos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 27
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Mi valor está en tus pies, en tu costado",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Mi importancia está en tu boca, en tus palabras",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Dios abre mis oídos para escucharte",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "G",
+                  "pos": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Contigo, contigo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Contigo quiero estar",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Mi valor está en tus manos, en tus manos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 27
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 39
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Mi valor está en tus pies, en tu costado",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 39
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Mi importancia está en tu boca, en tus palabras",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 16
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 46
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Dios abre mis oídos para escucharte",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 34
+                }
+              ]
+            }
+          ]
         }
       ]
     }

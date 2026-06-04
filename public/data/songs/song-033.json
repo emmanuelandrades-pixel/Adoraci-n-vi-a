@@ -23,8 +23,135 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [],
-          "contenido": "Jennie Lee Riddle\nD – Am – C – G\nDigno y Santo el cordero\nInmolado en la cruz\nNuevo canto levantaremos\nAl que en su trono está\nSanto, Santo, Santo\nDios todo poderoso\nQuien fue, quien es y quien vendrá\nLa creación te canta\nHosanna al gran Yo soy\nTú eres mi todo\nY yo te adoraré\nDe un arco iris, está vestido\nSu voz resuena, como los truenos\nRecibe honor y gloria\nPoder y majestad\nA ti, el único Rey\nTan grandioso, asombroso\nCon solo decir Jesús\nCristo tu nombre es grande\nFuente inagotable\nTu misterio glorioso es"
+          "lineas": [
+            {
+              "texto": "Jennie Lee Riddle",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "D – Am – C – G",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Digno y Santo el cordero",
+              "acordes": []
+            },
+            {
+              "texto": "Inmolado en la cruz",
+              "acordes": []
+            },
+            {
+              "texto": "Nuevo canto levantaremos",
+              "acordes": []
+            },
+            {
+              "texto": "Al que en su trono está",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Santo, Santo, Santo",
+              "acordes": []
+            },
+            {
+              "texto": "Dios todo poderoso",
+              "acordes": []
+            },
+            {
+              "texto": "Quien fue, quien es y quien vendrá",
+              "acordes": []
+            },
+            {
+              "texto": "La creación te canta",
+              "acordes": []
+            },
+            {
+              "texto": "Hosanna al gran Yo soy",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres mi todo",
+              "acordes": []
+            },
+            {
+              "texto": "Y yo te adoraré",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "De un arco iris, está vestido",
+              "acordes": []
+            },
+            {
+              "texto": "Su voz resuena, como los truenos",
+              "acordes": []
+            },
+            {
+              "texto": "Recibe honor y gloria",
+              "acordes": []
+            },
+            {
+              "texto": "Poder y majestad",
+              "acordes": []
+            },
+            {
+              "texto": "A ti, el único Rey",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Tan grandioso, asombroso",
+              "acordes": []
+            },
+            {
+              "texto": "Con solo decir Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "Cristo tu nombre es grande",
+              "acordes": []
+            },
+            {
+              "texto": "Fuente inagotable",
+              "acordes": []
+            },
+            {
+              "texto": "Tu misterio glorioso es",
+              "acordes": []
+            }
+          ]
         }
       ]
     }

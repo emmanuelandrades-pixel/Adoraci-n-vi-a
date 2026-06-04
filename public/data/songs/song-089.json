@@ -23,39 +23,237 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "E",
-            "A",
-            "C#m",
-            "B"
-          ],
-          "contenido": "Anthony Skinner, Chris Mcclarney\nMil generaciones\nSe postran adorarle\nLe cantan al cordero que\nvenció"
+          "lineas": [
+            {
+              "texto": "Anthony Skinner, Chris Mcclarney",
+              "acordes": []
+            },
+            {
+              "texto": "E                                  Coro:",
+              "acordes": []
+            },
+            {
+              "texto": "Mil generaciones                            A      C#m B",
+              "acordes": []
+            },
+            {
+              "texto": "A                E                 Cantan ángeles, San – to",
+              "acordes": []
+            },
+            {
+              "texto": "Se postran adorarle                             G#m        C#m",
+              "acordes": []
+            },
+            {
+              "texto": "C#m          B             A       Clama la creación, San – to",
+              "acordes": []
+            },
+            {
+              "texto": "Le cantan al cordero que                       F#m7    B",
+              "acordes": []
+            },
+            {
+              "texto": "venció                             Exaltado Dios, San – to",
+              "acordes": []
+            },
+            {
+              "texto": "E                                  Santo por siempre",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Los que nos precedieron",
+              "acordes": []
+            },
+            {
+              "texto": "Y los que en Él creerán            Si te ha perdonado",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                },
+                {
+                  "acorde": "E",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Le cantarán a aquel que ya         Y tienes salvación",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "A",
+                  "pos": 27
+                },
+                {
+                  "acorde": "A",
+                  "pos": 35
+                },
+                {
+                  "acorde": "E",
+                  "pos": 51
+                }
+              ]
+            },
+            {
+              "texto": "venció                             C#m         B           A",
+              "acordes": []
+            },
+            {
+              "texto": "Cántale al cordero que venció",
+              "acordes": []
+            }
+          ]
         },
         {
           "id": "s002",
-          "tipo": "coro",
-          "numero": null,
-          "acordes": [
-            "A",
-            "E",
-            "C#m",
-            "B"
-          ],
-          "contenido": "Los que nos precedieron\nY los que en Él creerán\nLe cantarán a aquel que ya\nvenció"
-        },
-        {
-          "id": "s003",
           "tipo": "pre-coro",
           "numero": null,
-          "acordes": [
-            "A",
-            "C#m",
-            "B",
-            "G#m",
-            "F#m7",
-            "E"
-          ],
-          "contenido": "Tu nombre, es más alto\nTu nombre, es más grande\nTu nombre, sobre todo es\nDominios y tronos\nPoderes, y reinos\nTu nombre, sobre todo es\nCantan ángeles, San – to\nClama la creación, San – to\nExaltado Dios, San – to\nSanto por siempre\nSi te ha perdonado\nY tienes salvación\nCántale al cordero que venció\nSi te ha libertado\nSu nombre ha puesto en ti\nCántale al cordero que venció\nCantaremos siempre \"amén\"\nTu gente cantará, San - to\nRey de reyes es San - to\npor siempre serás San - to\nSanto por siempre"
+          "lineas": [
+            {
+              "texto": "Tu nombre, es más alto             Si te ha libertado",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 23
+                },
+                {
+                  "acorde": "E",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Tu nombre, es más grande           Su nombre ha puesto en ti",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 35
+                },
+                {
+                  "acorde": "E",
+                  "pos": 56
+                }
+              ]
+            },
+            {
+              "texto": "Tu nombre, sobre todo es           Cántale al cordero que venció",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 35
+                },
+                {
+                  "acorde": "B",
+                  "pos": 49
+                },
+                {
+                  "acorde": "A",
+                  "pos": 59
+                }
+              ]
+            },
+            {
+              "texto": "Dominios y tronos                  Cantaremos siempre \"amén\"",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 19
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 35
+                },
+                {
+                  "acorde": "B",
+                  "pos": 52
+                },
+                {
+                  "acorde": "A",
+                  "pos": 59
+                }
+              ]
+            },
+            {
+              "texto": "Poderes, y reinos                              A     C#m B",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "C#m                   A            Tu gente cantará, San - to",
+              "acordes": []
+            },
+            {
+              "texto": "Tu nombre, sobre todo es                        G#m C#m",
+              "acordes": []
+            },
+            {
+              "texto": "Rey de reyes es San - to",
+              "acordes": []
+            },
+            {
+              "texto": "por siempre serás San - to",
+              "acordes": [
+                {
+                  "acorde": "F#m7",
+                  "pos": 25
+                },
+                {
+                  "acorde": "B",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Santo por siempre",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
         }
       ]
     }

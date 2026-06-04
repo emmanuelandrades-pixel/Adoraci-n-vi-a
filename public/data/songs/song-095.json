@@ -23,13 +23,195 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "A",
-            "D",
-            "F#m",
-            "E"
-          ],
-          "contenido": "Phil Wickham, Jeremy Riddle\nQuien rompe el poder de las tinieblas\nSu amor es fuerte y poderoso\nEl Rey de Gloria, el Rey de Majestad\nQuien mueve el mundo con su estruendo\nY nos asombra con maravillas\nEl Rey de Gloria, el Rey de Majestad\nSublime gracia es\nTu infinito amor\nTomaste mi lugar\nCargaste con mi cruz\nTu vida diste ahí\nY ahora libre soy\nJesús tu adoro\nPor lo que hiciste en mí\nQuien puso en orden todo el caos\nY nos adopta como sus hijos\nEl Rey de Gloria, el Rey de Majestad\nEl que gobierna con su justicia\nY resplandece con su belleza\nEl Rey de Gloria, el Rey de Majestad\nDigno es el Cordero de Dios\nDigno es el Rey que la muerte venció\nDigno es el Cordero de Dios\nDigno es el Rey que la muerte venció"
+          "lineas": [
+            {
+              "texto": "Phil Wickham, Jeremy Riddle",
+              "acordes": []
+            },
+            {
+              "texto": "Quien rompe el poder de las tinieblas",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Su amor es fuerte y poderoso",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "El Rey de Gloria, el Rey de Majestad",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 16
+                },
+                {
+                  "acorde": "D",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Quien mueve el mundo con su estruendo",
+              "acordes": []
+            },
+            {
+              "texto": "Y nos asombra con maravillas",
+              "acordes": []
+            },
+            {
+              "texto": "El Rey de Gloria, el Rey de Majestad",
+              "acordes": []
+            },
+            {
+              "texto": "Sublime gracia es",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Tu infinito amor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Tomaste mi lugar",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Cargaste con mi cruz",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Tu vida diste ahí",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Y ahora libre soy",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Jesús tu adoro",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Por lo que hiciste en mí",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Quien puso en orden todo el caos",
+              "acordes": []
+            },
+            {
+              "texto": "Y nos adopta como sus hijos",
+              "acordes": []
+            },
+            {
+              "texto": "El Rey de Gloria, el Rey de Majestad",
+              "acordes": []
+            },
+            {
+              "texto": "El que gobierna con su justicia",
+              "acordes": []
+            },
+            {
+              "texto": "Y resplandece con su belleza",
+              "acordes": []
+            },
+            {
+              "texto": "El Rey de Gloria, el Rey de Majestad",
+              "acordes": []
+            },
+            {
+              "texto": "Digno es el Cordero de Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Digno es el Rey que la muerte venció",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Digno es el Cordero de Dios",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Digno es el Rey que la muerte venció",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
         }
       ]
     }

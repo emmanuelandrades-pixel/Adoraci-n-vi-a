@@ -23,17 +23,179 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "acordes": [
-            "Am7",
-            "G/B",
-            "C",
-            "Dm",
-            "F",
-            "G4",
-            "Am",
-            "G"
-          ],
-          "contenido": "Examina mi corazón\nVe si en mi hay camino de perversidad\nTodo lo que quiero es hacer tu voluntad\nQuiero amar lo que tú amas\nY quiero odiar lo que tú odias\nSoy tu casa de oración\nNo una cueva de ladrones\nTienes todo lo que soy\nTienes todos mis amores\nTumba las mesas en mi interior\nSolo tú conoces las intenciones de mi corazón\nTumba las mesas en mi interior\nYo soy tu templo de adoración"
+          "lineas": [
+            {
+              "texto": "Examina mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Ve si en mi hay camino de perversidad",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Todo lo que quiero es hacer tu voluntad",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Quiero amar lo que tú amas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Y quiero odiar lo que tú odias",
+              "acordes": [
+                {
+                  "acorde": "G4",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Soy tu casa de oración",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "No una cueva de ladrones",
+              "acordes": [
+                {
+                  "acorde": "G4",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tienes todo lo que soy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tienes todos mis amores",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tumba las mesas en mi interior",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Solo tú conoces las intenciones de mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Tumba las mesas en mi interior",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Yo soy tu templo de adoración",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -26,57 +26,102 @@
   "integrantes": [
     {
       "id": "user-001",
-      "nombre": "Juan García",
-      "instrumento_principal": "Guitarra",
-      "instrumentos_secundarios": ["Voz"],
-      "rol_ministerial": "Director Musical",
-      "telefono": "+56 9 1111 1111",
-      "email": "juan@vinacasadeamor.cl"
+      "nombre": "Jorge Gutiérrez",
+      "instrumento_principal": "Batería",
+      "instrumentos_secundarios": [],
+      "rol_ministerial": "Pastor",
+      "telefono": "+56 9 0000 0001",
+      "email": "jorge.gutierrez@adoracionvina.cl"
     },
     {
       "id": "user-002",
-      "nombre": "María López",
-      "instrumento_principal": "Voz",
-      "instrumentos_secundarios": ["Piano"],
-      "rol_ministerial": "Vocalista Principal",
-      "telefono": "+56 9 2222 2222",
-      "email": "maria@vinacasadeamor.cl"
+      "nombre": "Nataly Betancourt",
+      "instrumento_principal": "Teclado",
+      "instrumentos_secundarios": ["Voces"],
+      "rol_ministerial": "Directora",
+      "telefono": "+56 9 0000 0002",
+      "email": "nataly.betancourt@adoracionvina.cl"
     },
     {
       "id": "user-003",
-      "nombre": "Carlos Ruiz",
-      "instrumento_principal": "Bajo",
-      "instrumentos_secundarios": [],
-      "rol_ministerial": "Bajista",
-      "telefono": "+56 9 3333 3333",
-      "email": "carlos@vinacasadeamor.cl"
+      "nombre": "Camila Bravo",
+      "instrumento_principal": "Guitarra",
+      "instrumentos_secundarios": ["Batería", "Voces"],
+      "rol_ministerial": "Integrante",
+      "telefono": "+56 9 0000 0003",
+      "email": "camila.bravo@adoracionvina.cl"
     },
     {
       "id": "user-004",
-      "nombre": "Pedro Silva",
-      "instrumento_principal": "Batería",
-      "instrumentos_secundarios": [],
-      "rol_ministerial": "Baterista",
-      "telefono": "+56 9 4444 4444",
-      "email": "pedro@vinacasadeamor.cl"
+      "nombre": "Eugenio Betancourt",
+      "instrumento_principal": "Bajo",
+      "instrumentos_secundarios": ["Voces"],
+      "rol_ministerial": "Integrante",
+      "telefono": "+56 9 0000 0004",
+      "email": "eugenio.betancourt@adoracionvina.cl"
     },
     {
       "id": "user-005",
-      "nombre": "Luis Gómez",
-      "instrumento_principal": "Teclado",
-      "instrumentos_secundarios": ["Voz"],
-      "rol_ministerial": "Tecladista",
-      "telefono": "+56 9 5555 5555",
-      "email": "luis@vinacasadeamor.cl"
+      "nombre": "Cristian Cajas",
+      "instrumento_principal": "Sonido",
+      "instrumentos_secundarios": [],
+      "rol_ministerial": "Técnico de Sonido",
+      "telefono": "+56 9 0000 0005",
+      "email": "cristian.cajas@adoracionvina.cl"
     },
     {
       "id": "user-006",
-      "nombre": "Ana Martínez",
-      "instrumento_principal": "Voz",
-      "instrumentos_secundarios": ["Guitarra Acústica"],
-      "rol_ministerial": "Vocalista",
-      "telefono": "+56 9 6666 6666",
-      "email": "ana@vinacasadeamor.cl"
+      "nombre": "José Miguel Salas",
+      "instrumento_principal": "Batería",
+      "instrumentos_secundarios": ["Guitarra", "Voces", "Sonido"],
+      "rol_ministerial": "Integrante",
+      "telefono": "+56 9 0000 0006",
+      "email": "josemiguel.salas@adoracionvina.cl"
+    },
+    {
+      "id": "user-007",
+      "nombre": "Emmanuel Andrades",
+      "instrumento_principal": "Guitarra",
+      "instrumentos_secundarios": ["Voces"],
+      "rol_ministerial": "Integrante",
+      "telefono": "+56 9 0000 0007",
+      "email": "emmanuel.andrades@adoracionvina.cl"
+    },
+    {
+      "id": "user-008",
+      "nombre": "Abigail Troncoso",
+      "instrumento_principal": "Voces",
+      "instrumentos_secundarios": ["Gestión de Tesorería"],
+      "rol_ministerial": "Tesorera",
+      "telefono": "+56 9 0000 0008",
+      "email": "abigail.troncoso@adoracionvina.cl"
+    },
+    {
+      "id": "user-009",
+      "nombre": "Raúl Pérez",
+      "instrumento_principal": "Multimedia",
+      "instrumentos_secundarios": [],
+      "rol_ministerial": "Técnico Multimedia",
+      "telefono": "+56 9 0000 0009",
+      "email": "raul.perez@adoracionvina.cl"
+    },
+    {
+      "id": "user-010",
+      "nombre": "Gabriela Urra",
+      "instrumento_principal": "Multimedia",
+      "instrumentos_secundarios": ["Gestión de Planificación"],
+      "rol_ministerial": "Coordinadora",
+      "telefono": "+56 9 0000 0010",
+      "email": "gabriela.urra@adoracionvina.cl"
+    },
+    {
+      "id": "user-011",
+      "nombre": "Raúl Bravo",
+      "instrumento_principal": "Voces",
+      "instrumentos_secundarios": ["Multimedia"],
+      "rol_ministerial": "Integrante",
+      "telefono": "+56 9 0000 0011",
+      "email": "raul.bravo@adoracionvina.cl"
     }
   ]
 }

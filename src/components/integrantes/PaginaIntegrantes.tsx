@@ -6,20 +6,39 @@ import { Integrante } from "@/types/ministerio";
 import { Mail, Phone } from "lucide-react";
 
 const INSTRUMENT_EMOJI: Record<string, string> = {
-  "Guitarra": "🎸",
-  "Bajo": "🎸",
-  "Batería": "🥁",
-  "Teclado": "🎹",
-  "Voz": "🎤",
-  "Piano": "🎹",
-  "Guitarra Acústica": "🎸",
+  "guitarra": "🎸",
+  "bajo": "🎸",
+  "batería": "🥁",
+  "bateria": "🥁",
+  "teclado": "🎹",
+  "piano": "🎹",
+  "voz": "🎤",
+  "voces": "🎤",
+  "sonido": "🎚️",
+  "multimedia": "🎬",
+  "gestión": "📋",
+};
+
+const ROL_COLOR: Record<string, string> = {
+  "Pastor":             "text-yellow-400",
+  "Directora":          "text-purple-400",
+  "Director Musical":   "text-purple-400",
+  "Coordinadora":       "text-blue-400",
+  "Tesorera":           "text-green-400",
+  "Técnico de Sonido":  "text-orange-400",
+  "Técnico Multimedia": "text-cyan-400",
 };
 
 function getEmoji(instrumento: string): string {
+  const lower = instrumento.toLowerCase();
   for (const [key, emoji] of Object.entries(INSTRUMENT_EMOJI)) {
-    if (instrumento.toLowerCase().includes(key.toLowerCase())) return emoji;
+    if (lower.includes(key)) return emoji;
   }
   return "🎵";
+}
+
+function getRolColor(rol: string): string {
+  return ROL_COLOR[rol] ?? "text-primary";
 }
 
 export function PaginaIntegrantes() {
@@ -59,7 +78,7 @@ export function PaginaIntegrantes() {
               </div>
               <div className="min-w-0">
                 <h3 className="font-semibold text-foreground truncate">{integrante.nombre}</h3>
-                <p className="text-sm text-primary truncate">{integrante.rol_ministerial}</p>
+                <p className={`text-sm font-medium truncate ${getRolColor(integrante.rol_ministerial)}`}>{integrante.rol_ministerial}</p>
               </div>
             </div>
 

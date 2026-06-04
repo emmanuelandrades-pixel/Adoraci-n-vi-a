@@ -95,16 +95,23 @@ function ModalParticipaciones({ cancionSL, cancion, integrantes, onGuardar, onCe
           <div>
             <label className="text-xs font-medium text-muted-foreground block mb-1.5">Instrumentistas</label>
             <div className="space-y-2">
-              {["guitarra", "bajo", "bateria", "teclado"].map((inst) => (
-                <div key={inst} className="flex items-center gap-2">
-                  <span className="text-xs text-muted-foreground w-20 capitalize">{inst}</span>
+              {[
+                { key: "guitarra",   label: "🎸 Guitarra" },
+                { key: "bajo",       label: "🎸 Bajo" },
+                { key: "bateria",    label: "🥁 Batería" },
+                { key: "teclado",    label: "🎹 Teclado" },
+                { key: "sonido",     label: "🎚️ Sonido" },
+                { key: "multimedia", label: "🎬 Multimedia" },
+              ].map(({ key, label }) => (
+                <div key={key} className="flex items-center gap-2">
+                  <span className="text-xs text-muted-foreground w-28 flex-shrink-0">{label}</span>
                   <select
-                    value={datos.participaciones.instrumentistas[inst] ?? ""}
+                    value={datos.participaciones.instrumentistas[key] ?? ""}
                     onChange={(e) => setDatos({
                       ...datos,
                       participaciones: {
                         ...datos.participaciones,
-                        instrumentistas: { ...datos.participaciones.instrumentistas, [inst]: e.target.value || undefined }
+                        instrumentistas: { ...datos.participaciones.instrumentistas, [key]: e.target.value || undefined }
                       }
                     })}
                     className="flex-1 px-2 py-1.5 text-sm bg-secondary border border-border rounded-lg text-foreground focus:outline-none"

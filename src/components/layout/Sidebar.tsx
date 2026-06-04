@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 import {
   Music,
   Calendar,
@@ -39,12 +40,21 @@ export function Sidebar() {
       {/* Logo */}
       <div className="flex items-center h-16 px-4 border-b border-border overflow-hidden">
         <div className="flex items-center gap-3 min-w-0">
-          <div className="w-8 h-8 rounded-lg bg-primary/20 flex items-center justify-center flex-shrink-0">
-            <Music className="w-4 h-4 text-primary" />
+          <div className="w-8 h-8 rounded-full overflow-hidden flex-shrink-0 border border-[rgba(124,106,247,0.3)]">
+            <Image
+              src="/logo.png"
+              alt="Adoración Viña"
+              width={32}
+              height={32}
+              className="object-cover w-full h-full"
+              onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
+            />
           </div>
           {sidebarAbierto && (
             <div className="min-w-0">
-              <p className="text-xs font-bold text-foreground leading-tight truncate">Adoración Viña</p>
+              <p className="text-xs font-bold leading-tight truncate" style={{ fontFamily: "'Cinzel', serif", color: "#A89CF7" }}>
+                Adoración Viña
+              </p>
               <p className="text-[10px] text-muted-foreground truncate">Casa de Amor · Talca</p>
             </div>
           )}

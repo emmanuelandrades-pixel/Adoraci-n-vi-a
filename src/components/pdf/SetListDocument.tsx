@@ -1,9 +1,16 @@
 "use client";
 
-import { Document, Page, Text, View, StyleSheet } from "@react-pdf/renderer";
+import { Document, Page, Text, View, StyleSheet, Image } from "@react-pdf/renderer";
+import path from "path";
 import { SetList, CancionSetList } from "@/types/setlist";
 import { Cancion, Version, Seccion } from "@/types/cancion";
 import { transponerAcorde, calcularSemitonos } from "@/lib/utils/transposicion";
+
+// Path absoluto al logo para react-pdf (funciona tanto en servidor como cliente via blob URL)
+const LOGO_PATH =
+  typeof window === "undefined"
+    ? path.join(process.cwd(), "public", "logo.png")
+    : "/logo.png";
 
 const ETIQUETAS_SECCION: Record<string, string> = {
   intro: "INTRO", verso: "VERSO", "pre-coro": "PRE-CORO", coro: "CORO",
@@ -25,13 +32,22 @@ const s = StyleSheet.create({
   },
 
   // ── Portada ───────────────────────────────────────────────────────────────
+  portadaHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 14,
+    marginBottom: 20,
+    paddingBottom: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: "#2A2D3A",
+  },
+  portadaLogo: { width: 56, height: 56, borderRadius: 28 },
+  portadaHeaderTexto: { flex: 1 },
   ministerioNombre: {
     fontFamily: "Helvetica-Bold",
-    fontSize: 8,
-    color: "#6B7280",
-    letterSpacing: 2,
-    textTransform: "uppercase",
-    marginBottom: 10,
+    fontSize: 15,
+    color: "#F0F0F5",
+    marginBottom: 3,
   },
   eventoNombre: {
     fontFamily: "Helvetica-Bold",
@@ -39,6 +55,7 @@ const s = StyleSheet.create({
     color: "#111111",
     marginBottom: 14,
   },
+  ministerioUbicacion: { fontSize: 10, color: "#8B8FA8" },
   portadaMeta: { flexDirection: "row", flexWrap: "wrap", gap: 14, marginBottom: 8 },
   portadaMetaItem: { fontSize: FS.meta, color: "#374151" },
   portadaMetaLabel: { color: "#9CA3AF" },
@@ -349,7 +366,14 @@ export function SetListDocument({ setlist, canciones }: Props) {
       {/* Portada con índice */}
       <Page size="LETTER" style={s.page}>
         <View style={{ flex: 1, justifyContent: "center" }}>
-          <Text style={s.ministerioNombre}>Adoración Viña Casa de Amor · Talca</Text>
+          {/* Header con logo */}
+          <View style={s.portadaHeader}>
+            <Image src={LOGO_PATH} style={s.portadaLogo} />
+            <View style={s.portadaHeaderTexto}>
+              <Text style={s.ministerioNombre}>Adoración Viña Casa de Amor</Text>
+              <Text style={s.ministerioUbicacion}>Talca · Chile</Text>
+            </View>
+          </View>
           <Text style={s.eventoNombre}>{setlist.nombre}</Text>
           <View style={s.portadaMeta}>
             {setlist.evento_detalles.fecha && (

@@ -1,0 +1,46 @@
+{
+  "id": "song-036",
+  "titulo": "El Fuego Nunca Duerme",
+  "artista": "",
+  "autor": "TOMA TU LUGAR",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-036-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C#m"
+          ],
+          "contenido": "TOMA TU LUGAR\nExiste un trono"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "A",
+            "C#m",
+            "B",
+            "E"
+          ],
+          "contenido": "Colocado en el más alto lugar\nRodeado de ángeles\nDonde Dios reina\nY en mi vida Él gobierna\nY este Rey vino a mí\nCon sus ojos en llamas\nLe pregunté sobre sus ojos\nSonriendo me dijo que:\nEl fuego nunca duerme\nEl fuego no se apaga\nNo se apagará no oh\nDios nunca muere\nDios nunca es vencido\nNunca es vencido\nC#m …\nExiste un amor más celoso que la muerte\nToda mi vida Él gobierna / x4\nAlto más alto, Alto más alto\nLevantamos hoy tu nombre,\nLevantamos hoy tu nombre"
+        }
+      ]
+    }
+  ]
+}

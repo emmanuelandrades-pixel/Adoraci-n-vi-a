@@ -1,0 +1,53 @@
+{
+  "id": "song-128",
+  "titulo": "Mi Dios",
+  "artista": "Dear God",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-128-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "G/B",
+            "C",
+            "Am",
+            "D",
+            "Em"
+          ],
+          "contenido": "Cory Asbury\nMi Dios\nHe tratado de que orgulloso estés de mí\nY al parecer\nMientras más lo intento\nMás difícil llega a ser\nYa no siento continuar\nOtra vez\nOh Dios\nHe estado persiguiendo la aprobación\nY yo sé que mientras más lo hago\nMenos tengo que ofrecer\nY me siento atrapado\nOtra vez\nPero si sigo cada regla\nY si oro una vez más\nAún no sé si mi progreso bastará\nSigo intentando\nY termino en caer\nMe estoy preguntando\nSi la brisa seguiré\nEl misterio está llamándome"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "G/B",
+            "Em",
+            "D",
+            "G",
+            "Am"
+          ],
+          "contenido": "En su canto encontraré mi fe\nLo quiero intentar otra vez\nLo intentaré otra vez\nMi hijo\nNo sabes cuán orgulloso yo estoy de ti\nCréeme que lo que yo pienso de ti\nNunca se va a desvanecer\nY aunque te sientas vencido\nYo fuerte seré\nNo me intimidan tus preguntas\nYo no busco perfección\nEn mis ojos suficiente tú serás\nYa lo intentaste\nY te vi luchando con\nCada cómo y porqué\nEscuché tu corazón\nAl misterio estoy llamándote\nEn su canto te encontraré\nHijo, intenta otra vez\nHijo, intenta otra vez\nTú puedes amar otra\nVez"
+        }
+      ]
+    }
+  ]
+}

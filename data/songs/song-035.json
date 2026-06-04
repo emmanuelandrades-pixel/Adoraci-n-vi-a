@@ -1,0 +1,38 @@
+{
+  "id": "song-035",
+  "titulo": "Dulcemente Quebrantado",
+  "artista": "Sweetly Broken",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-035-v001",
+      "nombre": "Original",
+      "tonalidad": "B",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "B",
+            "F#",
+            "G#m",
+            "E",
+            "C#m"
+          ],
+          "contenido": "Jeremy Riddle\nMiro a la cruz, de ella me sostendré\nDe su sufrimiento beberé, de su obra cantaré\nMi salvador en ella, todo maltratado\nDemostró que Dios, es justicia y amor\nEn la cruz Tú me cautivas\nSuavemente me arrodillas estoy\nSin palabras enamorado\nDulcemente quebrantado\nY sin merecer, el regalo de la vida\nCristo me has dado, por medio de la cruz\nTú me has llamado, de la muerte a la vida\nTu ira merecía, hoy por la cruz reconciliados\nAsombrado en la cruz confesaré\nQue grandioso es tu amor redentor\nY tú fidelidad"
+        }
+      ]
+    }
+  ]
+}

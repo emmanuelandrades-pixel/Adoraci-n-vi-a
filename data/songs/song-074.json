@@ -1,0 +1,41 @@
+{
+  "id": "song-074",
+  "titulo": "Oír Tu Voz",
+  "artista": "",
+  "autor": "David Berguño",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-074-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G/B",
+            "Am",
+            "G",
+            "D",
+            "Em",
+            "D/F#",
+            "F#"
+          ],
+          "contenido": "David Berguño\nSanto Espíritu\nEnséñanos a oír tu voz\nSanto Espíritu\nEnséñanos a oír tu voz\nSanto Espíritu\n/Enséñanos a oír tu voz/\nTe invitamos aquí\nTe esperamos solo a ti\nToda nuestra atención\nEsta puesta solo en ti\nOoh oh ohh oh oh oh\nTu susurro quiero escuchar\nY que tu voz se vuelva familiar\nQue tu voz se vuelva familiar\nTu descanso\ny tu paz llenando\nCada hogar cada familia\nDescanso en ti\nPerfecta paz"
+        }
+      ]
+    }
+  ]
+}

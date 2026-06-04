@@ -1,111 +1,35 @@
 {
   "id": "song-001",
-  "titulo": "Dios de Pactos",
-  "artista": "Génesis",
-  "autor": "Génesis",
+  "titulo": "Abres Caminos",
+  "artista": "Way Maker",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
-  "favorita": true,
+  "favorita": false,
   "activa": true,
-  "fecha_creacion": "2024-01-15T08:30:00Z",
-  "fecha_actualizacion": "2024-05-30T14:20:00Z",
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "v001-original",
+      "id": "song-001-v001",
       "nombre": "Original",
-      "tonalidad": "G",
-      "bpm": 120,
+      "tonalidad": "F",
+      "bpm": 0,
       "compas": "4/4",
-      "duracion_segundos": 270,
+      "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "intro",
-          "numero": null,
-          "acordes": ["G", "Em", "Am", "D"],
-          "contenido": "[Instrumental - 8 compases]"
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
-          "numero": 1,
-          "acordes": ["G", "D"],
-          "contenido": "Dios de pactos, fiel en todo lo que haces\nTu verdad trasciende los cielos y la tierra"
-        },
-        {
-          "id": "s003",
-          "tipo": "coro",
           "numero": null,
-          "acordes": ["G", "Em", "D"],
-          "contenido": "Dios mío, tú eres digno de honor\nTe adoramos con el corazón"
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": ["G", "D"],
-          "contenido": "Tu justicia es para siempre\nY tu amor eterno no tiene fin"
-        },
-        {
-          "id": "s005",
-          "tipo": "puente",
-          "numero": null,
-          "acordes": ["Am", "F", "C"],
-          "contenido": "Aleluya, aleluya\nEres digno, eres grande"
-        },
-        {
-          "id": "s006",
-          "tipo": "outro",
-          "numero": null,
-          "acordes": ["G"],
-          "contenido": "[Fade out - 4 compases]"
-        }
-      ]
-    },
-    {
-      "id": "v001-vina",
-      "nombre": "Adoración Viña",
-      "tonalidad": "A",
-      "bpm": 125,
-      "compas": "4/4",
-      "duracion_segundos": 285,
-      "es_original": false,
-      "secciones": [
-        {
-          "id": "s101",
-          "tipo": "intro",
-          "numero": null,
-          "acordes": ["A", "F#m", "Bm", "E"],
-          "contenido": "[Instrumental - 8 compases]"
-        },
-        {
-          "id": "s102",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": ["A", "E"],
-          "contenido": "Dios de pactos, fiel en todo lo que haces\nTu verdad trasciende los cielos y la tierra"
-        },
-        {
-          "id": "s103",
-          "tipo": "coro",
-          "numero": null,
-          "acordes": ["A", "F#m", "E"],
-          "contenido": "Dios mío, tú eres digno de honor\nTe adoramos con el corazón"
-        },
-        {
-          "id": "s104",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": ["A", "E"],
-          "contenido": "Tu justicia es para siempre\nY tu amor eterno no tiene fin"
-        },
-        {
-          "id": "s105",
-          "tipo": "puente",
-          "numero": null,
-          "acordes": ["Bm", "G", "D"],
-          "contenido": "Aleluya, aleluya\nEres digno, eres grande"
+          "acordes": [
+            "F",
+            "C",
+            "G",
+            "Am7"
+          ],
+          "contenido": "Aquí estas Te vemos mover Te adorare Te adorare\nAquí estas Obrando en mi Te adorare Te adorare // te cantamos\nMilagroso abres caminos cumples promesas\nluz en tinieblas mi Dios así eres tú\nAquí estas sanando mi corazón te adorare te adorare.\nAquí estas tocando mi corazón\nTe adorare te adorare. Te cantamos\nAsí eres tú, así eres tú, así eres tú, así eres tú\nAunque no pueda ver estas obrando\nAunque no pueda ver estas obrando\nSiempre estas, siempre estas obrando\nSiempre estas, siempre estas obrando"
         }
       ]
     }

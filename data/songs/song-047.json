@@ -1,0 +1,36 @@
+{
+  "id": "song-047",
+  "titulo": "Espíritu Consúmenos",
+  "artista": "Spirit Burn",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-047-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G",
+            "Em"
+          ],
+          "contenido": "Daniel Heeldon, Marc James\nTrae fuego a tu iglesia\nSanto Espíri - tu\nQuita lo que no es tuyo\nArde en nuestro ser\nEspíritu,\nConsúmenos\nGlorifícate\nQue tu Reino venga hoy aquí\nPadre muéstrate\nQue tu gloria brille en nuestro ser\nQue tu viento recio sople\nSobre este lugar\nInunda nuestras calles Dios\nCon tu salvación\nEspíritu, consúmenos\nFuego Santo, cae aquí\nMárcanos, para llevar tu nombre\nVen con poder, ven y reina\nSantifica y sacúdenos"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "song-127",
+  "titulo": "Me Viniste A Rescatar",
+  "artista": "Came To My Rescue",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-127-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "D",
+            "Em",
+            "C",
+            "D/F#"
+          ],
+          "contenido": "Hillsong United\nCapo 6\nVengo ante ti postrado,\ncon todo mi ser te quiero ver,\ntuyo soy, Señor.\nMi vida pongo en tus manos,\nDios de gracia, vengo en humildad,\nEn tu presencia quiero estar.\nClamé, me oíste, me viniste a rescatar,\nContigo quiero estar.\nCon mi fe te exaltaré,\nCon mi amor te exaltaré,\nCon mi ser te exaltaré."
+        }
+      ]
+    }
+  ]
+}

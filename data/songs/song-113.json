@@ -1,0 +1,50 @@
+{
+  "id": "song-113",
+  "titulo": "Yeshua",
+  "artista": "",
+  "autor": "Marcos Brunet",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-113-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "B/Db",
+            "C#m",
+            "B",
+            "E"
+          ],
+          "contenido": "Marcos Brunet\nYeshua\nMi amado es\nEl más bello entre\nMillares y millares"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "A",
+            "C#m",
+            "B",
+            "E"
+          ],
+          "contenido": "Si te tengo a ti\nLo tengo todo\nMi amado\nMi tesoro\nFuera de ti\nNada deseo\nSeñor"
+        }
+      ]
+    }
+  ]
+}

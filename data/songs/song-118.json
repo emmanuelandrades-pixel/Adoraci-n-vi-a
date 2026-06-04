@@ -1,0 +1,64 @@
+{
+  "id": "song-118",
+  "titulo": "Oh Noche Divina",
+  "artista": "",
+  "autor": "Marcos Witt",
+  "genero": "Navidad",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-118-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Em",
+            "Bm",
+            "C",
+            "G",
+            "D",
+            "F#m",
+            "Am",
+            "G/B"
+          ],
+          "contenido": "Santa la noche Hermosas las\nestrellas\nLa noche en que nació El\nSalvador\nTanto esperó el mundo en su\npecado\nHasta ese día en que Cristo\nllegó\nUna esperanza al mundo\nregocija\nLa luz de un nuevo día al fin\nbrilló\nCoro 1: Em\nHoy adorad, Los ángeles lo\nanuncian\nOh Noche Divi-----na\nGD\n(Intro)\nNació El Salvador\nNos libertó rompió nuestras\ncadenas\nSu ley, su amor y su paz Él nos\ndió\nNos enseñó amarnos uno al\notro\nY en Su nombre ya no hay más\nopresión\nCon gratitud traemos\nalabanzas\nLa gloria y el poder son del\nSeñor"
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Em - D - Bm - C - G (x4) ...D/F"
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "acordes": [
+            "Em",
+            "Bm",
+            "Am",
+            "G",
+            "D",
+            "G/B",
+            "C",
+            "D/F#"
+          ],
+          "contenido": "Hoy adorad, Postrados\nadoren\nOh Noche Divi-----na\nGD\nNació El Salvador\nOh Noche Divi-----na\nNació Cristo El Señor"
+        }
+      ]
+    }
+  ]
+}

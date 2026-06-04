@@ -1,0 +1,48 @@
+{
+  "id": "song-048",
+  "titulo": "Glorioso Día",
+  "artista": "Glorious Day",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-048-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "Bm",
+            "G"
+          ],
+          "contenido": "Jason Ingram, Jonathan Smith, Kristian Stanfill, Sean Curran\nMi vergüenza me sepultó\nYo buscaba un salvador\nMas tu perdón… me liberó\nMuerto estaba en mi interior\nMe escondía de Ti Señor\nMas tu perdón, me liberó\nTu voz me habló...\nY a la muerte venció\nGlorioso Día,\ntu sangre me rescató\nTu voz me habló\nY a la muerte venció\nGlorioso Día,\ntu sangre me rescató…"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D",
+            "Bm",
+            "G",
+            "A"
+          ],
+          "contenido": "Ahora libre soy en tu amor\nEs tu gracia la que me salvó\nMás tu perdón, a mí me liberó\nCoro...\nDe mi pecado me rescataste\nEn tu gloria cadenas se rompen\nVivía solo y sin consuelo\nAhora soy ciudadano del cielo\nTú me sanaste estando herido\nJesús por tu amor yo respiro\nTengo futuro, ahora veo\nPorque tú voz me habló...\nY a la muerte venció\nGlorioso Día,\ntu sangre me rescató\nTu voz me habló\nY a la muerte venció\nGlorioso Día,\ntu sangre me rescató…"
+        }
+      ]
+    }
+  ]
+}

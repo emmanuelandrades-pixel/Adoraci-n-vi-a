@@ -1,0 +1,37 @@
+{
+  "id": "song-081",
+  "titulo": "Que Ruja El León",
+  "artista": "",
+  "autor": "Toma Tu Lugar",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-081-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F#m",
+            "E",
+            "D",
+            "Bm"
+          ],
+          "contenido": "Toma Tu Lugar\nSobre el trono de justicia eternamente\nHabrá un Rey\nEl Volverá para gobernar las naciones\nEn amor\nQue ruja el león,\nque la tierra se estremezca\nAnte la majestad de Jesús\nEl descendiente de David\nEl hombre más notable\nÉl ama la justicia y odia la iniquidad\nLEON\nE-D\nHoy se oye rugiendo\nAl León de Judá\nRuge"
+        }
+      ]
+    }
+  ]
+}

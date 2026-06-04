@@ -1,0 +1,98 @@
+{
+  "id": "song-104",
+  "titulo": "Tumbas A Jardines",
+  "artista": "Graves into Gardens",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-104-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C/G",
+            "G",
+            "Em",
+            "G/D",
+            "C"
+          ],
+          "contenido": "Brandon Lake, Chris Brown, Steven Furtick & Tiffany Hammer\nEl mundo busqué\nY no pudo llenarme\nNingún tesoro que pueda ganar\nMe saciará"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "C",
+            "Em",
+            "G/D"
+          ],
+          "contenido": "Vengo a ti\nSin miedo y sin reservas\nCada fracaso has visto Señor\nY aún tu amigo soy"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "G",
+            "C/G",
+            "Em",
+            "G/D",
+            "C"
+          ],
+          "contenido": "Mas llegaste tú\nMe diste vida nueva\nY cada deseo se cumplirá\nAquí en tu amor"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "G",
+            "Am",
+            "Em",
+            "G/D",
+            "C"
+          ],
+          "contenido": "Porque el Dios de los montes\nEs el Dios de los valles\nNo hay lugar que me pueda alejar\nDe tu gracia y amor"
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "acordes": [
+            "G",
+            "Em",
+            "C"
+          ],
+          "contenido": "Oh no hay nada, nada mejor\nNo hay nada, nada mejor\nNo hay nada, nada mejor que mi\nDios"
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "acordes": [
+            "G",
+            "Em",
+            "C"
+          ],
+          "contenido": "CG\nCambias lamento en danza\nCG\nDe cenizas traes vida\nCambias culpa por gloria\nSé que solo tú lo harás\nCG\nDe las ruinas y tumbas\nCG\nNacen nuevos jardines\nResucitas los huesos\nSé que solo tú lo harás\nSé que solo tú lo hará"
+        }
+      ]
+    }
+  ]
+}

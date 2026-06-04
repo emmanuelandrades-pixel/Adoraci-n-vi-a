@@ -1,0 +1,39 @@
+{
+  "id": "song-075",
+  "titulo": "Oh Padre",
+  "artista": "Our Father",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-075-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "G",
+            "A",
+            "D/F#",
+            "Em",
+            "Bm"
+          ],
+          "contenido": "Marcus Meier\nOh padre del cielo\nSanto es tu nombre\nQue venga tu reino\nHaz tu voluntad\nEn la tierra como es en el cielo\nQue el cielo venga\nEn la tierra como es en el cielo\nQue el cielo venga hoy\nDel cielo ven, del cielo ven\nTuyo es el reino, tuyo el poder\nTuya es la gloria por siempre amén"
+        }
+      ]
+    }
+  ]
+}

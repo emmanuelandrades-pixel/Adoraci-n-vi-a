@@ -1,0 +1,48 @@
+{
+  "id": "song-142",
+  "titulo": "Not In A Hurry",
+  "artista": "",
+  "autor": "United Pursuit",
+  "genero": "Adoración",
+  "idioma": "Inglés",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-142-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "United Pursuit\nCapo 4"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "G/B",
+            "D",
+            "G",
+            "Em",
+            "G/D",
+            "Am",
+            "Bm"
+          ],
+          "contenido": "Lord I don't want to rush on ahead\nIn my own strength, when you're right here\nI'm not in a hurry\nWhen it comes to your Spirit\nWhen it comes to your presence\nWhen it comes to your voice\nI'm learning to listen\nJust to rest in your nearness\nI'm starting to notice You are speaking\nLord I want to love like you\nI want to feel what you feel\nI want to see what you see\nOpen my eyes I want to see You\nOpen my ears I want to hear You speak\nTell me your thoughts whats on your mind\nI'll be your friend, I want to see through your eyes\nI want to see through your eyes"
+        }
+      ]
+    }
+  ]
+}

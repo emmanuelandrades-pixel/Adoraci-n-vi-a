@@ -1,0 +1,39 @@
+{
+  "id": "song-093",
+  "titulo": "Solo Cristo",
+  "artista": "None But You",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-093-v001",
+      "nombre": "Original",
+      "tonalidad": "B",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "B",
+            "E",
+            "C#m",
+            "F#",
+            "B/D#",
+            "G#m"
+          ],
+          "contenido": "Heather Laskin\nEn reposo, en silencio sé que\nTú eres Señor\nAl estar en tu presencia sé que\nHay restauración\nAl o - ír tu dul - ce voz,\nTe se - gui - ré mi Rey, mi Dios.\nNo hay nadie como Tú,\nSólo Cristo\nMoriste por mi en la cruz,\nViviré para alabar\nEn el caos, en tormenta sé que\nSigues siendo Dios\nCuando siento que soy débil me das\nLa gracia para seguir\nAl oír tu dulce voz,\nCantaré esta canción\nG#m - E - F# - B (X4)\nMi deleite está en ti\nG #m\nMi corazón, toda mi fe\nMi deleite está en ti,\nPor siempre"
+        }
+      ]
+    }
+  ]
+}

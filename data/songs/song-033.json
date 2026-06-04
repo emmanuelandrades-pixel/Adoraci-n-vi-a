@@ -1,0 +1,32 @@
+{
+  "id": "song-033",
+  "titulo": "Digno Y Santo",
+  "artista": "Revelation Song",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-033-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Jennie Lee Riddle\nD – Am – C – G\nDigno y Santo el cordero\nInmolado en la cruz\nNuevo canto levantaremos\nAl que en su trono está\nSanto, Santo, Santo\nDios todo poderoso\nQuien fue, quien es y quien vendrá\nLa creación te canta\nHosanna al gran Yo soy\nTú eres mi todo\nY yo te adoraré\nDe un arco iris, está vestido\nSu voz resuena, como los truenos\nRecibe honor y gloria\nPoder y majestad\nA ti, el único Rey\nTan grandioso, asombroso\nCon solo decir Jesús\nCristo tu nombre es grande\nFuente inagotable\nTu misterio glorioso es"
+        }
+      ]
+    }
+  ]
+}

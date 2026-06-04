@@ -1,0 +1,38 @@
+{
+  "id": "song-015",
+  "titulo": "Buen Padre",
+  "artista": "",
+  "autor": "Daniela Reyes",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-015-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "Am7",
+            "G",
+            "G/B"
+          ],
+          "contenido": "Padre, abrázame, quiero tu amor y paz\nRendirme en tu bondad y en tu gracia reposar\nY en el momento más oscuro\nTú vienes sobre mí\nPara calmar mis emociones y verme sonreír\nMi buen padre, mi buen padre\nTú luchas mis batallas, tú vienes sobre mí\nMe guías en tormentas, tú siempre estás aquí\nAun cuando me caiga, tú vienes sobre mí\nPor eso hoy yo canto tú siempre estás aquí\nMi buen padre, mi buen padre"
+        }
+      ]
+    }
+  ]
+}

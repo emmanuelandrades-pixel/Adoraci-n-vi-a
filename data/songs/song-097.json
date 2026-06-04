@@ -1,0 +1,40 @@
+{
+  "id": "song-097",
+  "titulo": "Te Adoro En Asombro",
+  "artista": "Stand in Awe",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-097-v001",
+      "nombre": "Original",
+      "tonalidad": "Ab",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Absus4",
+            "Ab",
+            "Db",
+            "Dbmaj7",
+            "Ebsus2",
+            "Eb",
+            "Fm"
+          ],
+          "contenido": "Jeremy Riddle\nTan maravilloso\nEl amor de Dios revelado en la cruz\nEn la sangre de Jesús\nDejó el trono y Su Gloria\nTomó el pecado del mundo sobre si\nPor todo hombre él murió\nTe adoro en asombro\nAlzo mi voz y ofrezco mi adoración\nAl Rey de Reyes y Señor\nBendito el Cordero\nEstuvo muerto, pero Dios lo levantó\nSu brazo fuerte lo salvó\nExaltado y reinando\nTomó las llaves del Hades en sus manos\nY de todo hombre es Señor"
+        }
+      ]
+    }
+  ]
+}

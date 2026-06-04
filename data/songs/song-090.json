@@ -1,0 +1,40 @@
+{
+  "id": "song-090",
+  "titulo": "Santo (Una Cosa)",
+  "artista": "",
+  "autor": "Marcos Brunet",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-090-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C9",
+            "G/B",
+            "D",
+            "Em",
+            "Am",
+            "C"
+          ],
+          "contenido": "Marcos Brunet\nTodo está preparado aquí\nLa casa y mi corazón también\nEres el único motivo que me hizo llegar\nLos hijos ya están llegando aquí\nAhora somos dos o tres o más\nEncuentra mi corazón dispuesto a quemar por ti\nTodos los versos y canciones que conseguí cantar\nTodas las veces quebrantado, yo quiero declarar\nTuyo es el reino, la gloria por siempre\nTuyo el dominio, el poder, amén, amén\nInterludio: G – C9 – G/B – Am – G/B – C\nTú eres Santo\nY Tú eres Santo\nY no hay otro como Tú\nNo hay otro como tú\nNo hay otro como Tú\nNo hay otro como Jesús\nUna cosa pediré\nMe quiero quedar en este lugar\nTodos los días de mi vida"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "song-124",
+  "titulo": "Él Es Yahve",
+  "artista": "He is Yahve",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-124-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "A",
+            "B",
+            "C#m",
+            "E/G#",
+            "B/D#",
+            "Asus2"
+          ],
+          "contenido": "Dean Salyn\n¿Quién se mueve por las aguas?\n¿Quién la luna hace salir?\n¿Quién aparta las tinieblas\nCon la ardiente luz del sol?\n¿Quién aun las montañas cubre\nY anda en la profundidad?\nEs más grande que los cielos\nY me ama con pasión"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "E",
+            "A",
+            "B",
+            "C#m",
+            "E/G#",
+            "B/D#",
+            "Asus2"
+          ],
+          "contenido": "¿Quién es El que me alegra?\n¿Quién es El que me da paz?\n¿Quién es El que me conforta?\n¿Quién lo amargo endulzara?\n¿Quién es el que me apasiona?\n¿Quién está creciendo en mi?\n¿Quién llena mi alma hambrienta,\nY sacia mi necesidad?"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "C#m",
+            "B",
+            "E/G#",
+            "A"
+          ],
+          "contenido": "E/G#-A\nDios Creador es Yahve\nEl Gran Yo Soy es Yahve\nDe todo Dios es Yahve\nE/G#-A\nRosa de Sarón es Yahve\nEl Hijo Justo es Yahve\nLa trinidad es Yahve"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "A",
+            "B",
+            "E",
+            "B/D#",
+            "C#m7",
+            "C#m",
+            "A/C#",
+            "E/G#"
+          ],
+          "contenido": "Eres Santo y Eterno\nY por siempre reinarás\nB-A\nToda rodilla y toda lengua\nSe doblará y te confesará\nB-A\nTodo ángel te da gloria\nAnte tu gran Majestad\nB-A\nY aquí nos reunimos\nPara declararte oh Dios, a ti mi Dios"
+        }
+      ]
+    }
+  ]
+}

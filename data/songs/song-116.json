@@ -1,0 +1,55 @@
+{
+  "id": "song-116",
+  "titulo": "Ángeles Cantando Están",
+  "artista": "",
+  "autor": "Ingrid Rosario",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-116-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D/F#",
+            "G",
+            "A",
+            "Bm7",
+            "D",
+            "Em7",
+            "A4"
+          ],
+          "contenido": "D - Em7 - Bm7 - A4| A\nD/F# - G – A4|A - D\nÁngeles cantando están,\nTan dulcísima canción\nLas montañas su eco dan,\nComo fiel contestación.\nGlo oh oh oh oh oh, Oh oh oh oh\nOh oh oh oh ria, a Dios en lo al – to\nD - Em7 - Bm7 - A\nOh venid pronto a Belen,"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D/F#",
+            "G",
+            "A",
+            "Bm7",
+            "D",
+            "Em7",
+            "A4"
+          ],
+          "contenido": "Para contemplar con fe\nA Jesús autor del bien,\nAl recién nacido Rey.\nÁngeles cantando están,\nTan dulcísima canción\nLas montañas su eco dan,\nComo fiel contestación.\nGlo oh oh oh oh, Oh oh oh oh oh\nOh oh oh oh ria, a Dios en lo al – to\nx4\nA Dios en lo al - to, a Dios en lo a - al\n- to.\nD - Em7 - | Bm7 - A"
+        }
+      ]
+    }
+  ]
+}

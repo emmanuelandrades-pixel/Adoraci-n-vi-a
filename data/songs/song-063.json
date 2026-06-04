@@ -1,0 +1,50 @@
+{
+  "id": "song-063",
+  "titulo": "Mi Esperanza Está En Jesús",
+  "artista": "Living Hope",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-063-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "D",
+            "C",
+            "Em7",
+            "G/B"
+          ],
+          "contenido": "Brian Johnson, phil Wickham\nCuán grande abismo entre nosotros\nCuán alto monte fallé escalar\nCon desespero volví al cielo\nY en la noche te hice llamar.\nAllí en lo oscuro tu amor profundo\nCruzó la sombra y me alcanzó\nYa es consumado y el fin escrito\nMi esperanza está en Jesús.\nInterludio: G - Em7 - C\nQuien imagina piedad tan grande\nTan plena gracia al corazón\nEl Dios eterno dejó Su gloria\nDe mi pecado Él se vistió\nLa cruz ha hablado, soy perdonado\nEl Rey de Reyes me adoptó\nSeñor hermoso te pertenezco\nMi esperanza está en Jesús\nO Alelu - ya, sea al que me libertó\nAlelu - ya, de la muerte me arrancó\nLas cadenas quebrantó\nY en Su nombre hay salvación\nMi esperanza está en Jesús.\nY tus promesas fueron selladas\nCuando tu cuerpo resucitó\nDesde el silencio Tu gran rugido\nQuebró el poder de la muerte en mí.\nY tus promesas fueron selladas\nCuando tu cuerpo resucitó\nDesde el silencio Tu gran rugido\nQuebró el poder de la muerte en mí\nLa victoria está en Ti."
+        },
+        {
+          "id": "s002",
+          "tipo": "outro",
+          "numero": null,
+          "acordes": [
+            "C",
+            "D",
+            "Em7",
+            "G"
+          ],
+          "contenido": "Mi esperanza está en Jesús\nMi esperanza está en Jesús."
+        }
+      ]
+    }
+  ]
+}

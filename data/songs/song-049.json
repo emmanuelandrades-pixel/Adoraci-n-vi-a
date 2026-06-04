@@ -1,0 +1,38 @@
+{
+  "id": "song-049",
+  "titulo": "Grande Eres Dios",
+  "artista": "Great Are You Lord",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-049-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "F#m",
+            "E",
+            "A",
+            "Asus4"
+          ],
+          "contenido": "All Sons And Daughters\nVida das, y amor\nBrillas en las tinieblas\nSanas el corazón\nQuebrantado y herido\nGrande eres Dios\nEs tu aliento, en mi ser\nQue me hace adorar, me hace adorar\nEs tu aliento, en mi ser\nQue me hace adorarte, solo a ti\nLa tierra te adorará\nLos huesos secos cantarán\nGrande eres Dios"
+        }
+      ]
+    }
+  ]
+}

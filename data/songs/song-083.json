@@ -1,0 +1,49 @@
+{
+  "id": "song-083",
+  "titulo": "Quien Dices Que Soy",
+  "artista": "Who You Say I Am",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-083-v001",
+      "nombre": "Original",
+      "tonalidad": "F#",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F#",
+            "D#m",
+            "C#",
+            "B"
+          ],
+          "contenido": "Ben Fielding & Reuben Morgan\nQuién soy yo para que el gran Rey\nMe acepte así\nMe encontró en mi perdición\nSu amor por mí\nOh su amor por mí\nLibre soy en Él\nLibre en verdad\nD # m C# B\nSoy hijo de Dios\nSí lo soy\nLibre soy Él me rescató\nSu gracia en mí\nAun siendo yo pecador\nÉl murió por mí\nÉl murió por mí"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "F#",
+            "C#",
+            "D#m",
+            "B"
+          ],
+          "contenido": "Libre soy en Él\nLibre en verdad\nD # m C# B\nSoy hijo de Dios\nSí lo soy\nEn tu casa Dios\nSitio hay para mí\nD # m C# B\nSoy hijo de Dios\nSí lo soy\nEscogido\nPerdonado\nYo soy quien dices que soy\nVas conmigo\nA mi lado\nYo soy quien dices que soy\nYo soy quien dices que soy"
+        }
+      ]
+    }
+  ]
+}

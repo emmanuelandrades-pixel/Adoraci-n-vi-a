@@ -1,0 +1,38 @@
+{
+  "id": "song-111",
+  "titulo": "Vino Nuevo",
+  "artista": "New Wine",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-111-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "D",
+            "F#m",
+            "E",
+            "A/C#"
+          ],
+          "contenido": "Brooke Ligertwood\nEn la prueba, en la espera\nVino nuevo harás\nAnte ti, yo, hoy me entrego\nUn camino abrirás\nEn tus manos sé que puedo descansar\nAún si no entiendo en ti puedo confiar\nRindo mi vida\nComo una ofrenda a ti\nHaz lo que quieras\nHacer tú de mí\nQué puedo entregarte\nSi todo viene de ti\nDios, vino nuevo haz de mí\nDonde hay vino nuevo\nHay nuevas fuerzas\nHay esperanza\nTu reino está aquí\nLo viejo entrego\nPues tu nuevo fuego arde en mí"
+        }
+      ]
+    }
+  ]
+}

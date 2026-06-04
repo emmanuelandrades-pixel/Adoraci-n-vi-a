@@ -1,13 +1,13 @@
 {
   "documentos": [
     {
-      "id": "doc-001",
-      "titulo": "Guía de Adoración — Temporada 2026",
-      "categoria": "liturgia",
-      "descripcion": "Estructura y lineamientos para el tiempo de adoración en los cultos.",
-      "url": "https://drive.google.com/",
-      "subido_por": "Ministerio",
-      "fecha": "2026-01-01"
+      "id": "doc-guia-canciones",
+      "titulo": "Guía para Ingresar Canciones",
+      "categoria": "otro",
+      "descripcion": "Formato y reglas para escribir canciones en texto plano antes de convertirlas al sistema. Incluye ejemplos de acordes, secciones, errores frecuentes y checklist.",
+      "url": "/Guia_Ingreso_Canciones.pdf",
+      "subido_por": "Emmanuel Andrades",
+      "fecha": "2026-06-04"
     }
   ]
 }

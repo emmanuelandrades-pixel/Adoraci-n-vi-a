@@ -1,5 +1,6 @@
 import { VisorCancion } from "@/components/canciones/VisorCancion";
 
-export default function CancionPage({ params }: { params: { id: string } }) {
-  return <VisorCancion id={params.id} />;
+export default async function CancionPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  return <VisorCancion id={id} />;
 }

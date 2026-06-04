@@ -48,6 +48,7 @@ export function ModoEnsayo({ id }: Props) {
   }, []);
 
   useEffect(() => {
+    if (canciones.length === 0) return;
     const c = canciones.find((c) => c.id === id);
     if (!c) return;
     setCancion(c);

@@ -83,20 +83,24 @@ export function VisorCancion({ id }: Props) {
   const [cancion, setCancion] = useState<Cancion | null>(null);
   const [versionActiva, setVersionActiva] = useState<Version | null>(null);
   const [semitonos, setSemitonos] = useState(0);
+  const [listo, setListo] = useState(false);
 
   useEffect(() => {
     if (canciones.length === 0) cargar();
+    else setListo(true);
   }, []);
 
   useEffect(() => {
+    if (canciones.length === 0) return;
     const c = canciones.find((c) => c.id === id);
     if (c) {
       setCancion(c);
       setVersionActiva(c.versions.find((v) => v.es_original) ?? c.versions[0]);
     }
+    setListo(true);
   }, [canciones, id]);
 
-  if (cargando) {
+  if (cargando || !listo) {
     return (
       <div className="space-y-4">
         <div className="h-8 w-48 bg-card rounded animate-pulse" />

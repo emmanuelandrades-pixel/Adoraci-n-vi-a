@@ -7,9 +7,10 @@ import { SetList, CancionSetList } from "@/types/setlist";
 import { CancionResumen } from "@/types/cancion";
 import { cargarMinisterio } from "@/lib/data-loader/cargarMinisterio";
 import { Integrante } from "@/types/ministerio";
-import { ArrowLeft, Save, Plus, Trash2, GripVertical, ChevronUp, ChevronDown, Download, Users } from "lucide-react";
+import { ArrowLeft, Save, Plus, Trash2, GripVertical, ChevronUp, ChevronDown, Users } from "lucide-react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { BotonDescargarPDF } from "@/components/pdf/BotonDescargarPDF";
 
 function segundosAMinutos(s: number): string {
   const m = Math.floor(s / 60);
@@ -319,12 +320,12 @@ export function EditorSetList({ id }: Props) {
           </div>
 
           <div className="flex items-center gap-2 flex-shrink-0">
+            <BotonDescargarPDF setlist={setlist} />
             <button
               onClick={exportarJSON}
               className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-secondary text-muted-foreground hover:text-foreground text-sm transition-colors"
               title="Exportar JSON"
             >
-              <Download className="w-4 h-4" />
               JSON
             </button>
             <button

@@ -2,7 +2,7 @@
   "id": "song-002",
   "titulo": "Abre Mis Ojos",
   "artista": "Open The Eyes Of My Heart",
-  "autor": "",
+  "autor": "Paul Baloche",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Paul Baloche",
-              "acordes": []
-            },
             {
               "texto": "Abre mis ojos oh Cristo",
               "acordes": [

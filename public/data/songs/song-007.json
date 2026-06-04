@@ -2,7 +2,7 @@
   "id": "song-007",
   "titulo": "Alzo Mis Manos",
   "artista": "",
-  "autor": "ReMovidos",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -25,11 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "C-A#- C-A# - G-F-G-F",
-              "acordes": []
-            },
-            {
-              "texto": "D–C – G-F–G",
+              "texto": "ReMovidos",
               "acordes": []
             }
           ]
@@ -38,6 +34,79 @@
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
+          "lineas": [
+            {
+              "texto": "Intro: G-F-G-F - G-F-G-F",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Alzo mis manos",
@@ -52,7 +121,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 13
                 }
               ]
             },
@@ -65,7 +134,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 13
                 }
               ]
             },
@@ -85,9 +154,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Eres mi escudo",
@@ -98,7 +167,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 13
                 }
               ]
             },
@@ -111,24 +180,33 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 11
                 }
               ]
             },
             {
-              "texto": "D# - D - G",
-              "acordes": []
-            },
-            {
               "texto": "Eres mi Rey y Señor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D#",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s004",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 4,
           "lineas": [
             {
               "texto": "Para ti quiero bailar",

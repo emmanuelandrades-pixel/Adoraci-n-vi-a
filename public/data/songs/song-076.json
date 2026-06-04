@@ -2,7 +2,7 @@
   "id": "song-076",
   "titulo": "Padre Fiel",
   "artista": "",
-  "autor": "Mike Van der Westhuizen",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,6 +24,21 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
+            {
+              "texto": "Mike Van der Westhuizen",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Intro: C G Am G F                                F        G          C",
+              "acordes": []
+            },
             {
               "texto": "C              F                     Y aun así muestras amor",
               "acordes": []

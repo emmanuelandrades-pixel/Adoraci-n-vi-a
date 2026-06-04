@@ -2,7 +2,7 @@
   "id": "song-060",
   "titulo": "Lo Harás Otra Vez",
   "artista": "Do It Again",
-  "autor": "",
+  "autor": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock",
-              "acordes": []
-            },
             {
               "texto": "Muros rodeando estoy",
               "acordes": [

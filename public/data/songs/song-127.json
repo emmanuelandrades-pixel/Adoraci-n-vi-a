@@ -2,7 +2,7 @@
   "id": "song-127",
   "titulo": "Me Viniste A Rescatar",
   "artista": "Came To My Rescue",
-  "autor": "",
+  "autor": "Hillsong United",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Hillsong United",
-              "acordes": []
-            },
             {
               "texto": "Capo 6",
               "acordes": []

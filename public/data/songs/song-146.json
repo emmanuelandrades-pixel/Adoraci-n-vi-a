@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Bethel Music",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "You have been",
               "acordes": [
                 {
@@ -90,9 +79,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "You know when I rise and when I fall",
@@ -152,9 +141,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "And still You know me",
@@ -163,9 +152,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Whoa oh oh oh oh oh",
@@ -200,9 +189,9 @@
           ]
         },
         {
-          "id": "s006",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 5,
+          "numero": 4,
           "lineas": [
             {
               "texto": "And nothing is hidden from Your sight",

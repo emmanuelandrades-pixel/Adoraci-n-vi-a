@@ -2,7 +2,7 @@
   "id": "song-028",
   "titulo": "De Gloria En Gloria",
   "artista": "Glory To Glory",
-  "autor": "",
+  "autor": "William Matthews, Rick Seibold, Lauren Evans",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "William Matthews, Rick Seibold, Lauren Evans",
-              "acordes": []
-            },
             {
               "texto": "Vi - niste a habitar,",
               "acordes": [

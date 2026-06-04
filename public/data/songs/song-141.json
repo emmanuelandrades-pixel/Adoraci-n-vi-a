@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "United Pursuit",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Faithful one no matter how far I run                  F C/E",
               "acordes": [
                 {
@@ -183,9 +172,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Righteousness found only in your       There's nothing that I have need of",

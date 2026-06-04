@@ -2,7 +2,7 @@
   "id": "song-099",
   "titulo": "Te Preparé Un Lugar",
   "artista": "Resting Place",
-  "autor": "",
+  "autor": "Daphne Rademarker",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Daphne Rademarker",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "El cielo es mi hogar",
@@ -123,9 +112,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "He aquí, te preparé un lugar Señor",

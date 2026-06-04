@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Luian Berdía, David Berguño",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Declaramos que Él es Rey",
               "acordes": [
                 {
@@ -159,20 +148,34 @@
               ]
             },
             {
-              "texto": "C - G",
-              "acordes": []
-            },
-            {
               "texto": "Por siempre reinarás",
-              "acordes": []
-            },
-            {
-              "texto": "Am – G/B - C",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 19
+                }
+              ]
             },
             {
               "texto": "Por la eternidad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
             },
             {
               "texto": "Tuya es la Gloria",

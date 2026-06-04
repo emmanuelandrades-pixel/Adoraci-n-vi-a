@@ -2,7 +2,7 @@
   "id": "song-018",
   "titulo": "Como En El Cielo",
   "artista": "Here As In Heaven",
-  "autor": "",
+  "autor": "Paul Brown, Mack Brock, Matthews Ntlele, Steven Furtick, Wade Joye",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Paul Brown, Mack Brock, Matthews Ntlele, Steven Furtick, Wade Joye",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "La atmósfera cambiando está",
@@ -94,9 +83,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Llena este lugar",
@@ -207,9 +196,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Interludio: F - Dm - G - Am - G",
@@ -218,9 +207,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Milagros pueden suceder",

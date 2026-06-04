@@ -2,7 +2,7 @@
   "id": "song-095",
   "titulo": "Sublime Gracia Es",
   "artista": "This Is Amazing Grace",
-  "autor": "",
+  "autor": "Phil Wickham, Jeremy Riddle",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Phil Wickham, Jeremy Riddle",
-              "acordes": []
-            },
             {
               "texto": "Quien rompe el poder de las tinieblas",
               "acordes": [

@@ -2,7 +2,7 @@
   "id": "song-045",
   "titulo": "Es El",
   "artista": "",
-  "autor": "Felipe S. Santos",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,6 +24,14 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
+            {
+              "texto": "Felipe S. Santos",
+              "acordes": []
+            },
+            {
+              "texto": "Intro: C – D – Em – Bm – C – D",
+              "acordes": []
+            },
             {
               "texto": "Estoy preparando el camino",
               "acordes": [

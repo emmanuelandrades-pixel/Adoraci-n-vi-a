@@ -2,7 +2,7 @@
   "id": "song-003",
   "titulo": "Adoremos",
   "artista": "Adore Him",
-  "autor": "",
+  "autor": "Samuel Lane",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Samuel Lane",
-              "acordes": []
-            },
             {
               "texto": "Por su gracia nos salvó",
               "acordes": [

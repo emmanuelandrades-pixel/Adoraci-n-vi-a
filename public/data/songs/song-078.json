@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Jaz Jacob",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Cuando pienso en tu amor y en tu fidelidad",
               "acordes": [
                 {
@@ -98,9 +87,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Y no me quiero conformar,",
@@ -120,19 +109,36 @@
               ]
             },
             {
-              "texto": "C#m B               A (B/D# - E)",
-              "acordes": []
-            },
-            {
               "texto": "He probado y quiero más",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 22
+                },
+                {
+                  "acorde": "E",
+                  "pos": 22
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Yo quiero enamorarme más de ti, enséñame a amarte y a vivir",
@@ -152,12 +158,29 @@
               ]
             },
             {
-              "texto": "B             A                   A/C# - B/D# - E",
-              "acordes": []
-            },
-            {
               "texto": "Conforme a tu justicia y tu verdad, con mi vida quiero a -dorar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 19
+                },
+                {
+                  "acorde": "A",
+                  "pos": 33
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 53
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 60
+                },
+                {
+                  "acorde": "E",
+                  "pos": 62
+                }
+              ]
             },
             {
               "texto": "Con todo lo que tengo y lo que soy, todo lo que he sido te lo doy",
@@ -173,19 +196,40 @@
               ]
             },
             {
-              "texto": "B          A             A/C# - B/D# - A (E)",
-              "acordes": []
-            },
-            {
               "texto": "Que mi vida sea para ti como un perfume a tus pies",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 13
+                },
+                {
+                  "acorde": "A",
+                  "pos": 24
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 38
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 45
+                },
+                {
+                  "acorde": "A",
+                  "pos": 49
+                },
+                {
+                  "acorde": "E",
+                  "pos": 49
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Cuando pienso en tu cruz y en todo lo que has dado",
@@ -206,9 +250,9 @@
           ]
         },
         {
-          "id": "s006",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 5,
+          "numero": 4,
           "lineas": [
             {
               "texto": "Que nuestras vidas sean derramadas",

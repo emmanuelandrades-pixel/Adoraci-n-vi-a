@@ -2,7 +2,7 @@
   "id": "song-101",
   "titulo": "Toda Lengua Y Toda Nación",
   "artista": "",
-  "autor": "González",
+  "autor": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís",
-              "acordes": []
-            },
             {
               "texto": "González",
               "acordes": []

@@ -196,20 +196,78 @@
               "acordes": []
             },
             {
-              "texto": "C G Dsus Em7 C                               C - G/B",
-              "acordes": []
-            },
-            {
               "texto": "Y sé que yo no merezco este amor              Aquí estoy",
-              "acordes": []
-            },
-            {
-              "texto": "C G Dsus         Em7 C                        Em7       D        C - G/B",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "C",
+                  "pos": 46
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 50
+                }
+              ]
             },
             {
               "texto": "Tu amor que no se puede comprender            Tu amor no va a dejarme así",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 46
+                },
+                {
+                  "acorde": "D",
+                  "pos": 56
+                },
+                {
+                  "acorde": "C",
+                  "pos": 65
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 69
+                }
+              ]
             },
             {
               "texto": "Gracia que nunca voy a entender, no           Tu amor no va a dejarme",

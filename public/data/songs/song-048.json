@@ -2,7 +2,7 @@
   "id": "song-048",
   "titulo": "Glorioso Día",
   "artista": "Glorious Day",
-  "autor": "",
+  "autor": "Jason Ingram, Jonathan Smith, Kristian Stanfill, Sean Curran",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Jason Ingram, Jonathan Smith, Kristian Stanfill, Sean Curran",
-              "acordes": []
-            },
             {
               "texto": "Mi vergüenza me sepultó                  Ahora libre soy en tu amor",
               "acordes": [

@@ -2,7 +2,7 @@
   "id": "song-072",
   "titulo": "Nuestro Dios Reina",
   "artista": "Our God Reigns",
-  "autor": "",
+  "autor": "Martin Smith",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Martin Smith",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Nuestro Dios",

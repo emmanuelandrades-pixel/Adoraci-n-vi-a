@@ -25,23 +25,25 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "United Pursuit",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "C – F – Am – F",
-              "acordes": []
-            },
-            {
               "texto": "No place I would rather be",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 13
+                }
+              ]
             },
             {
               "texto": "No place I would rather be",

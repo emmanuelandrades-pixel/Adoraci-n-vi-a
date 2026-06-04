@@ -2,7 +2,7 @@
   "id": "song-121",
   "titulo": "Atraeme Hacia Ti",
   "artista": "Draw Me Close",
-  "autor": "",
+  "autor": "Kelly Carpenter",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Kelly Carpenter",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Atráeme hacia ti",
@@ -180,9 +169,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Tú eres Señor",

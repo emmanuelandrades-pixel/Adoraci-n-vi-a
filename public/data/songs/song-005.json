@@ -2,7 +2,7 @@
   "id": "song-005",
   "titulo": "Alaba",
   "artista": "Praise",
-  "autor": "",
+  "autor": "VAMP:                                         PRE-CORO",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,14 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Steven Furtick, Chandler Moore, Brandon Lake, Pat Barrett, Cody Carnes, Chris Brown",
-              "acordes": []
-            },
-            {
-              "texto": "VAMP:                                         PRE-CORO",
-              "acordes": []
-            },
             {
               "texto": "Que toda la creación",
               "acordes": []

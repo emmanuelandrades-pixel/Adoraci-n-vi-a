@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Marcos Witt",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "He decidido Seguir a Cristo",
               "acordes": [
                 {
@@ -90,9 +79,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Algunos vuelven yo sigo a Cristo",
@@ -149,9 +138,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "La Cruz delante, el mundo atrás",
@@ -204,9 +193,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "He decidió Seguir a Cristo",

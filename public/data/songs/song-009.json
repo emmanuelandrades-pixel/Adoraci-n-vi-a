@@ -2,7 +2,7 @@
   "id": "song-009",
   "titulo": "Anhelo Estar En Tu Presencia",
   "artista": "I Love Your Presence",
-  "autor": "",
+  "autor": "Darren Clarke, Jesse Lane",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -25,47 +25,72 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Darren Clarke, Jesse Lane",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "C#m - B - A",
-              "acordes": []
-            },
-            {
               "texto": "Tu presencia,",
-              "acordes": []
-            },
-            {
-              "texto": "C#m - B - A",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Y tu gloria",
-              "acordes": []
-            },
-            {
-              "texto": "C#m - B - A",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Traen paz,",
-              "acordes": []
-            },
-            {
-              "texto": "C#m - B - A",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "A mi ser",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "En tu amor,",
@@ -86,9 +111,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Anhelo estar, en tu presencia",

@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Michael W. Smith",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Ale - lu - ya,",
               "acordes": [
                 {
@@ -102,9 +91,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Sa…an – to, Santo",
@@ -168,9 +157,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Tú eres Santo, Santo",
@@ -234,9 +223,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Aa…aa – mén",

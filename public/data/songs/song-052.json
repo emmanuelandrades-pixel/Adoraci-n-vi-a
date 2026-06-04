@@ -2,7 +2,7 @@
   "id": "song-052",
   "titulo": "Hermoso Nombre",
   "artista": "What a Beautiful Name",
-  "autor": "",
+  "autor": "Ben Fielding, Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Ben Fielding, Brooke Ligertwood",
-              "acordes": []
-            },
             {
               "texto": "Tú fuiste el verbo en el principio",
               "acordes": [

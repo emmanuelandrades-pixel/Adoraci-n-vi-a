@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Marcos Brunet",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Yeshua",
               "acordes": [
                 {
@@ -59,9 +48,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Mi amado es",
@@ -97,9 +86,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Si te tengo a ti",

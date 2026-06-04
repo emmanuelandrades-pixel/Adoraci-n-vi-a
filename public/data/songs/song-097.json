@@ -2,7 +2,7 @@
   "id": "song-097",
   "titulo": "Te Adoro En Asombro",
   "artista": "Stand in Awe",
-  "autor": "",
+  "autor": "Jeremy Riddle",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Jeremy Riddle",
-              "acordes": []
-            },
             {
               "texto": "Tan maravilloso",
               "acordes": [

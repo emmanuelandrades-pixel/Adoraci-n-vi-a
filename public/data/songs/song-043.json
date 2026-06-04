@@ -2,7 +2,7 @@
   "id": "song-043",
   "titulo": "Eres Digno De Honor",
   "artista": "Worthy Of It All",
-  "autor": "",
+  "autor": "David Brymer",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "David Brymer",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Ángeles y Santos",
@@ -143,9 +132,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Día y noche, noche y día",

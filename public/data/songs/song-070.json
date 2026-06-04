@@ -29,12 +29,36 @@
               "acordes": []
             },
             {
-              "texto": "G - D/F# - G - Am - G - D/F# - Em",
-              "acordes": []
-            },
-            {
               "texto": "Él es                               En Él",
               "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 24
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 31
+                },
                 {
                   "acorde": "D/F#",
                   "pos": 0

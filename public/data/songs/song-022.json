@@ -2,7 +2,7 @@
   "id": "song-022",
   "titulo": "Cordero Y El León",
   "artista": "Lion And The Lamb",
-  "autor": "",
+  "autor": "Leeland Mooring, Brenton Brown, Brian Johnson",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Leeland Mooring, Brenton Brown, Brian Johnson",
-              "acordes": []
-            },
             {
               "texto": "En nubes llegará",
               "acordes": [

@@ -2,7 +2,7 @@
   "id": "song-039",
   "titulo": "En La Cruz",
   "artista": "At the cross",
-  "autor": "",
+  "autor": "Darlene Zschech, Reuben Morgan",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -25,30 +25,24 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Darlene Zschech, Reuben Morgan",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "F - C/E F G",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
               "texto": "Señor conoces",
               "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
                 {
                   "acorde": "C/E",
                   "pos": 0
@@ -257,9 +251,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Hoy me postro ante Jesús         C/E F G Am7",

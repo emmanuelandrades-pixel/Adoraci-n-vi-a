@@ -2,7 +2,7 @@
   "id": "song-130",
   "titulo": "Santo Amor",
   "artista": "Holy Love",
-  "autor": "",
+  "autor": "Andy Park",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -106,12 +106,29 @@
               ]
             },
             {
-              "texto": "G      G/B          D      A - A/C#",
-              "acordes": []
-            },
-            {
               "texto": "Lléname con tu amor por mi",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "A",
+                  "pos": 25
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 25
+                }
+              ]
             },
             {
               "texto": "Con Tu santidad cae sobre mí,",

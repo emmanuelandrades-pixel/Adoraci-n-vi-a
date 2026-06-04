@@ -2,7 +2,7 @@
   "id": "song-098",
   "titulo": "Te Doy Gloria",
   "artista": "I Give You Glory",
-  "autor": "",
+  "autor": "Klaus Kuehn",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Klaus Kuehn",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Cuan hermoso Eres Jesús",
@@ -116,9 +105,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Te doy gloria gloria,",
@@ -159,9 +148,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Con una corona de espinos",

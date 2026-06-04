@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Mike Van Der Westhuisen",
+              "texto": "Capo 2",
               "acordes": []
             }
           ]
@@ -34,17 +34,6 @@
           "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "lineas": [
-            {
-              "texto": "Capo 2",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
           "lineas": [
             {
               "texto": "Tú eres mi porción",
@@ -155,9 +144,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Contigo, contigo",
@@ -188,9 +177,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Mi valor está en tus manos, en tus manos",

@@ -2,7 +2,7 @@
   "id": "song-025",
   "titulo": "Cuán Grande Es Dios",
   "artista": "How Great Is Our God",
-  "autor": "",
+  "autor": "Chris Tomlin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Chris Tomlin",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "El esplendor del Rey, vestido en Majestad",
@@ -98,9 +87,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Cuán grande es Dios, cántale",
@@ -144,9 +133,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Día a día Él está, el tiempo está en Él",
@@ -167,9 +156,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Tu nombre sobre todo es",

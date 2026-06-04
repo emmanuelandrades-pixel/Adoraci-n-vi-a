@@ -1,43 +1,42 @@
-import { Cancion } from "@/types/cancion";
+import { Cancion, CancionResumen } from "@/types/cancion";
 
-export async function cargarCanciones(): Promise<Cancion[]> {
-  const canciones: Cancion[] = [];
-
-  // Cargar índice de canciones
+// Paso 1: carga rápida de la biblioteca (1 sola request)
+export async function cargarResumenes(): Promise<CancionResumen[]> {
   try {
-    const indexRes = await fetch("/data/songs/index.json");
-    if (indexRes.ok) {
-      const { ids }: { ids: string[] } = await indexRes.json();
-      for (const id of ids) {
-        try {
-          const res = await fetch(`/data/songs/${id}.json`);
-          if (res.ok) {
-            const cancion: Cancion = await res.json();
-            canciones.push(cancion);
-          }
-        } catch {
-          console.warn(`No se pudo cargar ${id}`);
-        }
-      }
-      return canciones;
-    }
+    const res = await fetch("/data/songs/songs_summary.json");
+    if (res.ok) return res.json();
   } catch {
-    // Si no hay índice, usar lista fija
+    console.warn("No se pudo cargar songs_summary.json");
   }
+  return [];
+}
 
-  // Fallback: lista fija de canciones base
-  const IDS_BASE = ["song-001", "song-002", "song-003", "song-004", "song-005"];
-  for (const id of IDS_BASE) {
-    try {
-      const res = await fetch(`/data/songs/${id}.json`);
-      if (res.ok) {
-        const cancion: Cancion = await res.json();
-        canciones.push(cancion);
-      }
-    } catch {
-      console.warn(`No se pudo cargar ${id}`);
-    }
+// Paso 2: carga completa de una canción individual (bajo demanda)
+export async function cargarCancion(id: string): Promise<Cancion | null> {
+  try {
+    const res = await fetch(`/data/songs/${id}.json`);
+    if (res.ok) return res.json();
+  } catch {
+    console.warn(`No se pudo cargar ${id}.json`);
   }
+  return null;
+}
 
-  return canciones;
+// Compatibilidad: carga todas las canciones completas (para set lists, etc.)
+export async function cargarCanciones(): Promise<Cancion[]> {
+  try {
+    const res = await fetch("/data/songs/index.json");
+    if (!res.ok) return [];
+    const { ids }: { ids: string[] } = await res.json();
+    const results = await Promise.allSettled(
+      ids.map((id) => cargarCancion(id))
+    );
+    return results
+      .filter((r): r is PromiseFulfilledResult<Cancion> =>
+        r.status === "fulfilled" && r.value !== null
+      )
+      .map((r) => r.value);
+  } catch {
+    return [];
+  }
 }

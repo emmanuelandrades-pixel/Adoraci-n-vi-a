@@ -2,7 +2,7 @@
   "id": "song-128",
   "titulo": "Mi Dios",
   "artista": "Dear God",
-  "autor": "",
+  "autor": "Cory Asbury",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Cory Asbury",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Mi Dios                                   En su canto encontraré mi fe",

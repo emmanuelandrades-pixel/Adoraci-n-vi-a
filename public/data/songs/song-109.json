@@ -2,7 +2,7 @@
   "id": "song-109",
   "titulo": "Ven Ante Su Trono",
   "artista": "O Come To The Altar",
-  "autor": "",
+  "autor": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Si abatido y dolido estás",

@@ -132,12 +132,29 @@
               "acordes": []
             },
             {
-              "texto": "Bm7 Asus4               Gadd9 - Bm7 - Asus4",
-              "acordes": []
-            },
-            {
               "texto": "De ti no me apartaré.",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 20
+                }
+              ]
             },
             {
               "texto": "Y si el mal me acecha,",
@@ -153,12 +170,25 @@
               ]
             },
             {
-              "texto": "Asus4          Gadd9 - Bm7 - Asus4",
-              "acordes": []
-            },
-            {
               "texto": "De ti yo me aferraré.",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 20
+                }
+              ]
             }
           ]
         },

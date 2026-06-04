@@ -2,7 +2,7 @@
   "id": "song-014",
   "titulo": "Buen Buen Padre",
   "artista": "Good Good Father",
-  "autor": "",
+  "autor": "Pat Barrett, Anthony Brown",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Pat Barrett, Anthony Brown",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "A Asus4 A                          He visto a muchos buscando",

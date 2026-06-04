@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Daniel Hernández",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Quiero servir, quiero ser instrumento,",
               "acordes": [
                 {
@@ -90,9 +79,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Y yo cantaré",

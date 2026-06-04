@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "David Berguño",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Alguna vez escuché                 Porque mi amor se enciende",
               "acordes": [
                 {
@@ -132,9 +121,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Ya no, no más                 Y volveré a hacer",

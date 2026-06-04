@@ -2,7 +2,7 @@
   "id": "song-049",
   "titulo": "Grande Eres Dios",
   "artista": "Great Are You Lord",
-  "autor": "",
+  "autor": "All Sons And Daughters",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "All Sons And Daughters",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Vida das, y amor",
@@ -99,9 +88,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Es tu aliento, en mi ser",
@@ -150,9 +139,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "La tierra te adorará",

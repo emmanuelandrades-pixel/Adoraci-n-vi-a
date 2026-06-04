@@ -2,7 +2,7 @@
   "id": "song-057",
   "titulo": "La Bendición",
   "artista": "The Blessings",
-  "autor": "",
+  "autor": "Kari Jobe, Cody Carnes, Steven Furtick, Chris Brown",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -25,7 +25,99 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Kari Jobe, Cody Carnes, Steven Furtick, Chris Brown",
+              "texto": "Dios te guarde y bendiga",
+              "acordes": []
+            },
+            {
+              "texto": "Que extienda Su amor y te muestre favor",
+              "acordes": []
+            },
+            {
+              "texto": "Dios te mire con agrado Y te dé paz",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Amén, amén, amén",
+              "acordes": []
+            },
+            {
+              "texto": "Amén, amén, amén",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Que te cubra con Su gracia",
+              "acordes": []
+            },
+            {
+              "texto": "Hasta mil generaciones Tu familia y",
+              "acordes": []
+            },
+            {
+              "texto": "tus hijos",
+              "acordes": []
+            },
+            {
+              "texto": "Y los hijos de tus hijos",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Su presencia te acompañe",
+              "acordes": []
+            },
+            {
+              "texto": "Donde quiera que tú vayas",
+              "acordes": []
+            },
+            {
+              "texto": "Que te llene, te rodee",
+              "acordes": []
+            },
+            {
+              "texto": "Va contigo, va contigo",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "De mañana y de noche",
+              "acordes": []
+            },
+            {
+              "texto": "En tu entrada y salida",
+              "acordes": []
+            },
+            {
+              "texto": "En tu llanto y alegría",
+              "acordes": []
+            },
+            {
+              "texto": "Él te ama, Él te ama",
               "acordes": []
             }
           ]

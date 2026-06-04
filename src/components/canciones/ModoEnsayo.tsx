@@ -27,7 +27,7 @@ interface Props { id: string; }
 export function ModoEnsayo({ id }: Props) {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const { canciones, cargar } = useCancionesStore();
+  const { cancionActiva, cargarCancionCompleta } = useCancionesStore();
 
   const [cancion, setCancion] = useState<Cancion | null>(null);
   const [version, setVersion] = useState<Version | null>(null);
@@ -47,22 +47,20 @@ export function ModoEnsayo({ id }: Props) {
   useEffect(() => { speedRef.current = speed; }, [speed]);
 
   useEffect(() => {
-    if (canciones.length === 0) cargar();
-  }, []);
+    cargarCancionCompleta(id);
+  }, [id, cargarCancionCompleta]);
 
   useEffect(() => {
-    if (canciones.length === 0) return;
-    const c = canciones.find((c) => c.id === id);
-    if (!c) return;
-    setCancion(c);
+    if (!cancionActiva || cancionActiva.id !== id) return;
+    setCancion(cancionActiva);
     const versionId = searchParams.get("version");
     const v = versionId
-      ? c.versions.find((v) => v.id === versionId) ?? c.versions[0]
-      : c.versions.find((v) => v.es_original) ?? c.versions[0];
-    setVersion(v);
+      ? cancionActiva.versions.find((v) => v.id === versionId) ?? cancionActiva.versions[0]
+      : cancionActiva.versions.find((v) => v.es_original) ?? cancionActiva.versions[0];
+    setVersion(v ?? null);
     const semi = parseInt(searchParams.get("semitonos") ?? "0", 10);
     setSemitonos(isNaN(semi) ? 0 : semi);
-  }, [canciones, id, searchParams]);
+  }, [cancionActiva, id, searchParams]);
 
   // Loop de auto-scroll con requestAnimationFrame
   const scrollLoop = useCallback(() => {
@@ -252,12 +250,6 @@ export function ModoEnsayo({ id }: Props) {
                   </div>
                 )}
 
-                {/* Formato legacy */}
-                {!seccion.lineas && seccion.contenido && (
-                  <pre className="font-mono text-white/90 leading-relaxed whitespace-pre-wrap" style={{ fontSize: `${fontSize}px` }}>
-                    {seccion.contenido}
-                  </pre>
-                )}
               </div>
             );
           })}

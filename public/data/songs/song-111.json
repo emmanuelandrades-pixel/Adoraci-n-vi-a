@@ -2,7 +2,7 @@
   "id": "song-111",
   "titulo": "Vino Nuevo",
   "artista": "New Wine",
-  "autor": "",
+  "autor": "Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Brooke Ligertwood",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "En la prueba, en la espera",
@@ -98,9 +87,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "En tus manos sé que puedo descansar",

@@ -2,7 +2,7 @@
   "id": "song-027",
   "titulo": "Danza Conmigo",
   "artista": "Dance With Me",
-  "autor": "",
+  "autor": "Chris Dupre",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Chris Dupre",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Pues tú has venido sobre los montes, por las montañas",
@@ -80,9 +69,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Conmigo danza",
@@ -157,9 +146,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Contigo iré, eres mi amor, eres mi dueño",

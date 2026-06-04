@@ -16,11 +16,7 @@ export interface Seccion {
   id: string;
   tipo: TipoSeccion;
   numero: number | null;
-  // Formato nuevo: líneas con acordes posicionados
-  lineas?: Linea[];
-  // Formato legacy: texto plano + array de acordes
-  acordes?: string[];
-  contenido?: string;
+  lineas: Linea[];
 }
 
 export interface Version {
@@ -46,4 +42,20 @@ export interface Cancion {
   fecha_creacion: string;
   fecha_actualizacion: string;
   versions: Version[];
+}
+
+// Resumen para biblioteca (carga rápida desde songs_summary.json)
+export interface CancionResumen {
+  id: string;
+  titulo: string;
+  artista: string;
+  autor: string;
+  genero: string;
+  idioma: string;
+  favorita: boolean;
+  activa: boolean;
+  tonalidad: string;
+  bpm: number;
+  versions_count: number;
+  versions_nombres: string[];
 }

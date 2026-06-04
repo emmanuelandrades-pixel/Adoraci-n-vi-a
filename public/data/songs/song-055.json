@@ -2,7 +2,7 @@
   "id": "song-055",
   "titulo": "Intenso Amor",
   "artista": "Reckless Love",
-  "autor": "",
+  "autor": "Cory Asbury",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Cory Asbury",
-              "acordes": []
-            },
             {
               "texto": "Antes de hablar,",
               "acordes": [

@@ -2,7 +2,7 @@
   "id": "song-058",
   "titulo": "La Bondad De Dios",
   "artista": "Goodness Of God",
-  "autor": "",
+  "autor": "Jason Ingram, Ed Cash, Jenn Johnson, Brian Johnson, Ben Fielding",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Jason Ingram, Ed Cash, Jenn Johnson, Brian Johnson, Ben Fielding",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Te amo Dios                            Yo amo Tu voz",

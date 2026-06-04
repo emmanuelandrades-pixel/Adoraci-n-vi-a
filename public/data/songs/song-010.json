@@ -2,7 +2,7 @@
   "id": "song-010",
   "titulo": "Aquí Estamos Para Ti",
   "artista": "Here For You",
-  "autor": "",
+  "autor": "Matt Redman",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Matt Redman",
-              "acordes": []
-            },
             {
               "texto": "Al adorar se bienvenido",
               "acordes": [

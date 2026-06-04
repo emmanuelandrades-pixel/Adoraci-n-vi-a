@@ -2,7 +2,7 @@
   "id": "song-087",
   "titulo": "Rodeado (Así Peleo Mis Batallas)",
   "artista": "",
-  "autor": "Surrounded (This Is How I Fight My Battles)",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -40,12 +40,25 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "C#m7- A E-B",
-              "acordes": []
-            },
-            {
               "texto": "Tú preparas una mesa para mí",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "B",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "En presencia de mis enemigos",

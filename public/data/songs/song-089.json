@@ -2,7 +2,7 @@
   "id": "song-089",
   "titulo": "Santo Por Siempre",
   "artista": "Holy Forever",
-  "autor": "",
+  "autor": "E                                  Coro:",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,14 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Anthony Skinner, Chris Mcclarney",
-              "acordes": []
-            },
-            {
-              "texto": "E                                  Coro:",
-              "acordes": []
-            },
             {
               "texto": "Mil generaciones                            A      C#m B",
               "acordes": []

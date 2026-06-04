@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Miel San Marcos",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Jesucristo, precioso Rey Nada en la tierra ni en el cielo",
               "acordes": [
                 {
@@ -88,9 +77,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Mover Tu corazón es lo que quiero hacer",
@@ -175,9 +164,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Jesucristo, Te ofreceré Mis ambiciones y mis sueños",
@@ -232,9 +221,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Mover Tu corazón es lo que quiero hacer",
@@ -319,9 +308,9 @@
           ]
         },
         {
-          "id": "s006",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 5,
+          "numero": 4,
           "lineas": [
             {
               "texto": "Mover tu corazón y perderme en tu mirar",
@@ -342,9 +331,9 @@
           ]
         },
         {
-          "id": "s007",
+          "id": "s006",
           "tipo": "verso",
-          "numero": 6,
+          "numero": 5,
           "lineas": [
             {
               "texto": "Puente: C – G – Em – D",

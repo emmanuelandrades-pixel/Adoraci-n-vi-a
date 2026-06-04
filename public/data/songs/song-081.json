@@ -25,10 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Toma Tu Lugar",
-              "acordes": []
-            },
-            {
               "texto": "Sobre el trono de justicia eternamente",
               "acordes": [
                 {
@@ -195,7 +191,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 18
                 }
               ]
             },

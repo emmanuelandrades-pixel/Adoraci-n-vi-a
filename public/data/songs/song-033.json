@@ -2,7 +2,7 @@
   "id": "song-033",
   "titulo": "Digno Y Santo",
   "artista": "Revelation Song",
-  "autor": "",
+  "autor": "Jennie Lee Riddle",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -25,30 +25,25 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Jennie Lee Riddle",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "D – Am – C – G",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
               "texto": "Digno y Santo el cordero",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                }
+              ]
             },
             {
               "texto": "Inmolado en la cruz",
@@ -65,9 +60,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Santo, Santo, Santo",
@@ -100,9 +95,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 2,
           "lineas": [
             {
               "texto": "De un arco iris, está vestido",
@@ -127,9 +122,9 @@
           ]
         },
         {
-          "id": "s006",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 5,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Tan grandioso, asombroso",

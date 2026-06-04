@@ -2,7 +2,7 @@
   "id": "song-059",
   "titulo": "Levanto Un Aleluya",
   "artista": "Raise A Hallelujah",
-  "autor": "",
+  "autor": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens",
-              "acordes": []
-            },
             {
               "texto": "Levanto un aleluya, en presencia de mis enemigos",
               "acordes": [

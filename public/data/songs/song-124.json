@@ -2,7 +2,7 @@
   "id": "song-124",
   "titulo": "Él Es Yahve",
   "artista": "He is Yahve",
-  "autor": "",
+  "autor": "Dean Salyn",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,10 +24,6 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
-            {
-              "texto": "Dean Salyn",
-              "acordes": []
-            },
             {
               "texto": "¿Quién se mueve por las aguas?    ¿Quién es El que me alegra?",
               "acordes": [
@@ -241,7 +237,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 1
+                  "pos": 5
                 },
                 {
                   "acorde": "C#m",
@@ -278,7 +274,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 35
+                  "pos": 36
                 },
                 {
                   "acorde": "B",
@@ -316,7 +312,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 1
+                  "pos": 5
                 },
                 {
                   "acorde": "C#m",
@@ -328,7 +324,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 35
+                  "pos": 36
                 },
                 {
                   "acorde": "B",
@@ -382,7 +378,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 35
+                  "pos": 36
                 },
                 {
                   "acorde": "B",

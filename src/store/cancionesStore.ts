@@ -1,6 +1,6 @@
 import { create } from "zustand";
-import { Cancion } from "@/types/cancion";
-import { cargarCanciones } from "@/lib/data-loader/cargarCanciones";
+import { Cancion, CancionResumen } from "@/types/cancion";
+import { cargarResumenes, cargarCancion } from "@/lib/data-loader/cargarCanciones";
 
 interface FiltrosCanciones {
   busqueda: string;
@@ -12,16 +12,19 @@ interface FiltrosCanciones {
 }
 
 interface CancionesState {
-  canciones: Cancion[];
-  cargando: boolean;
+  resumenes: CancionResumen[];
+  cargandoBiblioteca: boolean;
+  cancionActiva: Cancion | null;
+  cargandoCancion: boolean;
   filtros: FiltrosCanciones;
   pagina: number;
   porPagina: number;
-  cargar: () => Promise<void>;
+  cargarBiblioteca: () => Promise<void>;
+  cargarCancionCompleta: (id: string) => Promise<void>;
   toggleFavorita: (id: string) => void;
   setFiltros: (filtros: Partial<FiltrosCanciones>) => void;
   setPagina: (pagina: number) => void;
-  cancionesFiltradas: () => Cancion[];
+  resumenesFiltrados: () => CancionResumen[];
 }
 
 const FILTROS_INICIAL: FiltrosCanciones = {
@@ -30,90 +33,81 @@ const FILTROS_INICIAL: FiltrosCanciones = {
   tonalidad: "",
   soloFavoritas: false,
   soloActivas: true,
-  orden: "recientes",
+  orden: "az",
 };
 
 export const useCancionesStore = create<CancionesState>((set, get) => ({
-  canciones: [],
-  cargando: false,
+  resumenes: [],
+  cargandoBiblioteca: false,
+  cancionActiva: null,
+  cargandoCancion: false,
   filtros: FILTROS_INICIAL,
   pagina: 1,
   porPagina: 12,
 
-  cargar: async () => {
-    set({ cargando: true });
-    const canciones = await cargarCanciones();
-
-    // Cargar favoritas desde localStorage
-    const favoritasGuardadas = localStorage.getItem("canciones-favoritas");
-    const favoritas: string[] = favoritasGuardadas ? JSON.parse(favoritasGuardadas) : [];
-
-    const cancionesConFavoritas = canciones.map((c) => ({
-      ...c,
-      favorita: favoritas.includes(c.id) ? true : c.favorita,
+  cargarBiblioteca: async () => {
+    if (get().resumenes.length > 0) return;
+    set({ cargandoBiblioteca: true });
+    const resumenes = await cargarResumenes();
+    let favoritas: string[] = [];
+    try {
+      const saved = localStorage.getItem("canciones-favoritas");
+      if (saved) favoritas = JSON.parse(saved);
+    } catch { /* ignore */ }
+    const conFavoritas = resumenes.map((r) => ({
+      ...r,
+      favorita: favoritas.includes(r.id) ? true : r.favorita,
     }));
+    set({ resumenes: conFavoritas, cargandoBiblioteca: false });
+  },
 
-    set({ canciones: cancionesConFavoritas, cargando: false });
+  cargarCancionCompleta: async (id: string) => {
+    set({ cargandoCancion: true, cancionActiva: null });
+    const cancion = await cargarCancion(id);
+    const resumen = get().resumenes.find((r) => r.id === id);
+    if (cancion && resumen) cancion.favorita = resumen.favorita;
+    set({ cancionActiva: cancion, cargandoCancion: false });
   },
 
   toggleFavorita: (id: string) => {
-    const { canciones } = get();
-    const nuevas = canciones.map((c) =>
-      c.id === id ? { ...c, favorita: !c.favorita } : c
+    const { resumenes, cancionActiva } = get();
+    const nuevos = resumenes.map((r) =>
+      r.id === id ? { ...r, favorita: !r.favorita } : r
     );
-    set({ canciones: nuevas });
-
-    const favoritas = nuevas.filter((c) => c.favorita).map((c) => c.id);
-    localStorage.setItem("canciones-favoritas", JSON.stringify(favoritas));
+    set({ resumenes: nuevos });
+    if (cancionActiva?.id === id) {
+      set({ cancionActiva: { ...cancionActiva, favorita: !cancionActiva.favorita } });
+    }
+    const favoritas = nuevos.filter((r) => r.favorita).map((r) => r.id);
+    try { localStorage.setItem("canciones-favoritas", JSON.stringify(favoritas)); } catch { /* ignore */ }
   },
 
   setFiltros: (filtros) => {
-    set((state) => ({
-      filtros: { ...state.filtros, ...filtros },
-      pagina: 1,
-    }));
+    set((state) => ({ filtros: { ...state.filtros, ...filtros }, pagina: 1 }));
   },
 
   setPagina: (pagina) => set({ pagina }),
 
-  cancionesFiltradas: () => {
-    const { canciones, filtros } = get();
-    let resultado = [...canciones];
-
-    if (filtros.soloActivas) resultado = resultado.filter((c) => c.activa);
-    if (filtros.soloFavoritas) resultado = resultado.filter((c) => c.favorita);
-    if (filtros.genero) resultado = resultado.filter((c) => c.genero === filtros.genero);
-    if (filtros.tonalidad) {
-      resultado = resultado.filter((c) =>
-        c.versions.some((v) => v.tonalidad === filtros.tonalidad)
-      );
-    }
+  resumenesFiltrados: () => {
+    const { resumenes, filtros } = get();
+    let resultado = [...resumenes];
+    if (filtros.soloActivas) resultado = resultado.filter((r) => r.activa);
+    if (filtros.soloFavoritas) resultado = resultado.filter((r) => r.favorita);
+    if (filtros.genero) resultado = resultado.filter((r) => r.genero === filtros.genero);
+    if (filtros.tonalidad) resultado = resultado.filter((r) => r.tonalidad === filtros.tonalidad);
     if (filtros.busqueda) {
       const q = filtros.busqueda.toLowerCase();
       resultado = resultado.filter(
-        (c) =>
-          c.titulo.toLowerCase().includes(q) ||
-          c.artista.toLowerCase().includes(q) ||
-          c.autor.toLowerCase().includes(q)
+        (r) =>
+          r.titulo.toLowerCase().includes(q) ||
+          r.artista.toLowerCase().includes(q) ||
+          r.autor.toLowerCase().includes(q)
       );
     }
-
     switch (filtros.orden) {
-      case "az":
-        resultado.sort((a, b) => a.titulo.localeCompare(b.titulo));
-        break;
-      case "za":
-        resultado.sort((a, b) => b.titulo.localeCompare(a.titulo));
-        break;
-      case "recientes":
-      default:
-        resultado.sort(
-          (a, b) =>
-            new Date(b.fecha_actualizacion).getTime() -
-            new Date(a.fecha_actualizacion).getTime()
-        );
+      case "az": resultado.sort((a, b) => a.titulo.localeCompare(b.titulo, "es")); break;
+      case "za": resultado.sort((a, b) => b.titulo.localeCompare(a.titulo, "es")); break;
     }
-
     return resultado;
   },
 }));

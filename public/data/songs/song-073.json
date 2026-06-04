@@ -2,7 +2,7 @@
   "id": "song-073",
   "titulo": "Oceanos",
   "artista": "",
-  "autor": "(Oceans (Where Feet My Fail))",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -24,6 +24,25 @@
           "tipo": "verso",
           "numero": null,
           "lineas": [
+            {
+              "texto": "(Oceans (Where Feet My Fail))",
+              "acordes": []
+            },
+            {
+              "texto": "Matt Crocker, Joel Houston, Salomon Lighthelm",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Intro: Bm - A/C# - D - A – G",
+              "acordes": []
+            },
             {
               "texto": "Tu voz me llama a las aguas",
               "acordes": [
@@ -87,9 +106,9 @@
           ]
         },
         {
-          "id": "s002",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 1,
+          "numero": 2,
           "lineas": [
             {
               "texto": "A tu nombre clamaré",
@@ -167,9 +186,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Tu gracia abunda en la tormenta",
@@ -190,9 +209,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 4,
           "lineas": [
             {
               "texto": "Bm(G)               G(D)",
@@ -213,9 +232,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s006",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 5,
           "lineas": [
             {
               "texto": "Tú me llevas más allá de lo soñado",

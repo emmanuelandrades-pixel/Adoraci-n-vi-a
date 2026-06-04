@@ -2,7 +2,7 @@
   "id": "song-035",
   "titulo": "Dulcemente Quebrantado",
   "artista": "Sweetly Broken",
-  "autor": "",
+  "autor": "Jeremy Riddle",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Jeremy Riddle",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Miro a la cruz, de ella me sostendré",
@@ -90,9 +79,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "En la cruz Tú me cautivas",
@@ -132,9 +121,9 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s003",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Y sin merecer, el regalo de la vida",
@@ -155,9 +144,9 @@
           ]
         },
         {
-          "id": "s005",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Asombrado en la cruz confesaré",

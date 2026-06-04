@@ -25,7 +25,65 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Vastián Valenzuela",
+              "texto": "Él es el león que abrió el mar",
+              "acordes": []
+            },
+            {
+              "texto": "Las olas el calmó, el viento y el mar",
+              "acordes": []
+            },
+            {
+              "texto": "Él es el león que va frente a mí",
+              "acordes": []
+            },
+            {
+              "texto": "Mi vida rescató, mi guerra Él venció",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tu corazón ruge en poder y autoridad",
+              "acordes": []
+            },
+            {
+              "texto": "Todo temor huye al sentir tu palpitar",
+              "acordes": []
+            },
+            {
+              "texto": "Gloria y honor rindo ante ti precioso Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Puedo cantar y celebrar, tú eres mi Dios",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Toda tiniebla huye",
+              "acordes": []
+            },
+            {
+              "texto": "Todo temor desaparece ante ti",
+              "acordes": []
+            },
+            {
+              "texto": "Toda confianza tengo",
+              "acordes": []
+            },
+            {
+              "texto": "En que tú eres el león frente a mí",
               "acordes": []
             }
           ]

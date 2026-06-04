@@ -2,7 +2,7 @@
   "id": "song-126",
   "titulo": "En Tu Presencia",
   "artista": "Touch of Heaven",
-  "autor": "",
+  "autor": "Hannah Hobbs, Aodhan King & Michael Fatkin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Hannah Hobbs, Aodhan King & Michael Fatkin",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Quieto en tu presencia               A tus pies me rendiré",
@@ -172,9 +161,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Todo en mí                           //Mi corazón abierto esta",

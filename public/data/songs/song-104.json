@@ -2,7 +2,7 @@
   "id": "song-104",
   "titulo": "Tumbas A Jardines",
   "artista": "Graves into Gardens",
-  "autor": "",
+  "autor": "Brandon Lake, Chris Brown, Steven Furtick & Tiffany Hammer",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Brandon Lake, Chris Brown, Steven Furtick & Tiffany Hammer",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "El mundo busqué                       Vengo a ti",
@@ -220,9 +209,9 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
               "texto": "De las ruinas y tumbas",

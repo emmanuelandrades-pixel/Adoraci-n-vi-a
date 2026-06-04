@@ -4,7 +4,7 @@ import { useEffect, useState, useCallback } from "react";
 import { useSetListStore } from "@/store/setlistStore";
 import { useCancionesStore } from "@/store/cancionesStore";
 import { SetList, CancionSetList } from "@/types/setlist";
-import { Cancion } from "@/types/cancion";
+import { CancionResumen } from "@/types/cancion";
 import { cargarMinisterio } from "@/lib/data-loader/cargarMinisterio";
 import { Integrante } from "@/types/ministerio";
 import { ArrowLeft, Save, Plus, Trash2, GripVertical, ChevronUp, ChevronDown, Download, Users } from "lucide-react";
@@ -19,7 +19,7 @@ function segundosAMinutos(s: number): string {
 
 interface ModalParticipacionesProps {
   cancionSL: CancionSetList;
-  cancion: Cancion | undefined;
+  cancion: CancionResumen | undefined;
   integrantes: Integrante[];
   onGuardar: (updated: CancionSetList) => void;
   onCerrar: () => void;
@@ -159,16 +159,17 @@ interface Props { id: string; }
 
 export function EditorSetList({ id }: Props) {
   const { setlists, cargar, guardar, cargando } = useSetListStore();
-  const { canciones, cargar: cargarCanciones } = useCancionesStore();
+  const { resumenes, cargarBiblioteca, cargarCancionCompleta } = useCancionesStore();
   const [setlist, setSetlist] = useState<SetList | null>(null);
   const [integrantes, setIntegrantes] = useState<Integrante[]>([]);
   const [modalCancion, setModalCancion] = useState<CancionSetList | null>(null);
   const [buscador, setBuscador] = useState("");
   const [guardado, setGuardado] = useState(false);
+  const [agregando, setAgregando] = useState(false);
 
   useEffect(() => {
     cargar();
-    cargarCanciones();
+    cargarBiblioteca();
     cargarMinisterio().then((m) => {
       if (m) setIntegrantes(m.integrantes);
     });
@@ -193,20 +194,24 @@ export function EditorSetList({ id }: Props) {
     setTimeout(() => setGuardado(false), 2000);
   };
 
-  const agregarCancion = (cancion: Cancion) => {
-    if (!setlist) return;
-    const version = cancion.versions.find((v) => v.es_original) ?? cancion.versions[0];
+  const agregarCancion = async (resumen: CancionResumen) => {
+    if (!setlist || agregando) return;
+    setAgregando(true);
+    await cargarCancionCompleta(resumen.id);
+    const cancion = useCancionesStore.getState().cancionActiva;
+    const version = cancion?.versions.find((v) => v.es_original) ?? cancion?.versions[0];
     const nueva: CancionSetList = {
       orden: setlist.canciones.length + 1,
-      cancion_id: cancion.id,
-      version_id: version.id,
-      tonalidad_evento: version.tonalidad,
-      duracion_segundos: version.duracion_segundos,
+      cancion_id: resumen.id,
+      version_id: version?.id ?? `${resumen.id}-v1`,
+      tonalidad_evento: version?.tonalidad ?? resumen.tonalidad,
+      duracion_segundos: version?.duracion_segundos ?? 0,
       participaciones: { vocalista_principal: "", coristas: [], instrumentistas: {} },
       notas: { observaciones: "", arreglos_especiales: "" },
     };
-    setSetlist({ ...setlist, canciones: [...setlist.canciones, nueva] });
+    setSetlist((prev) => prev ? { ...prev, canciones: [...prev.canciones, nueva] } : prev);
     setBuscador("");
+    setAgregando(false);
   };
 
   const moverCancion = (idx: number, dir: -1 | 1) => {
@@ -231,7 +236,7 @@ export function EditorSetList({ id }: Props) {
     setSetlist({ ...setlist, canciones: nuevas });
   };
 
-  const cancionesFiltradas = canciones.filter((c) =>
+  const cancionesFiltradas = resumenes.filter((c) =>
     c.titulo.toLowerCase().includes(buscador.toLowerCase()) ||
     c.artista.toLowerCase().includes(buscador.toLowerCase())
   ).slice(0, 8);
@@ -353,8 +358,7 @@ export function EditorSetList({ id }: Props) {
           </div>
         ) : (
           setlist.canciones.map((csl, idx) => {
-            const cancion = canciones.find((c) => c.id === csl.cancion_id);
-            const version = cancion?.versions.find((v) => v.id === csl.version_id);
+            const cancion = resumenes.find((c) => c.id === csl.cancion_id);
             return (
               <div key={`${csl.cancion_id}-${idx}`} className="bg-card border border-border rounded-xl p-4 flex items-center gap-3">
                 <span className="text-xs font-mono text-muted-foreground w-5 text-center">{csl.orden}</span>
@@ -364,7 +368,7 @@ export function EditorSetList({ id }: Props) {
                   <p className="font-medium text-foreground text-sm truncate">{cancion?.titulo ?? csl.cancion_id}</p>
                   <div className="flex items-center gap-2 mt-0.5 text-xs text-muted-foreground">
                     <span className="font-mono text-blue-400">{csl.tonalidad_evento}</span>
-                    {version && <span>{segundosAMinutos(csl.duracion_segundos)}</span>}
+                    {csl.duracion_segundos > 0 && <span>{segundosAMinutos(csl.duracion_segundos)}</span>}
                     {csl.participaciones.vocalista_principal && (
                       <span>🎤 {csl.participaciones.vocalista_principal}</span>
                     )}
@@ -431,15 +435,14 @@ export function EditorSetList({ id }: Props) {
                 <button
                   key={c.id}
                   onClick={() => agregarCancion(c)}
-                  className="w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm hover:bg-secondary transition-colors text-left"
+                  disabled={agregando}
+                  className="w-full flex items-center justify-between px-3 py-2 rounded-lg text-sm hover:bg-secondary transition-colors text-left disabled:opacity-50"
                 >
                   <div>
                     <span className="text-foreground font-medium">{c.titulo}</span>
                     <span className="text-muted-foreground ml-2">{c.artista}</span>
                   </div>
-                  <span className="text-xs font-mono text-blue-400">
-                    {c.versions.find((v) => v.es_original)?.tonalidad ?? c.versions[0]?.tonalidad}
-                  </span>
+                  <span className="text-xs font-mono text-blue-400">{c.tonalidad}</span>
                 </button>
               ))
             )}
@@ -451,7 +454,7 @@ export function EditorSetList({ id }: Props) {
       {modalCancion && (
         <ModalParticipaciones
           cancionSL={modalCancion}
-          cancion={canciones.find((c) => c.id === modalCancion.cancion_id)}
+          cancion={resumenes.find((c) => c.id === modalCancion.cancion_id)}
           integrantes={integrantes}
           onGuardar={actualizarCancion}
           onCerrar={() => setModalCancion(null)}

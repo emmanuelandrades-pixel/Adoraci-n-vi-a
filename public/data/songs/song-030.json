@@ -2,7 +2,7 @@
   "id": "song-030",
   "titulo": "Despierta Mi Alma",
   "artista": "Awake My Soul",
-  "autor": "",
+  "autor": "Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -23,17 +23,6 @@
           "id": "s001",
           "tipo": "verso",
           "numero": null,
-          "lineas": [
-            {
-              "texto": "Brooke Ligertwood",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
           "lineas": [
             {
               "texto": "Puedes oír qué hermoso es, son los pasos del Salvador",
@@ -68,110 +57,120 @@
           ]
         },
         {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Despierta mi alma y canta al Se - ñor",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 17
+                },
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Canta al Señor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Despierta mi alma y canta al Se - ñor",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Canta al Señor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bsus",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "s003",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
             {
-              "texto": "(E) - A - C#m7 - A",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
-              "texto": "Despierta mi alma y canta al Se - ñor",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 1
-                },
-                {
-                  "acorde": "A",
-                  "pos": 11
-                },
-                {
-                  "acorde": "Bsus",
-                  "pos": 18
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "Canta al Señor",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 3
-                },
-                {
-                  "acorde": "Bsus",
-                  "pos": 5
-                }
-              ]
-            },
-            {
-              "texto": "Despierta mi alma y canta al Se - ñor",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 1
-                },
-                {
-                  "acorde": "A",
-                  "pos": 11
-                },
-                {
-                  "acorde": "Bsus",
-                  "pos": 18
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "Canta al Señor",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 3
-                },
-                {
-                  "acorde": "Bsus",
-                  "pos": 5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "lineas": [
-            {
-              "texto": "E - A - C#m7 - A",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "lineas": [
-            {
               "texto": "Puedo escuchar la oración de un pueblo rendido ante Dios",
               "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                },
                 {
                   "acorde": "E",
                   "pos": 0
@@ -198,9 +197,9 @@
           ]
         },
         {
-          "id": "s007",
+          "id": "s004",
           "tipo": "verso",
-          "numero": 6,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Y al orar Él obrará, caminos nuevos abrirá",
@@ -281,9 +280,9 @@
           ]
         },
         {
-          "id": "s008",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 7,
+          "numero": 4,
           "lineas": [
             {
               "texto": "¡Hey! ¡Oh! Está pasando el Rey de gloria",

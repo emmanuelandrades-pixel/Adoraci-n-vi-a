@@ -164,12 +164,25 @@
               ]
             },
             {
-              "texto": "Am - G - F (C)",
-              "acordes": []
-            },
-            {
               "texto": "( //// Te adora a ti //// )",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                },
+                {
+                  "acorde": "F",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
             }
           ]
         },

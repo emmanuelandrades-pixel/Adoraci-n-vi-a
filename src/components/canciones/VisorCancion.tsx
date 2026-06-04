@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useCancionesStore } from "@/store/cancionesStore";
-import { Cancion, Version, Seccion } from "@/types/cancion";
+import { Version, Seccion } from "@/types/cancion";
 import { transponerAcorde } from "@/lib/utils/transposicion";
 import { Star, Minus, Plus, RotateCcw, Maximize2, ArrowLeft } from "lucide-react";
 import Link from "next/link";
@@ -10,14 +10,8 @@ import { cn } from "@/lib/utils";
 import { LineaConAcordes } from "./LineaConAcordes";
 
 const ETIQUETAS_SECCION: Record<string, string> = {
-  intro: "Intro",
-  verso: "Verso",
-  "pre-coro": "Pre-Coro",
-  coro: "Coro",
-  puente: "Puente",
-  "final-coro": "Final Coro",
-  outro: "Outro",
-  instrumental: "Instrumental",
+  intro: "Intro", verso: "Verso", "pre-coro": "Pre-Coro", coro: "Coro",
+  puente: "Puente", "final-coro": "Final Coro", outro: "Outro", instrumental: "Instrumental",
 };
 
 const COLORES_SECCION: Record<string, string> = {
@@ -31,109 +25,60 @@ const COLORES_SECCION: Record<string, string> = {
   instrumental: "bg-secondary text-muted-foreground border-border",
 };
 
-function etiquetaSeccion(seccion: Seccion): string {
-  const base = ETIQUETAS_SECCION[seccion.tipo] ?? seccion.tipo;
-  return seccion.numero ? `${base} ${seccion.numero}` : base;
+function etiquetaSeccion(s: Seccion): string {
+  const base = ETIQUETAS_SECCION[s.tipo] ?? s.tipo;
+  return s.numero ? `${base} ${s.numero}` : base;
 }
 
-interface SeccionViewProps {
-  seccion: Seccion;
-  semitonos: number;
-  tonalidad: string;
-}
-
-function SeccionView({ seccion, semitonos, tonalidad }: SeccionViewProps) {
-  return (
-    <div className="space-y-2">
-      {/* Etiqueta de sección */}
-      <span className={cn(
-        "inline-block text-xs font-semibold px-2.5 py-1 rounded-full border",
-        COLORES_SECCION[seccion.tipo] ?? "bg-secondary text-muted-foreground border-border"
-      )}>
-        {etiquetaSeccion(seccion)}
-      </span>
-
-      {/* Formato nuevo: líneas con acordes posicionados */}
-      {seccion.lineas && seccion.lineas.length > 0 && (
-        <div className="space-y-1">
-          {seccion.lineas.map((linea, i) => (
-            <LineaConAcordes
-              key={i}
-              texto={linea.texto}
-              acordes={linea.acordes}
-              semitonos={semitonos}
-              tonalidad={tonalidad}
-            />
-          ))}
-        </div>
-      )}
-
-      {/* Formato legacy: texto plano */}
-      {!seccion.lineas && seccion.contenido && (
-        <pre className="font-mono text-sm text-foreground/90 leading-relaxed whitespace-pre-wrap">
-          {seccion.contenido}
-        </pre>
-      )}
-    </div>
-  );
-}
-
-interface Props {
-  id: string;
-}
+interface Props { id: string; }
 
 export function VisorCancion({ id }: Props) {
-  const { canciones, cargando, cargar, toggleFavorita } = useCancionesStore();
-  const [cancion, setCancion] = useState<Cancion | null>(null);
+  const { cancionActiva, cargandoCancion, cargarCancionCompleta, toggleFavorita } = useCancionesStore();
   const [versionActiva, setVersionActiva] = useState<Version | null>(null);
   const [semitonos, setSemitonos] = useState(0);
-  const [listo, setListo] = useState(false);
 
   useEffect(() => {
-    if (canciones.length === 0) cargar();
-    else setListo(true);
-  }, []);
+    cargarCancionCompleta(id);
+  }, [id, cargarCancionCompleta]);
 
   useEffect(() => {
-    if (canciones.length === 0) return;
-    const c = canciones.find((c) => c.id === id);
-    if (c) {
-      setCancion(c);
-      setVersionActiva(c.versions.find((v) => v.es_original) ?? c.versions[0]);
+    if (cancionActiva?.id === id) {
+      const v = cancionActiva.versions.find((v) => v.es_original) ?? cancionActiva.versions[0];
+      setVersionActiva(v ?? null);
+      setSemitonos(0);
     }
-    setListo(true);
-  }, [canciones, id]);
+  }, [cancionActiva, id]);
 
-  if (cargando || !listo) {
+  if (cargandoCancion || (!cancionActiva && cargandoCancion !== false)) {
     return (
-      <div className="space-y-4">
+      <div className="space-y-4 max-w-3xl mx-auto">
         <div className="h-8 w-48 bg-card rounded animate-pulse" />
-        <div className="h-32 bg-card rounded-xl animate-pulse" />
-        <div className="h-48 bg-card rounded-xl animate-pulse" />
+        <div className="h-36 bg-card rounded-xl border border-border animate-pulse" />
+        <div className="h-64 bg-card rounded-xl border border-border animate-pulse" />
       </div>
     );
   }
 
-  if (!cancion || !versionActiva) {
+  if (!cancionActiva || cancionActiva.id !== id || !versionActiva) {
+    if (cargandoCancion) return (
+      <div className="space-y-4 max-w-3xl mx-auto">
+        <div className="h-36 bg-card rounded-xl animate-pulse" />
+      </div>
+    );
     return (
       <div className="flex flex-col items-center justify-center h-64 text-muted-foreground">
         <p>Canción no encontrada</p>
-        <Link href="/canciones" className="mt-2 text-primary hover:underline text-sm">
-          Volver a la biblioteca
-        </Link>
+        <Link href="/canciones" className="mt-2 text-primary hover:underline text-sm">Volver a la biblioteca</Link>
       </div>
     );
   }
 
+  const cancion = cancionActiva;
   const tonalidad_transpuesta = transponerAcorde(versionActiva.tonalidad, semitonos);
 
   return (
     <div className="max-w-3xl mx-auto space-y-6">
-      {/* Navegación */}
-      <Link
-        href="/canciones"
-        className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
-      >
+      <Link href="/canciones" className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors">
         <ArrowLeft className="w-4 h-4" />
         Volver a la biblioteca
       </Link>
@@ -149,10 +94,7 @@ export function VisorCancion({ id }: Props) {
             )}
           </div>
           <div className="flex items-center gap-2 flex-shrink-0">
-            <button
-              onClick={() => toggleFavorita(cancion.id)}
-              className="p-2 rounded-lg text-muted-foreground hover:text-yellow-400 transition-colors"
-            >
+            <button onClick={() => toggleFavorita(cancion.id)} className="p-2 rounded-lg text-muted-foreground hover:text-yellow-400 transition-colors">
               <Star className={cn("w-5 h-5", cancion.favorita && "fill-yellow-400 text-yellow-400")} />
             </button>
             <Link
@@ -164,32 +106,25 @@ export function VisorCancion({ id }: Props) {
             </Link>
           </div>
         </div>
-
-        {/* Metadatos */}
         <div className="flex items-center gap-4 mt-4 pt-4 border-t border-border text-sm text-muted-foreground flex-wrap">
-          <span>🎵 Tonalidad: <span className="text-blue-400 font-mono font-semibold">{tonalidad_transpuesta}</span></span>
-          <span>⏱ {Math.floor(versionActiva.duracion_segundos / 60)}:{(versionActiva.duracion_segundos % 60).toString().padStart(2, "0")}</span>
-          <span>♩ {versionActiva.bpm} BPM</span>
+          <span>🎵 <span className="text-blue-400 font-mono font-semibold">{tonalidad_transpuesta}</span></span>
+          {versionActiva.duracion_segundos > 0 && (
+            <span>⏱ {Math.floor(versionActiva.duracion_segundos / 60)}:{(versionActiva.duracion_segundos % 60).toString().padStart(2, "0")}</span>
+          )}
+          {versionActiva.bpm > 0 && <span>♩ {versionActiva.bpm} BPM</span>}
           <span>⏲ {versionActiva.compas}</span>
-          <span className="bg-secondary px-2 py-0.5 rounded text-xs">{cancion.genero}</span>
+          {cancion.genero && <span className="bg-secondary px-2 py-0.5 rounded text-xs">{cancion.genero}</span>}
         </div>
       </div>
 
-      {/* Selector de versiones */}
+      {/* Selector versiones */}
       {cancion.versions.length > 1 && (
         <div className="flex items-center gap-2 flex-wrap">
           <span className="text-sm text-muted-foreground">Versión:</span>
           {cancion.versions.map((v) => (
-            <button
-              key={v.id}
-              onClick={() => { setVersionActiva(v); setSemitonos(0); }}
-              className={cn(
-                "px-3 py-1.5 rounded-lg text-sm border transition-colors",
-                versionActiva.id === v.id
-                  ? "bg-primary/15 text-primary border-primary/40"
-                  : "bg-card text-muted-foreground border-border hover:text-foreground"
-              )}
-            >
+            <button key={v.id} onClick={() => { setVersionActiva(v); setSemitonos(0); }}
+              className={cn("px-3 py-1.5 rounded-lg text-sm border transition-colors",
+                versionActiva.id === v.id ? "bg-primary/15 text-primary border-primary/40" : "bg-card text-muted-foreground border-border hover:text-foreground")}>
               {v.nombre}
               {v.es_original && <span className="ml-1 text-[10px] text-muted-foreground">(original)</span>}
             </button>
@@ -205,33 +140,27 @@ export function VisorCancion({ id }: Props) {
             <p className="text-xs text-muted-foreground mt-0.5">
               Original: <span className="font-mono text-blue-400">{versionActiva.tonalidad}</span>
               {semitonos !== 0 && (
-                <> → Transpuesto: <span className="font-mono text-blue-400">{tonalidad_transpuesta}</span>
-                  <span className="ml-1 text-green-400">({semitonos > 0 ? `+${semitonos}` : semitonos} semitonos)</span>
+                <> → <span className="font-mono text-blue-400">{tonalidad_transpuesta}</span>
+                  <span className="ml-1 text-green-400">({semitonos > 0 ? `+${semitonos}` : semitonos} st)</span>
                 </>
               )}
             </p>
           </div>
           <div className="flex items-center gap-2">
-            <button
-              onClick={() => setSemitonos((s) => s - 1)}
-              className="w-8 h-8 flex items-center justify-center rounded-lg bg-secondary text-foreground hover:bg-primary/20 transition-colors"
-            >
+            <button onClick={() => setSemitonos((s) => s - 1)}
+              className="w-8 h-8 flex items-center justify-center rounded-lg bg-secondary text-foreground hover:bg-primary/20 transition-colors">
               <Minus className="w-4 h-4" />
             </button>
-            <span className="w-8 text-center text-sm font-mono font-semibold text-foreground">
+            <span className="w-8 text-center text-sm font-mono font-semibold">
               {semitonos > 0 ? `+${semitonos}` : semitonos}
             </span>
-            <button
-              onClick={() => setSemitonos((s) => s + 1)}
-              className="w-8 h-8 flex items-center justify-center rounded-lg bg-secondary text-foreground hover:bg-primary/20 transition-colors"
-            >
+            <button onClick={() => setSemitonos((s) => s + 1)}
+              className="w-8 h-8 flex items-center justify-center rounded-lg bg-secondary text-foreground hover:bg-primary/20 transition-colors">
               <Plus className="w-4 h-4" />
             </button>
             {semitonos !== 0 && (
-              <button
-                onClick={() => setSemitonos(0)}
-                className="flex items-center gap-1 px-2 py-1.5 rounded-lg text-xs text-muted-foreground hover:text-foreground bg-secondary transition-colors"
-              >
+              <button onClick={() => setSemitonos(0)}
+                className="flex items-center gap-1 px-2 py-1.5 rounded-lg text-xs text-muted-foreground hover:text-foreground bg-secondary transition-colors">
                 <RotateCcw className="w-3 h-3" />
                 Reset
               </button>
@@ -241,15 +170,27 @@ export function VisorCancion({ id }: Props) {
       </div>
 
       {/* Secciones */}
-      <div className="bg-card border border-border rounded-xl p-6 space-y-6">
+      <div className="bg-card border border-border rounded-xl p-6 space-y-8">
         {versionActiva.secciones.length === 0 ? (
-          <p className="text-muted-foreground text-sm text-center py-8">
-            Esta versión no tiene secciones definidas aún.
-          </p>
+          <p className="text-muted-foreground text-sm text-center py-8">Esta versión no tiene secciones definidas.</p>
         ) : (
           versionActiva.secciones.map((seccion) => (
-            <div key={seccion.id}>
-              <SeccionView seccion={seccion} semitonos={semitonos} tonalidad={versionActiva.tonalidad} />
+            <div key={seccion.id} className="space-y-2">
+              <span className={cn("inline-block text-xs font-semibold px-2.5 py-1 rounded-full border",
+                COLORES_SECCION[seccion.tipo] ?? "bg-secondary text-muted-foreground border-border")}>
+                {etiquetaSeccion(seccion)}
+              </span>
+              <div className="space-y-0">
+                {seccion.lineas.map((linea, i) => (
+                  <LineaConAcordes
+                    key={i}
+                    texto={linea.texto}
+                    acordes={linea.acordes}
+                    semitonos={semitonos}
+                    tonalidad={versionActiva.tonalidad}
+                  />
+                ))}
+              </div>
             </div>
           ))
         )}

@@ -2,7 +2,7 @@
   "id": "song-017",
   "titulo": "Cielo Abierto (Agua Viva)",
   "artista": "",
-  "autor": "(Open Heaven (River Wild))",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -286,12 +286,37 @@
               ]
             },
             {
-              "texto": "G/B C D Em (G/B – C)          G/B",
-              "acordes": []
-            },
-            {
               "texto": "Solo a ti clamaré                 Me sumerges",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 15
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 34
+                }
+              ]
             },
             {
               "texto": "Em G/B         C     D Em         En tu gracia",

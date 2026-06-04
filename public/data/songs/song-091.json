@@ -53,12 +53,17 @@
               ]
             },
             {
-              "texto": "G DC",
-              "acordes": []
-            },
-            {
               "texto": "Cris - to",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/C",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Santo y ungi - do Rey",

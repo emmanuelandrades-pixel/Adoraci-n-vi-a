@@ -183,12 +183,21 @@
           "numero": 4,
           "lineas": [
             {
-              "texto": "F#m                E-D",
-              "acordes": []
-            },
-            {
               "texto": "Hoy se oye rugiendo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                }
+              ]
             },
             {
               "texto": "Al León de Judá",

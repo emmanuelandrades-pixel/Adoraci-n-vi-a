@@ -169,41 +169,57 @@
               ]
             },
             {
-              "texto": "C             F    G       Dm       GC",
+              "texto": "Y no podemos entender tanto amor     ///Incondicional",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 37
+                  "pos": 40
                 },
                 {
                   "acorde": "F",
-                  "pos": 37
+                  "pos": 43
                 },
                 {
                   "acorde": "G",
-                  "pos": 37
+                  "pos": 45
                 },
                 {
                   "acorde": "C",
-                  "pos": 37
+                  "pos": 52
                 },
                 {
                   "acorde": "G",
-                  "pos": 37
+                  "pos": 52
                 },
                 {
                   "acorde": "Am",
-                  "pos": 37
+                  "pos": 52
                 },
                 {
                   "acorde": "F",
-                  "pos": 37
+                  "pos": 52
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 34
+                },
+                {
+                  "acorde": "G/C",
+                  "pos": 43
                 }
               ]
-            },
-            {
-              "texto": "Y no podemos entender tanto amor     ///Incondicional",
-              "acordes": []
             },
             {
               "texto": "Fuiste a la cruz a demostrar tu amor C           F C            F G",

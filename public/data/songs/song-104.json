@@ -176,20 +176,34 @@
               ]
             },
             {
-              "texto": "G                               G                CG",
-              "acordes": []
-            },
-            {
               "texto": "Oh no hay nada, nada mejor            /Cambias lamento en danza",
-              "acordes": []
-            },
-            {
-              "texto": "Em                                             CG",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 38
+                },
+                {
+                  "acorde": "C/G",
+                  "pos": 55
+                }
+              ]
             },
             {
               "texto": "No hay nada, nada mejor               De cenizas traes vida",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C/G",
+                  "pos": 51
+                }
+              ]
             },
             {
               "texto": "C            G                   Cambias culpa por gloria",
@@ -211,20 +225,22 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "CG",
-              "acordes": []
-            },
-            {
               "texto": "De las ruinas y tumbas",
-              "acordes": []
-            },
-            {
-              "texto": "CG",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C/G",
+                  "pos": 21
+                }
+              ]
             },
             {
               "texto": "Nacen nuevos jardines",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C/G",
+                  "pos": 20
+                }
+              ]
             },
             {
               "texto": "Resucitas los huesos",

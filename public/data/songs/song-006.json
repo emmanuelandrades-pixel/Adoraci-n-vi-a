@@ -149,12 +149,25 @@
               ]
             },
             {
-              "texto": "G-F (Dm)              C/E",
-              "acordes": []
-            },
-            {
               "texto": "Sea la Gloria, Sea la Honra y el Poder",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 22
+                }
+              ]
             },
             {
               "texto": "Sea la Gloria, sea la Honra y el Poder",

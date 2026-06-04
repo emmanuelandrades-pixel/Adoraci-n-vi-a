@@ -85,13 +85,12 @@
               ]
             },
             {
+              "texto": "G4",
+              "acordes": []
+            },
+            {
               "texto": "Y quiero odiar lo que tú odias",
-              "acordes": [
-                {
-                  "acorde": "G4",
-                  "pos": 5
-                }
-              ]
+              "acordes": []
             }
           ]
         },
@@ -110,13 +109,12 @@
               ]
             },
             {
+              "texto": "G4",
+              "acordes": []
+            },
+            {
               "texto": "No una cueva de ladrones",
-              "acordes": [
-                {
-                  "acorde": "G4",
-                  "pos": 9
-                }
-              ]
+              "acordes": []
             },
             {
               "texto": "Tienes todo lo que soy",

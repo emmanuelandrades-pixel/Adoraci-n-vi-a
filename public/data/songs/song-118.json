@@ -170,12 +170,21 @@
               ]
             },
             {
-              "texto": "GD       G/B Em",
-              "acordes": []
-            },
-            {
               "texto": "Nació El Salvador",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G/D",
+                  "pos": 16
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 16
+                }
+              ]
             },
             {
               "texto": "Oh Noche Divi-----na",

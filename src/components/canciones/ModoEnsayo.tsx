@@ -3,12 +3,9 @@
 import { useEffect, useState, useCallback, useRef } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { useCancionesStore } from "@/store/cancionesStore";
-import { Cancion, Version, Seccion } from "@/types/cancion";
+import { Cancion, Version } from "@/types/cancion";
 import { transponerAcorde } from "@/lib/utils/transposicion";
-import {
-  X, ChevronLeft, ChevronRight, Minus, Plus,
-  Play, Pause, Settings
-} from "lucide-react";
+import { X, ChevronLeft, ChevronRight, Minus, Plus, Play, Pause, RotateCcw } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const ETIQUETAS: Record<string, string> = {
@@ -37,11 +34,17 @@ export function ModoEnsayo({ id }: Props) {
   const [seccionIdx, setSeccionIdx] = useState(0);
   const [semitonos, setSemitonos] = useState(0);
   const [fontSize, setFontSize] = useState(20);
-  const [autoScroll, setAutoScroll] = useState(false);
-  const [scrollSpeed, setScrollSpeed] = useState(1);
-  const [showControls, setShowControls] = useState(true);
-  const scrollRef = useRef<HTMLDivElement>(null);
-  const autoScrollRef = useRef<number | null>(null);
+  const [scrolling, setScrolling] = useState(false);
+  const [speed, setSpeed] = useState(2);
+
+  // Refs para auto-scroll (sin re-renders)
+  const containerRef = useRef<HTMLDivElement>(null);
+  const isScrollingRef = useRef(false);
+  const speedRef = useRef(2);
+  const animFrameRef = useRef<number | null>(null);
+
+  // Sincronizar speed state → speedRef
+  useEffect(() => { speedRef.current = speed; }, [speed]);
 
   useEffect(() => {
     if (canciones.length === 0) cargar();
@@ -61,37 +64,52 @@ export function ModoEnsayo({ id }: Props) {
     setSemitonos(isNaN(semi) ? 0 : semi);
   }, [canciones, id, searchParams]);
 
-  // Auto-scroll
-  useEffect(() => {
-    if (autoScroll && scrollRef.current) {
-      autoScrollRef.current = window.setInterval(() => {
-        if (scrollRef.current) scrollRef.current.scrollTop += scrollSpeed;
-      }, 50);
-    } else {
-      if (autoScrollRef.current) clearInterval(autoScrollRef.current);
+  // Loop de auto-scroll con requestAnimationFrame
+  const scrollLoop = useCallback(() => {
+    if (!isScrollingRef.current || !containerRef.current) return;
+    const el = containerRef.current;
+    el.scrollTop += speedRef.current * 0.4;
+    if (el.scrollTop + el.clientHeight >= el.scrollHeight - 2) {
+      // Llegó al final
+      isScrollingRef.current = false;
+      setScrolling(false);
+      return;
     }
-    return () => { if (autoScrollRef.current) clearInterval(autoScrollRef.current); };
-  }, [autoScroll, scrollSpeed]);
+    animFrameRef.current = requestAnimationFrame(scrollLoop);
+  }, []);
+
+  const toggleScroll = useCallback(() => {
+    const next = !isScrollingRef.current;
+    isScrollingRef.current = next;
+    setScrolling(next);
+    if (next) animFrameRef.current = requestAnimationFrame(scrollLoop);
+    else if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
+  }, [scrollLoop]);
+
+  const reiniciar = useCallback(() => {
+    if (containerRef.current) containerRef.current.scrollTop = 0;
+    isScrollingRef.current = false;
+    setScrolling(false);
+    if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
+  }, []);
 
   // Teclado
-  const handleKey = useCallback((e: KeyboardEvent) => {
-    if (!version) return;
-    if (e.key === "ArrowRight" || e.key === "ArrowDown") {
-      setSeccionIdx((i) => Math.min(i + 1, version.secciones.length - 1));
-    } else if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
-      setSeccionIdx((i) => Math.max(i - 1, 0));
-    } else if (e.key === "Escape") {
-      router.back();
-    } else if (e.key === " ") {
-      e.preventDefault();
-      setAutoScroll((a) => !a);
-    }
-  }, [version, router]);
-
   useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.code === "Space") { e.preventDefault(); toggleScroll(); }
+      else if (e.key === "Escape") router.back();
+      else if (e.key === "ArrowRight" || e.key === "ArrowDown") {
+        setSeccionIdx((i) => version ? Math.min(i + 1, version.secciones.length - 1) : i);
+      } else if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
+        setSeccionIdx((i) => Math.max(i - 1, 0));
+      }
+    };
     window.addEventListener("keydown", handleKey);
-    return () => window.removeEventListener("keydown", handleKey);
-  }, [handleKey]);
+    return () => {
+      window.removeEventListener("keydown", handleKey);
+      if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
+    };
+  }, [toggleScroll, router, version]);
 
   if (!cancion || !version) {
     return (
@@ -102,49 +120,69 @@ export function ModoEnsayo({ id }: Props) {
   }
 
   const secciones = version.secciones;
-  const seccionActual = secciones[seccionIdx];
 
   return (
     <div className="min-h-screen bg-[#0a0a0f] text-white flex flex-col">
       {/* Barra superior */}
-      <div
-        className={cn(
-          "fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 py-3 transition-all duration-300",
-          "bg-black/80 backdrop-blur-sm border-b border-white/10"
-        )}
-      >
-        <div>
-          <p className="font-bold text-lg">{cancion.titulo}</p>
-          <p className="text-sm text-white/60">{version.nombre} · {transponerAcorde(version.tonalidad, semitonos)}</p>
+      <div className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-4 py-2 bg-black/85 backdrop-blur-sm border-b border-white/10">
+        <div className="min-w-0">
+          <p className="font-bold text-base truncate">{cancion.titulo}</p>
+          <p className="text-xs text-white/50">{version.nombre} · {transponerAcorde(version.tonalidad, semitonos)}</p>
         </div>
-        <div className="flex items-center gap-3">
+
+        <div className="flex items-center gap-2 flex-shrink-0">
           {/* Transposición */}
-          <div className="flex items-center gap-1.5 bg-white/10 rounded-lg px-2 py-1">
-            <button onClick={() => setSemitonos((s) => s - 1)} className="p-1 hover:text-white/60">
+          <div className="flex items-center gap-1 bg-white/10 rounded-lg px-2 py-1">
+            <button onClick={() => setSemitonos((s) => s - 1)} className="p-1 hover:text-white/60 text-xs">−</button>
+            <span className="text-xs font-mono w-6 text-center">{semitonos > 0 ? `+${semitonos}` : semitonos}</span>
+            <button onClick={() => setSemitonos((s) => s + 1)} className="p-1 hover:text-white/60 text-xs">+</button>
+          </div>
+
+          {/* Fuente */}
+          <div className="flex items-center gap-1 bg-white/10 rounded-lg px-2 py-1">
+            <button onClick={() => setFontSize((f) => Math.max(12, f - 2))} className="p-1 text-xs hover:text-white/60">A−</button>
+            <button onClick={() => setFontSize((f) => Math.min(40, f + 2))} className="p-1 text-xs hover:text-white/60">A+</button>
+          </div>
+
+          {/* Velocidad scroll */}
+          <div className="flex items-center gap-1 bg-white/10 rounded-lg px-2 py-1">
+            <button
+              onClick={() => setSpeed((s) => Math.max(1, s - 1))}
+              className="p-1 text-xs hover:text-white/60"
+              title="Más lento"
+            >
               <Minus className="w-3 h-3" />
             </button>
-            <span className="text-xs font-mono w-6 text-center">{semitonos > 0 ? `+${semitonos}` : semitonos}</span>
-            <button onClick={() => setSemitonos((s) => s + 1)} className="p-1 hover:text-white/60">
+            <span className="text-xs font-mono w-4 text-center">{speed}</span>
+            <button
+              onClick={() => setSpeed((s) => Math.min(10, s + 1))}
+              className="p-1 text-xs hover:text-white/60"
+              title="Más rápido"
+            >
               <Plus className="w-3 h-3" />
             </button>
           </div>
 
-          {/* Tamaño fuente */}
-          <div className="flex items-center gap-1.5 bg-white/10 rounded-lg px-2 py-1">
-            <button onClick={() => setFontSize((f) => Math.max(14, f - 2))} className="p-1 text-xs hover:text-white/60">A-</button>
-            <button onClick={() => setFontSize((f) => Math.min(40, f + 2))} className="p-1 text-xs hover:text-white/60">A+</button>
-          </div>
-
-          {/* Auto-scroll */}
+          {/* Reiniciar */}
           <button
-            onClick={() => setAutoScroll((a) => !a)}
-            className={cn(
-              "flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm transition-colors",
-              autoScroll ? "bg-green-500/30 text-green-400" : "bg-white/10"
-            )}
+            onClick={reiniciar}
+            className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
+            title="Volver al inicio"
           >
-            {autoScroll ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
-            Scroll
+            <RotateCcw className="w-3.5 h-3.5" />
+          </button>
+
+          {/* Play/Pause */}
+          <button
+            onClick={toggleScroll}
+            className={cn(
+              "flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors",
+              scrolling ? "bg-green-500/30 text-green-400 border border-green-500/30" : "bg-white/10 hover:bg-white/20"
+            )}
+            title="Espacio para pausar/reanudar"
+          >
+            {scrolling ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
+            {scrolling ? "Pausar" : "Scroll"}
           </button>
 
           <button onClick={() => router.back()} className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors">
@@ -154,87 +192,98 @@ export function ModoEnsayo({ id }: Props) {
       </div>
 
       {/* Contenido scrollable */}
-      <div ref={scrollRef} className="flex-1 overflow-y-auto pt-20 pb-24 px-6 max-w-3xl mx-auto w-full">
-        {/* Secciones */}
-        {secciones.map((seccion, idx) => {
-          const esActual = idx === seccionIdx;
-
-          return (
-            <div
-              key={seccion.id}
-              onClick={() => setSeccionIdx(idx)}
-              className={cn(
-                "mb-8 p-5 rounded-xl border transition-all duration-200 cursor-pointer",
-                esActual
-                  ? "border-purple-500/50 bg-purple-500/5"
-                  : "border-white/5 bg-white/2 opacity-50 hover:opacity-75"
-              )}
-            >
-              {/* Etiqueta */}
-              <div className="mb-3">
-                <span className={cn("text-xs font-bold tracking-widest", COLORES[seccion.tipo] ?? "text-white/50")}>
-                  {seccion.numero ? `${ETIQUETAS[seccion.tipo] ?? seccion.tipo} ${seccion.numero}` : ETIQUETAS[seccion.tipo] ?? seccion.tipo}
-                </span>
-              </div>
-
-              {/* Formato nuevo: líneas con acordes posicionados */}
-              {seccion.lineas && seccion.lineas.length > 0 && (
-                <div className="space-y-1">
-                  {seccion.lineas.map((linea, i) => {
-                    // Construir línea de acordes posicionada
-                    let lineaAcordes = "";
-                    for (const { acorde, pos } of linea.acordes) {
-                      const a = transponerAcorde(acorde, semitonos, version.tonalidad);
-                      while (lineaAcordes.length < pos) lineaAcordes += " ";
-                      lineaAcordes += a + " ";
-                    }
-                    return (
-                      <div key={i} style={{ fontSize: `${Math.round(fontSize * 0.8)}px` }}>
-                        {linea.acordes.length > 0 && (
-                          <pre className="font-mono text-blue-400 font-semibold whitespace-pre leading-snug select-none">
-                            {lineaAcordes}
-                          </pre>
-                        )}
-                        <pre className="font-mono text-white/90 whitespace-pre leading-snug" style={{ fontSize: `${fontSize}px` }}>
-                          {linea.texto}
-                        </pre>
-                      </div>
-                    );
-                  })}
+      <div
+        ref={containerRef}
+        className="flex-1 overflow-y-auto pt-16 pb-20 px-6"
+        style={{ scrollBehavior: "auto" }}
+      >
+        <div className="max-w-3xl mx-auto">
+          {secciones.map((seccion, idx) => {
+            const esActual = idx === seccionIdx;
+            return (
+              <div
+                key={seccion.id}
+                onClick={() => setSeccionIdx(idx)}
+                className={cn(
+                  "mb-8 p-5 rounded-xl border transition-all duration-200 cursor-pointer",
+                  esActual
+                    ? "border-purple-500/50 bg-purple-500/5"
+                    : "border-white/5 opacity-50 hover:opacity-75"
+                )}
+              >
+                {/* Etiqueta */}
+                <div className="mb-3">
+                  <span className={cn("text-xs font-bold tracking-widest", COLORES[seccion.tipo] ?? "text-white/50")}>
+                    {seccion.numero
+                      ? `${ETIQUETAS[seccion.tipo] ?? seccion.tipo} ${seccion.numero}`
+                      : ETIQUETAS[seccion.tipo] ?? seccion.tipo}
+                  </span>
                 </div>
-              )}
 
-              {/* Formato legacy */}
-              {!seccion.lineas && seccion.contenido && (
-                <pre className="font-mono text-white/90 leading-relaxed whitespace-pre-wrap" style={{ fontSize: `${fontSize}px` }}>
-                  {seccion.contenido}
-                </pre>
-              )}
-            </div>
-          );
-        })}
+                {/* Formato nuevo: líneas con acordes posicionados */}
+                {seccion.lineas && seccion.lineas.length > 0 && (
+                  <div className="space-y-0.5">
+                    {seccion.lineas.map((linea, i) => {
+                      let lineaAcordes = "";
+                      for (const { acorde, pos } of linea.acordes) {
+                        const a = transponerAcorde(acorde, semitonos, version.tonalidad);
+                        while (lineaAcordes.length < pos) lineaAcordes += " ";
+                        lineaAcordes += a + " ";
+                      }
+                      return (
+                        <div key={i}>
+                          {linea.acordes.length > 0 && (
+                            <pre
+                              className="font-mono text-blue-400 font-semibold whitespace-pre leading-tight select-none"
+                              style={{ fontSize: `${Math.round(fontSize * 0.78)}px` }}
+                            >
+                              {lineaAcordes}
+                            </pre>
+                          )}
+                          <pre
+                            className="font-mono text-white/90 whitespace-pre leading-snug"
+                            style={{ fontSize: `${fontSize}px` }}
+                          >
+                            {linea.texto}
+                          </pre>
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
+
+                {/* Formato legacy */}
+                {!seccion.lineas && seccion.contenido && (
+                  <pre className="font-mono text-white/90 leading-relaxed whitespace-pre-wrap" style={{ fontSize: `${fontSize}px` }}>
+                    {seccion.contenido}
+                  </pre>
+                )}
+              </div>
+            );
+          })}
+        </div>
       </div>
 
       {/* Navegación inferior */}
-      <div className="fixed bottom-0 left-0 right-0 bg-black/80 backdrop-blur-sm border-t border-white/10 px-6 py-3">
+      <div className="fixed bottom-0 left-0 right-0 bg-black/85 backdrop-blur-sm border-t border-white/10 px-4 py-2">
         <div className="flex items-center justify-between max-w-3xl mx-auto">
           <button
             onClick={() => setSeccionIdx((i) => Math.max(0, i - 1))}
             disabled={seccionIdx === 0}
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-white/10 text-sm disabled:opacity-30 hover:bg-white/20 transition-colors"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/10 text-sm disabled:opacity-30 hover:bg-white/20 transition-colors"
           >
             <ChevronLeft className="w-4 h-4" />
             Anterior
           </button>
 
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-1">
             {secciones.map((_, idx) => (
               <button
                 key={idx}
                 onClick={() => setSeccionIdx(idx)}
                 className={cn(
-                  "w-2 h-2 rounded-full transition-all",
-                  idx === seccionIdx ? "bg-purple-400 w-4" : "bg-white/20 hover:bg-white/40"
+                  "h-2 rounded-full transition-all",
+                  idx === seccionIdx ? "bg-purple-400 w-4" : "bg-white/20 w-2 hover:bg-white/40"
                 )}
               />
             ))}
@@ -243,7 +292,7 @@ export function ModoEnsayo({ id }: Props) {
           <button
             onClick={() => setSeccionIdx((i) => Math.min(secciones.length - 1, i + 1))}
             disabled={seccionIdx === secciones.length - 1}
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-white/10 text-sm disabled:opacity-30 hover:bg-white/20 transition-colors"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/10 text-sm disabled:opacity-30 hover:bg-white/20 transition-colors"
           >
             Siguiente
             <ChevronRight className="w-4 h-4" />

@@ -89,12 +89,29 @@
               ]
             },
             {
-              "texto": "E            D–E–D–E",
-              "acordes": []
-            },
-            {
               "texto": "Y un Dios que salva",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                },
+                {
+                  "acorde": "E",
+                  "pos": 19
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "E",
+                  "pos": 21
+                }
+              ]
             }
           ]
         },

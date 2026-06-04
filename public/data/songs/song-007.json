@@ -40,20 +40,34 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "G                C-G",
-              "acordes": []
+              "texto": "Alzo mis manos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
             },
             {
               "texto": "Alzo mis manos",
-              "acordes": []
-            },
-            {
-              "texto": "C-G",
-              "acordes": []
-            },
-            {
-              "texto": "Alzo mis manos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
             },
             {
               "texto": "Le digo a Dios yo te amo",
@@ -76,20 +90,30 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "C-G",
-              "acordes": []
-            },
-            {
               "texto": "Eres mi escudo",
-              "acordes": []
-            },
-            {
-              "texto": "C-G",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
             },
             {
               "texto": "Mi fortaleza",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
             },
             {
               "texto": "D# - D - G",
@@ -137,7 +161,7 @@
                 },
                 {
                   "acorde": "D7",
-                  "pos": 16
+                  "pos": 15
                 }
               ]
             },

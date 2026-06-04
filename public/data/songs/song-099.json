@@ -62,12 +62,25 @@
               ]
             },
             {
-              "texto": "C/E               F             Gsus4-G",
-              "acordes": []
-            },
-            {
               "texto": "Donde construirás un lugar para mi",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Gsus4",
+                  "pos": 32
+                },
+                {
+                  "acorde": "G",
+                  "pos": 33
+                }
+              ]
             },
             {
               "texto": "Quien oirá el clamor de mi alma",

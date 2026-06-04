@@ -1,7 +1,10 @@
 import { ESCALA_CROMATICA, ESCALA_BEMOLES, PREFERIR_BEMOL } from "@/lib/constants/tonalidades";
 
-// Notas raíz reconocidas (orden importa — más largas primero para evitar match parcial)
-const NOTAS_RAIZ = ["C#","Db","D#","Eb","F#","Gb","G#","Ab","A#","Bb","C","D","E","F","G","A","B"];
+// Notas raíz — las más largas primero para evitar match parcial (C# antes que C)
+const NOTAS_RAIZ = [
+  "C#","Db","D#","Eb","F#","Gb","G#","Ab","A#","Bb",
+  "C","D","E","F","G","A","B"
+];
 
 function notaAIndice(nota: string): number {
   const idx = ESCALA_CROMATICA.indexOf(nota);
@@ -9,57 +12,77 @@ function notaAIndice(nota: string): number {
   return ESCALA_BEMOLES.indexOf(nota);
 }
 
-function indicANota(indice: number, usarBemol: boolean): string {
+function indiceANota(indice: number, usarBemol: boolean): string {
   const i = ((indice % 12) + 12) % 12;
   return usarBemol ? ESCALA_BEMOLES[i] : ESCALA_CROMATICA[i];
 }
 
-function transponerNota(nota: string, semitonos: number, usarBemol: boolean): string {
+function transponerNotaBase(nota: string, semitonos: number, usarBemol: boolean): string {
   const idx = notaAIndice(nota);
   if (idx === -1) return nota;
-  return indicANota(idx + semitonos, usarBemol);
+  return indiceANota(idx + semitonos, usarBemol);
 }
 
-// Transpone un acorde completo (ej: "Am7", "G/B", "Cmaj7", "Dsus4")
+/**
+ * Extrae la nota raíz de un acorde y devuelve { raiz, sufijo }.
+ * Ej: "Am7" → { raiz: "A", sufijo: "m7" }
+ *     "C#maj7" → { raiz: "C#", sufijo: "maj7" }
+ *     "Dsus4"  → { raiz: "D",  sufijo: "sus4" }
+ */
+function descomponerAcorde(acorde: string): { raiz: string; sufijo: string } {
+  for (const nota of NOTAS_RAIZ) {
+    if (acorde.startsWith(nota)) {
+      return { raiz: nota, sufijo: acorde.slice(nota.length) };
+    }
+  }
+  return { raiz: "", sufijo: acorde };
+}
+
+/**
+ * Transpone un acorde completo manteniendo su modificador intacto.
+ * Soporta: mayores, menores, 7, m7, maj7, sus2, sus4, dim, aug, add9,
+ * slash chords (G/B, D/F#), y cualquier combinación.
+ */
 export function transponerAcorde(acorde: string, semitonos: number, tonalidad?: string): string {
   if (semitonos === 0) return acorde;
 
-  const usarBemol = tonalidad ? !!PREFERIR_BEMOL[tonalidad] : false;
+  // Determinar si la tonalidad destino prefiere bemoles
+  const tonalDestino = (() => {
+    const { raiz } = descomponerAcorde(acorde);
+    const idx = notaAIndice(raiz);
+    if (idx === -1) return tonalidad ?? "";
+    const nuevaRaiz = indiceANota(idx + semitonos, false); // provisional en sostenidos
+    // Si la tonalidad base prefiere bemol, usar bemol en el resultado
+    return PREFERIR_BEMOL[tonalidad ?? ""] ? nuevaRaiz : (tonalidad ?? "");
+  })();
+  const usarBemol = !!PREFERIR_BEMOL[tonalidad ?? ""];
 
-  // Manejar slash chords: G/B, Am/C
+  // Slash chord: "G/B", "D/F#", "Am/C" → transponer ambas partes por separado
   const slashIdx = acorde.indexOf("/");
   if (slashIdx !== -1) {
-    const base = acorde.slice(0, slashIdx);
-    const bajo = acorde.slice(slashIdx + 1);
-    return transponerAcorde(base, semitonos, tonalidad) + "/" + transponerNota(bajo, semitonos, usarBemol);
+    const parteBase = acorde.slice(0, slashIdx);
+    const parteBajo = acorde.slice(slashIdx + 1);
+    const { raiz: raizBajo } = descomponerAcorde(parteBajo);
+    // El bajo es siempre una nota simple sin sufijo
+    const nuevoBajo = raizBajo
+      ? transponerNotaBase(raizBajo, semitonos, usarBemol)
+      : parteBajo;
+    return transponerAcorde(parteBase, semitonos, tonalidad) + "/" + nuevoBajo;
   }
 
-  // Encontrar nota raíz
-  let raiz = "";
-  let sufijo = "";
-  for (const nota of NOTAS_RAIZ) {
-    if (acorde.startsWith(nota)) {
-      raiz = nota;
-      sufijo = acorde.slice(nota.length);
-      break;
-    }
-  }
-
+  const { raiz, sufijo } = descomponerAcorde(acorde);
   if (!raiz) return acorde;
 
-  const nuevaRaiz = transponerNota(raiz, semitonos, usarBemol);
+  const nuevaRaiz = transponerNotaBase(raiz, semitonos, usarBemol);
   return nuevaRaiz + sufijo;
 }
 
-// Transpone una línea de acordes (acordes separados por espacios)
+// Transpone todos los acordes en una línea de texto (separados por espacios)
 export function transponerLinea(linea: string, semitonos: number, tonalidad?: string): string {
   if (semitonos === 0) return linea;
   return linea
     .split(" ")
-    .map((parte) => {
-      if (!parte.trim()) return parte;
-      return transponerAcorde(parte, semitonos, tonalidad);
-    })
+    .map((parte) => (parte.trim() ? transponerAcorde(parte, semitonos, tonalidad) : parte))
     .join(" ");
 }
 

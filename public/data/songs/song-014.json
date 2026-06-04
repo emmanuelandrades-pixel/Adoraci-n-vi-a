@@ -118,21 +118,12 @@
               "acordes": []
             },
             {
+              "texto": "A/C#           Bm          Esus4",
+              "acordes": []
+            },
+            {
               "texto": "Tal como soy, tal como soy, tal como           Dsus2 A/C#",
-              "acordes": [
-                {
-                  "acorde": "A/C#",
-                  "pos": 3
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 18
-                },
-                {
-                  "acorde": "Esus4",
-                  "pos": 30
-                }
-              ]
+              "acordes": []
             },
             {
               "texto": "soy                                     Y me llamas más profundo",

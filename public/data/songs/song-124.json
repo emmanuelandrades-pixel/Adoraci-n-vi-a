@@ -233,20 +233,58 @@
               ]
             },
             {
-              "texto": "E/G#-A           C#m              E     B/D#          C#m7",
-              "acordes": []
-            },
-            {
               "texto": "Dios Creador es Yahve             Y por siempre reinarás",
-              "acordes": []
-            },
-            {
-              "texto": "B                 E/G#            B-A                   B",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 17
+                },
+                {
+                  "acorde": "E",
+                  "pos": 34
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 40
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 54
+                }
+              ]
             },
             {
               "texto": "El Gran Yo Soy es Yahve           Toda rodilla y toda lengua",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 18
+                },
+                {
+                  "acorde": "B",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 35
+                },
+                {
+                  "acorde": "B",
+                  "pos": 56
+                }
+              ]
             },
             {
               "texto": "De todo Dios es Yahve             Se doblará y te confesará",
@@ -270,12 +308,33 @@
               ]
             },
             {
-              "texto": "E/G#-A             C#m            B-A                   B",
-              "acordes": []
-            },
-            {
               "texto": "Rosa de Sarón es Yahve            Todo ángel te da gloria",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 19
+                },
+                {
+                  "acorde": "B",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 35
+                },
+                {
+                  "acorde": "B",
+                  "pos": 56
+                }
+              ]
             },
             {
               "texto": "El Hijo Justo es Yahve            Ante tu gran Majestad",
@@ -303,12 +362,33 @@
               ]
             },
             {
-              "texto": "A             C#m B               B-A               B",
-              "acordes": []
-            },
-            {
               "texto": "La trinidad es Yahve              Y aquí nos reunimos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 14
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
+                },
+                {
+                  "acorde": "B",
+                  "pos": 34
+                },
+                {
+                  "acorde": "A",
+                  "pos": 35
+                },
+                {
+                  "acorde": "B",
+                  "pos": 52
+                }
+              ]
             },
             {
               "texto": "Para declararte oh Dios, a ti mi Dios",

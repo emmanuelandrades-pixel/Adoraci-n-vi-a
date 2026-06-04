@@ -214,7 +214,7 @@
               ]
             },
             {
-              "texto": "F/A Bd F/A Bd",
+              "texto": "Yo sé que tú,",
               "acordes": [
                 {
                   "acorde": "Bb/D",
@@ -231,12 +231,24 @@
                 {
                   "acorde": "Eb",
                   "pos": 12
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bdim",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bdim",
+                  "pos": 11
                 }
               ]
-            },
-            {
-              "texto": "Yo sé que tú,",
-              "acordes": []
             },
             {
               "texto": "Mueves montañas",

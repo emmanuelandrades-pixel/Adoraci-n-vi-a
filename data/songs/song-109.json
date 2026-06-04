@@ -1,0 +1,38 @@
+{
+  "id": "song-109",
+  "titulo": "Ven Ante Su Trono",
+  "artista": "O Come To The Altar",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-109-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "Am",
+            "Dm",
+            "A#"
+          ],
+          "contenido": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock\nSi abatido y dolido estás\ny cansado del peso cargar\nCristo nos llama\nSi al final del camino estás\nsin saber hacia dónde mirar\nCristo nos llama\nVen ante su trono\nEl Padre te recibirá\ncon sangre preciosa\nJesús borró nuestra maldad\nDeja atrás tu vergüenza y pesar\nven a Él ya no esperes más\nCristo nos llama\nTrae toda tristeza al altar\nnueva Vida Jesús te dará\nCristo nos llama\nOh cuán hermoso\nEs nuestro Salvador\nCanta aleluya, Cristo vive\nNadie es más grande\nSolo Él es Señor\nCanta aleluya, Cristo vive\nHasta un día llegar frente a él\nde Su amor a todos contaré"
+        }
+      ]
+    }
+  ]
+}

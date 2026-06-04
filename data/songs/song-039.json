@@ -1,0 +1,51 @@
+{
+  "id": "song-039",
+  "titulo": "En La Cruz",
+  "artista": "At the cross",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-039-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C/E",
+            "F",
+            "G",
+            "Am7",
+            "C",
+            "Am"
+          ],
+          "contenido": "Darlene Zschech, Reuben Morgan\nF - C/E F G\nSeñor conoces\nMi corazón\nAun cuando te fallo\nSe que me amas\nCon tu presencia\nRodéame\nEn todo tiempo\nSe que me amas\nHoy me postro ante Jesús\nDiste tu sangre en la cruz\nNo hay otro amor igual\nEl murió y resucito\nSobre la muerte venció\nNada me separará"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C/E",
+            "F",
+            "G",
+            "Am7"
+          ],
+          "contenido": "Mi escudo eres\nMi protección\nTu me sostienes\nSe que me amas\nEl velo rasgó\nUn camino abrió\nTodo consumado es\nAun en tormentas\nO tempestad\nTu estás conmigo\nSe que me amas"
+        }
+      ]
+    }
+  ]
+}

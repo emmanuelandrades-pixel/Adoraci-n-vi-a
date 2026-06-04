@@ -1,0 +1,94 @@
+{
+  "id": "song-017",
+  "titulo": "Cielo Abierto (Agua Viva)",
+  "artista": "",
+  "autor": "(Open Heaven (River Wild))",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-017-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Em",
+            "G/B",
+            "C",
+            "D"
+          ],
+          "contenido": "(Open Heaven (River Wild))\nMatthew Crocker y Marty Sampson\nCon señales descendió\nEl Espíritu Santo\nSu presencia cayó\nCon poder de lo alto"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "D",
+            "G/B"
+          ],
+          "contenido": "Espíritu Santo\nVen como fuego\nQue consume\nMe consumes"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "G/B",
+            "C",
+            "D",
+            "Em"
+          ],
+          "contenido": "Espíritu de Dios\nComo lluvia ven\nCon tu eterno amor\nTú inundas mi ser\nEspíritu de Dios\nArde en mi interior\nSolo a ti clamaré\nG/B C D Em (G/B – C)\nSolo a ti clamaré"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "C",
+            "D",
+            "G/B"
+          ],
+          "contenido": "En tu presencia\nA ti me rindo\nEn tu gloria\nPor tu gloria"
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "acordes": [
+            "Em",
+            "G/B",
+            "C",
+            "D"
+          ],
+          "contenido": "Al venir ante tus pies\nTu amor me revelas\nPuedo ver tu corazón\nContemplar tu grandeza"
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "acordes": [
+            "C",
+            "D",
+            "G/B"
+          ],
+          "contenido": "Agua viva\nFluye en mi ser\nMe sumerges\nEn tu gracia\nCielo abierto\nInundándome\nMe restauras\nEn tu gloria"
+        }
+      ]
+    }
+  ]
+}

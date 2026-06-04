@@ -1,0 +1,63 @@
+{
+  "id": "song-076",
+  "titulo": "Padre Fiel",
+  "artista": "",
+  "autor": "Mike Van der Westhuizen",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-076-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "G",
+            "Am",
+            "Dm"
+          ],
+          "contenido": "Tú eres el Padre\nY nosotros tus hijos\nNos muestras amor,\nNos muestras amor\nAún en la oscuridad\nNo nos podemos alejar\nDe tu amor, de tu amor"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "F",
+            "G",
+            "Am",
+            "C"
+          ],
+          "contenido": "Y aun así muestras amor\nNos abrazas en dolor\nSecas nuestras lágrimas"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "C",
+            "G",
+            "Am",
+            "F",
+            "Dm"
+          ],
+          "contenido": "Reafirmas nuestra alma\nY nos das identidad\nNos recibes sin juzgar\nPues tu amor es incondicional\nGC\nY no podemos entender tanto amor\nIncondicional\nFuiste a la cruz a demostrar tu amor C\nTú me guías y me muestras la verdad\nTú eres el Padre bueno y fiel\nTú eres fiel, Tú eres fiel\nNos proteges con fervor\nTú provees nuestro pan\nAun en dificultad tu mano no me\nsoltará\nNo nos vas a abandonar\nTú eres fiel, Tú eres fiel\nTú corriges nuestro mal"
+        }
+      ]
+    }
+  ]
+}

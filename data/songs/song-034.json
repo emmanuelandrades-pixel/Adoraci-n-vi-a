@@ -1,0 +1,38 @@
+{
+  "id": "song-034",
+  "titulo": "Donde Tú Estás",
+  "artista": "Where You Are",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-034-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "Bm7",
+            "Em",
+            "G",
+            "A"
+          ],
+          "contenido": "Leeland\nSiempre quiero más\nSiempre quiero más\nDe tu infinito amor\nQuiero más Señor\nNo puedo escapar\nNo puedo escapar\nPues te he podido ver\nY ya no quiero volver\nQuiero estar dónde Tú estás\nCerca de Tu corazón\nPues no hay nadie como Tú\nJesús, no hay nadie como Tú\nSanto, Santo\nEres Santo, Santo\nEres Santo, Santo\nCristo Te amo, Cristo Te amo\nQuiero estar dónde Tú estás\nCerca de Tu corazón\nPues no hay nadie como Tú\nJesús, no hay nadie como Tú"
+        }
+      ]
+    }
+  ]
+}

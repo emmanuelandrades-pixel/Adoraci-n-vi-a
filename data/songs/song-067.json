@@ -1,0 +1,32 @@
+{
+  "id": "song-067",
+  "titulo": "Nazareno",
+  "artista": "",
+  "autor": "Wladimir Aranda",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-067-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Wladimir Aranda\nPrecioso Verbo de Dios\nEn las calles nos mostraste tu amor\nTu marcaste la historia\nMarcaste mi historia\nLa multitud vio tu luz\nY mi corazón se encendió\nTú marcaste la historia\nMarcaste mi historia\nMe has enamorado Nazareno\nMe has enamorado mi Jesús\nMe has atrapado con cuerdas de amor\nY no voy a huir\nFijaste tus ojos en mi\nY entendí el valor que tengo para ti\nTú amaste la historia\nAmaste mi historia"
+        }
+      ]
+    }
+  ]
+}

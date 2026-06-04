@@ -1,0 +1,51 @@
+{
+  "id": "song-094",
+  "titulo": "Somos Libres",
+  "artista": "We Are The Free",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-094-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "E/G#",
+            "F#m",
+            "D",
+            "Bm",
+            "E",
+            "C#m"
+          ],
+          "contenido": "Fuimos perdonados y hoy cantamos de redención\nArde un fuego en nuestro ser, un fuego en nuestro ser\nNada nos detiene, correremos en la oscuridad\nArde un fuego en nuestro ser, un fuego en nuestro ser\nSomos una generación que canta\nDe tu misericordia\nTú eres quien nos pone en movimiento\nTuya es la gloria\nHay un fuego en mi ser que arde por ti\nNunca se apagará\nSomos libres, tuya es la gloria\nResucitados, hoy vivimos para ti\nLa pasión no morirá, la pasión no morirá\nNada nos detiene, correremos en la oscuridad\nLa pasión no morirá, la pasión no morirá\nResucitaste con poder"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "A",
+            "D",
+            "Bm"
+          ],
+          "contenido": "Te levantaste y nos levantaremos\nLevantaremos\nAl mundo que amaste Tú\nAl mundo iremos y nos levantaremos\nLevantaremos, levantaremos"
+        }
+      ]
+    }
+  ]
+}

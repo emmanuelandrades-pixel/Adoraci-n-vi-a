@@ -1,0 +1,49 @@
+{
+  "id": "song-082",
+  "titulo": "Que Se Abra El Cielo",
+  "artista": "",
+  "autor": "Christine D´Clario",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-082-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "F#m",
+            "D",
+            "E"
+          ],
+          "contenido": "Christine D´Clario\nDios bienvenido a este lugar\nY en nuestro corazón\nVen y haz tu voluntad\nDios te queremos conocer\nCon tu fuego abrazador\nVen y muévete otra vez\nEspíritu, avívanos\nTe anhelamos dios\nAnte tu gloria y majestad\nSabemos que estás\nPara darnos libertad\nEntrónate en nuestra adoración\nAsombroso eres señor\nCon tu presencia llénanos"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D",
+            "E",
+            "F#m",
+            "A"
+          ],
+          "contenido": "Espíritu, avívanos\nTe anhelamos dios\nOoh… Te anhelamos Señor…\nQue se abra el cielo\nMuévete, señor\nVenga aquí tu reino\nOh gran Dios (Oh gran Dios)\nNo hay cielos cerrados, se abren\nTu reino se mueve aquí\nEn ti está nuestra esperanza)\nOh gran Dios"
+        }
+      ]
+    }
+  ]
+}

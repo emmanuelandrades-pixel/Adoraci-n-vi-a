@@ -1,0 +1,39 @@
+{
+  "id": "song-006",
+  "titulo": "Al Que Está Sentado En El Trono",
+  "artista": "",
+  "autor": "Marcos Brunet",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-006-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "Bm",
+            "Am",
+            "F",
+            "G",
+            "C/E"
+          ],
+          "contenido": "Quiero conocerte\nCada día más a Ti\nEntrar en tu presencia\ny adorar\nRevélanos Tu gloria\nDeseamos ir mucho más en Ti\nQueremos Tu presencia\nJesús\nAl que está sentado en el Trono\nAl que vive para siempre y siempre\nG-F (Dm)\nSea la Gloria, Sea la Honra y el Poder\nSea la Gloria, sea la Honra y el Poder"
+        }
+      ]
+    }
+  ]
+}

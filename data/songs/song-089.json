@@ -1,0 +1,63 @@
+{
+  "id": "song-089",
+  "titulo": "Santo Por Siempre",
+  "artista": "Holy Forever",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-089-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "A",
+            "C#m",
+            "B"
+          ],
+          "contenido": "Anthony Skinner, Chris Mcclarney\nMil generaciones\nSe postran adorarle\nLe cantan al cordero que\nvenció"
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "acordes": [
+            "A",
+            "E",
+            "C#m",
+            "B"
+          ],
+          "contenido": "Los que nos precedieron\nY los que en Él creerán\nLe cantarán a aquel que ya\nvenció"
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": null,
+          "acordes": [
+            "A",
+            "C#m",
+            "B",
+            "G#m",
+            "F#m7",
+            "E"
+          ],
+          "contenido": "Tu nombre, es más alto\nTu nombre, es más grande\nTu nombre, sobre todo es\nDominios y tronos\nPoderes, y reinos\nTu nombre, sobre todo es\nCantan ángeles, San – to\nClama la creación, San – to\nExaltado Dios, San – to\nSanto por siempre\nSi te ha perdonado\nY tienes salvación\nCántale al cordero que venció\nSi te ha libertado\nSu nombre ha puesto en ti\nCántale al cordero que venció\nCantaremos siempre \"amén\"\nTu gente cantará, San - to\nRey de reyes es San - to\npor siempre serás San - to\nSanto por siempre"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "song-007",
+  "titulo": "Alzo Mis Manos",
+  "artista": "",
+  "autor": "ReMovidos",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-007-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C",
+            "D7",
+            "D"
+          ],
+          "contenido": "C-A#- C-A# - G-F-G-F\nD–C – G-F–G\nC-G\nAlzo mis manos\nC-G\nAlzo mis manos\nLe digo a Dios yo te amo\n¡Dios yo te amo!\nC-G\nEres mi escudo\nC-G\nMi fortaleza\nD# - D - G\nEres mi Rey y Señor\nPara ti quiero bailar\nPara ti quiero saltar\nPara ti quiero vivir\nMi Rey Señor"
+        }
+      ]
+    }
+  ]
+}

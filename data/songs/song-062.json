@@ -1,0 +1,153 @@
+{
+  "id": "song-062",
+  "titulo": "Mi Dios, Mi Rey",
+  "artista": "",
+  "autor": "Ángelo Díaz",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-062-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Gadd9",
+            "Dsus2",
+            "Asus4",
+            "A/C#"
+          ],
+          "contenido": "Dios, me dejo encontrar,\nAnte tu majestad."
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "Dsus2",
+            "Asus4",
+            "Gadd9"
+          ],
+          "contenido": "Señor, tu amor es suficiente,"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "Asus4",
+            "Gadd9",
+            "Dsus2",
+            "A/C#"
+          ],
+          "contenido": "No quiero nada más."
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "Gadd9"
+          ],
+          "contenido": "(variación: Em7 – D/F#-Gadd9 - Asus4)"
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "acordes": [
+            "Bm7",
+            "Asus4"
+          ],
+          "contenido": "Y aunque tormentas vengan,"
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "acordes": [],
+          "contenido": "Gadd9 - Bm7 - Asus4"
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 6,
+          "acordes": [
+            "Gadd9"
+          ],
+          "contenido": "De ti no me apartaré."
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 7,
+          "acordes": [
+            "Bm7",
+            "Asus4"
+          ],
+          "contenido": "Y si el mal me acecha,"
+        },
+        {
+          "id": "s009",
+          "tipo": "verso",
+          "numero": 8,
+          "acordes": [],
+          "contenido": "Gadd9 - Bm7 - Asus4"
+        },
+        {
+          "id": "s010",
+          "tipo": "verso",
+          "numero": 9,
+          "acordes": [],
+          "contenido": "De ti yo me aferraré."
+        },
+        {
+          "id": "s011",
+          "tipo": "verso",
+          "numero": 10,
+          "acordes": [],
+          "contenido": "Padre, de ti fluye el amor, me has regalado tu corazón.\nPadre, me cobijo en tus brazos, a tu lado quiero estar."
+        },
+        {
+          "id": "s012",
+          "tipo": "verso",
+          "numero": 11,
+          "acordes": [
+            "D/F#",
+            "Gadd9",
+            "Bm7"
+          ],
+          "contenido": "Mi Dios,"
+        },
+        {
+          "id": "s013",
+          "tipo": "verso",
+          "numero": 12,
+          "acordes": [],
+          "contenido": "mi"
+        },
+        {
+          "id": "s014",
+          "tipo": "verso",
+          "numero": 13,
+          "acordes": [
+            "Asus4"
+          ],
+          "contenido": "rey, te alabo, te exalto"
+        }
+      ]
+    }
+  ]
+}

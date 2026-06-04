@@ -1,0 +1,38 @@
+{
+  "id": "song-012",
+  "titulo": "Aquí Me Tienes",
+  "artista": "",
+  "autor": "Gabriel Ávalos, David Berguño",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-012-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F",
+            "Am",
+            "G",
+            "C",
+            "Dm"
+          ],
+          "contenido": "Gabriel Ávalos, David Berguño\nCuán grande es tu bondad\nF - Am - G\ny cuan celoso es tu infinito amor\nNo hay otro Dios fuera de Ti\nF - Am – G/B\nque sea digno de mi adoración\nAquí me tienes Dios,\nAm - G/B\nte amo, te amo\nDe nadie más seré\nAm - G\nsoy tuyo, soy tuyo\nDía a día tu amor\ny tu verdad me atraen hacia Ti\nNo cerraré mis labios,\nsiempre cantaré de lo que has hecho en mí\nPodría ofrecerte un sacrificio\npero tu deleite es mi corazón\nPor eso me entrego y te diré"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "song-092",
+  "titulo": "Sé Entronado",
+  "artista": "Be Enthroned",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-092-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "Am",
+            "G"
+          ],
+          "contenido": "Hunter Thompson, Kalley Heiligenthal, Jeremy Riddle\nCantamos la canción\nDe eterna adoración\nY con el Cielo hoy\nUnimos nuestra voz\nGrande fidelidad\nY gracia sin final\nDel Rey que se entregó\nY se sacrificó\nSé entronado en la adoración\nDe mil generaciones\nEres digno, Tú eres Dios\nPara Ti resucitado\nRey Cantamos con el Cielo\nEres digno, Tú eres Dios\nEn nuestro caminar\nY hasta la eternidad\nNuestro clamor será\nJesús glorificar\n/ Te exaltamos, Tú eres Dios /\nTe exaltamos, eres Digno, Tú eres Dios"
+        }
+      ]
+    }
+  ]
+}

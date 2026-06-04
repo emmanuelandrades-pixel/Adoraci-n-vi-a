@@ -1,0 +1,64 @@
+{
+  "id": "song-117",
+  "titulo": "Jesús Es Navidad",
+  "artista": "",
+  "autor": "Pequeños Héroes",
+  "genero": "Navidad",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-117-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Pequeños Héroes"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "A",
+            "C#m",
+            "Bm",
+            "D",
+            "E",
+            "F#m",
+            "B",
+            "D#m"
+          ],
+          "contenido": "Ha nacido en un pesebre\nla estrella más sorprendente\nLlenas todo con tu luz\nOoh Ooh y con el cielo canto\nalegremente\nOoh Ooh Ooh!\nJesús es Navidad!\n¡Mi regalo al fin llegó Ooh!\nEs Jesús mi Salvador\nEl tesoro de la Navidad\n¡Es que en mi casa puedas hoy\nentrar!"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "B",
+            "G#m",
+            "C#m",
+            "E",
+            "F#",
+            "D#",
+            "Em",
+            "C#"
+          ],
+          "contenido": "Ooh Ooh Ooh!\nJesús es Navidad!\nHosanna en las alturas\ny a los hombres paz\nque ha llegado navidad Ooh!\nHoy te invito a entrar\na mi corazón Ooh!\n¿Oigan y si hacemos un baile?\n¡Sí, hagámoslo juntos!\nOoh Ooh Ooh!\nJesús es Navidad!"
+        }
+      ]
+    }
+  ]
+}

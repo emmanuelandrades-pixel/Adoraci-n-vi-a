@@ -1,0 +1,37 @@
+{
+  "id": "song-059",
+  "titulo": "Levanto Un Aleluya",
+  "artista": "Raise A Hallelujah",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-059-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "Am",
+            "G"
+          ],
+          "contenido": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens\nLevanto un aleluya, en presencia de mis enemigos\nLevanto un aleluya, aun en la incredulidad\nLevanto un aleluya, mi arma es mi melodía\nLevanto un aleluya, el Cielo peleará por mi\nEn la tormenta, yo cantaré\nFuerte y más alto, un rugir se oirá\nDe las cenizas, esperanza vendrá\nLa muerte es venciste, el Rey vivo está\nLevanto un aleluya, con todo lo que hay en mi\nLevanto un aleluya, veré a la oscuridad huir\nLevanto un aleluya, aunque no pueda entender\nLevanto un aleluya, el temor ya no me detendrá\nCántalo más fuerte (en presencia de mis enemigos)\nCántalo más fuerte (aun en la incredulidad)\nCántalo más fuerte (mi arma es mi melodía)\nCántalo más fuerte (el Cielo peleará por mi)\nLevanto un aleluya (en presencia de mis enemigos)\nLevanto un aleluya (aun en la incredulidad)\nLevanto un aleluya (mi arma es mi melodía)\nLevanto un aleluya (el Cielo peleará por mi)"
+        }
+      ]
+    }
+  ]
+}

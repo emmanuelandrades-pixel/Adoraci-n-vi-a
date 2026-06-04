@@ -1,0 +1,37 @@
+{
+  "id": "song-095",
+  "titulo": "Sublime Gracia Es",
+  "artista": "This Is Amazing Grace",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-095-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "D",
+            "F#m",
+            "E"
+          ],
+          "contenido": "Phil Wickham, Jeremy Riddle\nQuien rompe el poder de las tinieblas\nSu amor es fuerte y poderoso\nEl Rey de Gloria, el Rey de Majestad\nQuien mueve el mundo con su estruendo\nY nos asombra con maravillas\nEl Rey de Gloria, el Rey de Majestad\nSublime gracia es\nTu infinito amor\nTomaste mi lugar\nCargaste con mi cruz\nTu vida diste ahí\nY ahora libre soy\nJesús tu adoro\nPor lo que hiciste en mí\nQuien puso en orden todo el caos\nY nos adopta como sus hijos\nEl Rey de Gloria, el Rey de Majestad\nEl que gobierna con su justicia\nY resplandece con su belleza\nEl Rey de Gloria, el Rey de Majestad\nDigno es el Cordero de Dios\nDigno es el Rey que la muerte venció\nDigno es el Cordero de Dios\nDigno es el Rey que la muerte venció"
+        }
+      ]
+    }
+  ]
+}

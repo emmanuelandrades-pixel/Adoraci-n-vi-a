@@ -1,0 +1,41 @@
+{
+  "id": "song-103",
+  "titulo": "Tumba Las Mesas",
+  "artista": "",
+  "autor": "Wladimir Aranda",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-103-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Am7",
+            "G/B",
+            "C",
+            "Dm",
+            "F",
+            "G4",
+            "Am",
+            "G"
+          ],
+          "contenido": "Examina mi corazón\nVe si en mi hay camino de perversidad\nTodo lo que quiero es hacer tu voluntad\nQuiero amar lo que tú amas\nY quiero odiar lo que tú odias\nSoy tu casa de oración\nNo una cueva de ladrones\nTienes todo lo que soy\nTienes todos mis amores\nTumba las mesas en mi interior\nSolo tú conoces las intenciones de mi corazón\nTumba las mesas en mi interior\nYo soy tu templo de adoración"
+        }
+      ]
+    }
+  ]
+}

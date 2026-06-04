@@ -1,0 +1,40 @@
+{
+  "id": "song-030",
+  "titulo": "Despierta Mi Alma",
+  "artista": "Awake My Soul",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-030-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "A",
+            "Bsus",
+            "C#m",
+            "C#m7",
+            "B",
+            "F#m"
+          ],
+          "contenido": "Brooke Ligertwood\nPuedes oír qué hermoso es, son los pasos del Salvador\nÉl está ahora aquí moviéndose, cuando alabamos Él ve fe\n(E) - A - C#m7 - A\nDespierta mi alma y canta al Se - ñor\nCanta al Señor\nDespierta mi alma y canta al Se - ñor\nCanta al Señor\nE - A - C#m7 - A\nPuedo escuchar la oración de un pueblo rendido ante Dios\nQuien duerme despierta ya, es tiempo de adorar\nY al orar Él obrará, caminos nuevos abrirá\nCada promesa es sí y amén\nY al orar no dudes más, todo el infierno temblará\nLa gloria a Dios, la gloria al Rey\n¡Hey! ¡Oh! Está pasando el Rey de gloria\n¡Hey! ¡Oh! Ante Él nos postramos a adorar\n¡Hey! ¡Oh! Le cantamos por la eternidad"
+        }
+      ]
+    }
+  ]
+}

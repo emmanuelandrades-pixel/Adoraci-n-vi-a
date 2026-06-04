@@ -1,0 +1,38 @@
+{
+  "id": "song-008",
+  "titulo": "Amor Furioso",
+  "artista": "Furious",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-008-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F",
+            "Am",
+            "G",
+            "C",
+            "C9"
+          ],
+          "contenido": "Jeremy Riddle\nNada nos puede separar\nDe su inmenso amor\nHemos visto solo un destello\nHemos escuchado un susurro\nDe su afecto y pasión\nSu amor es ancho, es profundo\nY nos cubre\nSu amor es fuerte, es feroz\nEs furioso\nSu amor es dulce, es salvaje\nNos despierta a vivir\nDe tal manera el Padre nos amó\nQue el Hijo por todos murió\nÉl nos derrama su amor eterno\nY nos recibe como sus hijos\nSu amor nos busca"
+        }
+      ]
+    }
+  ]
+}

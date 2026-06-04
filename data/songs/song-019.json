@@ -1,0 +1,39 @@
+{
+  "id": "song-019",
+  "titulo": "Construiré Mi Vida",
+  "artista": "Build My Life",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-019-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C",
+            "G/B",
+            "Am",
+            "Em",
+            "D"
+          ],
+          "contenido": "Pat Barrett, Matt Redman, Brett Younker, Kirby Kaple, Karl Martin\nDigno de recibir toda adoración\nDigno de recibir hoy toda canción\nDigno de cada aliento que hay en mi ser\nVivo por ti\nCristo, el nombre que no tiene igual\nCristo, el único que puede salvar\nDigno de cada aliento que hay en mi ser\nVivo por ti, vivo por ti\nSanto e incomparable,\nTan inigualable\nHoy revélanos tu gloria\nMuéstrate tal como eres\nY llena nuestras vidas\nPara amar como tu amas\nYo construiré mi vida en ti\nSobre tu amor que es firme\nY yo confiaré, solo en ti\nFirme estaré por siempre"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "song-129",
+  "titulo": "Mi Dios Puede Salvar",
+  "artista": "Mighty To Save",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-129-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "A",
+            "F#m",
+            "E"
+          ],
+          "contenido": "Ben Fielding & Reuben Morgan\nTodos necesitan\nAmor que nunca falla\nTu gracia y compasión\nTodos necesitan\nPerdón y esperanza\nD–E–D–E\nY un Dios que salva\nCristo puede mover montes\nSólo Dios puede salvar,\nMi Dios puede salvar\nPor siempre, autor de salvación\nJesús la muerte venció,\nÉl la muerte venció\nAun con mis temores\nSé que me aceptas\nLléname otra vez\nMi vida entera ofrezco\nPara seguir tus pasos\nA Ti me rindo\nEn la tierra, tu luz brillará, cantamos\nPor la gloria de Tu majestad, Jesús"
+        }
+      ]
+    }
+  ]
+}

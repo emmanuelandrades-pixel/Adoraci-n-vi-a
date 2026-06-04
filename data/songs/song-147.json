@@ -1,0 +1,48 @@
+{
+  "id": "song-147",
+  "titulo": "Cumpleaños Felíz",
+  "artista": "",
+  "autor": "Cumpleaños feliz",
+  "genero": "Celebración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-147-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "E7",
+            "G",
+            "D"
+          ],
+          "contenido": "Cumpleaños feliz\nTe deseamos a tí,\nQue el Señor te bendiga\nY te haga feliz"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D",
+            "E",
+            "A"
+          ],
+          "contenido": "2° Canción\nFeliz, feliz en tu día\n(nombre) que Dios te bendiga\nQue reine la paz en tu vida\nY que cumplas muchos más"
+        }
+      ]
+    }
+  ]
+}

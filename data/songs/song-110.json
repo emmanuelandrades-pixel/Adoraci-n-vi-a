@@ -1,7 +1,7 @@
 {
-  "id": "song-002",
-  "titulo": "Abre Mis Ojos",
-  "artista": "Open The Eyes Of My Heart",
+  "id": "song-110",
+  "titulo": "Ven, Es Hora De Adorarle",
+  "artista": "Come Now Is The Time To Worship",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
@@ -11,7 +11,7 @@
   "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "song-002-v001",
+      "id": "song-110-v001",
       "nombre": "Original",
       "tonalidad": "E",
       "bpm": 0,
@@ -25,14 +25,13 @@
           "numero": null,
           "acordes": [
             "E",
-            "EM7",
-            "E/A",
+            "A/E",
             "B",
-            "C#m",
+            "F#m7",
             "A",
-            "Bsus"
+            "C#m"
           ],
-          "contenido": "Paul Baloche\nAbre mis ojos oh Cristo\nAbre mis ojos Te pido\nYo quiero verte\nYo quiero verte\nY contemplar Tu Majestad\nY el resplandor de Tu Gloria\nDerrama Tu amor y poder\nCuando cantamos:\nSanto, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nYo quiero verte"
+          "contenido": "Brian Doerksen\nVen, es hora de Adorarle\nVen, abre tu corazón a Él\nVen, ante su trono estamos\nVen, ante la majestad de Dios, Ven.\nToda lengua confesará que Él es Dios\nLas rodillas se doblarán,\nY un tesoro eterno tendrás en Él\nSi escoges su Amor.\nEres fiel"
         }
       ]
     }

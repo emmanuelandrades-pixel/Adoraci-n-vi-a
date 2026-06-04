@@ -1,0 +1,63 @@
+{
+  "id": "song-013",
+  "titulo": "Aquí Te Esperaré",
+  "artista": "",
+  "autor": "Toma Tu Lugar",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-013-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Dm",
+            "G/B",
+            "C/E",
+            "F",
+            "C"
+          ],
+          "contenido": "Toma Tu Lugar\nEres tan hermoso\nEres el más bello\nQuiero conocerte más\nSanto, santo, santo\nReinas para siempre\nY aquí te esperaré cantándote\nY aquí te esperaré\nY aquí te esperaré\nY aquí te esperaré\nY aquí te esperaré"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "Dm",
+            "G/B",
+            "C/E",
+            "F"
+          ],
+          "contenido": "Con todo el corazón\nDerramado a tus pies\nLevanto hoy mi voz\n¡Y no dejo de amarte y cantarte eh!"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "F",
+            "G/B",
+            "Am",
+            "G",
+            "C"
+          ],
+          "contenido": "Opción para continuar:\nYeshua\nMi amado es\nEl más bello entre\nMillares y millares\nSi te tengo a ti\nLo tengo todo\nMi amado\nMi tesoro\nFuera de ti\nNada deseo\nSeñor"
+        }
+      ]
+    }
+  ]
+}

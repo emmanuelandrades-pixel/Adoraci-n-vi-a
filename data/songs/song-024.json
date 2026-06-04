@@ -1,0 +1,38 @@
+{
+  "id": "song-024",
+  "titulo": "Cristo Te Amamos",
+  "artista": "Jesus We Love You",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-024-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F",
+            "C",
+            "G",
+            "Am",
+            "Dm"
+          ],
+          "contenido": "Paul Mcclure / Hannah Mcclure / Kalley Heiligenthal\nLa tierra pasará, tu amor se mantendrá\nSolo es tu gracia mi piedra angular\nLo muerto levantarás, Tú siempre brillarás\nLa oscuridad no prevalecerá\nPor lo que Tú has hecho\nEn amor respondemos a Ti\nCantamos Dios\nCristo te amamos\nCuanto te amamos\nNuestro corazón hoy te adora a ti\nAm - G - F (C)\n( //// Te adora a ti //// )\nTú la esperanza das, el huérfano tiene hogar\nEl perdido encuentra su lugar en Ti\nLevantas nuestro mirar, al débil fuerzas le das\nA los huesos secos das vida en Ti Jesús\nNuestro afecto y devoción, ponemos a tus pies oh Cristo\nNuestro afecto y devoción, ponemos a tus pies oh Cristo\nNuestro afecto y devoción, ponemos a tus pies oh Cristo"
+        }
+      ]
+    }
+  ]
+}

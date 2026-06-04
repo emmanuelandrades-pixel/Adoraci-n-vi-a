@@ -1,0 +1,94 @@
+{
+  "id": "song-071",
+  "titulo": "No Yo, Sino Cristo",
+  "artista": "",
+  "autor": "Majo y Dan",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-071-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G",
+            "D"
+          ],
+          "contenido": "Majo y Dan\nSolía vivir la vida en temor\nY me encontró\nUn camino mejor"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "G",
+            "D"
+          ],
+          "contenido": "Y crucificado junto a ti\nYa no vivo yo\nTú vives en mí"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "C",
+            "G",
+            "D"
+          ],
+          "contenido": "Toda mi carga Y condenación\nCambiada fue\npor tu gracia y perdón"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "C",
+            "D",
+            "Em",
+            "Bm"
+          ],
+          "contenido": "Y no hay nada más\nQue pueda aportar\nTu gracia Jesús\nMe bastará"
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "acordes": [
+            "D",
+            "Em",
+            "C",
+            "G"
+          ],
+          "contenido": "Y no me hace falta nada ya\nNo yo sino Cristo\nNo yo sino Cristo\nLo que fui no soy más\nTú en mí vivo estás\nNo yo solo Cristo"
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "acordes": [
+            "C",
+            "D",
+            "Em",
+            "G"
+          ],
+          "contenido": "Y consumado fue\nPor la fe puedo ver\nY este corazón\nTodo tuyo es\nY hoy mi adoración\nVengo a darte Señor\nEres mi porción\nPara siempre"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "song-101",
+  "titulo": "Toda Lengua Y Toda Nación",
+  "artista": "",
+  "autor": "González",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-101-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "Bm",
+            "A",
+            "F#m",
+            "E"
+          ],
+          "contenido": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís\nGonzález\nHasta que Él venga sonará\nLa melodía del clamor de tu iglesia\nJesús, ¡Regresa!\nHasta que Él venga subirá\nLa adoración de los que anhelan tu belleza\nJesús, ¡Regresa!\nY mientras te esperamos\nEl fuego no se apagará\nEl fuego no se apagará\nÁbranse las puertas\nEl Rey de gloria viene ya\ny todo ojo lo verá\nToda lengua y toda nación\nToda lengua y toda nación\nToda lengua y toda nación\nAlabe tu nombre\nInterludio:"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "F#m",
+            "A",
+            "D",
+            "E"
+          ],
+          "contenido": "Oh oh oh oh oh oh oh"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "F#m",
+            "A",
+            "D",
+            "E"
+          ],
+          "contenido": "Santo y digno es el cordero\nQue murió y resucitó"
+        }
+      ]
+    }
+  ]
+}

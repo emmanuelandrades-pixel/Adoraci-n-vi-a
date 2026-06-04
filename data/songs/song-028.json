@@ -1,0 +1,37 @@
+{
+  "id": "song-028",
+  "titulo": "De Gloria En Gloria",
+  "artista": "Glory To Glory",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-028-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Bm",
+            "G",
+            "D",
+            "A"
+          ],
+          "contenido": "William Matthews, Rick Seibold, Lauren Evans\nVi - niste a habitar,\nA vivir entre nosotros\nSin - tiendo el dolor, de la humanidad\nY a llevarnos más alto\nInfinito Dios\nTú vida rendiste para\nMi culpa borrar, mi vergüenza quitar\nY llevarnos más alto\nVamos de gloria en gloria en gloria\nJamás será igual, jamás seré igual\nVamos de gloria en gloria en gloria (Vamos más alto, más alto, más alto)\nGracia que cambió nuestro corazón\nTú amigo yo soy\nA tú Reino me has traído\nEsclavo fui yo, ahora tú hijo soy\nY me llevas más alto\nJesús queremos ver, tú rostro y majestad\nPor siempre cantaremos, Santo, Santo\nTú amor va allá, no alcanzo a comprender\nPor siempre cantaremos, Digno, Digno\nInterludio: G – D – Bm – A\nLa tumba venció,\nLa muerte poder no tiene\nJesucristo triunfó, y el cielo se abrió\nY nos llevas más alto"
+        }
+      ]
+    }
+  ]
+}

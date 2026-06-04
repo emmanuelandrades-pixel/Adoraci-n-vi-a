@@ -1,0 +1,32 @@
+{
+  "id": "song-040",
+  "titulo": "En La Cruz – En El Monte",
+  "artista": "",
+  "autor": "CALVARIO",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-040-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "CALVARIO\nHimno\nHerido, triste, fui Jesús, mostrele mi\ndolor;\nPerdido, errante, vi su luz,\nbendíjome en su amor.\nEn la cruz, en la cruz, do primero\nvi la luz,\nY las manchas de mi alma yo\nlavé;\nFue allí por fe do vi a Jesús,\nY siempre feliz con el seré.\nEN EL MONTE\nCALVARIO\nEn el monte calvario\nEstaba una cruz\nEmblema de afrenta y dolor\nMás yo amo esa cruz\nDónde murió mi Jesús\nPor salvar al más vil pecador\nOh, yo siempre amaré esa cruz\nEn sus triunfos mi gloria será\nY algún día en vez de una cruz\nMi corona, Jesús, me dará"
+        }
+      ]
+    }
+  ]
+}

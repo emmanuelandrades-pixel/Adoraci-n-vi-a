@@ -1,0 +1,49 @@
+{
+  "id": "song-069",
+  "titulo": "No Hay Otro Igual",
+  "artista": "",
+  "autor": "Luian Berdía, David Berguño",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-069-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "G",
+            "Am"
+          ],
+          "contenido": "Luian Berdía, David Berguño\nDeclaramos que Él es Rey\nSoberano sobre toda la creación\nCielo y tierra se someten ante Él\nNo hay otro igual\nLa justicia y el poder\nPertenecen al que en el trono está\nQuien defiende al extranjero y sin hogar\nNo hay otro igual\nDigno de Honor"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "F",
+            "G",
+            "Am"
+          ],
+          "contenido": "Gloria y Majestad\nDigno de Honor\nC - G\nPor siempre reinarás\nAm – G/B - C\nPor la eternidad\nTuya es la Gloria\nSiempre el mismo, siempre Fiel\nEl que es, que fue y que pronto volverá\nA reinar con rectitud y con bondad\nNo hay otro igual\nTodo ojo lo verá\nToda la creación ante Él se postrará\nToda lengua solo a Él confesará\nNo hay otro igual\nHoy podemos escuchar\nComo el cielo te adora sin cesar\nNos unimos hoy al coro celestial\nNo hay otro igual\nAleluya"
+        }
+      ]
+    }
+  ]
+}

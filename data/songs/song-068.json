@@ -1,0 +1,40 @@
+{
+  "id": "song-068",
+  "titulo": "No Hay Lugar Más Alto",
+  "artista": "",
+  "autor": "Miel San Marcos",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-068-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "E/G#",
+            "F#m",
+            "D",
+            "E",
+            "F#m7",
+            "A/C#"
+          ],
+          "contenido": "Miel San Marcos\nA tus pies arde mi corazón\nA tus pies entrego lo que soy\nEs el lugar de mi seguridad\nDonde nadie me puede señalar\nMe perdonaste, me acercaste a tu presencia\nMe levantaste, hoy me postro a adorarte\nNo hay lugar más alto\nMás grande, que estar a tus pies\nQue estar a tus pies\nY aquí permaneceré\nPostrado a tus pies\nY aquí permaneceré\nA los pies de Cristo"
+        }
+      ]
+    }
+  ]
+}

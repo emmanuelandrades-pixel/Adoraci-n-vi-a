@@ -1,0 +1,38 @@
+{
+  "id": "song-020",
+  "titulo": "Contigo (En Tus Manos)",
+  "artista": "",
+  "autor": "Mike Van Der Westhuisen",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-020-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "D",
+            "G/B",
+            "Em",
+            "G"
+          ],
+          "contenido": "Mike Van Der Westhuisen\nCapo 2\nTú eres mi porción\nTú eres mi satisfacción\nMi valor está en tus manos, en tus manos\nMi valor está en tus pies, en tu costado\nMi importancia está en tu boca, en tus palabras\nDios abre mis oídos para escucharte\nContigo, contigo\nContigo quiero estar\nMi valor está en tus manos, en tus manos\nMi valor está en tus pies, en tu costado\nMi importancia está en tu boca, en tus palabras\nDios abre mis oídos para escucharte"
+        }
+      ]
+    }
+  ]
+}

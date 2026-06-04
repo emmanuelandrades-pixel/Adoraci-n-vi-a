@@ -1,0 +1,51 @@
+{
+  "id": "song-022",
+  "titulo": "Cordero Y El León",
+  "artista": "Lion And The Lamb",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-022-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "Am",
+            "C",
+            "Em",
+            "D"
+          ],
+          "contenido": "Leeland Mooring, Brenton Brown, Brian Johnson\nEn nubes llegará\nLos reinos se inclina -rán\nCadenas romperá\nY toda alma alabará"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D",
+            "G",
+            "Em",
+            "C",
+            "Am"
+          ],
+          "contenido": "Pues quién detiene al poderoso\nNuestro Dios es León\nEl León de Judá\nQuien ruge y pelea\nEn nuestras batallas\nTodos se postrarán ante Él\nNuestro Dios es Cordero\nQue inmolado fue\nEl pecado quitó\nY nos dio libertad\nTodos se postrarán ante\nEl Cordero y el León\nSe postrará ante ti la tierra\nOh puertas se abren ya\nCamino para nuestro Rey\nÉl vino a salvar\nY al cautivo liberar\nPues quién detiene al poderoso\n¿Quién detiene al poderoso?\n¿Quién detiene al poderoso? // (Quién lo detiene a Él...)"
+        }
+      ]
+    }
+  ]
+}

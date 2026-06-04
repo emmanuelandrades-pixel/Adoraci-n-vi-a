@@ -1,0 +1,38 @@
+{
+  "id": "song-087",
+  "titulo": "Rodeado (Así Peleo Mis Batallas)",
+  "artista": "",
+  "autor": "Surrounded (This Is How I Fight My Battles)",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-087-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E/G#",
+            "A",
+            "B",
+            "C#m7",
+            "E"
+          ],
+          "contenido": "Surrounded (This Is How I Fight My Battles)\nElyssa Smith\nC#m7- A E-B\nTú preparas una mesa para mí\nEn presencia de mis enemigos\nCuerpo y sangre vertiste tú por mí\nAsí peleo mis batallas\nCreo que tú has vencido\nLevanto hoy mi canto\nPor lo que has hecho en mí\nAsí peleo mis batallas\nAsí peleo mis batallas\nAsí peleo mis batallas\nEn el valle tú estás junto a mí\nTu bondad y tu gracia, por siempre junto a mí\nMis armas son amor y adoración\nAsí peleo mis batallas\nAun rodeado de problemas, estoy rodeado por ti\nY mi victoria está en Jesús\nY mi victoria está en Jesús"
+        }
+      ]
+    }
+  ]
+}

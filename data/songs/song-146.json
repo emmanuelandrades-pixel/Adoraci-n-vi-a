@@ -1,0 +1,37 @@
+{
+  "id": "song-146",
+  "titulo": "You Know Me",
+  "artista": "",
+  "autor": "Bethel Music",
+  "genero": "Adoración",
+  "idioma": "Inglés",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-146-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Bm",
+            "A",
+            "D",
+            "G"
+          ],
+          "contenido": "Bethel Music\nYou have been\nAnd You will be\nYou have seen\nAnd You will see\nYou know when I rise and when I fall\nWhen I come or go, You see it all\nAnd you hung the stars and You move the sea,\nAnd still You know me\nWhoa oh oh oh oh oh\nOh oh oh oh You know me oh\nAnd nothing is hidden from Your sight\nWherever I go, You find me\nYou know every detail of my life\nYou are God and You don't miss a thing"
+        }
+      ]
+    }
+  ]
+}

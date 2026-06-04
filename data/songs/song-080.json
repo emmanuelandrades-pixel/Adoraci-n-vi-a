@@ -1,0 +1,50 @@
+{
+  "id": "song-080",
+  "titulo": "Primer Amor",
+  "artista": "",
+  "autor": "David Berguño",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-080-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "A",
+            "Bm",
+            "F#m",
+            "D"
+          ],
+          "contenido": "David Berguño\nAlguna vez escuché\nQue aquel primer amor\nFue tan solo un momento\nUn tiempo que pasó\nAlguna vez yo lo creí\nY avancé y me conformé\nCon un amor tan tibio\nYa no, no más\nPorque ya sé lo que quieres\nde mi\nYa no, no más\nHoy vuelvo al primer amor"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "A",
+            "Bm",
+            "D"
+          ],
+          "contenido": "Porque mi amor se enciende\nAl mirarte de nuevo\nAl ver esos ojos de fuego ardiendo\nPorque mi amor se aviva\nCuando corro a tus brazos\nY dejo que tus ojos quemen mis\nmiedos\nY volveré a hacer\nLas cosas que hice al comienzo\nCuando me enamoré\nY nada era imposible\nY volveré a creer\nComo un niño en ti mi fe pondré\nY ya no olvidaré\nNinguna de tus promesas"
+        }
+      ]
+    }
+  ]
+}

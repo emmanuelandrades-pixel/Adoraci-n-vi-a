@@ -1,0 +1,37 @@
+{
+  "id": "song-023",
+  "titulo": "Creo En Ti",
+  "artista": "",
+  "autor": "Julio Melgar",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-023-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "contenido": "Julio Melgar\nQuiero levantar a Ti mis manos\nMaravilloso Jesús, milagroso Señor,\nLlena este lugar de Tu presencia\nY haz descender Tu poder\nA los que estamos aquí\nCreo en Ti, Je - sús\nY en lo que harás en mi\nEn mi, en mi\nRecibe toda la gloria,\nRecibe toda la honra\nPrecioso Hijo de Dios"
+        }
+      ]
+    }
+  ]
+}

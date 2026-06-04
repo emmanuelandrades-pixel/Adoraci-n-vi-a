@@ -1,0 +1,40 @@
+{
+  "id": "song-010",
+  "titulo": "Aquí Estamos Para Ti",
+  "artista": "Here For You",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-010-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F",
+            "G",
+            "C/E",
+            "Dm",
+            "G/B",
+            "Am"
+          ],
+          "contenido": "Matt Redman\nAl adorar se bienvenido\nQue al cantar puedas ver\nAquí estamos para ti\nAquí estamos para ti\nTu aliento venga del cielo\nDando vida al corazón\nAquí estamos para ti\nSe abren corazones nada se esconde a ti\nTe deseamos Dios\nSolo tu eres santo solo tu eres digno\nVen santo espíritu\nNuestro clamor sea un himno\nQue tu honor llene el lugar\nAquí estamos para ti\nQue el poder de tu palabra\nTraiga vida donde no hay\nAquí estamos para ti\nOh ven, oh ven\nOh ven\nSe bienvenido aquí\nDios de poder y amor\nSe bienvenido aquí\nQue todo corazón despierte al adorar\nDios de poder y amor\nSe bienvenido aquí"
+        }
+      ]
+    }
+  ]
+}

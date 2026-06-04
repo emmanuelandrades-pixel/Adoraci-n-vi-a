@@ -1,0 +1,39 @@
+{
+  "id": "song-115",
+  "titulo": "Al Mundo Paz (Alégrense)",
+  "artista": "",
+  "autor": "Evan Craft",
+  "genero": "Navidad",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-115-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G",
+            "F",
+            "C/E",
+            "Dm7",
+            "Am7"
+          ],
+          "contenido": "Evan Craft\nCapo 7\nAl mundo paz, nació Jesús\nAlégrense\nNació ya nuestro Rey\nLlego el Rey\nEl corazón ya tiene luz\nAl mundo paz\nY paz su santa grey\nBuena voluntad\nY paz su santa grey\nCristo Jesús\nY paz, y paz su santa grey\nNo hay igual\nÉl es el Rey\nAl mundo paz, el Salvador\nAlégrense\nEn tierra reinará\nY al mundo paz\nYa es feliz el pecador\nJesús perdón le da\nAl mundo Él gobernará\nJesús perdón le da\nCon gracia y con poder\nJesús, Jesús\nA las naciones Él mostrará\nPerdón le da\nSu amor y su poder\nSu amor y su poder\nSu amor, su amor y su poder"
+        }
+      ]
+    }
+  ]
+}

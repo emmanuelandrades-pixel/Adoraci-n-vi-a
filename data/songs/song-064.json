@@ -1,0 +1,39 @@
+{
+  "id": "song-064",
+  "titulo": "Mi Primer Amor",
+  "artista": "",
+  "autor": "Camila Bravo",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-064-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Camila Bravo"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [],
+          "contenido": "Guíame y te seguiré\nMuéstrame tu camino\nTe suplico que me ayudes\nEn esto\nOh grandioso Dios\nEres un perfecto amor\nOh grandioso Dios\nEres perfecto en todo sentido\nTodo lo que has creado\nCada detalle es perfecto\nQuiero que todos sepan\nTodo el amor que puedes dar\nQue es infinito\nInfinito\nEs un gozo seguirte\nAdorarte, alabarte\nMe siento más cerca de ti\nMuy cerca de ti"
+        }
+      ]
+    }
+  ]
+}

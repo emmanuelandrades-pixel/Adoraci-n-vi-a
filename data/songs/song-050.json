@@ -1,0 +1,41 @@
+{
+  "id": "song-050",
+  "titulo": "Gran Yo Soy",
+  "artista": "Great I Am",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-050-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "Em7",
+            "A/C#",
+            "Bm7",
+            "G2",
+            "A",
+            "Bm",
+            "G"
+          ],
+          "contenido": "Jared Anderson\nD //// Em7 // A/C#\nMe quiero acercar a tu lado estar\nQue el cielo sea real y la muerte negar\nQuiero oír las voces de ángeles hoy. Cantando unidos\nAleluya, Santo, Santo, Poderoso, Gran Yo Soy\nAl que es digno, incomparable, Poderoso, Gran Yo Soy\nMe quiero acercar a tu lado estar\nAl mundo amar y lo oscuro odiar\nEl valle de huesos ver revivir\nCantando unidos\nA // Bm7 // G2 /\nTiembla ante Ti la tierra, demonios huyen ya\nAl mencionar tu nombre, Rey de Majestad\nNo hay poder infernal que pueda resistir\nAnte el poder y la presencia del\nD //// A /\nGran Yo Soy, Gran Yo Soy, Gran Yo Soy\nD //// A /\nGran Yo Soy, Gran Yo Soy, Gran Yo Soy"
+        }
+      ]
+    }
+  ]
+}

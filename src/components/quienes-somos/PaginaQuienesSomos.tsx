@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import { cargarMinisterio } from "@/lib/data-loader/cargarMinisterio";
 import { MinisterioConfig } from "@/types/ministerio";
 import { Heart, Target, Eye, CheckCircle, Mail, Phone, MapPin, Link2 } from "lucide-react";
@@ -36,8 +37,19 @@ export function PaginaQuienesSomos() {
     <div className="max-w-2xl mx-auto space-y-6">
       {/* Hero */}
       <div className="bg-gradient-to-br from-primary/20 to-primary/5 border border-primary/20 rounded-2xl p-8 text-center">
-        <div className="w-16 h-16 rounded-full bg-primary/20 flex items-center justify-center mx-auto mb-4">
-          <Heart className="w-8 h-8 text-primary" />
+        <div className="w-20 h-20 rounded-full overflow-hidden mx-auto mb-4 border-2 border-primary/30 bg-primary/10 flex items-center justify-center">
+          <Image
+            src="/logo.png"
+            alt="Adoración Viña Casa de Amor"
+            width={80}
+            height={80}
+            className="object-cover w-full h-full"
+            onError={(e) => {
+              (e.target as HTMLImageElement).style.display = "none";
+              (e.target as HTMLImageElement).parentElement!.innerHTML =
+                '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-primary"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>';
+            }}
+          />
         </div>
         <h1 className="text-2xl font-bold text-foreground mb-1">{ministerio.nombre_oficial}</h1>
         <p className="text-muted-foreground flex items-center justify-center gap-1.5">

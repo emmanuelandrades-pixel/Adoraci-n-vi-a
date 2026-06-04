@@ -10,7 +10,7 @@ interface UIState {
 
 export const useUIStore = create<UIState>((set) => ({
   sidebarAbierto: true,
-  temaOscuro: true,
+  temaOscuro: false,
   toggleSidebar: () => set((s) => ({ sidebarAbierto: !s.sidebarAbierto })),
   setSidebar: (abierto) => set({ sidebarAbierto: abierto }),
   toggleTema: () => set((s) => ({ temaOscuro: !s.temaOscuro })),

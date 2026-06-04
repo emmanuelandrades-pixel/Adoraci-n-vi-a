@@ -80,19 +80,11 @@ export default function Home() {
           50%  { background-position: 100% center; }
           100% { background-position: 0% center; }
         }
-        @keyframes pulse-border {
-          0%, 100% { opacity: 0.35; }
-          50%       { opacity: 0.75; }
-        }
-        @keyframes pulse-ring {
-          0%, 100% { opacity: 0.6; }
-          50%       { opacity: 0.15; }
-        }
-        @keyframes flotar {
-          0%   { transform: translateY(100vh) rotate(-8deg); opacity: 0; }
-          5%   { opacity: 1; }
-          95%  { opacity: 1; }
-          100% { transform: translateY(-120px) rotate(8deg); opacity: 0; }
+        @keyframes flotar-nota {
+          0%   { transform: translateY(0px) rotate(-6deg); opacity: 0; }
+          15%  { opacity: 1; }
+          85%  { opacity: 1; }
+          100% { transform: translateY(-80px) rotate(6deg); opacity: 0; }
         }
         @keyframes fadeUp {
           from { opacity: 0; transform: translateY(24px); }
@@ -140,18 +132,18 @@ export default function Home() {
           />
         ))}
 
-        {/* Notas musicales flotantes */}
+        {/* Notas musicales — zona superior, cerca del logo */}
         {FLOTANTES.map((f, i) => (
           <div
             key={i}
             style={{
-              position: "fixed",
+              position: "absolute",
               left: `${f.x}%`,
-              bottom: -40,
-              fontSize: 18,
-              color: "rgba(124,106,247,0.12)",
+              top: `${4 + (i % 7) * 4}%`,   // distribuidas entre 4% y 28% del alto
+              fontSize: 22,
+              color: "rgba(124,106,247,0.28)",
               pointerEvents: "none",
-              animation: `flotar ${f.dur}s linear ${f.delay}s infinite`,
+              animation: `flotar-nota ${f.dur * 0.55}s ease-in-out ${f.delay * 0.5}s infinite`,
               zIndex: 0,
             }}
           >
@@ -175,31 +167,15 @@ export default function Home() {
         >
           {/* ── Hero ─────────────────────────────────────────────── */}
           <div className="hero-enter" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 0, width: "100%" }}>
-            {/* Logo animado */}
+            {/* Logo */}
             <div style={{ position: "relative", marginBottom: 28 }}>
-              {/* Anillo exterior */}
-              <div style={{
-                position: "absolute",
-                inset: -10,
-                borderRadius: "50%",
-                border: "1px solid rgba(124,106,247,0.15)",
-                animation: "pulse-ring 3s ease-in-out infinite",
-              }} />
-              {/* Borde animado */}
-              <div style={{
-                position: "absolute",
-                inset: -3,
-                borderRadius: "50%",
-                border: "2px solid #7C6AF7",
-                animation: "pulse-border 3s ease-in-out infinite",
-              }} />
               {/* Imagen circular */}
               <div style={{
-                width: 136, height: 136,
+                width: 180, height: 180,
                 borderRadius: "50%",
                 overflow: "hidden",
                 backgroundColor: "rgba(124,106,247,0.08)",
-                border: "1px solid rgba(124,106,247,0.2)",
+                border: "2px solid rgba(124,106,247,0.35)",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
@@ -207,13 +183,13 @@ export default function Home() {
                 <Image
                   src="/logo.png"
                   alt="Adoración Viña Casa de Amor"
-                  width={136}
-                  height={136}
+                  width={180}
+                  height={180}
                   style={{ objectFit: "cover", width: "100%", height: "100%" }}
                   priority
                   onError={(e) => {
                     const parent = (e.target as HTMLImageElement).parentElement!;
-                    parent.innerHTML = `<div style="font-size:48px;color:rgba(124,106,247,0.5)">♫</div>`;
+                    parent.innerHTML = `<div style="font-size:56px;color:rgba(124,106,247,0.5)">♫</div>`;
                   }}
                 />
               </div>

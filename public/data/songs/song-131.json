@@ -1,0 +1,57 @@
+{
+  "id": "song-131",
+  "titulo": "Tal Como Soy",
+  "artista": "As You Find Me",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-131-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "Gsus",
+            "G5",
+            "G2",
+            "Em",
+            "C",
+            "Em7",
+            "Dsus"
+          ],
+          "contenido": "Joel Houston, ben Hastings y matt Crocker\nMe rompí cuando pensaba que era fuerte\nFiel he sido y te he fallado a la misma vez\nIntenté tener control pero no pude\nLlegué alto y en un momento volví a caer\nHe luchado y me he rendido ante la\nbatalla\nMe alejé y me atrajiste de nuevo a ti\nMalgasté lo que tenía desesperado\nPero descubrí Tú siempre estuviste ahí\nFuiste Tú quien me encontró\nTuyo soy, tu amor me cambió\nMi error tu gracia cubrió\nG - Dsus\nNo puedo entenderlo\nY sé que yo no merezco este amor\nTu amor que no se puede comprender\nGracia que nunca voy a entender, no\nhay nada que yo pueda hacer\nEm7 - C - G\nPues Jesús... tal como soy me amas"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "Gsus",
+            "G5",
+            "G2",
+            "Em",
+            "C",
+            "Em7",
+            "Dsus"
+          ],
+          "contenido": "Quién soy yo para que aceptes mi\nalabanza\nMientras haya aliento en mí te adoro Dios\nEres fiel y lleno de gracia y te lo\nagradezco\nTodo lo tienes y aún anhelas mi corazón\nFuiste Tú quien me encontró\nTuyo soy, tu amor me cambió\nMi dolor tu gracia cubrió\nG - Dsus\nNo puedo entenderlo\nTu amor no va a dejarme así (tal como\nsoy me amas)\nMi co - razón solo tuyo es\nAnte tu amor yo me rendiré\nC - G/B\nAquí estoy\nC - G/B\nTu amor no va a dejarme así\nTu amor no va a dejarme"
+        }
+      ]
+    }
+  ]
+}

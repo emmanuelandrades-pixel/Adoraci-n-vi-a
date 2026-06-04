@@ -1,0 +1,48 @@
+{
+  "id": "song-044",
+  "titulo": "Eres Fiel",
+  "artista": "",
+  "autor": "Israel Houghton",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-044-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "B",
+            "D",
+            "A",
+            "C",
+            "E/G#"
+          ],
+          "contenido": "Israel Houghton\nSeñor eres fiel y tu misericordia eterna,\nSeñor eres fiel y tu misericordia eterna,\nGente de toda lengua y nación\nDe generación a generación.\nTe adoramos hoy aleluya, aleluya,\nTe adoramos hoy, eres Señor,\nTe adoramos hoy, aleluya, aleluya\nTe adoramos hoy eres Señor,\nEres fiel"
+        },
+        {
+          "id": "s002",
+          "tipo": "puente",
+          "numero": null,
+          "acordes": [
+            "Em"
+          ],
+          "contenido": "E G A – E D C | B"
+        }
+      ]
+    }
+  ]
+}

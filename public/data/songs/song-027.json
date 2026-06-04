@@ -1,0 +1,37 @@
+{
+  "id": "song-027",
+  "titulo": "Danza Conmigo",
+  "artista": "Dance With Me",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-027-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "contenido": "Chris Dupre\nPues tú has venido sobre los montes, por las montañas\nCorriste hacia mí, oh Señor, tuyo es mi corazón\nConmigo danza\nEl que ama mi alma\nEscucha la canción\nYo le amo\nAl que ama mi alma\nEscucha la canción\nContigo iré, eres mi amor, eres mi dueño\nEl invierno paso y la primavera llegó"
+        }
+      ]
+    }
+  ]
+}

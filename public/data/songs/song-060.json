@@ -1,0 +1,38 @@
+{
+  "id": "song-060",
+  "titulo": "Lo Harás Otra Vez",
+  "artista": "Do It Again",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-060-v001",
+      "nombre": "Original",
+      "tonalidad": "Eb",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Eb",
+            "Bb/D",
+            "Bb",
+            "Eb/G",
+            "F/A"
+          ],
+          "contenido": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock\nMuros rodeando estoy\nPensé que caerían hoy\nMás nunca me has fallado Dios\nLa espera terminará\nSé que has vencido ya\nNunca me has fallado Dios\nEn ti confiaré\nTu promesa sigue en pie\nTú eres fiel\nConfiado andaré\nEn tus manos estaré\nBb/D – Eb\nSiempre has sido fiel\nLa noche acabará\nTu Palabra se cumplirá\nMi corazón te alabará\nCristo, mi Salvador\nCúbreme con tu amor\nMi corazón te alabará\nF/A Bd F/A Bd\nYo sé que tú,\nMueves montañas\nYo creo en ti,\nSé que lo harás otra vez\nAbriste el mar en el desierto\nYo creo en ti, sé que lo harás otra vez"
+        }
+      ]
+    }
+  ]
+}

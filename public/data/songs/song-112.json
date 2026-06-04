@@ -1,0 +1,38 @@
+{
+  "id": "song-112",
+  "titulo": "Ya No Somos Esclavos",
+  "artista": "No Longer Slaves",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-112-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C",
+            "D",
+            "Em",
+            "Bm"
+          ],
+          "contenido": "Me rodeas hoy con una canción\nDe liberación\nEl mal tuvo que huir estando ante ti\nTemores ya no hay\nYa no soy un esclavo del temor,\nSoy un hijo de Dios\nAun antes de nacer, me escogiste Dios\nTu amor me encontró\nEn tu familia Dios he vuelto a nacer\nTu sangre fluye en mi\n(Armonía del Interludio)\nEstoy rodeado por los brazos del Padre\nEstoy rodeado por tu canto de libertad\nNos has liberado del pasado\nComo hijos e hijas hoy cantamos libres...\n/ Oh, oh, oh, oh, oh /\nAbriste el mar para que yo cruzara\nTu gran amor ahogó el temor\nMe rescataste y hoy puedo cantar\nSoy un hijo de Dios"
+        }
+      ]
+    }
+  ]
+}

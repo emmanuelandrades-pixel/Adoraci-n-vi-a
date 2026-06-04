@@ -1,0 +1,37 @@
+{
+  "id": "song-098",
+  "titulo": "Te Doy Gloria",
+  "artista": "I Give You Glory",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-098-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G",
+            "Am",
+            "F"
+          ],
+          "contenido": "Klaus Kuehn\nCuan hermoso Eres Jesús\nSon tus palabras, es tu amor\nCuan glorioso eres Jesús\nEs tu poder, fue tu cruz,\nLa que me salvo me rescato\nUn momento ahí nos dio libertad.\nTe doy gloria gloria,\nTe doy gloria gloria,\nTe doy gloria gloria,\nA ti Jesús\nCon una corona de espinos\nTe hiciste rey por siempre"
+        }
+      ]
+    }
+  ]
+}

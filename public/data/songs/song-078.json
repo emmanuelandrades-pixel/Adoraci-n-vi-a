@@ -1,0 +1,38 @@
+{
+  "id": "song-078",
+  "titulo": "Perfume A Tus Pies",
+  "artista": "",
+  "autor": "Jaz Jacob",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-078-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "B",
+            "C#m",
+            "A",
+            "B/D#"
+          ],
+          "contenido": "Jaz Jacob\nCuando pienso en tu amor y en tu fidelidad\nNo puedo hacer más que postrarme y adorar\nCuando pienso en como he sido y hasta donde me has traído\nMe asombro de Ti\nY no me quiero conformar,\nA (B/D# - E)\nHe probado y quiero más\nYo quiero enamorarme más de ti, enséñame a amarte y a vivir\nA/C# - B/D# - E\nConforme a tu justicia y tu verdad, con mi vida quiero a -dorar\nCon todo lo que tengo y lo que soy, todo lo que he sido te lo doy\nA/C# - B/D# - A (E)\nQue mi vida sea para ti como un perfume a tus pies\nCuando pienso en tu cruz y en todo lo que has dado\nTu sangre por mí, por llevar mi pecado\nCuando pienso en tu mano, que hasta aquí hemos llegado\nPor tu fidelidad\nQue nuestras vidas sean derramadas\nAnte ti, el único digno de gloria"
+        }
+      ]
+    }
+  ]
+}

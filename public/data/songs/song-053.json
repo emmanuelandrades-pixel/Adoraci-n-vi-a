@@ -1,0 +1,39 @@
+{
+  "id": "song-053",
+  "titulo": "Hijo De Dios",
+  "artista": "",
+  "autor": "En Espíritu y en Verdad",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-053-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G",
+            "D",
+            "Em7",
+            "D/F#",
+            "Gmaj7"
+          ],
+          "contenido": "En Espíritu y en Verdad\nEl mismo Dios creador de estrellas\nEl hacedor del cielo y tierra.\nQuien dibujó el amanecer es aquel que acusado fue.\nLas manos que nos dieron vida\nY que del polvo nos formaron.\nManos que fueron traspasadas para comprar mi libertad.\nJesús, Hijo de Dios que grande el costo de mi redención\nMi Salvador, Eterno Rey toda mi alma ante tus pies se postra.\nEl mismo hombre crucificado,\nEl mismo que cargó mi culpa,\nSe levantó y venció la muerte Él es Rey, Él es Rey.\nJesús, Hijo de Dios todo te rinde adoración\nDigno eres Tú, Eterno Rey toda creación ante tus pies\nC | Em7 | Gmaj7\nSe postra\nAleluya a nuestro Dios al Cordero y el León\nAleluya a nuestro Rey Él venció, Él venció.\nAleluya a nuestro Dios al Cordero y el León\nD|D|\nAleluya a nuestro Rey Él venció, Él venció."
+        }
+      ]
+    }
+  ]
+}

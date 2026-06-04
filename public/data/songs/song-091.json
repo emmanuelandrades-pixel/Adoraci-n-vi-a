@@ -1,0 +1,40 @@
+{
+  "id": "song-091",
+  "titulo": "Santo Y Ungido",
+  "artista": "Holy And Anointed One",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-091-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "Bm",
+            "C",
+            "D",
+            "G/B",
+            "Am",
+            "Em"
+          ],
+          "contenido": "John Barnett\nCris - to,\nG DC\nCris - to\nSanto y ungi - do Rey\nCris – to\nCristo, Cristo\nAlto y sublime Dios\nCristo\nTu nombre es como miel para mi\nTu Espíritu como agua para mi ser\nTu voz es como lámpara a mis pies\nCristo te amo, te amo\nCristo te amo, te amo, te amo\nCon todo mi ser"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "song-037",
+  "titulo": "Él No Cambiará",
+  "artista": "",
+  "autor": "Jael Cofré, André Nancavil, Franco Peña",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-037-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C",
+            "D",
+            "Em7",
+            "G/B"
+          ],
+          "contenido": "Tu fidelidad, tus promesas sobre mí\nSé que cumplirás\nComo lluvia sobre el mar\nAbundantemente entregarás\nTú me guiarás, tú me guiarás\nAunque cambien de lugar las montañas\nAunque tiemblen las colinas Él no cambiará\nY cantaré confiado sin dudar\nY tú me sostendrás por la eternidad\nInterludio: G – C - Em7 - D - G/B - C - Em7 – D\nY no temeré, avergonzado no seré\nTú a mi lado estás, no me abandonarás"
+        }
+      ]
+    }
+  ]
+}

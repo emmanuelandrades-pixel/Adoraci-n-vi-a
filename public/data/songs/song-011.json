@@ -1,0 +1,39 @@
+{
+  "id": "song-011",
+  "titulo": "Aquí Estoy",
+  "artista": "The Stand",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-011-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "D",
+            "A/C#",
+            "F#m",
+            "Bm",
+            "E"
+          ],
+          "contenido": "Joel Houston\nTú eres el principio\nTuya es la eternidad\nLlamaste el mundo a existencia\nMe acerco a ti\nMoriste por mis fracasos\nLlevaste mi culpa en la cruz\nCargaste en tus hombros mi carga\nMe acerco a ti\n¿Qué puedo hacer?\n¿Qué puedo decir?\nTe ofrezco mi corazón\nCompletamente a ti\nTu salvación camino\nTu Espíritu vive en mí\nDeclararé tus promesas\nMe acerco a ti\nAquí estoy\nCon manos alzadas vengo\nPues tú todo lo diste por mí\nAquí estoy\nMi alma a ti entrego\nTuyo soy, Señor"
+        }
+      ]
+    }
+  ]
+}

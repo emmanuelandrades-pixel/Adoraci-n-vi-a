@@ -1,0 +1,41 @@
+{
+  "id": "song-123",
+  "titulo": "Dame A Cristo",
+  "artista": "Give Me Jesus",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-123-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "G/B",
+            "Em7",
+            "G",
+            "A",
+            "Bm7",
+            "D/F#",
+            "Bm"
+          ],
+          "contenido": "Upperroom\nNo quiero nada más que a ti\nEres más de lo que soñé\nD/f#\nTodo lo que busqué y anhelé\nNo se compara a ti\nAhora eres mío y tuyo soy\nQue gran misterio es nuestro amor\nQuiero por siempre estar perdido\nEn el placer de tu mirar\nDame a Cristo\nSolo a Cristo\nDejo todo por él\nDejo todo por él\nNo quiero a nadie mas\nNo necesito nada mas\nEres mi todo\nEres mi todo"
+        }
+      ]
+    }
+  ]
+}

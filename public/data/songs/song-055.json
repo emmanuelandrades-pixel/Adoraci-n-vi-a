@@ -1,0 +1,37 @@
+{
+  "id": "song-055",
+  "titulo": "Intenso Amor",
+  "artista": "Reckless Love",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-055-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C#m",
+            "B",
+            "A",
+            "E"
+          ],
+          "contenido": "Cory Asbury\nAntes de hablar,\nTú cantabas sobre mí,\nBueno has sido para mi\nAntes de respirar,\nSoplaste tu aliento en mí,\nDulce has sido para mi\nTan inmenso, tan inagotable\nEs tu intenso amor\nMe persigue y deja a las\nNoventa y nueve y va por mi\nNo lo merezco, ni lo merecía\nY aún te entregaste por mi\nTan inmenso, tan inagotable\nEs tu intenso amor\nTu enemigo fui\nPero tu amor lucho por mí,\nBueno has sido para mi\nMe sentí sin valor\nPero tu amor pagó por mi\nDulce has sido para mi\nNo hay sombra que no alumbres\nNi monte que no escales\nCuando vienes por mi\nNo hay muro que no rompas\nMentira que se oponga\nCuando vienes por mi"
+        }
+      ]
+    }
+  ]
+}

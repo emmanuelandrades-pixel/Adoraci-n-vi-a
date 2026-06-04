@@ -1,0 +1,52 @@
+{
+  "id": "song-105",
+  "titulo": "Tu Presencia Es El Cielo – Alaba",
+  "artista": "",
+  "autor": "Israel & New Breed Version",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-105-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "B",
+            "A",
+            "E",
+            "C#m"
+          ],
+          "contenido": "Israel & New Breed Version\nTu Presencia es el cielo para mi\nY cantamos Oh Cristo, Oh Cristo-o\nTu Presencia es el cielo para mi\nOh alaba\nSimplemente alaba\nEstás llorando alaba\nEn la prueba alaba\nEstás sufriendo alaba\nNo importa alaba\nTu alabanza él escuchará\nDios va al frente abriendo caminos\nQuebrando cadenas sacando espinas\nManda a sus ángeles contigo a luchar\nÉl abre puertas nadie puede cerrar\nÉl trabaja para los que confían\nCamina contigo de noche y de día\nLevanta tus manos tu victoria llego\nComienza a cantar y"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "E",
+            "C#m",
+            "A",
+            "B",
+            "F#",
+            "D#m",
+            "C#"
+          ],
+          "contenido": "Alaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nAlaba a Dios\nDios va al frente abriendo caminos\nQuebrando cadenas sacando espinas\nManda a sus ángeles contigo a luchar\nÉl abre puertas nadie puede cerrar\nÉl trabaja para los que confían\nCamina contigo de noche y de día\nLevanta tus manos tu victoria llego\nComienza a cantar y\nMi Dios Cuán grande es\nCuán grande eres tú"
+        }
+      ]
+    }
+  ]
+}

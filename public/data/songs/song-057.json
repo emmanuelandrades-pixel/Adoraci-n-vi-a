@@ -1,0 +1,24 @@
+{
+  "id": "song-057",
+  "titulo": "La Bendición",
+  "artista": "The Blessings",
+  "autor": "Kari Jobe, Cody Carnes, Steven Furtick, Chris Brown",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-057-v001",
+      "nombre": "Original",
+      "tonalidad": "Bb",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": []
+    }
+  ]
+}

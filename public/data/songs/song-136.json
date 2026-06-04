@@ -1,0 +1,38 @@
+{
+  "id": "song-136",
+  "titulo": "Vengo A Adorarte",
+  "artista": "Here I Am to Worship",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-136-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "B",
+            "F#m",
+            "A",
+            "E/G#"
+          ],
+          "contenido": "Tim Hughes\nOh luz del mundo, bajaste a tinieblas\nY ciego ya no fui más\nAl ver tu belleza yo quiero adorarte\nTengo esperanza en ti\nVengo a adorarte, vengo a postrarme\nVengo a decir que tú eres Dios\nCompletamente bueno, totalmente digno\nTan maravilloso eres Tú\nEterno Rey, en lo alto te exalto\nToda la gloria a Ti\nEn humildad, a la tierra viniste\nFue por tu amor y bondad\nJamás sabré cuánto costó\nVer mi pecado sobre esa cruz"
+        }
+      ]
+    }
+  ]
+}

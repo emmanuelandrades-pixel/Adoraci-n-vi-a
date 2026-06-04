@@ -1,0 +1,63 @@
+{
+  "id": "song-054",
+  "titulo": "Hossana",
+  "artista": "",
+  "autor": "Brooke Ligertwood",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-054-v001",
+      "nombre": "Original",
+      "tonalidad": "E",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "E",
+            "C#m",
+            "F#m",
+            "B",
+            "E/G#",
+            "A"
+          ],
+          "contenido": "Veo al Rey de Gloria\nViene con fuego y poder\nTodos verán\nTodos verán\nVeo su amor y gracia\nMi pecado perdonó\nLe alabaré le alabaré\nHosanna Hosanna\nHosanna en las alturas\nHosanna Hosanna\nHosanna en las alturas\n…\nHosanna en las alturas"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "E",
+            "C#m",
+            "F#m",
+            "B"
+          ],
+          "contenido": "Veo como se levanta\nUna gran generación\nCon compasión con compasión\nVeo avivamiento\nAl buscarte y al orar\nMe postraré me postraré"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "A",
+            "B",
+            "E",
+            "C#m"
+          ],
+          "contenido": "C#m E F#m G#m (x2)\nSáname y Límpiame\nCon mis ojos tus obras quiero ver\nQuiero amarte como tú\nMe amas\nMuéstrame tú corazón\nTodo lo que soy por tu Reino Dios\nContigo quiero estar por la\nEternidad"
+        }
+      ]
+    }
+  ]
+}

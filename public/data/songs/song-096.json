@@ -1,0 +1,91 @@
+{
+  "id": "song-096",
+  "titulo": "Sueños",
+  "artista": "",
+  "autor": "Un Corazón",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-096-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D"
+          ],
+          "contenido": "Un Corazón\nDicen que Dios tiene sueños"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D",
+            "G"
+          ],
+          "contenido": "Ya no hay nada que temer, ooh-oh"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "G",
+            "Bm",
+            "D"
+          ],
+          "contenido": "Ocho billones de sueños\nDicen que eres uno de ellos\n¡Mira qué hermoso destello eres de Él!"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "Bm",
+            "G",
+            "D"
+          ],
+          "contenido": "Todos a la mesa, nadie queda fuera\nYa no hay tiempo que perder\nEsta es la promesa, gracia y vida eterna\nYa no hay nada que temer"
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "acordes": [
+            "D",
+            "G",
+            "Bm"
+          ],
+          "contenido": "Dicen que hay una casa\nEn donde el tiempo no pasa\nDicen que no está muy lejos\nPuedes llegar si te atreves a creer\nTodos a la mesa, nadie queda fuera\nYa no hay tiempo que perder\nEsta es la promesa, gracia y vida eterna\nYa no hay nada que temer, ooh-oh\n( D G Bm/G )\nDicen que hay un banquete inagotable y\ncreciente\nDicen que el Rey quiere verte\nHay un lugar preparado para ti\nHay un lugar preparado para mí\nTodos a la mesa, nadie queda fuera\nYa no hay tiempo que perder\nEsta es la promesa, gracia y vida eterna"
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "acordes": [
+            "D",
+            "Em",
+            "Bm",
+            "G",
+            "A",
+            "D/F#"
+          ],
+          "contenido": "Oh-oh-oh, oh-oh-oh-oh-oh\nYa no hay nada que temer\nOh-oh-oh, oh-oh-oh-oh-oh\nYa no hay nada que temer\nDicen que Dios tiene sueños\nOcho billones de sueños\nDicen que eres uno de ellos\n¡Mira qué hermoso destello eres de Él!\n¡Mira qué hermoso destello eres de Él!\nUn lisiado a la mesa se sentó\nCon vergüenza, sus heridas, ocultó\nMás, al Rey, no le importó su condición\nBienvenido, hijo mío, declaró\nY el lisiado en la historia era yo"
+        }
+      ]
+    }
+  ]
+}

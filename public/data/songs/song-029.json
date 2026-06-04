@@ -1,0 +1,38 @@
+{
+  "id": "song-029",
+  "titulo": "Desde Mi Interior",
+  "artista": "From Inside Out",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-029-v001",
+      "nombre": "Original",
+      "tonalidad": "F",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F",
+            "C",
+            "G",
+            "Am",
+            "Dm"
+          ],
+          "contenido": "Joel Houston\nMil veces te fallé, mas tú fuiste fiel\nTu gracia me levantó, me basta tu amor\nDios Eterno, tu luz por siempre brillará\nY tu gloria, incomparable sin final\nSeñor, tu voluntad permanecerá\nEn ti me quiero perder en adoración\nDios Eterno, tu luz por siempre brillará\nY tu gloria, incomparable sin final\nDe mi corazón te doy el control\nConsume todo mi interior, Dios\nJusticia y amor me abrazan, Señor\nTe amo desde mi interior\nDios Eterno, tu luz por siempre brillará\nY tu gloria, incomparable sin final\nEl clamor de mi ser es contigo estar\nDesde mi interior, mi alma clamará"
+        }
+      ]
+    }
+  ]
+}

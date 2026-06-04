@@ -1,0 +1,38 @@
+{
+  "id": "song-145",
+  "titulo": "Since Your Love",
+  "artista": "",
+  "autor": "United Pursuit",
+  "genero": "Adoración",
+  "idioma": "Inglés",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-145-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "D",
+            "C",
+            "Am",
+            "Em"
+          ],
+          "contenido": "United Pursuit\nCapo 4\nYou are the light, Song of my life\nYou always lead me, You are the voice inside\nYou are my love, No one before You\nAll that I am, Points to You\nAnd I was made by You\nI was made for You\nI am unfulfilled\nWithout full communion\nYou are the light, Song of my life\nYou always lead me, You are the voice inside\nYou are my love, No one before You\nAll that I am, Points to You\nSince Your love got a hold of me\nSince Your love got a hold of me\nI'm a new creation\nI'm forever changed\nIn you, is all I need\nYou’re my breath, you’re my life, you’re my everything"
+        }
+      ]
+    }
+  ]
+}

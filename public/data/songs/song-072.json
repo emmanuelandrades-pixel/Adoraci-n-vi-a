@@ -1,0 +1,39 @@
+{
+  "id": "song-072",
+  "titulo": "Nuestro Dios Reina",
+  "artista": "Our God Reigns",
+  "autor": "Martin Smith",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-072-v001",
+      "nombre": "Original",
+      "tonalidad": "Bb",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "Bb/D",
+            "Eb",
+            "F",
+            "Gm",
+            "F/A",
+            "Bb"
+          ],
+          "contenido": "Nuestro Dios\nReina hoy\nPor siempre\nSu reino es"
+        }
+      ]
+    }
+  ]
+}

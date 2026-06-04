@@ -1,0 +1,47 @@
+{
+  "id": "song-119",
+  "titulo": "Venid Fieles Todos",
+  "artista": "",
+  "autor": "Marcos Witt",
+  "genero": "Navidad",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-119-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Marcos Witt"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "D",
+            "Em",
+            "C",
+            "Am",
+            "G/B",
+            "D/F#"
+          ],
+          "contenido": "Venid fieles todos a Belén marchemos\nDe gozo triunfantes y llenos de amor\nY al Rey de los cielos humilde veremos\nVenid y adoremos\nVenid y adoremos\nVenid y adoremos\nA Cristo el Señor\nEn pobre pesebre, yace reclinado\nAl hombre ofreciendo eternal salvación\nEl Santo Mesías, el verbo humanado\nVenid y adoremos\nVenid y adoremos\nVenid y adoremos\nEm – D - C\nA Cristo el Señor\nCantad jubilosas, célicas criaturas\nResuenen los cielos con vuestra canción\nAl Dios bondadoso gloria en las alturas\nVenid y adoremos\nVenid y adoremos\nVenid y adoremos\nA Cristo el Señor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "song-106",
+  "titulo": "Tu Y Solo Tu",
+  "artista": "",
+  "autor": "Upperroon",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-106-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "G",
+            "Bm"
+          ],
+          "contenido": "Upperroon\nElijo hoy agradecerte Dios\nTe adoraré, con mi corazón\nDespierto en tu presencia\nDespierto en ti, mi Dios\nBueno eres Dios, gracias\nPor tu misericordia, gracias\nEn espíritu y verdad, gracias\nYo te digo gracias\nComo el sol es tu fidelidad\nTu infinito amor Inmenso como el mar\nDespierto en tu presencia\nDespierto en ti, mi Dios\nTú y sólo tú"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "A",
+            "D",
+            "Bm",
+            "G"
+          ],
+          "contenido": "Despiertas mi interior\nMi gozo es darte gracias, gracias\nPor llamarme tu amigo, gracias\nPor ser mi defensor, gracias\nPor tu infinito amor, gracias\nYo te digo gracias"
+        }
+      ]
+    }
+  ]
+}

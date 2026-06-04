@@ -1,0 +1,39 @@
+{
+  "id": "song-102",
+  "titulo": "Trae Tu Reino",
+  "artista": "",
+  "autor": "Mike Van der Westhuizen",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-102-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C",
+            "D",
+            "Am",
+            "D/F#",
+            "Em"
+          ],
+          "contenido": "Mike Van der Westhuizen\nHoy clamamos a ti, Dios del cielo y de la Tierra;\nLibera nuestro corazón del temor.\nAbre nuestros ojos ciegos para ver con tus ojos,\nPadre escucha hoy nuestro clamor.\nLibera a tus hijos, sana nuestro corazón;\nRestaura nuestra identidad\nTransforma nuestra mente, enséñanos la fe\nMuéstranos que ves en nosotros\nTrae tu reino sobre nosotros,\nQue tu presencia sea derramada,\nQue tu belleza sea revelada,\nY que tus hijos sepan quiénes son.\nHoy clamamos a ti, Dios del cielo y de la Tierra;\nLibera nuestro corazón del temor.\nLa creación espera que tus hijos ya no teman,\nPadre escucha hoy nuestro clamor."
+        }
+      ]
+    }
+  ]
+}

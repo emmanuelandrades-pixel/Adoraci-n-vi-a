@@ -1,0 +1,38 @@
+{
+  "id": "song-073",
+  "titulo": "Oceanos",
+  "artista": "",
+  "autor": "(Oceans (Where Feet My Fail))",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-073-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Bm",
+            "A/C#",
+            "D",
+            "A",
+            "G"
+          ],
+          "contenido": "Tu voz me llama a las aguas\nDonde mis pies pueden fallar\nAhí te encuentro en lo incierto\nCaminaré sobre el mar\nA tu nombre clamaré\nEn ti mis ojos fijaré\nEn tempestad,\nDescansaré en tu poder\nPues tuyo soy\nA Bm - A/C# - D - A - G(Em)\nHasta el final\nTu gracia abunda en la tormenta\nTu mano Dios me guiará\nCuando hay temor en mi camino\nTú eres fiel y no cambiarás\nBm(G)\nG(D)\nQue tu espíritu me guíe sin fronteras\nD(A)\nA(Em)\nMás allá de las barreras, adonde tu me llames\nTú me llevas más allá de lo soñado\nDonde puedo estar confiado\nAl estar en tu presencia"
+        }
+      ]
+    }
+  ]
+}

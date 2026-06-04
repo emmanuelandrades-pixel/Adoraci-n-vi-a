@@ -1,0 +1,52 @@
+{
+  "id": "song-058",
+  "titulo": "La Bondad De Dios",
+  "artista": "Goodness Of God",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-058-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "C",
+            "D/F#",
+            "Em",
+            "D"
+          ],
+          "contenido": "Jason Ingram, Ed Cash, Jenn Johnson, Brian Johnson, Ben Fielding\nTe amo Dios\nTu amor nunca me falla\nMi existir en Tus manos está\nDesde el momento en que despierto\nHasta el anochecer\nYo cantaré de la bondad de Dios\nEn mi vida has sido bueno\nEn mi vida has sido tan fiel\nCon mi ser, con cada aliento\nYo cantaré de la bondad de Dios\nPara terminar:\nYo cantaré de la bondad de Dios\nYo cantaré de la bondad de Dios)"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "C",
+            "D/F#",
+            "Em",
+            "D",
+            "G/B"
+          ],
+          "contenido": "Yo amo Tu voz\nMe has guiado por el fuego\nTú cerca estás\nen la oscuridad\nTe conozco como Padre\nY como amigo fiel\nMi vida está en la bondad de Dios\nTu fidelidad sigue\nPersiguiéndome\nTu fidelidad sigue\nPersiguiéndome\nTodo lo que soy\nTe lo entrego hoy\nA Ti me rendiré\nTu fidelidad sigue\nPersiguiéndome"
+        }
+      ]
+    }
+  ]
+}

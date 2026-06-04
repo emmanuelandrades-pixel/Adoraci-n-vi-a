@@ -1,0 +1,39 @@
+{
+  "id": "song-079",
+  "titulo": "Preciosa Sangre",
+  "artista": "",
+  "autor": "Marco Barrientos",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-079-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Am",
+            "G",
+            "Em",
+            "Bm",
+            "C",
+            "D"
+          ],
+          "contenido": "Preciosa sangre se derramó\nPreciosa sangre fluyó por amor\nSobre ti el dolor\nTus venas lloraron\nJesús, Jesús, Jesús.\nHay poder en la sangre\nQue fluyó por amor\nHay poder en la sangre\nQue Él derramó.\nPreciosa sangre que me purificó\nPreciosa sangre que me transformó\nSobre ti el dolor\nTus venas lloraron\nJesús, Jesús, Jesús.\nTu sangre me transformó\nTu sangre me perdonó\nTu sangre me limpió\nTu sangre me sanó\nTu sangre me sanó"
+        }
+      ]
+    }
+  ]
+}

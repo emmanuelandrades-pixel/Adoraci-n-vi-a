@@ -1,0 +1,37 @@
+{
+  "id": "song-139",
+  "titulo": "Defender",
+  "artista": "",
+  "autor": "Bethel Music",
+  "genero": "Adoración",
+  "idioma": "Inglés",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-139-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D",
+            "G",
+            "Bm",
+            "A"
+          ],
+          "contenido": "You go before, I know\nThat You've even gone to win my war\nYou come back with the head of my enemy\nYou come back and you call it my victory\nYou go before, I know\nThat You've even gone to win my war\nYour love becomes my greatest defense\nIt leads me from the dry wilderness\nAll I did was praise\nAll I did was worship\nAll I did was bow down\nAll I did was stay still\nHallelujah, You have saved me\nSo much better this way\nHallelujah, Great Defender\nSo much better Your way\nYou know before I do\nWhere my heart can seek to find Your truth\nYour mercy is the shade I'm living in\nYou restore my faith and hope again\nWhen I thought I lost me\nYou knew where I left me\nYou reintroduced me to Your love\nYou picked up all my pieces\nPut me back together\nYou are the Defender of my heart"
+        }
+      ]
+    }
+  ]
+}

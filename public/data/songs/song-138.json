@@ -1,0 +1,39 @@
+{
+  "id": "song-138",
+  "titulo": "Closer",
+  "artista": "",
+  "autor": "Bethel Music",
+  "genero": "Adoración",
+  "idioma": "Inglés",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-138-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Bm",
+            "A",
+            "D/F#",
+            "G",
+            "D",
+            "A/C#"
+          ],
+          "contenido": "Bethel Music\nYour love has ravished my heart\nAnd taken me over, taken me over\nAnd all I want is to be\nWith You forever, with You forever\nPull me a little closer\nBmTake me a little deeper\nI want to know Your heart\nI want to know Your heart\n'Cause Your love is so much sweeter\nThan anything I’ve tasted\nI want to know Your heart\nEm D/F# G (2x)\nI want to know Your heart\nWhoa, whoa, how great Your love is for me\nWhoa, whoa, how great is Your love\nPull me a little closer\nTake me a little deeper\nI want to know Your heart\nI want to know Your heart\n'Cause Your love is so much stronger\nThan anything I’ve tasted\nI want to know Your heart\nI want to know Your heart"
+        }
+      ]
+    }
+  ]
+}

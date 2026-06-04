@@ -1,0 +1,37 @@
+{
+  "id": "song-026",
+  "titulo": "Cuánto Nos Ama",
+  "artista": "How He Loves",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-026-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F/A",
+            "G",
+            "F"
+          ],
+          "contenido": "Él es celoso de mí,\nSu amor es un huracán, un árbol soy yo,\nDoblándose por el viento de su grandeza.\nCuando de repente,\nMis aflicciones se eclipsan por su presencia\nY al estar allí reconozco tu amor\nY cuan grande es tu afecto por mí.\nOh, cuánto nos ama Dios,\nCuánto nos ama,\nCuánto nos ama Dios\nÉl nos ama,\nCuánto nos ama\nCuánto nos ama\nCuánto nos ama\nSomos su herencia, Él es nuestra meta\nAtraídos a Él por su gracia y amor\nSi su gracia es un mar nos estamos hundiendo\nEl cielo y la tierra como un beso se encuentran\nY mi corazón arde dentro de mi\nY no tengo tiempo para estar mirando atrás\nCuando pienso que... Dios"
+        }
+      ]
+    }
+  ]
+}

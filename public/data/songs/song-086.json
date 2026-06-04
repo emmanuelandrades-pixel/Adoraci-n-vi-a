@@ -1,0 +1,38 @@
+{
+  "id": "song-086",
+  "titulo": "Rey De Mi Corazón",
+  "artista": "King of My Heart",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-086-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "D",
+            "F#m",
+            "E",
+            "Bm"
+          ],
+          "contenido": "Sara McMillan\nRey de mi corazón\nAgua que sacia mi sed\nMonte al que correré\nEres mi canción\nRey de mi corazón\nSombra que me esconderá\nMi rescate en tempestad\nEres mi canción\nBueno es Dios, Dios oh\nRey de mi corazón\nViento que llena mi ser\nMi ancla firme y fiel\nEres mi canción\nRey de mi corazón\nFuego que arde en mi interior\nEl eco de mi voz\nEres mi canción\nTú no me dejarás\nNo me dejarás jamás\nTú no me dejarás\nNo me dejarás jamás\nCuando venga la oscuridad\nTú me sostendrá"
+        }
+      ]
+    }
+  ]
+}

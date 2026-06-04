@@ -1,0 +1,41 @@
+{
+  "id": "song-135",
+  "titulo": "Tu Siempre Estas Conmigo",
+  "artista": "",
+  "autor": "David Berguño",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-135-v001",
+      "nombre": "Original",
+      "tonalidad": "Eb",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Eb",
+            "F",
+            "Gm",
+            "Bb/D",
+            "Eb/G",
+            "Bb",
+            "F/A",
+            "Cm"
+          ],
+          "contenido": "Tú eres mi herencia\nLo tengo todo en Ti\nTú eres mi porción\nTú me proteges\nAun en la oscuridad\nSiempre me guiarás\nMi corazón segu - ro está\nMi cuerpo en ti descan - sa - rá\nAquí a mi lado Tú es – tás\nNo me abandonas\nNo me abandonas\n¿Por qué temeré?\n¿Por qué temeré?\nTú siempre estás conmigo\nTú siempre estás conmigo\nEn las tormentas\nDe dudas y temor\nMi ancla eres Tú\nTú me rodeas\nCon cantos de amor\nY de liberación\nTú lo prome - tiste\nY nunca falla - rás\nY nunca falla – rás\nSiempre Tú estarás\nConmigo hasta el final\nConmigo hasta el final"
+        }
+      ]
+    }
+  ]
+}

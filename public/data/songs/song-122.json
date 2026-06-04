@@ -1,0 +1,37 @@
+{
+  "id": "song-122",
+  "titulo": "Bendito Sea Tu Nombre",
+  "artista": "Blessed be the Name",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-122-v001",
+      "nombre": "Original",
+      "tonalidad": "B",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "B",
+            "F#",
+            "G#m",
+            "E"
+          ],
+          "contenido": "Matt Redman\nBendito sea tu nombre\nEn la tierra de abundancia\nDonde fluye tu riqueza\nBendito sea Tú nombre\nBendito sea tu nombre al estar en el desierto,\nAl andar por tierra seca, bendito sea tu nombre\nCada bendición convierto en adoración\nY al venir la oscuridad Dios siempre diré\nBendito sea el nombre del Señor\nBendito sea tu nombre\nBendito sea el nombre del Señor\nBendito sea tu glo - rioso nombre\nBendito sea tu nombre, cuando el sol brilla sobre mi\nCuando todo está como debe ser, Bendito sea tu nombre\nBendito sea tu nombre, al sufrir en el camino\nAunque duela el sacrificio, Bendito sea tu nombre\nDarás y quitarás, darás y quitarás\nY en mi corazón diré, yo te bendeciré"
+        }
+      ]
+    }
+  ]
+}

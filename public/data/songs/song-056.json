@@ -1,0 +1,81 @@
+{
+  "id": "song-056",
+  "titulo": "Jesús Es El Centro",
+  "artista": "",
+  "autor": "Houghton & New Breed",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-056-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "Bm",
+            "A/C#",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "contenido": "Houghton & New Breed\nEl centro de todo eres Jesús\nEl centro de todo eres Jesús\nDesde el principio y hasta el\nfin\nTú has sido y siempre serás\nCristo, Cristo"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "A",
+            "Bm",
+            "A/C#",
+            "D",
+            "E",
+            "F#m"
+          ],
+          "contenido": "El centro de mi vida se Jesús\nEl centro de mi vida se Jesús\nDesde el principio y hasta el\nfin\nTú has sido y siempre serás\nCristo, Cristo"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "A",
+            "A/C#",
+            "D",
+            "Bm",
+            "F#m",
+            "E"
+          ],
+          "contenido": "Tu eres el centro\nNada importa más que tu\nTodo el universo\nGira en pos de ti Jesús\nDe ti Jesús, (el centro eres\nsolo tú)"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [
+            "E",
+            "F#m",
+            "D",
+            "A",
+            "Bm",
+            "A/C#"
+          ],
+          "contenido": "De mi ser hasta el cielo\nCristo se el Centro\nMi vida eres tú, si, mi vida eres\ntú\nEl centro de tu iglesia se Jesús\nEl centro de tu iglesia se Jesús\nCada rodilla se doblará\nY cada lengua te confesará\nCristo, Cristo"
+        }
+      ]
+    }
+  ]
+}

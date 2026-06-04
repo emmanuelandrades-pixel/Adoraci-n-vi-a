@@ -1,0 +1,49 @@
+{
+  "id": "song-126",
+  "titulo": "En Tu Presencia",
+  "artista": "Touch of Heaven",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-126-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "Em",
+            "G",
+            "D"
+          ],
+          "contenido": "Hannah Hobbs, Aodhan King & Michael Fatkin\nQuieto en tu presencia\nAnte ti me presento\nQuiero oír tu voz\nTe escucho señor\nMi atención te entrego\nA tus pies yo espero\nAquí quiero estar\nMi corazón anhela más de\nti\nHaz algo nuevo en mí\nA ti me entrego Dios\nTodo en mí\nEs movido por tu amor\nCautivado por tu voz\nMi deseo es conocerte más señor"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "D",
+            "Em",
+            "G"
+          ],
+          "contenido": "A tus pies me rendiré\nY mis miedos dejaré\nTransformado soy en tu\npresencia\nTú eres fuego en el día\nTú eres briza en la noche\nAliento en mí ser\nTú sacias mi sed\nNo hay duda alguna de tu amor y tu\nafecto\nNo hay nada igual\nMi corazón abierto esta\nMi corazón abierto está Dios\nHaz lo que quieras en mí\nHaz tu voluntad en mi Dios"
+        }
+      ]
+    }
+  ]
+}

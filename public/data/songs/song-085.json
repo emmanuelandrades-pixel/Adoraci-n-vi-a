@@ -1,0 +1,47 @@
+{
+  "id": "song-085",
+  "titulo": "Reinas Por La Eternidad",
+  "artista": "Forever Reign",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-085-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G/B"
+          ],
+          "contenido": "Reuben Morgan & Jason Ingram\nBueno es Dios, bueno es Dios\nCuando nada hay bueno en mí\nTu amor, Tu amor\nNo se puede resistir\nEres luz, eres luz\nAun en la oscuridad\nEres fiel, eres fiel\nHas borrado mi maldad\nEres paz, eres paz\nAun en medio del temor\nLa verdad, la verdad\nCuando ando en confusión\nLa razón, la razón\nDe mi gozo está en Jesús\nÉl venció, Él venció\nA la muerte en la cruz"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "C",
+            "G",
+            "Am",
+            "F"
+          ],
+          "contenido": "Tú me abrazas con tu amor\nMe abrazas con tu amor\nTu gracia me encontró\nCambió mi corazón\nNada se puede comparar\nReinas por la eternidad\nEres más, eres más\nDe lo que puedo expresar\nEres Rey, eres Rey\nLa creación proclamará\nAquí estás, aquí estás\nTu presencia es real\nEres Dios, eres Dios\nLo pasado dejo atrás\nSolo a ti\nYo cantaré\nCristo, Cristo"
+        }
+      ]
+    }
+  ]
+}

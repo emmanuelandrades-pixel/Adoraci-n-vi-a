@@ -1,0 +1,37 @@
+{
+  "id": "song-088",
+  "titulo": "Santo",
+  "artista": "Holy",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-088-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "A",
+            "G",
+            "Bm"
+          ],
+          "contenido": "Brenton Brown\nSanto, santo, poderoso\nQuién fue y quién vendrá\nDios de gloria, hoy Tus santos\nSe rinden a ti\nEn la tierra Santo eres Tú\nTodos tus caminos rectos son\nTodo lo que has hecho justo es\nSanto, Santo eres Dios\nToda honra, toda bendición pertenece a Ti\nTodo poder es tuyo Señor"
+        }
+      ]
+    }
+  ]
+}

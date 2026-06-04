@@ -1,0 +1,32 @@
+{
+  "id": "song-046",
+  "titulo": "Es Mi Bendición",
+  "artista": "",
+  "autor": "Viña Ágape",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-046-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Viña Ágape\nEn ti hay paz señor\nEn ti descanso yo\nEntraré en el reposo que\nSer tu hijo es\nMis cargas llevarás\nTú me resguardarás\nMe haces disfrutar de tu presencia\nDonde anhelo estás\nHermoso es contemplarte por tu creación\nHermoso es adorarte y alzar mi voz\nHermoso es darte gracias por tu gran amor\nPadre exaltarte es mi bendición"
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "id": "song-004",
-  "titulo": "Agnus Dei",
-  "artista": "",
-  "autor": "Michael W. Smith",
+  "id": "song-121",
+  "titulo": "Atraeme Hacia Ti",
+  "artista": "Draw Me Close",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -11,7 +11,7 @@
   "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "song-004-v001",
+      "id": "song-121-v001",
       "nombre": "Original",
       "tonalidad": "A",
       "bpm": 0,
@@ -27,10 +27,10 @@
             "A",
             "D",
             "E",
-            "D/F#",
+            "E/G#",
             "F#m"
           ],
-          "contenido": "Michael W. Smith\nAle - lu - ya,\nAle - luya\nNuestro Dios poderoso es Rey\nAle – lu – ya\nSa…an – to, Santo\nEres tú Dios poderoso Rey\nDigno eres Tú, Cordero de Dios\nTú eres Santo, Santo\nEres tú Dios poderoso Rey\nDigno eres Tú, Cordero de Dios\nAa…aa – mén"
+          "contenido": "Kelly Carpenter\nAtráeme hacia ti\nNo me dejes ir\nOtra vez me rindo a ti\nPara oír que tu amigo soy\nMi anhelo eres Tú\nY nadie más será\nPues nada puede reemplazar\nEl tierno abrazo que me das\nGuíame Señor\nVuélveme hacia ti\nTú eres Señor\nTodo lo que he querido\nHazme saber\nQue estas cerca de mi"
         }
       ]
     }

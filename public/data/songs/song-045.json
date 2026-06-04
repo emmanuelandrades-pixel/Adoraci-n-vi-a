@@ -1,0 +1,62 @@
+{
+  "id": "song-045",
+  "titulo": "Es El",
+  "artista": "",
+  "autor": "Felipe S. Santos",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-045-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "Em",
+            "C"
+          ],
+          "contenido": "Estoy preparando el camino\nEnderezando las veredas\nCada vez más disminuyendo\nPorque importa que él crezca\nMi placer en él está"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "D",
+            "C",
+            "Em",
+            "Bm"
+          ],
+          "contenido": "Yo no soy digno de desatar\nSus sandalias\nMi vida entera en él está\nY yo camino con la certeza\nDe que volverá\nEs él\nPor él que estoy gastando mi vida\nPerdiendo todo por amor y con alegría\nDueño de mis días"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "D",
+            "Em",
+            "Dm",
+            "C",
+            "G"
+          ],
+          "contenido": "Estoy preparando el camino\nEnderezando las veredas\nCada vez más disminuyendo\nPorque importa que él crezca\nÉl volverá, soberano en poder\nÉl volverá, y el gobierno en él está\nVean, él traerá en sus manos su recompensa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "song-052",
+  "titulo": "Hermoso Nombre",
+  "artista": "What a Beautiful Name",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-052-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "G",
+            "Bm",
+            "A",
+            "A/C#",
+            "D/F#"
+          ],
+          "contenido": "Ben Fielding, Brooke Ligertwood\nTú fuiste el verbo en el principio\nUnigénito de Dios\nEl misterio de tu gloria\nRevelado en tu amor\nCuán hermoso su nombre es\nCuán hermoso su nombre es\nEl nombre de Jesús mi Rey\nCuán hermoso su nombre es\nNada se iguala a Él\nCuán hermoso su nombre es\nNo hay otro nombre\nDejaste el cielo por salvarme\nMe viniste a rescatar\nMi transgresión tú perdonaste\nNada nos separará\nMajestuoso su nombre es\nMajestuoso su nombre es\nEl nombre de Jesús mi Rey\nMajestuoso su nombre es\nNada se iguala a Él\nMajestuoso su nombre es\nNo hay otro nombre"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "G",
+            "A",
+            "Bm",
+            "F#m",
+            "D",
+            "D/F#"
+          ],
+          "contenido": "La muerte venciste\nEl velo partiste\nLa tumba vacía ahora está\nLos cielos declaran\nTu gloria proclaman\nResucitaste en majestad\nInigualable\nIncomparable\nHoy y por siempre reinarás\nTuyo es el reino\nTuya es la gloria\nTuyo el poder y autoridad\nPoderoso su nombre es\nPoderoso su nombre es\nEl nombre de Jesús mi Rey\nPoderoso su nombre es\nIncomparable es Él\nPoderoso su nombre es\nNo hay otro nombre"
+        }
+      ]
+    }
+  ]
+}

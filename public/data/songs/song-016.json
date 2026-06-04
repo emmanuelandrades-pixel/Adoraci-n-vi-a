@@ -1,0 +1,39 @@
+{
+  "id": "song-016",
+  "titulo": "Cerca De Ti",
+  "artista": "",
+  "autor": "Mike Van der Westhuizen",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-016-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "Bm7",
+            "G",
+            "A",
+            "Bm",
+            "D/F#"
+          ],
+          "contenido": "Mike Van der Westhuizen\nAnhelo ver tu belleza y estar cada vez más cerca\nNada podrá separarnos, ni lo alto ni lo profundo\nY yo quiero estar tan cerca de ti Dios\nY habitar bajo tus alas, escuchar tu corazón\nY conocer cada detalle de tu personalidad\nHasta percibir tus pensamientos, compartir tus pensamientos\nOh, oh, oh, oh\nOh, oh, oh\nMis ojos anhelan verte, mi boca el adorarte\nMi alma se rinde a ti, mi razón de vivir es amarte\nMis ojos anhelan verte, mi boca el adorarte\nMi alma se rinde a ti, por siempre\nY yo quiero estar tan cerca de ti Dios\nY habitar bajo tus alas, escuchar tu corazón\nY conocer cada detalle de tu personalidad\nHasta percibir tus pensamientos, compartir tus pensamientos"
+        }
+      ]
+    }
+  ]
+}

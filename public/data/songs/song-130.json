@@ -1,0 +1,40 @@
+{
+  "id": "song-130",
+  "titulo": "Santo Amor",
+  "artista": "Holy Love",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-130-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "G",
+            "Em",
+            "Asus4",
+            "A",
+            "D",
+            "D/F#",
+            "G/B"
+          ],
+          "contenido": "Nada puede apagar Tu amor\nLos mares no pueden cubrirlo\nRíos de temor no pueden apagar\nTu amor por mi\nTu amor por mi\nSanto amor, fluye en mí,\nA - A/C#\nLléname con tu amor por mi\nCon Tu santidad cae sobre mí,\nSanto amor fluye en mi\nLa angustia no puede apagar Tu amor,\nEl mal no puede detenerlo\nNo temeré, Tu amor está aquí\nPara llenarme de Ti\nPara llenarme de Ti\nSolo en ti hay sanidad,\nSolo en ti encuentro paz\nY yo sé que no hoy ríos tan anchos ni montes tan altos\nNi mares profundos que me aparten de Ti"
+        }
+      ]
+    }
+  ]
+}

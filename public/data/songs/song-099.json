@@ -1,0 +1,41 @@
+{
+  "id": "song-099",
+  "titulo": "Te Preparé Un Lugar",
+  "artista": "Resting Place",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-099-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "F/C",
+            "C/E",
+            "F",
+            "G",
+            "Am",
+            "Dm",
+            "Gsus4"
+          ],
+          "contenido": "Daphne Rademarker\nEl cielo es mi hogar\nY la tierra mi estrado\nGsus4-G\nDonde construirás un lugar para mi\nQuien oirá el clamor de mi alma\nDonde podré descansar\nHe aquí, te preparé un lugar Señor\nMi anhelo es verte allí morar\nHe aquí, te preparé un lugar Señor\nHe aquí te espero solo a ti"
+        }
+      ]
+    }
+  ]
+}

@@ -1,90 +1,42 @@
 {
   "id": "song-003",
-  "titulo": "Grande y Poderoso",
-  "artista": "Adoración Viña Casa de Amor",
-  "autor": "Ministerio Adoración Viña",
-  "genero": "Alabanza",
+  "titulo": "Adoremos",
+  "artista": "Adore Him",
+  "autor": "",
+  "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
-  "fecha_creacion": "2024-03-05T10:15:00Z",
-  "fecha_actualizacion": "2024-05-20T16:00:00Z",
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "v003-original",
+      "id": "song-003-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 136,
+      "tonalidad": "C",
+      "bpm": 0,
       "compas": "4/4",
-      "duracion_segundos": 240,
+      "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
-          "id": "s301",
-          "tipo": "intro",
+          "id": "s001",
+          "tipo": "verso",
           "numero": null,
-          "acordes": ["D", "A", "Bm", "G"],
-          "contenido": "[Instrumental - 4 compases]"
+          "acordes": [],
+          "contenido": "Samuel Lane"
         },
         {
-          "id": "s302",
+          "id": "s002",
           "tipo": "verso",
           "numero": 1,
-          "acordes": ["D", "A"],
-          "contenido": "En tu presencia hay gozo\nEn tu nombre hay poder\nCon tu fuerza yo puedo\nTodo lo que quieras hacer"
-        },
-        {
-          "id": "s303",
-          "tipo": "coro",
-          "numero": null,
-          "acordes": ["G", "D", "A", "Bm"],
-          "contenido": "Grande y poderoso es nuestro Dios\nReina por siempre con su amor\nAlzamos voces para exaltarte\nEres el Rey de la creación"
-        },
-        {
-          "id": "s304",
-          "tipo": "verso",
-          "numero": 2,
-          "acordes": ["D", "A"],
-          "contenido": "Tu misericordia es nueva\nCada día al amanecer\nTu gracia me sostiene\nNada me puede detener"
-        },
-        {
-          "id": "s305",
-          "tipo": "puente",
-          "numero": null,
-          "acordes": ["Bm", "G", "D", "A"],
-          "contenido": "Digno, digno eres Señor\nDigno de toda alabanza\nDigno, digno eres Señor\nPor siempre tu nombre alabaré"
-        },
-        {
-          "id": "s306",
-          "tipo": "final-coro",
-          "numero": null,
-          "acordes": ["G", "D", "A"],
-          "contenido": "Grande y poderoso es nuestro Dios\nReina por siempre, por siempre"
-        }
-      ]
-    },
-    {
-      "id": "v003-lento",
-      "nombre": "Versión Lenta",
-      "tonalidad": "C",
-      "bpm": 75,
-      "compas": "4/4",
-      "duracion_segundos": 300,
-      "es_original": false,
-      "secciones": [
-        {
-          "id": "s401",
-          "tipo": "verso",
-          "numero": 1,
-          "acordes": ["C", "G"],
-          "contenido": "En tu presencia hay gozo\nEn tu nombre hay poder\nCon tu fuerza yo puedo\nTodo lo que quieras hacer"
-        },
-        {
-          "id": "s402",
-          "tipo": "coro",
-          "numero": null,
-          "acordes": ["F", "C", "G", "Am"],
-          "contenido": "Grande y poderoso es nuestro Dios\nReina por siempre con su amor\nAlzamos voces para exaltarte\nEres el Rey de la creación"
+          "acordes": [
+            "Am",
+            "F",
+            "C",
+            "G"
+          ],
+          "contenido": "Por su gracia nos salvó\nNo es por obras, es por fe\nSólo hay vida en Jesús\nVivir es un gozo, vivir es Él\nVen y adoremos\nVen y adoremos\nResucitados en Jesús\nFijamos la mirada en Él\nPara ser llenos de nuestro Dios\nY caminar en Su libertad\nA nuestro Dios\nA nuestro Padre\nSea la gloria\nPor siempre y siempre\nOh, adoremos\nOh, adoremos"
         }
       ]
     }

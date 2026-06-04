@@ -1,7 +1,7 @@
 {
-  "id": "song-002",
-  "titulo": "Abre Mis Ojos",
-  "artista": "Open The Eyes Of My Heart",
+  "id": "song-009",
+  "titulo": "Anhelo Estar En Tu Presencia",
+  "artista": "I Love Your Presence",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
@@ -11,7 +11,7 @@
   "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "song-002-v001",
+      "id": "song-009-v001",
       "nombre": "Original",
       "tonalidad": "E",
       "bpm": 0,
@@ -25,14 +25,11 @@
           "numero": null,
           "acordes": [
             "E",
-            "EM7",
-            "E/A",
             "B",
-            "C#m",
-            "A",
-            "Bsus"
+            "F#m",
+            "A"
           ],
-          "contenido": "Paul Baloche\nAbre mis ojos oh Cristo\nAbre mis ojos Te pido\nYo quiero verte\nYo quiero verte\nY contemplar Tu Majestad\nY el resplandor de Tu Gloria\nDerrama Tu amor y poder\nCuando cantamos:\nSanto, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nYo quiero verte"
+          "contenido": "Darren Clarke, Jesse Lane\nC#m - B - A\nTu presencia,\nC#m - B - A\nY tu gloria\nC#m - B - A\nTraen paz,\nC#m - B - A\nA mi ser\nEn tu amor,\nProfundo\nEncontré,\nTotal paz\nAnhelo estar, en tu presencia\nAnhelo estar, en tu presencia\nAnhelo estar, contigo Cristo\nAnhelo estar, en tu presencia"
         }
       ]
     }

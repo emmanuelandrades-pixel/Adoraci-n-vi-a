@@ -1,0 +1,38 @@
+{
+  "id": "song-025",
+  "titulo": "Cuán Grande Es Dios",
+  "artista": "How Great Is Our God",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-025-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "G/B",
+            "Am",
+            "F",
+            "G"
+          ],
+          "contenido": "Chris Tomlin\nEl esplendor del Rey, vestido en Majestad\nLa tierra alegre está, la tierra alegre está\nCubierto está de luz, venció a la oscuridad\nY tiembla a su voz, y tiembla a su voz\nCuán grande es Dios, cántale\nCuán grande es Dios, todos lo verán\nCuán grande es Dios\nDía a día Él está, el tiempo está en Él\nPrincipio y el Fin, Principio y el Fin\nLa Trinidad en Dios, Padre, Hijo, Espíritu\nCordero y el León, Cordero y el León\nTu nombre sobre todo es\nEres digno de alabar\nY mi ser dirá: Cuán grande es Dios"
+        }
+      ]
+    }
+  ]
+}

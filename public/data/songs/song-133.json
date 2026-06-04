@@ -1,0 +1,39 @@
+{
+  "id": "song-133",
+  "titulo": "Tu Amor Permanece Fiel",
+  "artista": "One Thing Remains",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-133-v001",
+      "nombre": "Original",
+      "tonalidad": "F",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Eb",
+            "Bb",
+            "F",
+            "Gm",
+            "Cm",
+            "Bb/D"
+          ],
+          "contenido": "Brian Johnson, Jeremy Riddle, Christa Black\nMás alto que los montes frente a mi\nMás fuerte que la muerte y su poder\nConstante en las pruebas y el dolor\nTu amor\npermanece fiel\nTu amor nunca falla, nunca se acaba\nNunca me dejará (3x)\nTu amor\nPorque sigue, sigue y siempre seguirá\nTu amor llena y satisface mi alma\nY jamás tendré que volver a temer\nTu amor permanece fiel\nEn la vida, en la muerte\nSe que Tú me cubres con\nEl poder de tu inmenso amor\nMi pecado fue pagado\nNo hay nada que me pueda separar\nDe tu gran amor"
+        }
+      ]
+    }
+  ]
+}

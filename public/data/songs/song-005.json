@@ -1,51 +1,120 @@
 {
   "id": "song-005",
-  "titulo": "Renuévame",
-  "artista": "Marcos Witt",
-  "autor": "Marcos Witt",
+  "titulo": "Alaba",
+  "artista": "Praise",
+  "autor": "Steven Furtick, Chandler Moore, Brandon Lake, Pat Barrett, Cody Carnes, Chris Brown",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
-  "fecha_creacion": "2024-02-28T16:00:00Z",
-  "fecha_actualizacion": "2024-04-10T13:20:00Z",
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "v005-original",
+      "id": "song-005-v001",
       "nombre": "Original",
-      "tonalidad": "E",
-      "bpm": 68,
-      "compas": "3/4",
-      "duracion_segundos": 240,
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
-          "id": "s701",
+          "id": "s002",
+          "tipo": "intro",
+          "numero": null,
+          "acordes": [],
+          "contenido": "Que toda la creación\nAlabe a Dios\nAlabe a Dios"
+        },
+        {
+          "id": "s003",
           "tipo": "verso",
           "numero": 1,
-          "acordes": ["E", "A", "B"],
-          "contenido": "Renuévame, renuévame\nNo quiero ser igual\nRenuévame, renuévame\nTú puedes transformar"
+          "acordes": [
+            "A",
+            "D/A",
+            "E",
+            "D",
+            "E/G#"
+          ],
+          "contenido": "Te alabo en el valle\nTe alabo en el monte\nTe alabo en el día\nTe alabo en la noche\nTe alabo en el medio\nEstando rodeado\nPorque cuando alabo\nTú estás a mi lado"
         },
         {
-          "id": "s702",
+          "id": "s004",
+          "tipo": "pre-coro",
+          "numero": null,
+          "acordes": [
+            "E",
+            "D"
+          ],
+          "contenido": "Mientras tenga aliento\nMi alma canta y"
+        },
+        {
+          "id": "s005",
           "tipo": "coro",
           "numero": null,
-          "acordes": ["A", "E", "B", "C#m"],
-          "contenido": "Espíritu Santo, ven\nY cámbiame por dentro\nHaz de mí un instrumento\nDe tu paz y de tu amor"
+          "acordes": [
+            "F#m",
+            "D",
+            "A",
+            "E"
+          ],
+          "contenido": "A - la - ba a Dios\nMi corazón"
         },
         {
-          "id": "s703",
+          "id": "s006",
           "tipo": "verso",
           "numero": 2,
-          "acordes": ["E", "A", "B"],
-          "contenido": "Transforma mi mente\nRenueva mi corazón\nQue sea más como tú\nEsa es mi oración"
+          "acordes": [
+            "A",
+            "D/A",
+            "E",
+            "D",
+            "E/G#"
+          ],
+          "contenido": "Te alabo al sentirlo\nY aun cuando no\nTe alabo y sé\nQue estás en control\nEs más que un sonido\nEs adoración\nY cuando alabamos\nCaerá Jericó"
         },
         {
-          "id": "s704",
+          "id": "s007",
+          "tipo": "outro",
+          "numero": null,
+          "acordes": [
+            "F#m",
+            "D",
+            "A",
+            "E"
+          ],
+          "contenido": "No me detengo\nMi Dios vivo está\nCómo me voy a callar\nA - la - ba a Dios mi corazón"
+        },
+        {
+          "id": "s008",
           "tipo": "puente",
           "numero": null,
-          "acordes": ["C#m", "A", "E", "B"],
-          "contenido": "Que tu voluntad\nSea hecha en mí\nYo me rindo a ti\nSeñor"
+          "acordes": [
+            "A"
+          ],
+          "contenido": "Alabo al que reina\nAlabo al Señor\nAlabo a aquel que la tumba venció\nAlabo al que es bueno\nAlabo al que es fiel\nLe alabo porque no hay otro como él"
+        },
+        {
+          "id": "s009",
+          "tipo": "puente",
+          "numero": null,
+          "acordes": [
+            "A",
+            "Bm",
+            "F#m",
+            "D",
+            "E/G#",
+            "E"
+          ],
+          "contenido": "Alabo al que reina\nAlabo al Señor\nAlabo a aquel que la tumba venció\nAlabo al que es bueno\nAlabo al que es fiel\nLe alabo porque no hay otro como él"
+        },
+        {
+          "id": "s011",
+          "tipo": "instrumental",
+          "numero": null,
+          "acordes": [],
+          "contenido": "F#m – D – A – E"
         }
       ]
     }

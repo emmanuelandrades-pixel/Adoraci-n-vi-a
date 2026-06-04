@@ -1,7 +1,7 @@
 {
-  "id": "song-002",
-  "titulo": "Abre Mis Ojos",
-  "artista": "Open The Eyes Of My Heart",
+  "id": "song-049",
+  "titulo": "Grande Eres Dios",
+  "artista": "Great Are You Lord",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
@@ -11,9 +11,9 @@
   "fecha_actualizacion": "2024-06-01T00:00:00Z",
   "versions": [
     {
-      "id": "song-002-v001",
+      "id": "song-049-v001",
       "nombre": "Original",
-      "tonalidad": "E",
+      "tonalidad": "D",
       "bpm": 0,
       "compas": "4/4",
       "duracion_segundos": 0,
@@ -24,15 +24,13 @@
           "tipo": "verso",
           "numero": null,
           "acordes": [
+            "D",
+            "F#m",
             "E",
-            "EM7",
-            "E/A",
-            "B",
-            "C#m",
             "A",
-            "Bsus"
+            "Asus4"
           ],
-          "contenido": "Paul Baloche\nAbre mis ojos oh Cristo\nAbre mis ojos Te pido\nYo quiero verte\nYo quiero verte\nY contemplar Tu Majestad\nY el resplandor de Tu Gloria\nDerrama Tu amor y poder\nCuando cantamos:\nSanto, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nSanto, Santo, Santo\nYo quiero verte"
+          "contenido": "All Sons And Daughters\nVida das, y amor\nBrillas en las tinieblas\nSanas el corazón\nQuebrantado y herido\nGrande eres Dios\nEs tu aliento, en mi ser\nQue me hace adorar, me hace adorar\nEs tu aliento, en mi ser\nQue me hace adorarte, solo a ti\nLa tierra te adorará\nLos huesos secos cantarán\nGrande eres Dios"
         }
       ]
     }

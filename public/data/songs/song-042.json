@@ -1,0 +1,37 @@
+{
+  "id": "song-042",
+  "titulo": "En Ti Estoy Firme",
+  "artista": "Stand In Your Love",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-042-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "G",
+            "Bm",
+            "A"
+          ],
+          "contenido": "Si la tiniebla viene atropellar\nY el gozo me quiere robar\nSi el dolor se quiere apoderar\nFirme permanezco, Firme permanezco (porque)\nTu amor vence el temor, cuando en Ti estoy firme\nTu amor vence el temor, cuando en Ti estoy firme\nDAG\nTu amor vence el temor, cuando en Ti estoy firme\nLa vergüenza no tiene lugar\nY las mentiras no me atraparan\nSin miedo mi pasado dejo atrás\nFirme permanezco, Firme permanezco (porque)\nEs Tu poder que nos da libertad\nY puede aún los muertos levantar\nEs Tu poder que borra la maldad\nD (mantener G para el coro)\nHay poder en Tu nombre, Hay poder en Tu nombre"
+        }
+      ]
+    }
+  ]
+}

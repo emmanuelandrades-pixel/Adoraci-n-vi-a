@@ -1,0 +1,38 @@
+{
+  "id": "song-140",
+  "titulo": "Let It Happen",
+  "artista": "",
+  "autor": "United Pursuit",
+  "genero": "Adoración",
+  "idioma": "Inglés",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-140-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "F",
+            "C",
+            "Am",
+            "G",
+            "C/E"
+          ],
+          "contenido": "United Pursuit\nYou're full of life now\nAnd full of passion\nThat's how He made you\nJust let it happen\nAnd he calls each one of us\nBy our names, to come away\nAnd he whispers, to your heart\nTo let it go and to be a light\nAnd he whispers, to your heart\nTo let it go and to be a light\nBe a light, Be a light, Be a light, Be a light\nCome Alive, Come Alive, Come Alive, Come Alive\nSo take me back, Back to the beginning\nWhen I was young\nRunning through the fields with you"
+        }
+      ]
+    }
+  ]
+}

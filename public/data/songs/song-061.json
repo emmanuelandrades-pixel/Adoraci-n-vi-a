@@ -1,0 +1,40 @@
+{
+  "id": "song-061",
+  "titulo": "Más Que Un Amigo",
+  "artista": "More Than A Friend",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-061-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D",
+            "A",
+            "E/G#",
+            "Bm7",
+            "A/C#",
+            "E",
+            "F#m7"
+          ],
+          "contenido": "Jeremy Riddle\nEn la calma de mi ser\nEn la paz escu - cho tu voz\nLlenas mi corazón\nNo puedo describirte con palabras\nCristo eres más que un amigo\nCristo eres más de lo que yo puedo expresar\nTu gracia y amor nunca fallan\nTu misericordia me sana,\nTraes gozo a mi ser, gozo a mi ser\nAnhelo adorarte, oh mi Rey\nAnhelo traerte ofrendas de amo"
+        }
+      ]
+    }
+  ]
+}

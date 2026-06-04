@@ -1,0 +1,101 @@
+{
+  "id": "song-070",
+  "titulo": "No Hay Otro Nombre",
+  "artista": "No Other Name",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-070-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "D/F#",
+            "G",
+            "Am",
+            "Em",
+            "G/B",
+            "C",
+            "D"
+          ],
+          "contenido": "Joel Houston & Jonas Myrin\nG - D/F# - G - Am - G - D/F# - Em\nÉl es\nQuien reina con poder\nCreador\nSu fama eterna es\nSu voz\nUn eco sin final\nTodos proclamarán\nNo hay nadie como Él"
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "acordes": [
+            "D/F#",
+            "G",
+            "Am",
+            "Em",
+            "G/B",
+            "C",
+            "D"
+          ],
+          "contenido": "En Él\nEstá la Salvación\nLA cruz\nNos muestra su a-mor\nVenció\nLa muerte con poder\nEl Rey de reyes es\nNo hay nadie como Él"
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "acordes": [
+            "D/F#",
+            "G",
+            "Am",
+            "Em",
+            "G/B",
+            "C",
+            "D"
+          ],
+          "contenido": "Su luz\nRadiante más que el sol\nSu amor\nY gracia de-rra-mó\nEn Él\nEncuentro sani-dad\nPor siempre reinará\nNo hay nadie como Él"
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "acordes": [],
+          "contenido": "CORO (termina con “Jesús”)"
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 4,
+          "acordes": [
+            "G",
+            "Em",
+            "Bm",
+            "C"
+          ],
+          "contenido": "Ven a adorar al que resucitó\nLa luz del mundo, Que nos rescató\nNo hay otro nombre igual\nNo hay otro nombre igual\nCristo nuestro Dios oh oh oh\nEl vencedor que a la diestra está\nAnte su trono montes caerán\nNo hay otro nombre igual\nNo hay otro nombre igual\nCristo nuestro Dios oh oh oh"
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 5,
+          "acordes": [
+            "G",
+            "Em",
+            "C",
+            "Bm"
+          ],
+          "contenido": "Con tu poder, Se rompen cadenas\nCantarán, El cielo y la tierra\nSanto eres Jesús\nSanto es tu nombre Cristo, Cristo, Cristo\nVen a adorar al que resucitó\nLa luz del mundo, Que nos rescató\nNo hay otro nombre igual\nNo hay otro nombre igual\nCristo nuestro Dios oh oh oh\nEl vencedor que a la diestra está\nAnte su trono montes caerán\nNo hay otro nombre igual\nNo hay otro nombre igual\nNo hay otro nombre igual\nNo hay otro nombre igual, Jesús\nInterlude Final: Em - C - Em - C - G"
+        }
+      ]
+    }
+  ]
+}

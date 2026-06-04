@@ -1,0 +1,37 @@
+{
+  "id": "song-108",
+  "titulo": "Vasijas Rotas (Sublime Gracia)",
+  "artista": "",
+  "autor": "Broken vassels (Amazing Grace)",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-108-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "Bm",
+            "D",
+            "A",
+            "G"
+          ],
+          "contenido": "Broken vassels (Amazing Grace)\nJoel Houston, Jonas Mirin\nMi alma estaba rota y herida\nPero tu gracia la restauró\nManos vacías que tú llenaste\nSoy libre en ti\nSoy libre en ti\nSublime gracia del Señor\nQue a un pecador salvó\nFui ciego más hoy veo yo\nPerdido y Él me halló\nAhora puedo ver\nOh puedo ver sus ojos de amor\nQuebrantado fue\nPara darnos su salvación\nTú no me juzgas por mis fracasos\nTú me aceptas tal como soy\nToma mi vida como vasija\nPara mostrar tu gloria en mi"
+        }
+      ]
+    }
+  ]
+}

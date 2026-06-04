@@ -1,0 +1,41 @@
+{
+  "id": "song-043",
+  "titulo": "Eres Digno De Honor",
+  "artista": "Worthy Of It All",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-043-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "C",
+            "D",
+            "G/B",
+            "G",
+            "D/F#",
+            "Bm",
+            "Em",
+            "Am"
+          ],
+          "contenido": "David Brymer\nÁngeles y Santos\nSe postran ante ti\nLos ancianos cantan\nY rinden sus coronas ante Ti\nEres digno de honor\nEres digno de honor\nTodo viene de Ti\nY todo es para Ti\nTú mereces gloria\nDía y noche, noche y día\nTe damos honor\nDía y noche, noche y día\nTe damos honor\nDía y noche, noche y día\nTe damos honor\nDía y noche, noche y día\nTe damos honor"
+        }
+      ]
+    }
+  ]
+}

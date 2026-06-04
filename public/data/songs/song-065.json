@@ -1,0 +1,39 @@
+{
+  "id": "song-065",
+  "titulo": "Mi Roca",
+  "artista": "Cornerstone",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-065-v001",
+      "nombre": "Original",
+      "tonalidad": "A",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "acordes": [
+            "A",
+            "D",
+            "E",
+            "F#m",
+            "F#m/E",
+            "A/C#"
+          ],
+          "contenido": "Mi esperanza está en Jesús\nEn su justicia y en la cruz\nDe nadie más dependeré\nSolo en su nombre confiare\nEn Jesús,\nFuerte soy\nSolo el\nEs mi roca es\nSobre la tempestad\nÉl es rey\nCuando no puedo ver su faz\nSe que su gracia es siempre igual\nA la tormenta venceré\nMi ancla firme está en el\nMi ancla firme está en el\nUn día el regresara\nEn su presencia voy a estar\nSin mancha ante el vendré\nJustificado por la fe"
+        }
+      ]
+    }
+  ]
+}

@@ -121,7 +121,7 @@ export function ModoEnsayo({ id }: Props) {
   const secciones = version.secciones;
 
   return (
-    <div className="min-h-screen bg-[#0a0a0f] text-white flex flex-col">
+    <div className="h-screen bg-[#0a0a0f] text-white flex flex-col overflow-hidden">
       {/* Barra superior */}
       <div className="fixed top-0 left-0 right-0 z-50 bg-black/85 backdrop-blur-sm border-b border-white/10">
         {/* Fila 1: título + controles principales */}

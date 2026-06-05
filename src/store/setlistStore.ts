@@ -2,12 +2,21 @@ import { create } from "zustand";
 import { SetList } from "@/types/setlist";
 import { supabase } from "@/lib/supabase";
 
+const LS_KEY = "setlists-usuario";
+
+function lsGuardar(setlists: SetList[]) {
+  try { localStorage.setItem(LS_KEY, JSON.stringify(setlists)); } catch { /* ignore */ }
+}
+function lsCargar(): SetList[] {
+  try { const s = localStorage.getItem(LS_KEY); return s ? JSON.parse(s) : []; } catch { return []; }
+}
+
 interface SetListState {
   setlists: SetList[];
   cargando: boolean;
   cargar: () => Promise<void>;
-  guardar: (setlist: SetList) => Promise<void>;
-  eliminar: (id: string) => Promise<void>;
+  guardar: (setlist: SetList) => void;
+  eliminar: (id: string) => void;
   nuevo: () => SetList;
   suscribir: () => () => void;
 }
@@ -17,36 +26,50 @@ export const useSetListStore = create<SetListState>((set, get) => ({
   cargando: false,
 
   cargar: async () => {
-    set({ cargando: true });
-    const { data, error } = await supabase
-      .from("setlists")
-      .select("id, data")
-      .order("created_at", { ascending: false });
+    // Mostrar localStorage inmediatamente mientras carga Supabase
+    set({ cargando: true, setlists: lsCargar() });
 
-    if (error) { console.error("Error cargando setlists:", error); set({ cargando: false }); return; }
+    try {
+      const { data, error } = await supabase
+        .from("setlists")
+        .select("id, data")
+        .order("created_at", { ascending: false });
 
-    const setlists: SetList[] = (data ?? []).map((row) => ({ id: row.id, ...row.data }));
-    set({ setlists, cargando: false });
+      if (error) throw error;
+
+      const setlists: SetList[] = (data ?? []).map((row) => ({ id: row.id, ...row.data } as SetList));
+      set({ setlists, cargando: false });
+      lsGuardar(setlists);
+    } catch {
+      // Supabase no disponible — seguir con localStorage
+      set({ cargando: false });
+    }
   },
 
-  guardar: async (setlist: SetList) => {
-    const { id, ...data } = setlist;
-    const { error } = await supabase
-      .from("setlists")
-      .upsert({ id, data }, { onConflict: "id" });
-
-    if (error) { console.error("Error guardando setlist:", error); return; }
-
+  guardar: (setlist: SetList) => {
+    // Actualización optimista inmediata
     const { setlists } = get();
-    const idx = setlists.findIndex((s) => s.id === id);
-    const nuevos = idx >= 0 ? setlists.map((s) => s.id === id ? setlist : s) : [...setlists, setlist];
+    const idx = setlists.findIndex((s) => s.id === setlist.id);
+    const nuevos = idx >= 0
+      ? setlists.map((s) => s.id === setlist.id ? setlist : s)
+      : [setlist, ...setlists];
     set({ setlists: nuevos });
+    lsGuardar(nuevos);
+
+    // Persistir en Supabase en segundo plano
+    const { id, ...data } = setlist;
+    supabase.from("setlists").upsert({ id, data }, { onConflict: "id" })
+      .then(({ error }) => { if (error) console.error("Supabase setlist error:", error); });
   },
 
-  eliminar: async (id: string) => {
-    const { error } = await supabase.from("setlists").delete().eq("id", id);
-    if (error) { console.error("Error eliminando setlist:", error); return; }
-    set({ setlists: get().setlists.filter((s) => s.id !== id) });
+  eliminar: (id: string) => {
+    // Optimista
+    const nuevos = get().setlists.filter((s) => s.id !== id);
+    set({ setlists: nuevos });
+    lsGuardar(nuevos);
+
+    supabase.from("setlists").delete().eq("id", id)
+      .then(({ error }) => { if (error) console.error("Supabase delete setlist:", error); });
   },
 
   nuevo: () => {
@@ -68,16 +91,19 @@ export const useSetListStore = create<SetListState>((set, get) => ({
       .on("postgres_changes", { event: "*", schema: "public", table: "setlists" }, (payload) => {
         const { setlists } = get();
         if (payload.eventType === "DELETE") {
-          set({ setlists: setlists.filter((s) => s.id !== payload.old.id) });
+          const nuevos = setlists.filter((s) => s.id !== (payload.old as { id: string }).id);
+          set({ setlists: nuevos }); lsGuardar(nuevos);
         } else {
           const row = payload.new as { id: string; data: object };
-          const updated: SetList = { id: row.id, ...row.data } as SetList;
+          const updated = { id: row.id, ...row.data } as SetList;
           const idx = setlists.findIndex((s) => s.id === updated.id);
-          set({ setlists: idx >= 0 ? setlists.map((s) => s.id === updated.id ? updated : s) : [updated, ...setlists] });
+          const nuevos = idx >= 0
+            ? setlists.map((s) => s.id === updated.id ? updated : s)
+            : [updated, ...setlists];
+          set({ setlists: nuevos }); lsGuardar(nuevos);
         }
       })
       .subscribe();
-
     return () => { supabase.removeChannel(channel); };
   },
 }));

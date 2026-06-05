@@ -112,8 +112,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tuyo es el reino, la gloria por siempre",
@@ -150,8 +150,33 @@
               ]
             },
             {
-              "texto": "Interludio: G – C9 – G/B – Am – G/B – C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                }
+              ]
             },
             {
               "texto": "Tú eres Santo",

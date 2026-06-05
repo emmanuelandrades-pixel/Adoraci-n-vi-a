@@ -34,7 +34,7 @@ export function LineaConAcordes({ texto, acordes, semitonos, tonalidad }: Props)
           ))}
         </div>
       )}
-      {texto && (
+      {texto !== "" && (
         <div style={{ whiteSpace: "pre", color: "inherit" }}>{texto}</div>
       )}
     </div>

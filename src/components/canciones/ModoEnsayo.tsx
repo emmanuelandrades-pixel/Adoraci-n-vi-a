@@ -20,6 +20,7 @@ const COLORES: Record<string, string> = {
   "pre-coro": "text-orange-400",
   intro: "text-blue-400",
   outro: "text-blue-400",
+  instrumental: "text-yellow-400",
 };
 
 interface Props { id: string; }
@@ -244,12 +245,14 @@ export function ModoEnsayo({ id }: Props) {
                               {lineaAcordes}
                             </pre>
                           )}
-                          <pre
-                            className="font-mono text-white/90 whitespace-pre leading-snug"
-                            style={{ fontSize: `${fontSize}px` }}
-                          >
-                            {linea.texto}
-                          </pre>
+                          {linea.texto !== "" && (
+                            <pre
+                              className="font-mono text-white/90 whitespace-pre leading-snug"
+                              style={{ fontSize: `${fontSize}px` }}
+                            >
+                              {linea.texto}
+                            </pre>
+                          )}
                         </div>
                       );
                     })}

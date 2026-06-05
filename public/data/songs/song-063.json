@@ -236,7 +236,24 @@
               ]
             },
             {
-              "texto": "Interludio: G - Em7 - C              Quebró el poder de la muerte en mí.",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Quebró el poder de la muerte en mí.",
               "acordes": [
                 {
                   "acorde": "C",

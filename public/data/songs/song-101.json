@@ -208,12 +208,33 @@
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Interludio:   F#m A D A E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                },
+                {
+                  "acorde": "E",
+                  "pos": 20
+                }
+              ]
             },
             {
               "texto": "Oh oh oh oh oh oh oh",

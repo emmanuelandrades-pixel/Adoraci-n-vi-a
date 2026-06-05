@@ -1,18 +1,19 @@
 import webpush from "web-push";
 import { createClient } from "@supabase/supabase-js";
 
-webpush.setVapidDetails(
-  process.env.VAPID_SUBJECT!,
-  process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY!,
-  process.env.VAPID_PRIVATE_KEY!
-);
-
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
 );
 
 export async function POST(request: Request) {
+  // Inicializar dentro del handler — las env vars no están en build time
+  webpush.setVapidDetails(
+    process.env.VAPID_SUBJECT!,
+    process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY!,
+    process.env.VAPID_PRIVATE_KEY!
+  );
+
   const { title, body, url } = await request.json();
 
   if (!title) return Response.json({ error: "title requerido" }, { status: 400 });
@@ -24,12 +25,11 @@ export async function POST(request: Request) {
   if (error) return Response.json({ error: error.message }, { status: 500 });
 
   const payload = JSON.stringify({ title, body: body ?? "", url: url ?? "/eventos" });
-  const resultados = await Promise.allSettled(
+  await Promise.allSettled(
     (subs ?? []).map(async (row) => {
       try {
         await webpush.sendNotification(row.subscription, payload);
       } catch (err: unknown) {
-        // Suscripción expirada o inválida — eliminarla
         if (
           typeof err === "object" && err !== null &&
           "statusCode" in err && (err.statusCode === 410 || err.statusCode === 404)
@@ -40,6 +40,5 @@ export async function POST(request: Request) {
     })
   );
 
-  const enviadas = resultados.filter((r) => r.status === "fulfilled").length;
-  return Response.json({ ok: true, enviadas });
+  return Response.json({ ok: true });
 }

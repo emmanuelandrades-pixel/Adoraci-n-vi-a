@@ -63,11 +63,14 @@ export function ModoEnsayo({ id }: Props) {
     setSemitonos(isNaN(semi) ? 0 : semi);
   }, [cancionActiva, id, searchParams]);
 
+  // px por frame según nivel (1–10), curva progresiva
+  const SPEED_TABLE = [0, 0.28, 0.38, 0.5, 0.65, 0.82, 1.0, 1.25, 1.55, 1.9, 2.3];
+
   // Loop de auto-scroll con requestAnimationFrame
   const scrollLoop = useCallback(() => {
     if (!isScrollingRef.current || !containerRef.current) return;
     const el = containerRef.current;
-    el.scrollTop += speedRef.current * 0.2;
+    el.scrollTop += SPEED_TABLE[speedRef.current] ?? 0.28;
     if (el.scrollTop + el.clientHeight >= el.scrollHeight - 2) {
       // Llegó al final
       isScrollingRef.current = false;

@@ -2,12 +2,18 @@
 
 import { useEffect } from "react";
 import { useUIStore } from "@/store/uiStore";
+import { useSetListStore } from "@/store/setlistStore";
+import { useEventosStore } from "@/store/eventosStore";
+import { useDocumentosStore } from "@/store/documentosStore";
 import { Sidebar } from "./Sidebar";
 import { Navbar } from "./Navbar";
 import { cn } from "@/lib/utils";
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   const { sidebarAbierto, temaOscuro, setSidebar } = useUIStore();
+  const suscribirSetlists   = useSetListStore((s) => s.suscribir);
+  const suscribirEventos    = useEventosStore((s) => s.suscribir);
+  const suscribirDocumentos = useDocumentosStore((s) => s.suscribir);
 
   // En mobile, cerrar sidebar por defecto
   useEffect(() => {
@@ -19,6 +25,14 @@ export function AppShell({ children }: { children: React.ReactNode }) {
     if (temaOscuro) root.classList.remove("light");
     else root.classList.add("light");
   }, [temaOscuro]);
+
+  // Suscripciones en tiempo real
+  useEffect(() => {
+    const unsubA = suscribirSetlists();
+    const unsubB = suscribirEventos();
+    const unsubC = suscribirDocumentos();
+    return () => { unsubA(); unsubB(); unsubC(); };
+  }, [suscribirSetlists, suscribirEventos, suscribirDocumentos]);
 
   return (
     <div className="min-h-screen bg-background">

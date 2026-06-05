@@ -1,18 +1,15 @@
 import { create } from "zustand";
 import { Evento } from "@/types/evento";
-import { cargarEventos } from "@/lib/data-loader/cargarEventos";
+import { supabase } from "@/lib/supabase";
 
 interface EventosState {
   eventos: Evento[];
   cargando: boolean;
   cargar: () => Promise<void>;
-  guardar: (evento: Evento) => void;
-  eliminar: (id: string) => void;
+  guardar: (evento: Evento) => Promise<void>;
+  eliminar: (id: string) => Promise<void>;
   nuevo: () => Evento;
-}
-
-function persistir(eventos: Evento[]) {
-  try { localStorage.setItem("eventos-usuario", JSON.stringify(eventos)); } catch { /* ignore */ }
+  suscribir: () => () => void;
 }
 
 export const useEventosStore = create<EventosState>((set, get) => ({
@@ -21,38 +18,38 @@ export const useEventosStore = create<EventosState>((set, get) => ({
 
   cargar: async () => {
     set({ cargando: true });
-    const data = await cargarEventos();
-    const base = data.eventos;
+    const { data, error } = await supabase
+      .from("eventos")
+      .select("id, data")
+      .order("created_at", { ascending: false });
 
-    let usuario: Evento[] = [];
-    try {
-      const saved = localStorage.getItem("eventos-usuario");
-      if (saved) usuario = JSON.parse(saved);
-    } catch { /* ignore */ }
+    if (error) { console.error("Error cargando eventos:", error); set({ cargando: false }); return; }
 
-    // Merge: usuario sobreescribe base por id, los nuevos se agregan
-    const mapa = new Map(base.map((e) => [e.id, e]));
-    for (const e of usuario) mapa.set(e.id, e);
-    set({ eventos: Array.from(mapa.values()), cargando: false });
+    const eventos: Evento[] = (data ?? []).map((row) => ({ id: row.id, ...row.data }));
+    set({ eventos, cargando: false });
   },
 
-  guardar: (evento: Evento) => {
+  guardar: async (evento: Evento) => {
+    const { id, ...data } = evento;
+    const { error } = await supabase
+      .from("eventos")
+      .upsert({ id, data }, { onConflict: "id" });
+
+    if (error) { console.error("Error guardando evento:", error); return; }
+
     const { eventos } = get();
-    const idx = eventos.findIndex((e) => e.id === evento.id);
-    const nuevos = idx >= 0
-      ? eventos.map((e) => (e.id === evento.id ? evento : e))
-      : [...eventos, evento];
+    const idx = eventos.findIndex((e) => e.id === id);
+    const nuevos = idx >= 0 ? eventos.map((e) => e.id === id ? evento : e) : [...eventos, evento];
     set({ eventos: nuevos });
-    persistir(nuevos);
   },
 
-  eliminar: (id: string) => {
-    const nuevos = get().eventos.filter((e) => e.id !== id);
-    set({ eventos: nuevos });
-    persistir(nuevos);
+  eliminar: async (id: string) => {
+    const { error } = await supabase.from("eventos").delete().eq("id", id);
+    if (error) { console.error("Error eliminando evento:", error); return; }
+    set({ eventos: get().eventos.filter((e) => e.id !== id) });
   },
 
-  nuevo: () => ({
+  nuevo: (): Evento => ({
     id: `evento-${Date.now()}`,
     nombre: "",
     fecha: new Date().toISOString().split("T")[0],
@@ -63,4 +60,23 @@ export const useEventosStore = create<EventosState>((set, get) => ({
     estado: "confirmado",
     setlists: [],
   }),
+
+  suscribir: () => {
+    const channel = supabase
+      .channel("eventos-realtime")
+      .on("postgres_changes", { event: "*", schema: "public", table: "eventos" }, (payload) => {
+        const { eventos } = get();
+        if (payload.eventType === "DELETE") {
+          set({ eventos: eventos.filter((e) => e.id !== payload.old.id) });
+        } else {
+          const row = payload.new as { id: string; data: object };
+          const updated: Evento = { id: row.id, ...row.data } as Evento;
+          const idx = eventos.findIndex((e) => e.id === updated.id);
+          set({ eventos: idx >= 0 ? eventos.map((e) => e.id === updated.id ? updated : e) : [updated, ...eventos] });
+        }
+      })
+      .subscribe();
+
+    return () => { supabase.removeChannel(channel); };
+  },
 }));

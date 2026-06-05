@@ -67,7 +67,7 @@ export function ModoEnsayo({ id }: Props) {
   const scrollLoop = useCallback(() => {
     if (!isScrollingRef.current || !containerRef.current) return;
     const el = containerRef.current;
-    el.scrollTop += speedRef.current * 0.4;
+    el.scrollTop += speedRef.current * 0.2;
     if (el.scrollTop + el.clientHeight >= el.scrollHeight - 2) {
       // Llegó al final
       isScrollingRef.current = false;

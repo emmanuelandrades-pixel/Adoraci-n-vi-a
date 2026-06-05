@@ -43,6 +43,7 @@ export function ModoEnsayo({ id }: Props) {
   const isScrollingRef = useRef(false);
   const speedRef = useRef(2);
   const animFrameRef = useRef<number | null>(null);
+  const accumRef = useRef(0); // acumula fracciones de pixel
 
   // Sincronizar speed state → speedRef
   useEffect(() => { speedRef.current = speed; }, [speed]);
@@ -63,14 +64,18 @@ export function ModoEnsayo({ id }: Props) {
     setSemitonos(isNaN(semi) ? 0 : semi);
   }, [cancionActiva, id, searchParams]);
 
-  // px por frame según nivel (1–10), curva progresiva
-  const SPEED_TABLE = [0, 0.28, 0.38, 0.5, 0.65, 0.82, 1.0, 1.25, 1.55, 1.9, 2.3];
-
   // Loop de auto-scroll con requestAnimationFrame
   const scrollLoop = useCallback(() => {
     if (!isScrollingRef.current || !containerRef.current) return;
     const el = containerRef.current;
-    el.scrollTop += SPEED_TABLE[speedRef.current] ?? 0.28;
+    // Tabla px/frame: nivel 1 = muy lento, nivel 10 = rápido
+    const PX = [0, 0.5, 0.7, 0.95, 1.25, 1.6, 2.0, 2.5, 3.1, 3.8, 4.6];
+    accumRef.current += PX[speedRef.current] ?? 0.5;
+    const pixels = Math.floor(accumRef.current);
+    if (pixels > 0) {
+      el.scrollTop += pixels;
+      accumRef.current -= pixels;
+    }
     if (el.scrollTop + el.clientHeight >= el.scrollHeight - 2) {
       // Llegó al final
       isScrollingRef.current = false;
@@ -91,6 +96,7 @@ export function ModoEnsayo({ id }: Props) {
   const reiniciar = useCallback(() => {
     if (containerRef.current) containerRef.current.scrollTop = 0;
     isScrollingRef.current = false;
+    accumRef.current = 0;
     setScrolling(false);
     if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
   }, []);

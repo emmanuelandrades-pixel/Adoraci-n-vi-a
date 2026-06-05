@@ -71,3 +71,13 @@ create policy "public write favoritos" on favoritos  for all    using (true) wit
 alter publication supabase_realtime add table setlists;
 alter publication supabase_realtime add table eventos;
 alter publication supabase_realtime add table documentos;
+
+-- Suscripciones Web Push
+create table if not exists push_subscriptions (
+  id uuid primary key default gen_random_uuid(),
+  subscription jsonb not null unique,
+  created_at timestamptz default now()
+);
+
+alter table push_subscriptions enable row level security;
+create policy "public push_subscriptions" on push_subscriptions for all using (true) with check (true);

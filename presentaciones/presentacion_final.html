@@ -150,6 +150,10 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 #s2 .callout{border-left:3px solid var(--gold);padding:16px 24px;max-width:700px;background:rgba(196,165,94,0.05);}
 #s2 .callout p{font-family:'Inter',sans-serif;font-size:0.9rem;color:rgba(245,240,232,0.7);font-style:italic;}
 
+/* S2 auto-spotlight */
+#s2 .spotlight-overlay{position:absolute;inset:0;background:radial-gradient(ellipse 55% 55% at 50% 50%,transparent 35%,rgba(13,12,10,0.85) 100%);opacity:0;transition:opacity 2s ease;pointer-events:none;z-index:6;}
+#s2.spotlight-on .spotlight-overlay{opacity:1;}
+
 /* S3 */
 #s3 .two-col{display:grid;grid-template-columns:1fr 1fr;gap:60px;max-width:1100px;padding:0 60px;position:relative;z-index:10;}
 #s3 .col-title{font-family:'Inter',sans-serif;font-size:0.75rem;letter-spacing:0.15em;text-transform:uppercase;color:var(--teal);margin-bottom:16px;}
@@ -407,6 +411,7 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 <!-- S2 — ACT I -->
 <!-- ============================================================ -->
 <section class="slide noise" id="s2">
+  <div class="spotlight-overlay"></div>
   <div class="orb" style="--dur:10s;--tx:40px;--ty:30px;width:400px;height:400px;background:var(--teal);top:10%;right:10%;"></div>
   <div class="orb" style="--dur:8s;--tx:-40px;--ty:50px;width:350px;height:350px;background:var(--indigo);bottom:5%;left:5%;"></div>
   <div style="position:relative;z-index:10;text-align:center;padding:0 60px;max-width:1000px;display:flex;flex-direction:column;align-items:center;">
@@ -736,16 +741,16 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
   <div class="orb" style="--dur:11s;--tx:-40px;--ty:50px;width:350px;height:350px;background:var(--teal);bottom:-50px;left:-50px;opacity:0.1;"></div>
   <div class="slide-title-line s1">Marco normativo nacional</div>
   <div class="slide-main-title s1">Regulación en Chile</div>
-  <div class="reg-items s2">
-    <div class="reg-item">
+  <div class="reg-items">
+    <div class="reg-item s2">
       <div class="reg-name">Ley 21.372 "Ley Mila"</div>
       <div class="reg-desc">Reconoce el derecho de la mujer a ser acompañada por una persona de su elección durante el trabajo de parto, parto y puerperio inmediato.</div>
     </div>
-    <div class="reg-item">
+    <div class="reg-item s3">
       <div class="reg-name">NT N° 222 MINSAL 2022</div>
       <div class="reg-desc">Norma Técnica que reglamenta la implementación de la Ley Mila en establecimientos de salud públicos y privados de Chile.</div>
     </div>
-    <div class="reg-item">
+    <div class="reg-item s4">
       <div class="reg-name">Manual MINSAL 2008</div>
       <div class="reg-desc">Manual de atención personalizada en el proceso reproductivo. Grado de evidencia A, nivel 1a — primera evidencia formal de recomendación en el país.</div>
     </div>
@@ -773,12 +778,12 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
         </tr>
       </thead>
       <tbody>
-        <tr><td>OMS</td><td>Intrapartum Care</td><td>Acompañamiento continuo recomendado · Grado fuerte</td><td>2018</td></tr>
-        <tr><td>NICE</td><td>NG235 Intrapartum Care</td><td>Mujer tiene derecho a su acompañante de elección</td><td>2023/2025</td></tr>
-        <tr><td>ACOG</td><td>Committee Opinion No. 766</td><td>Apoyo continuo como intervención basada en evidencia</td><td>2019</td></tr>
-        <tr><td>FIGO</td><td>Respectful Care Statement</td><td>Acompañamiento como derecho fundamental</td><td>2025</td></tr>
-        <tr><td>ICM</td><td>Core Documents</td><td>Integrado en estándares de competencia matronal</td><td>2024</td></tr>
-        <tr><td>ICI</td><td>12 pasos ICI</td><td>Paso 5: Apoyo continuo durante el trabajo de parto</td><td>2019</td></tr>
+        <tr class="s1"><td>OMS</td><td>Intrapartum Care</td><td>Acompañamiento continuo recomendado · Grado fuerte</td><td>2018</td></tr>
+        <tr class="s2"><td>NICE</td><td>NG235 Intrapartum Care</td><td>Mujer tiene derecho a su acompañante de elección</td><td>2023/2025</td></tr>
+        <tr class="s3"><td>ACOG</td><td>Committee Opinion No. 766</td><td>Apoyo continuo como intervención basada en evidencia</td><td>2019</td></tr>
+        <tr class="s4"><td>FIGO</td><td>Respectful Care Statement</td><td>Acompañamiento como derecho fundamental</td><td>2025</td></tr>
+        <tr class="s5"><td>ICM</td><td>Core Documents</td><td>Integrado en estándares de competencia matronal</td><td>2024</td></tr>
+        <tr class="s6"><td>ICI</td><td>12 pasos ICI</td><td>Paso 5: Apoyo continuo durante el trabajo de parto</td><td>2019</td></tr>
       </tbody>
     </table>
   </div>
@@ -1045,6 +1050,19 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
       counterDone = true;
       const el = document.getElementById('counter-num');
       setTimeout(()=>animateCounter(el,16000,2000),400);
+    }
+
+    // S2 auto-spotlight at ~90 seconds
+    if(n===2){
+      clearTimeout(window._s2SpotTimer);
+      window._s2SpotTimer = setTimeout(()=>{
+        const s2 = document.getElementById('s2');
+        if(s2 && s2.classList.contains('active')) s2.classList.add('spotlight-on');
+      }, 90000);
+    } else {
+      clearTimeout(window._s2SpotTimer);
+      const s2 = document.getElementById('s2');
+      if(s2) s2.classList.remove('spotlight-on');
     }
   }
 

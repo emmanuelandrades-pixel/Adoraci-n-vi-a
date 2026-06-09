@@ -238,6 +238,10 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 #s11 .par-n{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3.5vw,3.5rem);font-weight:700;}
 #s11 .par-l{font-family:'Inter',sans-serif;font-size:0.78rem;color:rgba(245,240,232,0.55);margin-top:4px;}
 #s11 .par-src{font-family:'Inter',sans-serif;font-size:0.75rem;color:rgba(245,240,232,0.35);margin-top:12px;}
+#s11 .s11-sub{font-family:'Cormorant Garamond',serif;font-size:clamp(1rem,1.8vw,1.5rem);font-style:italic;color:rgba(245,240,232,0.65);text-align:center;max-width:700px;margin-bottom:28px;position:relative;z-index:10;}
+#s11 .interp-box{background:rgba(255,255,255,0.03);border:1px solid rgba(196,165,94,0.15);border-radius:10px;padding:14px 28px;max-width:750px;margin-top:18px;position:relative;z-index:10;}
+#s11 .interp-title{font-family:'Inter',sans-serif;font-size:0.72rem;letter-spacing:0.15em;text-transform:uppercase;color:var(--gold);margin-bottom:10px;}
+#s11 .interp-items{display:flex;gap:20px;flex-wrap:wrap;font-family:'Inter',sans-serif;font-size:0.82rem;color:rgba(245,240,232,0.6);}
 
 /* S12 */
 #s12 .three-col{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;max-width:1100px;padding:0 40px;position:relative;z-index:10;}
@@ -335,6 +339,8 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 .slide.active #s22 .p1{animation:phraseIn 1s ease 0s forwards;}
 .slide.active #s22 .p2{animation:phraseIn 1s ease 2s forwards;}
 .slide.active #s22 .p3{animation:phraseIn 1s ease 4s forwards;}
+.slide.active #s22 .p4{animation:phraseIn 1s ease 6s forwards;}
+.slide.active #s22 .p5{animation:phraseIn 1s ease 8s forwards;}
 @keyframes phraseIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
 #s22 .halo{position:absolute;inset:0;background:radial-gradient(ellipse 40% 40% at 50% 50%,rgba(196,165,94,0.15),transparent 70%);animation:haloDim 7s ease forwards 5s;opacity:1;z-index:0;}
 @keyframes haloDim{to{opacity:0}}
@@ -355,6 +361,56 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 #s23 .refs-grid::-webkit-scrollbar{width:4px;}
 #s23 .refs-grid::-webkit-scrollbar-track{background:transparent;}
 #s23 .refs-grid::-webkit-scrollbar-thumb{background:rgba(196,165,94,0.3);border-radius:2px;}
+
+/* NEW SLIDES — s24, s25, s26, s27 */
+
+/* s24 — ¿Cómo ayudamos al acompañante? */
+#s24 .two-col-split{display:grid;grid-template-columns:1fr 1fr;gap:0;max-width:1000px;width:100%;position:relative;z-index:10;height:68vh;}
+#s24 .col-left,#s24 .col-right{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 48px;gap:16px;}
+#s24 .col-left{border-right:1px solid rgba(192,57,43,0.2);background:rgba(192,57,43,0.04);}
+#s24 .col-right{background:rgba(45,212,191,0.04);}
+#s24 .col-head{font-family:'Inter',sans-serif;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;margin-bottom:16px;}
+#s24 .col-left .col-head{color:var(--rust);}
+#s24 .col-right .col-head{color:var(--teal);}
+#s24 .col-item{font-family:'Cormorant Garamond',serif;font-size:clamp(1.2rem,2vw,1.8rem);color:rgba(245,240,232,0.75);text-align:center;line-height:1.2;}
+#s24 .bottom-msg{font-family:'Cormorant Garamond',serif;font-size:clamp(1rem,1.8vw,1.5rem);font-style:italic;color:rgba(245,240,232,0.65);text-align:center;max-width:700px;margin-top:28px;position:relative;z-index:10;}
+
+/* s25 — La Tríada del Cuidado */
+#s25 .triad-wrap{position:relative;width:520px;height:380px;z-index:10;margin:20px 0;}
+#s25 .triad-node{position:absolute;display:flex;flex-direction:column;align-items:center;text-align:center;}
+#s25 .node-label{font-family:'Inter',sans-serif;font-size:0.72rem;letter-spacing:0.15em;text-transform:uppercase;color:var(--teal);margin-bottom:4px;}
+#s25 .node-name{font-family:'Cormorant Garamond',serif;font-size:clamp(1.1rem,2vw,1.8rem);font-weight:700;color:var(--white);}
+#s25 .node-desc{font-family:'Inter',sans-serif;font-size:0.72rem;color:rgba(245,240,232,0.5);margin-top:3px;}
+#s25 .node-center{top:50%;left:50%;transform:translate(-50%,-50%);}
+#s25 .node-center .node-name{font-size:clamp(1.4rem,2.5vw,2.2rem);color:var(--gold);}
+#s25 .node-tl{top:0;left:0;}
+#s25 .node-tr{top:0;right:0;}
+#s25 .node-bot{bottom:0;left:50%;transform:translateX(-50%);}
+#s25 .triad-svg{position:absolute;inset:0;width:100%;height:100%;z-index:-1;}
+#s25 .triad-line{stroke:rgba(196,165,94,0.25);stroke-width:1;fill:none;stroke-dasharray:5 4;animation:beamFlow 4s linear infinite;}
+#s25 .triad-caption{font-family:'Cormorant Garamond',serif;font-size:clamp(1rem,1.8vw,1.4rem);font-style:italic;color:rgba(245,240,232,0.6);text-align:center;max-width:600px;line-height:1.5;position:relative;z-index:10;}
+
+/* s26 — El ambiente también influye */
+#s26 .env-split{display:grid;grid-template-columns:1fr 1fr;gap:0;max-width:900px;width:100%;height:65vh;position:relative;z-index:10;}
+#s26 .env-col{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding:40px 36px;gap:0;}
+#s26 .env-col-left{border-right:1px solid rgba(255,255,255,0.06);background:rgba(13,12,10,0.5);}
+#s26 .env-col-right{background:rgba(196,165,94,0.04);}
+#s26 .env-title{font-family:'Inter',sans-serif;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;margin-bottom:28px;}
+#s26 .env-col-left .env-title{color:rgba(245,240,232,0.35);}
+#s26 .env-col-right .env-title{color:var(--gold);}
+#s26 .env-chain{display:flex;flex-direction:column;align-items:center;gap:4px;}
+#s26 .env-item{font-family:'Cormorant Garamond',serif;font-size:clamp(1.1rem,1.8vw,1.5rem);color:rgba(245,240,232,0.7);text-align:center;}
+#s26 .env-col-right .env-item{color:rgba(245,240,232,0.85);}
+#s26 .env-arrow{font-size:1.1rem;color:rgba(255,255,255,0.15);line-height:1;}
+#s26 .env-col-right .env-arrow{color:rgba(196,165,94,0.35);}
+
+/* s27 — "El acompañamiento no reemplaza..." */
+#s27{background:#000;}
+#s27 .impact-line{font-family:'Cormorant Garamond',serif;font-style:italic;color:var(--white);text-align:center;max-width:800px;line-height:1.4;opacity:0;position:relative;z-index:10;}
+#s27 .il1{font-size:clamp(1.5rem,2.8vw,3rem);animation:phraseIn 1.2s ease 0.3s forwards;}
+#s27 .il2{font-size:clamp(1.3rem,2.2vw,2.3rem);color:var(--gold);animation:phraseIn 1.2s ease 2.5s forwards;}
+.slide.active #s27 .il1,.slide.active #s27 .il2{animation-play-state:running;}
+#s27 .halo27{position:absolute;inset:0;background:radial-gradient(ellipse 50% 50% at 50% 50%,rgba(196,165,94,0.1),transparent 70%);z-index:0;}
 </style>
 </head>
 <body>
@@ -640,21 +696,31 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 <section class="slide noise" id="s11">
   <div class="glow-bg-gold"></div>
   <div class="orb" style="--dur:10s;--tx:50px;--ty:30px;width:450px;height:450px;background:var(--gold);top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.08;"></div>
-  <div class="mirror-q s2">¿Paciencia clínica<br>o fisiología real?</div>
+  <div class="mirror-q s1">¿Qué explica este hallazgo?</div>
+  <div class="s11-sub s2">La relación afectiva previa podría ser un componente relevante del beneficio observado.</div>
   <div class="paradox-box s3">
-    <div style="font-family:'Inter',sans-serif;font-size:0.8rem;color:var(--teal);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px;">Paradoja del entrenamiento · Jayasundara et al., 2024</div>
+    <div style="font-family:'Inter',sans-serif;font-size:0.8rem;color:var(--teal);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px;">Análisis de subgrupos · Jayasundara et al., 2024</div>
     <div class="par-nums">
       <div>
         <div class="par-n" style="color:var(--rust);">RR 2.16</div>
-        <div class="par-l">Acompañante no entrenado</div>
+        <div class="par-l">Acompañante familiar</div>
       </div>
-      <div style="display:flex;align-items:center;font-size:2rem;color:rgba(255,255,255,0.2);">→</div>
+      <div style="display:flex;align-items:center;font-size:2rem;color:rgba(255,255,255,0.2);">vs</div>
       <div>
         <div class="par-n" style="color:var(--teal);">RR 1.22</div>
-        <div class="par-l">Acompañante entrenado</div>
+        <div class="par-l">Acompañante formalmente entrenado</div>
       </div>
     </div>
     <div class="par-src">Jayasundara et al., 2024 · PLOS ONE, 19(7), e0298852</div>
+  </div>
+  <div class="interp-box s4">
+    <div class="interp-title">Interpretación</div>
+    <div class="interp-items">
+      <span>• Relación afectiva previa</span>
+      <span>• Conocimiento de la mujer</span>
+      <span>• Apoyo emocional continuo</span>
+      <span>• Evidencia heterogénea</span>
+    </div>
   </div>
 </section>
 
@@ -835,6 +901,104 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
   </div>
 </section>
 
+
+<!-- ============================================================ -->
+<!-- S24 — ¿CÓMO AYUDAMOS AL ACOMPAÑANTE? -->
+<!-- ============================================================ -->
+<section class="slide noise" id="s24">
+  <div class="logo-corner"><img alt="Universidad de Talca"></div>
+  <div class="orb" style="--dur:9s;--tx:40px;--ty:30px;width:380px;height:380px;background:var(--rust);top:-60px;left:-60px;opacity:0.08;"></div>
+  <div class="orb" style="--dur:11s;--tx:-40px;--ty:40px;width:340px;height:340px;background:var(--teal);bottom:-50px;right:-50px;opacity:0.08;"></div>
+  <div class="slide-title-line s1">Preparación del acompañante</div>
+  <div class="slide-main-title s1">¿Cómo ayudamos al acompañante a acompañar?</div>
+  <div class="two-col-split s2">
+    <div class="col-left">
+      <div class="col-head">Sin preparación</div>
+      <div class="col-item s3">• Ansiedad</div>
+      <div class="col-item s4">• Miedo</div>
+      <div class="col-item s5">• Impotencia</div>
+      <div class="col-item s6">• Incertidumbre</div>
+    </div>
+    <div class="col-right">
+      <div class="col-head">Con apoyo del equipo</div>
+      <div class="col-item s3">• Participación</div>
+      <div class="col-item s4">• Confianza</div>
+      <div class="col-item s5">• Contención</div>
+      <div class="col-item s6">• Colaboración</div>
+    </div>
+  </div>
+  <div class="bottom-msg s3">No basta con permitir el ingreso del acompañante.<br>Debemos ayudarlo a ejercer su rol.</div>
+</section>
+
+<!-- ============================================================ -->
+<!-- S25 — LA TRÍADA DEL CUIDADO -->
+<!-- ============================================================ -->
+<section class="slide noise" id="s25">
+  <div class="logo-corner"><img alt="Universidad de Talca"></div>
+  <div class="orb" style="--dur:10s;--tx:40px;--ty:30px;width:500px;height:500px;background:var(--teal);top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.06;filter:blur(100px);"></div>
+  <div class="slide-main-title s1">La Tríada del Cuidado</div>
+  <div class="triad-wrap s2">
+    <svg class="triad-svg" viewBox="0 0 520 380" xmlns="http://www.w3.org/2000/svg">
+      <line x1="100" y1="60" x2="260" y2="200" class="triad-line" style="animation-delay:0s"/>
+      <line x1="420" y1="60" x2="260" y2="200" class="triad-line" style="animation-delay:1s"/>
+      <line x1="260" y1="340" x2="260" y2="200" class="triad-line" style="animation-delay:2s"/>
+      <line x1="100" y1="60" x2="420" y2="60" class="triad-line" style="animation-delay:0.5s"/>
+      <line x1="100" y1="60" x2="260" y2="340" class="triad-line" style="animation-delay:1.5s"/>
+      <line x1="420" y1="60" x2="260" y2="340" class="triad-line" style="animation-delay:2.5s"/>
+    </svg>
+    <div class="triad-node node-tl">
+      <div class="node-label">Vértice</div>
+      <div class="node-name">ACOMPAÑANTE</div>
+      <div class="node-desc">Apoyo emocional continuo</div>
+    </div>
+    <div class="triad-node node-tr">
+      <div class="node-label">Vértice</div>
+      <div class="node-name">MATRONA</div>
+      <div class="node-desc">Integra y facilita</div>
+    </div>
+    <div class="triad-node node-center">
+      <div class="node-name">MUJER</div>
+    </div>
+    <div class="triad-node node-bot">
+      <div class="node-label">Base</div>
+      <div class="node-name">EQUIPO DE SALUD</div>
+      <div class="node-desc">Seguridad clínica</div>
+    </div>
+  </div>
+  <div class="triad-caption s3">El acompañante acompaña a la mujer.<br>El equipo acompaña a ambos.</div>
+</section>
+
+<!-- ============================================================ -->
+<!-- S26 — EL AMBIENTE TAMBIÉN INFLUYE -->
+<!-- ============================================================ -->
+<section class="slide noise" id="s26">
+  <div class="logo-corner"><img alt="Universidad de Talca"></div>
+  <div class="orb" style="--dur:12s;--tx:30px;--ty:30px;width:400px;height:400px;background:var(--gold);top:-50px;right:-50px;opacity:0.07;"></div>
+  <div class="slide-main-title s1">El ambiente también influye</div>
+  <div class="env-split s2">
+    <div class="env-col env-col-left">
+      <div class="env-title">AISLAMIENTO</div>
+      <div class="env-chain">
+        <div class="env-item s3">Miedo</div>
+        <div class="env-arrow">↓</div>
+        <div class="env-item s4">Catecolaminas</div>
+        <div class="env-arrow">↓</div>
+        <div class="env-item s5">Interferencia fisiológica</div>
+      </div>
+    </div>
+    <div class="env-col env-col-right">
+      <div class="env-title">SEGURIDAD</div>
+      <div class="env-chain">
+        <div class="env-item s3">Acompañamiento</div>
+        <div class="env-arrow">↓</div>
+        <div class="env-item s4">Confianza</div>
+        <div class="env-arrow">↓</div>
+        <div class="env-item s5">Ambiente facilitador</div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- ============================================================ -->
 <!-- S18 — THE SYSTEMS: BARRIERS -->
 <!-- ============================================================ -->
@@ -899,6 +1063,16 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 </section>
 
 <!-- ============================================================ -->
+<!-- S27 — EL ACOMPAÑAMIENTO NO REEMPLAZA -->
+<!-- ============================================================ -->
+<section class="slide" id="s27">
+  <div class="halo27"></div>
+  <div class="orb" style="--dur:10s;--tx:30px;--ty:30px;width:400px;height:400px;background:var(--gold);top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.07;filter:blur(80px);"></div>
+  <div class="il1 impact-line">El acompañamiento no reemplaza la excelencia técnica.</div>
+  <div class="il2 impact-line">La complementa.</div>
+</section>
+
+<!-- ============================================================ -->
 <!-- S20 — CHALLENGES BY ACTOR -->
 <!-- ============================================================ -->
 <section class="slide noise" id="s20">
@@ -952,9 +1126,11 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 <section class="slide" id="s22">
   <div class="halo"></div>
   <div class="phrases">
-    <div class="phrase p1">"El acompañamiento no es una medida de confort."</div>
-    <div class="phrase p2">"Es una intervención clínica vital."</div>
-    <div class="phrase p3">"Es la esencia que nunca debimos ceder."</div>
+    <div class="phrase p1">Entramos a esta profesión para acompañar.</div>
+    <div class="phrase p2">La evidencia demuestra que acompañar importa.</div>
+    <div class="phrase p3">Las mujeres siguen recordándonos su valor.</div>
+    <div class="phrase p4">El desafío ya no es demostrarlo.</div>
+    <div class="phrase p5">El desafío es hacerlo posible.</div>
   </div>
 </section>
 
@@ -999,7 +1175,7 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
 
 <script>
 (function(){
-  const TOTAL = 24;
+  const TOTAL = 28;
   let current = 0;
   let counterDone = false;
   let kbHintGone = false;

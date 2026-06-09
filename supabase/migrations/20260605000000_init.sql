@@ -81,3 +81,14 @@ create table if not exists push_subscriptions (
 
 alter table push_subscriptions enable row level security;
 create policy "public push_subscriptions" on push_subscriptions for all using (true) with check (true);
+
+-- Log de notificaciones enviadas (evita duplicados)
+create table if not exists notificaciones_log (
+  id uuid primary key default gen_random_uuid(),
+  evento_id text not null,
+  tipo text not null,
+  enviado_at timestamptz default now(),
+  unique (evento_id, tipo)
+);
+alter table notificaciones_log enable row level security;
+create policy "public notificaciones_log" on notificaciones_log for all using (true) with check (true);

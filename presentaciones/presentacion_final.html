@@ -1182,8 +1182,12 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
   // Inject logo into all slides except s0
   document.querySelectorAll('.slide').forEach(slide => {
     if (slide.id === 's0') return;
-    // skip s1 which already has logo-corner, and s23 which has footer-logo
-    if (!slide.querySelector('.logo-corner')) {
+    const existing = slide.querySelector('.logo-corner');
+    if (existing) {
+      // Set src on any logo-corner img that lacks it
+      const img = existing.querySelector('img');
+      if (img && !img.src) img.src = logoB64;
+    } else {
       const lc = document.createElement('div');
       lc.className = 'logo-corner';
       const img = document.createElement('img');

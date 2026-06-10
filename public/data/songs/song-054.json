@@ -99,8 +99,25 @@
               ]
             },
             {
-              "texto": "E/G# A B C#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Hosanna Hosanna",
@@ -115,8 +132,25 @@
               "acordes": []
             },
             {
-              "texto": "E/G# A B C#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Hosanna Hosanna",

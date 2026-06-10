@@ -25,24 +25,51 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "A Asus4 A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
             },
             {
               "texto": "He oído mil historias",
               "acordes": []
             },
             {
-              "texto": "Asus4 A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "De cómo eres Tú",
               "acordes": []
             },
             {
-              "texto": "Asus4",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Pero yo he escuchado",
@@ -62,16 +89,30 @@
               ]
             },
             {
-              "texto": "Dsus2 A/C#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Y me dices que me amas",
               "acordes": []
             },
             {
-              "texto": "Bm7",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y que solo no estoy",
@@ -107,8 +148,13 @@
               "acordes": []
             },
             {
-              "texto": "A/C#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tal como soy, tal como soy, tal como",

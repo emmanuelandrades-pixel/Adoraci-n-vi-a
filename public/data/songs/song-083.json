@@ -71,8 +71,21 @@
               ]
             },
             {
-              "texto": "D#m C# B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Su amor por mí",
@@ -114,8 +127,13 @@
               ]
             },
             {
-              "texto": "C#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Libre en verdad",

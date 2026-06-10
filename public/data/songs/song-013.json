@@ -60,8 +60,13 @@
               ]
             },
             {
-              "texto": "G/B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Santo, santo, santo",

@@ -33,8 +33,25 @@
               "acordes": []
             },
             {
-              "texto": "D/F# G A Bm7",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Ángeles cantando están,",
@@ -149,16 +166,42 @@
               "acordes": []
             },
             {
-              "texto": "D/F# G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Oh venid pronto a Belen,",
               "acordes": []
             },
             {
-              "texto": "D/F# G A Bm7",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "D - Em7 - | Bm7 - A",

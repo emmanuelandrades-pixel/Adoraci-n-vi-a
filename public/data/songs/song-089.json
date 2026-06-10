@@ -37,8 +37,13 @@
               "acordes": []
             },
             {
-              "texto": "C#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Le cantan al cordero que",
@@ -159,8 +164,13 @@
               ]
             },
             {
-              "texto": "C#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tu nombre, sobre todo es",

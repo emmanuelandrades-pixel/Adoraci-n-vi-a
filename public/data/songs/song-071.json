@@ -142,8 +142,17 @@
               "acordes": []
             },
             {
-              "texto": "C G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "No yo sino Cristo",

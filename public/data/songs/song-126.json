@@ -114,8 +114,13 @@
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Haz algo nuevo en mí",

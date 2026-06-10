@@ -38,8 +38,13 @@
               ]
             },
             {
-              "texto": "Am",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "You lead me home you extend your",
@@ -170,8 +175,13 @@
               "acordes": []
             },
             {
-              "texto": "Am",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "You see my heart you extend your",
@@ -182,8 +192,13 @@
               "acordes": []
             },
             {
-              "texto": "Dm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Eyes open falling in love again",

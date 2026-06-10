@@ -89,16 +89,54 @@
               ]
             },
             {
-              "texto": "D E F#m D E F#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "E",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 12
+                }
+              ]
             },
             {
               "texto": "Espíritu, avívanos",
               "acordes": []
             },
             {
-              "texto": "D E F#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Te anhelamos dios",

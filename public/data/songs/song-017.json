@@ -275,32 +275,80 @@
               ]
             },
             {
-              "texto": "Em G/B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Al venir ante tus pies",
               "acordes": []
             },
             {
-              "texto": "Em G/B C D Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                }
+              ]
             },
             {
               "texto": "Tu amor me revelas",
               "acordes": []
             },
             {
-              "texto": "Em G/B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Puedo ver tu corazón",
               "acordes": []
             },
             {
-              "texto": "Em G/B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Contemplar tu grandeza",

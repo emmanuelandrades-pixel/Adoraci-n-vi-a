@@ -56,8 +56,13 @@
               "acordes": []
             },
             {
-              "texto": "D/A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Te alabo en el monte",
@@ -96,8 +101,13 @@
               ]
             },
             {
-              "texto": "D/A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Estando rodeado",
@@ -192,8 +202,13 @@
               "acordes": []
             },
             {
-              "texto": "D/A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y aun cuando no",

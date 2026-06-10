@@ -120,8 +120,25 @@
               "acordes": []
             },
             {
-              "texto": "G D G/B C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                }
+              ]
             },
             {
               "texto": "Oh Noche Divi-----na",

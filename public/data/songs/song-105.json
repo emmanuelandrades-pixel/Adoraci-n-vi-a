@@ -159,8 +159,13 @@
               "acordes": []
             },
             {
-              "texto": "C#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Quebrando cadenas sacando espinas",
@@ -196,8 +201,13 @@
               "acordes": []
             },
             {
-              "texto": "C#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Camina contigo de noche y de día",

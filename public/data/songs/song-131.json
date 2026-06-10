@@ -57,24 +57,39 @@
               ]
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Fiel he sido y te he fallado a la misma vez",
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Intenté tener control pero no pude",
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Llegué alto y en un momento volví a caer",
@@ -106,24 +121,39 @@
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Me alejé y me atrajiste de nuevo a ti",
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Malgasté lo que tenía desesperado",
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Pero descubrí Tú siempre estuviste ahí",
@@ -259,8 +289,21 @@
               "acordes": []
             },
             {
-              "texto": "C G Dsus",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Pues Jesús... tal como soy me amas",

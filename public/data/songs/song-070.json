@@ -233,8 +233,17 @@
               ]
             },
             {
-              "texto": "D/F# G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Su luz",
@@ -325,8 +334,33 @@
               ]
             },
             {
-              "texto": "G/B C D C G/B Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 14
+                }
+              ]
             },
             {
               "texto": "Encuentro sani-dad",
@@ -387,16 +421,26 @@
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "La luz del mundo, Que nos rescató",
               "acordes": []
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",
@@ -427,16 +471,26 @@
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Ante su trono montes caerán",
               "acordes": []
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",

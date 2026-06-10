@@ -124,8 +124,13 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Gadd9",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Gadd9",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y aunque tormentas vengan,",

@@ -50,8 +50,13 @@
               "acordes": []
             },
             {
-              "texto": "G/B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tu amor, Tu amor",

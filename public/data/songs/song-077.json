@@ -60,8 +60,13 @@
               "acordes": []
             },
             {
-              "texto": "Am7",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Por no hacer lo que me pides",
@@ -89,8 +94,13 @@
               ]
             },
             {
-              "texto": "C/E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Me has salvado",
@@ -158,8 +168,13 @@
               ]
             },
             {
-              "texto": "C/E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Por darme el regalo de Cristo",

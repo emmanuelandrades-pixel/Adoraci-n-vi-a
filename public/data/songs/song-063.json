@@ -269,8 +269,13 @@
               "acordes": []
             },
             {
-              "texto": "Em7",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "El Rey de Reyes me adoptó",

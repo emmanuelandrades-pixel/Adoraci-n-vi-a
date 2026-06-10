@@ -179,8 +179,13 @@
               ]
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Gira en pos de ti Jesús",

@@ -53,8 +53,13 @@
               "acordes": []
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "¡Mira qué hermoso destello eres de Él!",
@@ -93,8 +98,13 @@
               "acordes": []
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Puedes llegar si te atreves a creer",
@@ -131,8 +141,13 @@
               ]
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Esta es la promesa, gracia y vida eterna",
@@ -215,8 +230,13 @@
               ]
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Todos a la mesa, nadie queda fuera",
@@ -236,8 +256,13 @@
               ]
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Esta es la promesa, gracia y vida eterna",

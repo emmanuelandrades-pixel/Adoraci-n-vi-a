@@ -117,16 +117,34 @@
               "acordes": []
             },
             {
-              "texto": "Bm A G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "El nombre de Jesús mi Rey",
               "acordes": []
             },
             {
-              "texto": "D/F#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Cuán hermoso su nombre es",
@@ -180,8 +198,13 @@
               "acordes": []
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Mi transgresión tú perdonaste",
@@ -213,24 +236,47 @@
               "acordes": []
             },
             {
-              "texto": "A/C#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Majestuoso su nombre es",
               "acordes": []
             },
             {
-              "texto": "Bm A G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "El nombre de Jesús mi Rey",
               "acordes": []
             },
             {
-              "texto": "D/F#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Majestuoso su nombre es",
@@ -245,8 +291,13 @@
               "acordes": []
             },
             {
-              "texto": "Bm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Majestuoso su nombre es",

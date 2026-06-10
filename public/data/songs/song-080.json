@@ -83,8 +83,13 @@
               ]
             },
             {
-              "texto": "F#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Con un amor tan tibio",
@@ -136,8 +141,25 @@
               "acordes": []
             },
             {
-              "texto": "D G D A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Ya no, no más",

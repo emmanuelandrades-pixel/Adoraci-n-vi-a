@@ -93,8 +93,17 @@
               "acordes": []
             },
             {
-              "texto": "G/B C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Otra vez",
@@ -156,8 +165,17 @@
               "acordes": []
             },
             {
-              "texto": "G/B C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Otra vez",

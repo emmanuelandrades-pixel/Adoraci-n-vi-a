@@ -180,12 +180,45 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Interludio: G – C - Em7 - D - G/B - C - Em7 – D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 30
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                }
+              ]
             }
           ]
         },

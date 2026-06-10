@@ -25,19 +25,11 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Mi Dios                                   En su canto encontraré mi fe",
+              "texto": "Mi Dios",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 3
-                },
-                {
-                  "acorde": "C",
-                  "pos": 47
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 55
                 }
               ]
             },
@@ -67,24 +59,16 @@
               ]
             },
             {
-              "texto": "Y al parecer                              Lo intentaré otra vez",
+              "texto": "Y al parecer",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 7
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 46
-                },
-                {
-                  "acorde": "D",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Mientras más lo intento                      G",
+              "texto": "Mientras más lo intento",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -93,27 +77,36 @@
               ]
             },
             {
-              "texto": "C                                    Mi hijo",
+              "texto": "C",
               "acordes": []
             },
             {
-              "texto": "Más difícil llega a ser                       G/B              C",
+              "texto": "Más difícil llega a ser",
               "acordes": []
             },
             {
-              "texto": "G                           No sabes cuán orgulloso yo estoy de ti",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "Ya no siento continuar                         G       G/B",
+              "texto": "Ya no siento continuar",
               "acordes": []
             },
             {
-              "texto": "G/B C                                     Créeme que lo que yo pienso de ti",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
-              "texto": "Otra vez                                        C",
+              "texto": "Otra vez",
               "acordes": []
             },
             {
@@ -121,20 +114,16 @@
               "acordes": []
             },
             {
-              "texto": "Oh Dios                                   Y aunque te sientas vencido",
+              "texto": "Oh Dios",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 3
-                },
-                {
-                  "acorde": "G",
-                  "pos": 57
                 }
               ]
             },
             {
-              "texto": "He estado persiguiendo la aprobación      Yo fuerte seré",
+              "texto": "He estado persiguiendo la aprobación",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -143,19 +132,11 @@
                 {
                   "acorde": "C",
                   "pos": 20
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 45
-                },
-                {
-                  "acorde": "C",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Y yo sé que mientras más lo hago                 Am",
+              "texto": "Y yo sé que mientras más lo hago",
               "acordes": [
                 {
                   "acorde": "G",
@@ -168,24 +149,33 @@
               ]
             },
             {
-              "texto": "C                                    No me intimidan tus preguntas",
+              "texto": "C",
               "acordes": []
             },
             {
-              "texto": "Menos tengo que ofrecer                       D",
+              "texto": "Menos tengo que ofrecer",
               "acordes": []
             },
             {
-              "texto": "G                              Yo no busco perfección",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "Y me siento atrapado                          Am               D",
+              "texto": "Y me siento atrapado",
               "acordes": []
             },
             {
-              "texto": "G/B C                                     En mis ojos suficiente tú serás",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Otra vez",

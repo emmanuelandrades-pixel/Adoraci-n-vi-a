@@ -276,7 +276,7 @@ export function EditorSetList({ id }: Props) {
 
       {/* Header editable */}
       <div className="bg-card border border-border rounded-xl p-6 space-y-4">
-        <div className="flex items-start justify-between gap-4">
+        <div className="flex flex-wrap items-start justify-between gap-4">
           <div className="flex-1 space-y-3">
             <input
               type="text"
@@ -326,7 +326,7 @@ export function EditorSetList({ id }: Props) {
             </div>
           </div>
 
-          <div className="flex items-center gap-2 flex-shrink-0">
+          <div className="flex flex-wrap items-center gap-2 flex-shrink-0">
             <BotonDescargarPDF setlist={setlist} />
             <button
               onClick={exportarJSON}

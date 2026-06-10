@@ -97,6 +97,16 @@ export default function Home() {
         .hero-enter   { animation: fadeUp 1s ease forwards; }
         .stats-enter  { animation: fadeUpSlow 1.3s ease forwards; }
         .feats-enter  { animation: fadeUpSlow 1.5s ease forwards; }
+        .stats-grid   { display: grid; grid-template-columns: repeat(4, 1fr); }
+        .feats-grid   { display: grid; grid-template-columns: repeat(3, 1fr); }
+        @media (max-width: 480px) {
+          .stats-grid { grid-template-columns: repeat(2, 1fr); }
+          .feats-grid { grid-template-columns: repeat(2, 1fr); }
+          .stats-grid > *:nth-child(2n) { border-right: none !important; }
+          .feats-grid > *:nth-child(2n) { border-right: none !important; }
+          .feats-grid > *:nth-child(3),
+          .feats-grid > *:nth-child(4) { border-bottom: none !important; }
+        }
         .shimmer-text {
           background: linear-gradient(135deg, #C8BFFF 0%, #E8E4FF 40%, #A89CF7 70%, #7C6AF7 100%);
           background-size: 200% auto;
@@ -263,10 +273,8 @@ export default function Home() {
 
           {/* ── Estadísticas ─────────────────────────────────────── */}
           <div
-            className="stats-enter"
+            className="stats-enter stats-grid"
             style={{
-              display: "grid",
-              gridTemplateColumns: "repeat(4, 1fr)",
               gap: 0,
               width: "100%",
               border: "1px solid rgba(124,106,247,0.12)",
@@ -307,11 +315,9 @@ export default function Home() {
 
           {/* ── Features grid ────────────────────────────────────── */}
           <div
-            className="feats-enter"
+            className="feats-enter feats-grid"
             style={{
               width: "100%",
-              display: "grid",
-              gridTemplateColumns: "repeat(3, 1fr)",
               border: "1px solid rgba(255,255,255,0.04)",
               borderRadius: 12,
               overflow: "hidden",

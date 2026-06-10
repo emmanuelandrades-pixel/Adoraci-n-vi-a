@@ -34,7 +34,9 @@ export function Sidebar() {
       className={cn(
         "fixed left-0 top-0 h-full z-40 flex flex-col transition-all duration-300 ease-in-out",
         "bg-card border-r border-border",
-        sidebarAbierto ? "w-60" : "w-16"
+        // Mobile: oculto cuando cerrado, w-60 cuando abierto
+        // Desktop: w-16 cuando cerrado, w-60 cuando abierto
+        sidebarAbierto ? "w-60" : "-translate-x-full md:translate-x-0 md:w-16"
       )}
     >
       {/* Logo → link a portada */}

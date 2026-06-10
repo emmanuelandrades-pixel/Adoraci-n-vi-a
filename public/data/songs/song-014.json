@@ -25,31 +25,58 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "A Asus4 A                          He visto a muchos buscando",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "He oído mil historias",
               "acordes": []
             },
             {
-              "texto": "He oído mil historias                   Respuestas por todo lugar",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "De cómo eres Tú",
               "acordes": []
             },
             {
-              "texto": "Asus4 A                        Pero sé que lo que buscamos",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Pero yo he escuchado",
               "acordes": []
             },
             {
-              "texto": "De cómo eres Tú                         Solo Tú nos puedes dar",
-              "acordes": []
-            },
-            {
-              "texto": "Asus4       A                     Porque sabes lo que anhelo",
-              "acordes": []
-            },
-            {
-              "texto": "Pero yo he escuchado                    Antes de mi oración",
-              "acordes": []
-            },
-            {
-              "texto": "En la noche tu dulce voz                    Dsus2             F#m",
+              "texto": "En la noche tu dulce voz",
               "acordes": [
                 {
                   "acorde": "Asus4",
@@ -62,19 +89,33 @@
               ]
             },
             {
-              "texto": "Dsus2 A/C#                        //Y perfecta es tu voluntad",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Y me dices que me amas",
               "acordes": []
             },
             {
-              "texto": "Y me dices que me amas                     Bm7                A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
-              "texto": "Bm7         Esus4                      Y perfecta es tu voluntad",
-              "acordes": []
-            },
-            {
-              "texto": "Y que solo no estoy                       Dsus2             F#m        E",
+              "texto": "Y que solo no estoy",
               "acordes": []
             },
             {
@@ -82,7 +123,7 @@
               "acordes": []
             },
             {
-              "texto": "Eres buen buen Padre                      A",
+              "texto": "Eres buen buen Padre",
               "acordes": [
                 {
                   "acorde": "Dsus2",
@@ -91,7 +132,7 @@
               ]
             },
             {
-              "texto": "A           Bm          Esus4      Tu amor es tan innegable",
+              "texto": "A",
               "acordes": []
             },
             {
@@ -99,23 +140,28 @@
               "acordes": []
             },
             {
-              "texto": "D                  Paz tan inexplicable",
+              "texto": "D",
               "acordes": []
             },
             {
-              "texto": "Y soy amado por ti                      Imposible de comprender",
+              "texto": "Y soy amado por ti",
               "acordes": []
             },
             {
-              "texto": "A/C#           Bm          Esus4",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tal como soy, tal como soy, tal como",
               "acordes": []
             },
             {
-              "texto": "Tal como soy, tal como soy, tal como           Dsus2 A/C#",
-              "acordes": []
-            },
-            {
-              "texto": "soy                                     Y me llamas más profundo",
+              "texto": "soy",
               "acordes": []
             },
             {

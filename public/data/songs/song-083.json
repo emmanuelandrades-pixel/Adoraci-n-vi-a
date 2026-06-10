@@ -45,7 +45,7 @@
               ]
             },
             {
-              "texto": "Me acepte así                       Libre soy en Él",
+              "texto": "Me acepte así",
               "acordes": [
                 {
                   "acorde": "D#m",
@@ -58,36 +58,41 @@
                 {
                   "acorde": "B",
                   "pos": 13
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "Me encontró en mi perdición         Libre en verdad",
+              "texto": "Me encontró en mi perdición",
               "acordes": [
                 {
                   "acorde": "F#",
                   "pos": 0
-                },
-                {
-                  "acorde": "C#",
-                  "pos": 44
                 }
               ]
             },
             {
-              "texto": "D#m C# B                             D # m C# B",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Su amor por mí",
               "acordes": []
             },
             {
-              "texto": "Su amor por mí                      Soy hijo de Dios",
-              "acordes": []
-            },
-            {
-              "texto": "Oh su amor por mí                   Sí lo soy",
+              "texto": "Oh su amor por mí",
               "acordes": [
                 {
                   "acorde": "D#m",
@@ -100,10 +105,6 @@
                 {
                   "acorde": "B",
                   "pos": 15
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 44
                 }
               ]
             },
@@ -117,36 +118,37 @@
               ]
             },
             {
-              "texto": "Libre soy en Él                     Sitio hay para mí",
+              "texto": "Libre soy en Él",
               "acordes": [
                 {
                   "acorde": "F#",
                   "pos": 12
-                },
-                {
-                  "acorde": "C#",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "C#                               D # m C# B",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Libre en verdad",
               "acordes": []
             },
             {
-              "texto": "Libre en verdad                     Soy hijo de Dios",
+              "texto": "D # m C# B",
               "acordes": []
             },
             {
-              "texto": "D # m C# B                             F#",
+              "texto": "Soy hijo de Dios",
               "acordes": []
             },
             {
-              "texto": "Soy hijo de Dios                    Sí lo soy",
-              "acordes": []
-            },
-            {
-              "texto": "Sí lo soy                             D#m",
+              "texto": "Sí lo soy",
               "acordes": [
                 {
                   "acorde": "F#",
@@ -159,11 +161,11 @@
               "acordes": []
             },
             {
-              "texto": "Libre soy Él me rescató                  C#",
+              "texto": "Libre soy Él me rescató",
               "acordes": []
             },
             {
-              "texto": "Su gracia en mí                     Perdonado",
+              "texto": "Su gracia en mí",
               "acordes": []
             },
             {
@@ -184,11 +186,11 @@
               "acordes": []
             },
             {
-              "texto": "Él murió por mí                          D#m",
+              "texto": "Él murió por mí",
               "acordes": []
             },
             {
-              "texto": "Él murió por mí                     Vas conmigo",
+              "texto": "Él murió por mí",
               "acordes": []
             },
             {

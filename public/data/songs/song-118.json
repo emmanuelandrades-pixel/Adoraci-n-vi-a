@@ -29,47 +29,90 @@
               "acordes": []
             },
             {
-              "texto": "Em        Bm    C         G       cadenas",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Santa la noche Hermosas las                    Em      D    G",
+              "texto": "Santa la noche Hermosas las",
               "acordes": []
             },
             {
-              "texto": "estrellas                         Su ley, su amor y su paz Él nos",
+              "texto": "estrellas",
               "acordes": []
             },
             {
-              "texto": "Em       D      G           dió",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "La noche en que nació El",
               "acordes": []
             },
             {
-              "texto": "La noche en que nació El          Em      Bm C             G",
+              "texto": "Salvador",
               "acordes": []
             },
             {
-              "texto": "Salvador                          Nos enseñó amarnos uno al",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Tanto esperó el mundo en su",
               "acordes": []
             },
             {
-              "texto": "Em        Bm C          G         otro",
+              "texto": "pecado",
               "acordes": []
             },
             {
-              "texto": "Tanto esperó el mundo en su                Bm           F#m",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
             },
             {
-              "texto": "pecado                            G",
-              "acordes": []
-            },
-            {
-              "texto": "Bm      F#m      G        Y en Su nombre ya no hay más",
-              "acordes": []
-            },
-            {
-              "texto": "Hasta ese día en que Cristo       opresión",
+              "texto": "Hasta ese día en que Cristo",
               "acordes": []
             },
             {
@@ -77,32 +120,33 @@
               "acordes": []
             },
             {
-              "texto": "D          G                      Con gratitud traemos",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 47
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
+                  "pos": 0
                 }
               ]
             },
             {
-              "texto": "Una esperanza al mundo             alabanzas",
+              "texto": "Una esperanza al mundo",
               "acordes": []
             },
             {
-              "texto": "regocija                              D             G",
+              "texto": "regocija",
               "acordes": []
             },
             {
-              "texto": "D          G                    La gloria y el poder son del",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
-              "texto": "La luz de un nuevo día al fin      Señor",
+              "texto": "La luz de un nuevo día al fin",
               "acordes": []
             },
             {
@@ -117,11 +161,11 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Coro 1: Em    Bm Am              Em",
+              "texto": "Coro 1: Em",
               "acordes": []
             },
             {
-              "texto": "Hoy adorad, Los ángeles lo       Em - D - Bm - C - G (x4) ...D/F",
+              "texto": "Hoy adorad, Los ángeles lo",
               "acordes": []
             },
             {
@@ -129,19 +173,41 @@
               "acordes": []
             },
             {
-              "texto": "G D G/B C                     Coro 1",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                }
+              ]
             },
             {
               "texto": "Oh Noche Divi-----na",
               "acordes": []
             },
             {
-              "texto": "GD       G         (Intro)     Em     Bm     Am Em               D/F#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
             },
             {
-              "texto": "Nació El Salvador                Hoy adorad, Postrados",
+              "texto": "Nació El Salvador",
               "acordes": []
             },
             {

@@ -1,8 +1,9 @@
 "use client";
 
-import { Menu, Moon, Sun, Music } from "lucide-react";
+import { Menu, Moon, Sun } from "lucide-react";
 import { useUIStore } from "@/store/uiStore";
 import { usePathname } from "next/navigation";
+import { NotificacionesBtn } from "@/components/NotificacionesBtn";
 
 const TITULOS: Record<string, string> = {
   "/canciones": "Biblioteca de Canciones",
@@ -33,7 +34,8 @@ export function Navbar() {
         <h1 className="text-base font-semibold text-foreground">{titulo}</h1>
       </div>
 
-      <div className="flex items-center gap-2">
+      <div className="flex items-center gap-1">
+        <NotificacionesBtn />
         <button
           onClick={toggleTema}
           className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"

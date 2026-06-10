@@ -25,20 +25,16 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Te amo Dios                            Yo amo Tu voz",
+              "texto": "Te amo Dios",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 0
-                },
-                {
-                  "acorde": "G",
-                  "pos": 39
                 }
               ]
             },
             {
-              "texto": "Tu amor nunca me falla                 Me has guiado por el fuego",
+              "texto": "Tu amor nunca me falla",
               "acordes": [
                 {
                   "acorde": "C",
@@ -47,19 +43,11 @@
                 {
                   "acorde": "G",
                   "pos": 13
-                },
-                {
-                  "acorde": "C",
-                  "pos": 44
-                },
-                {
-                  "acorde": "G",
-                  "pos": 55
                 }
               ]
             },
             {
-              "texto": "Mi existir en Tus manos está           Tú cerca estás",
+              "texto": "Mi existir en Tus manos está",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -76,19 +64,11 @@
                 {
                   "acorde": "D",
                   "pos": 19
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 41
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 46
                 }
               ]
             },
             {
-              "texto": "Desde el momento en que despierto      en la oscuridad",
+              "texto": "Desde el momento en que despierto",
               "acordes": [
                 {
                   "acorde": "Em",
@@ -97,19 +77,11 @@
                 {
                   "acorde": "C",
                   "pos": 20
-                },
-                {
-                  "acorde": "C",
-                  "pos": 41
-                },
-                {
-                  "acorde": "D",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "Hasta el anochecer                     Te conozco como Padre",
+              "texto": "Hasta el anochecer",
               "acordes": [
                 {
                   "acorde": "G",
@@ -122,15 +94,11 @@
                 {
                   "acorde": "Em",
                   "pos": 13
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Yo cantaré de la bondad de Dios         Y como amigo fiel",
+              "texto": "Yo cantaré de la bondad de Dios",
               "acordes": [
                 {
                   "acorde": "C",
@@ -147,44 +115,19 @@
                 {
                   "acorde": "C",
                   "pos": 39
-                },
-                {
-                  "acorde": "G",
-                  "pos": 49
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 51
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 56
                 }
               ]
             },
             {
-              "texto": "C            G                         Mi vida está en la bondad de Dios",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 45
-                },
-                {
-                  "acorde": "D",
-                  "pos": 47
-                },
-                {
-                  "acorde": "G",
-                  "pos": 60
-                }
-              ]
+              "texto": "C",
+              "acordes": []
             },
             {
               "texto": "En mi vida has sido bueno",
               "acordes": []
             },
             {
-              "texto": "En mi vida has sido tan fiel           Tu fidelidad sigue",
+              "texto": "En mi vida has sido tan fiel",
               "acordes": [
                 {
                   "acorde": "C",
@@ -197,19 +140,11 @@
                 {
                   "acorde": "D",
                   "pos": 15
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 39
-                },
-                {
-                  "acorde": "C",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Con mi ser, con cada aliento           Persiguiéndome",
+              "texto": "Con mi ser, con cada aliento",
               "acordes": [
                 {
                   "acorde": "C",
@@ -226,19 +161,11 @@
                 {
                   "acorde": "Em",
                   "pos": 21
-                },
-                {
-                  "acorde": "D",
-                  "pos": 39
-                },
-                {
-                  "acorde": "G",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "Yo cantaré de la bondad de Dios        Tu fidelidad sigue",
+              "texto": "Yo cantaré de la bondad de Dios",
               "acordes": [
                 {
                   "acorde": "C",
@@ -251,32 +178,15 @@
                 {
                   "acorde": "G",
                   "pos": 18
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 39
-                },
-                {
-                  "acorde": "C",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Para terminar:                         Persiguiéndome",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 39
-                },
-                {
-                  "acorde": "G",
-                  "pos": 48
-                }
-              ]
+              "texto": "Para terminar:",
+              "acordes": []
             },
             {
-              "texto": "Yo cantaré de la bondad de Dios        Todo lo que soy",
+              "texto": "Yo cantaré de la bondad de Dios",
               "acordes": [
                 {
                   "acorde": "C",
@@ -289,15 +199,11 @@
                 {
                   "acorde": "Em",
                   "pos": 18
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 41
                 }
               ]
             },
             {
-              "texto": "Yo cantaré de la bondad de Dios)       Te lo entrego hoy",
+              "texto": "Yo cantaré de la bondad de Dios)",
               "acordes": [
                 {
                   "acorde": "C",
@@ -310,10 +216,6 @@
                 {
                   "acorde": "G",
                   "pos": 18
-                },
-                {
-                  "acorde": "C",
-                  "pos": 45
                 }
               ]
             },

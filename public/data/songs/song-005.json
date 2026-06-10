@@ -29,7 +29,7 @@
               "acordes": []
             },
             {
-              "texto": "Alabe a Dios                               CORO",
+              "texto": "Alabe a Dios",
               "acordes": []
             },
             {
@@ -44,35 +44,40 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "VERSO 1:                                        F#m",
+              "texto": "VERSO 1:",
               "acordes": []
             },
             {
-              "texto": "A                                          No me detengo",
+              "texto": "A",
               "acordes": []
             },
             {
-              "texto": "Te alabo en el valle                            D",
+              "texto": "Te alabo en el valle",
               "acordes": []
             },
             {
-              "texto": "D/A           A                            Mi Dios vivo está",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Te alabo en el monte",
               "acordes": []
             },
             {
-              "texto": "Te alabo en el monte                          A              E",
+              "texto": "E",
               "acordes": []
             },
             {
-              "texto": "E             D                         Cómo me voy a callar",
+              "texto": "Te alabo en el día",
               "acordes": []
             },
             {
-              "texto": "Te alabo en el día                           F#m D          A          E A",
-              "acordes": []
-            },
-            {
-              "texto": "A                            A - la - ba a Dios mi corazón",
+              "texto": "A",
               "acordes": []
             },
             {
@@ -87,28 +92,29 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Te alabo en el medio                        Alabo al que reina",
+              "texto": "Te alabo en el medio",
               "acordes": [
                 {
                   "acorde": "A",
                   "pos": 7
-                },
-                {
-                  "acorde": "A",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "D/A        A                             Alabo al Señor",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Estando rodeado",
               "acordes": []
             },
             {
-              "texto": "Estando rodeado                             Alabo a aquel que la tumba venció",
-              "acordes": []
-            },
-            {
-              "texto": "Porque cuando alabo                          Alabo al que es bueno",
+              "texto": "Porque cuando alabo",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -121,58 +127,41 @@
               ]
             },
             {
-              "texto": "A                             Alabo al que es fiel",
+              "texto": "A",
               "acordes": []
             },
             {
-              "texto": "Tú estás a mi lado                           Le alabo porque no hay otro como él",
+              "texto": "Tú estás a mi lado",
               "acordes": []
             },
             {
-              "texto": "PRE-CORO:                                     PUENTE 2",
+              "texto": "PRE-CORO:",
               "acordes": []
             },
             {
-              "texto": "Mientras tenga aliento                     Alabo al que reina",
+              "texto": "Mientras tenga aliento",
               "acordes": [
                 {
                   "acorde": "E",
                   "pos": 6
-                },
-                {
-                  "acorde": "A",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Mi alma canta y                            Alabo al Señor",
+              "texto": "Mi alma canta y",
               "acordes": [
                 {
                   "acorde": "D",
                   "pos": 6
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "CORO:                                           Alabo a aquel que la tumba venció",
-              "acordes": [
-                {
-                  "acorde": "F#m",
-                  "pos": 49
-                },
-                {
-                  "acorde": "D",
-                  "pos": 69
-                }
-              ]
+              "texto": "CORO:",
+              "acordes": []
             },
             {
-              "texto": "A - la - ba a Dios                             A",
+              "texto": "A - la - ba a Dios",
               "acordes": [
                 {
                   "acorde": "F#m",
@@ -189,11 +178,11 @@
               ]
             },
             {
-              "texto": "E                                      Alabo al que es bueno",
+              "texto": "E",
               "acordes": []
             },
             {
-              "texto": "Mi corazón/                                     Bm",
+              "texto": "Mi corazón/",
               "acordes": []
             },
             {
@@ -201,11 +190,11 @@
               "acordes": []
             },
             {
-              "texto": "VERSO 2:                                           E/G#                E",
+              "texto": "VERSO 2:",
               "acordes": []
             },
             {
-              "texto": "A                                     Le alabo porque no hay otro como él",
+              "texto": "A",
               "acordes": []
             },
             {
@@ -213,15 +202,20 @@
               "acordes": []
             },
             {
-              "texto": "D/A           A                     CORO",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y aun cuando no",
               "acordes": []
             },
             {
-              "texto": "Y aun cuando no                        TAG (x2)",
-              "acordes": []
-            },
-            {
-              "texto": "E                                 CORO",
+              "texto": "E",
               "acordes": []
             },
             {
@@ -229,15 +223,15 @@
               "acordes": []
             },
             {
-              "texto": "D                A                     INSTRUMENTAL:",
+              "texto": "D",
               "acordes": []
             },
             {
-              "texto": "Que estás en control                     / F#m – D – A – E",
+              "texto": "Que estás en control",
               "acordes": []
             },
             {
-              "texto": "Es más que un sonido                   VAMP",
+              "texto": "Es más que un sonido",
               "acordes": [
                 {
                   "acorde": "A",

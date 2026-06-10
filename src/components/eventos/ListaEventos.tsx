@@ -243,12 +243,32 @@ function CardEvento({
 
 // ── Componente principal ──────────────────────────────────────────────────────
 
+async function notificarEvento(evento: Evento) {
+  try {
+    const esNuevo = !evento.nombre.includes("(editado)");
+    await fetch("/api/notify", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        title: esNuevo ? `📅 Nuevo evento: ${evento.nombre}` : `✏️ Evento actualizado: ${evento.nombre}`,
+        body: `${evento.fecha} ${evento.hora}${evento.lugar ? ` · ${evento.lugar}` : ""}`,
+        url: "/eventos",
+      }),
+    });
+  } catch { /* notificación no crítica */ }
+}
+
 export function ListaEventos() {
   const { eventos, cargar, cargando, guardar, eliminar, nuevo } = useEventosStore();
   const [modal, setModal] = useState<Evento | null>(null);
   const [confirmarEliminar, setConfirmarEliminar] = useState<string | null>(null);
 
   useEffect(() => { cargar(); }, [cargar]);
+
+  const guardarYNotificar = (evento: Evento) => {
+    guardar(evento);
+    notificarEvento(evento);
+  };
 
   const hoy = new Date().toISOString().split("T")[0];
   const proximos = eventos
@@ -333,7 +353,7 @@ export function ListaEventos() {
       {modal && (
         <ModalEvento
           evento={modal}
-          onGuardar={guardar}
+          onGuardar={guardarYNotificar}
           onCerrar={() => setModal(null)}
         />
       )}

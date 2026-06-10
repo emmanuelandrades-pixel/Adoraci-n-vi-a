@@ -197,12 +197,33 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Interludio: F - Dm - G - Am - G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 20
+                }
+              ]
             }
           ]
         },

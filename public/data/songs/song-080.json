@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Alguna vez escuché                 Porque mi amor se enciende",
+              "texto": "Alguna vez escuché",
               "acordes": [
                 {
                   "acorde": "G",
@@ -34,75 +34,47 @@
                 {
                   "acorde": "A",
                   "pos": 15
-                },
-                {
-                  "acorde": "G",
-                  "pos": 54
                 }
               ]
             },
             {
-              "texto": "Que aquel primer amor              Al mirarte de nuevo",
+              "texto": "Que aquel primer amor",
               "acordes": [
                 {
                   "acorde": "Bm",
                   "pos": 17
-                },
-                {
-                  "acorde": "A",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "Fue tan solo un momento            Al ver esos ojos de fuego ardiendo",
+              "texto": "Fue tan solo un momento",
               "acordes": [
                 {
                   "acorde": "F#m",
                   "pos": 17
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 47
-                },
-                {
-                  "acorde": "A",
-                  "pos": 61
-                },
-                {
-                  "acorde": "D",
-                  "pos": 63
                 }
               ]
             },
             {
-              "texto": "Un tiempo que pasó                 Porque mi amor se aviva",
+              "texto": "Un tiempo que pasó",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 15
-                },
-                {
-                  "acorde": "G",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "Alguna vez yo lo creí              Cuando corro a tus brazos",
+              "texto": "Alguna vez yo lo creí",
               "acordes": [
                 {
                   "acorde": "A",
                   "pos": 16
-                },
-                {
-                  "acorde": "A",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "Y avancé y me conformé                       Bm          A    D",
+              "texto": "Y avancé y me conformé",
               "acordes": [
                 {
                   "acorde": "Bm",
@@ -111,11 +83,16 @@
               ]
             },
             {
-              "texto": "F#m                Y dejo que tus ojos quemen mis",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
             },
             {
-              "texto": "Con un amor tan tibio              miedos",
+              "texto": "Con un amor tan tibio",
               "acordes": []
             }
           ]
@@ -126,7 +103,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Ya no, no más                 Y volveré a hacer",
+              "texto": "Ya no, no más",
               "acordes": [
                 {
                   "acorde": "G",
@@ -135,14 +112,6 @@
                 {
                   "acorde": "A",
                   "pos": 16
-                },
-                {
-                  "acorde": "G",
-                  "pos": 35
-                },
-                {
-                  "acorde": "A",
-                  "pos": 46
                 }
               ]
             },
@@ -168,12 +137,29 @@
               ]
             },
             {
-              "texto": "de mi                         G               A",
+              "texto": "de mi",
               "acordes": []
             },
             {
-              "texto": "D G D A                       Cuando me enamoré",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Ya no, no más",

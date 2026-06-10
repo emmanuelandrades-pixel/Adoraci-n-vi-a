@@ -67,7 +67,7 @@
               ]
             },
             {
-              "texto": "El misterio de tu gloria             La muerte venciste",
+              "texto": "El misterio de tu gloria",
               "acordes": [
                 {
                   "acorde": "Bm",
@@ -80,15 +80,11 @@
                 {
                   "acorde": "D",
                   "pos": 18
-                },
-                {
-                  "acorde": "G",
-                  "pos": 45
                 }
               ]
             },
             {
-              "texto": "Revelado en tu amor                  El velo partiste",
+              "texto": "Revelado en tu amor",
               "acordes": [
                 {
                   "acorde": "G",
@@ -101,82 +97,89 @@
                 {
                   "acorde": "A",
                   "pos": 13
-                },
-                {
-                  "acorde": "A",
-                  "pos": 45
                 }
               ]
             },
             {
-              "texto": "D                       La tumba vacía ahora está",
+              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Bm",
-                  "pos": 45
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 48
+                  "acorde": "D",
+                  "pos": 0
                 }
               ]
-            },
-            {
-              "texto": "Cuán hermoso su nombre es                      G",
-              "acordes": []
-            },
-            {
-              "texto": "A                       Los cielos declaran",
-              "acordes": []
-            },
-            {
-              "texto": "Cuán hermoso su nombre es                      A",
-              "acordes": []
-            },
-            {
-              "texto": "Bm A G                         Tu gloria proclaman",
-              "acordes": []
-            },
-            {
-              "texto": "El nombre de Jesús mi Rey                Bm           F#m",
-              "acordes": []
-            },
-            {
-              "texto": "D/F#                    Resucitaste en majestad",
-              "acordes": []
             },
             {
               "texto": "Cuán hermoso su nombre es",
               "acordes": []
             },
             {
-              "texto": "Nada se iguala a Él                  Inigualable",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cuán hermoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "El nombre de Jesús mi Rey",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cuán hermoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "Nada se iguala a Él",
               "acordes": [
                 {
                   "acorde": "A/C#",
                   "pos": 10
-                },
-                {
-                  "acorde": "G",
-                  "pos": 42
                 }
               ]
             },
             {
-              "texto": "Cuán hermoso su nombre es            Incomparable",
+              "texto": "Cuán hermoso su nombre es",
               "acordes": [
                 {
                   "acorde": "Bm",
                   "pos": 13
-                },
-                {
-                  "acorde": "A",
-                  "pos": 42
                 }
               ]
             },
             {
-              "texto": "No hay otro nombre                   Hoy y por siempre reinarás",
+              "texto": "No hay otro nombre",
               "acordes": [
                 {
                   "acorde": "A",
@@ -185,48 +188,58 @@
                 {
                   "acorde": "G",
                   "pos": 6
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 44
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 54
                 }
               ]
             },
             {
-              "texto": "D                                    Tuyo es el reino",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Dejaste el cielo por salvarme",
+              "acordes": []
+            },
+            {
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 44
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
                 }
               ]
             },
             {
-              "texto": "Dejaste el cielo por salvarme                A",
+              "texto": "Me viniste a rescatar",
               "acordes": []
             },
             {
-              "texto": "G       Bm A                      Tuya es la gloria",
-              "acordes": []
-            },
-            {
-              "texto": "Me viniste a rescatar                       Bm        A (F#m)",
-              "acordes": []
-            },
-            {
-              "texto": "Bm                A/C# D             Tuyo el poder y autoridad",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Mi transgresión tú perdonaste",
               "acordes": []
             },
             {
-              "texto": "Nada nos separará                    Poderoso su nombre es",
+              "texto": "Nada nos separará",
               "acordes": [
                 {
                   "acorde": "G",
@@ -239,61 +252,90 @@
                 {
                   "acorde": "A",
                   "pos": 7
-                },
-                {
-                  "acorde": "D",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "D                        Poderoso su nombre es",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "El nombre de Jesús mi Rey",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 45
+                  "pos": 0
                 }
               ]
             },
             {
-              "texto": "Majestuoso su nombre es                   Bm A       G",
+              "texto": "Nada se iguala a Él",
               "acordes": []
             },
             {
-              "texto": "A/C#                     El nombre de Jesús mi Rey",
-              "acordes": []
-            },
-            {
-              "texto": "Majestuoso su nombre es                         D/F#",
-              "acordes": []
-            },
-            {
-              "texto": "Bm A G                         Poderoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "El nombre de Jesús mi Rey                     A",
-              "acordes": []
-            },
-            {
-              "texto": "D/F#                     Incomparable es Él",
-              "acordes": []
-            },
-            {
-              "texto": "Majestuoso su nombre es                         Bm",
-              "acordes": []
-            },
-            {
-              "texto": "A                          Poderoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "Nada se iguala a Él                      A G",
-              "acordes": []
-            },
-            {
-              "texto": "Bm                       No hay otro nombre",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Majestuoso su nombre es",

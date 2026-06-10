@@ -200,7 +200,7 @@ function CardDocumento({
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg text-xs bg-primary/10 text-primary border border-primary/25 hover:bg-primary/20 transition-colors"
-          title="Abrir en Google Drive"
+          title="Abrir documento"
         >
           <ExternalLink className="w-3.5 h-3.5" />
           Abrir

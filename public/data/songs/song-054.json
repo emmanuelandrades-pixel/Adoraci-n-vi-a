@@ -29,50 +29,34 @@
               "acordes": []
             },
             {
-              "texto": "Veo al Rey de Gloria        Una gran generación",
+              "texto": "Veo al Rey de Gloria",
               "acordes": [
                 {
                   "acorde": "E",
                   "pos": 0
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 28
                 }
               ]
             },
             {
-              "texto": "Viene con fuego y poder     Con compasión con compasión",
+              "texto": "Viene con fuego y poder",
               "acordes": [
                 {
                   "acorde": "C#m",
                   "pos": 0
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 30
-                },
-                {
-                  "acorde": "B",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "Todos verán                 Veo avivamiento",
+              "texto": "Todos verán",
               "acordes": [
                 {
                   "acorde": "F#m",
                   "pos": 0
-                },
-                {
-                  "acorde": "E",
-                  "pos": 28
                 }
               ]
             },
             {
-              "texto": "Todos verán                 Al buscarte y al orar",
+              "texto": "Todos verán",
               "acordes": [
                 {
                   "acorde": "B",
@@ -81,23 +65,15 @@
                 {
                   "acorde": "C#m",
                   "pos": 17
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 28
                 }
               ]
             },
             {
-              "texto": "E                           Me postraré me postraré",
+              "texto": "",
               "acordes": [
                 {
-                  "acorde": "F#m",
-                  "pos": 35
-                },
-                {
-                  "acorde": "B",
-                  "pos": 50
+                  "acorde": "E",
+                  "pos": 0
                 }
               ]
             },
@@ -106,7 +82,7 @@
               "acordes": []
             },
             {
-              "texto": "Mi pecado perdonó           C#m E F#m G#m (x2)",
+              "texto": "Mi pecado perdonó",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -115,7 +91,7 @@
               ]
             },
             {
-              "texto": "Le alabaré le alabaré       Sáname y Límpiame",
+              "texto": "Le alabaré le alabaré",
               "acordes": [
                 {
                   "acorde": "F#m",
@@ -124,64 +100,107 @@
                 {
                   "acorde": "B",
                   "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 28
+                  "pos": 5
                 },
                 {
                   "acorde": "B",
-                  "pos": 38
-                }
-              ]
-            },
-            {
-              "texto": "E/G# A B C#m                Con mis ojos tus obras quiero ver",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 28
+                  "pos": 7
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 40
+                  "pos": 9
                 }
               ]
             },
             {
-              "texto": "Hosanna Hosanna             A                     B",
+              "texto": "Hosanna Hosanna",
               "acordes": []
             },
             {
-              "texto": "A    C#m       B            Quiero amarte como tú",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Hosanna en las alturas",
               "acordes": []
             },
             {
-              "texto": "Hosanna en las alturas      C#m",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Hosanna Hosanna",
               "acordes": []
             },
             {
-              "texto": "E/G# A B C#m                Me amas",
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Hosanna en las alturas",
               "acordes": []
             },
             {
-              "texto": "Hosanna Hosanna             A               B",
+              "texto": "…",
               "acordes": []
             },
             {
-              "texto": "A    B     C#m              Muéstrame tú corazón",
-              "acordes": []
-            },
-            {
-              "texto": "Hosanna en las alturas      E                     C#m",
-              "acordes": []
-            },
-            {
-              "texto": "…                           Todo lo que soy por tu Reino Dios",
-              "acordes": []
-            },
-            {
-              "texto": "Hosanna en las alturas      Contigo quiero estar por la",
+              "texto": "Hosanna en las alturas",
               "acordes": [
                 {
                   "acorde": "A",
@@ -194,14 +213,6 @@
                 {
                   "acorde": "E",
                   "pos": 13
-                },
-                {
-                  "acorde": "A",
-                  "pos": 28
-                },
-                {
-                  "acorde": "B",
-                  "pos": 51
                 }
               ]
             },

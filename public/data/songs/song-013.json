@@ -60,15 +60,20 @@
               ]
             },
             {
-              "texto": "G/B                            Opción para continuar:",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Santo, santo, santo",
               "acordes": []
             },
             {
-              "texto": "Reinas para siempre                     Yeshua",
+              "texto": "Reinas para siempre",
               "acordes": [
                 {
                   "acorde": "C/E",
@@ -77,23 +82,11 @@
                 {
                   "acorde": "F",
                   "pos": 38
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 40
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 44
-                },
-                {
-                  "acorde": "G",
-                  "pos": 45
                 }
               ]
             },
             {
-              "texto": "Y aquí te esperaré cantándote                    F",
+              "texto": "Y aquí te esperaré cantándote",
               "acordes": [
                 {
                   "acorde": "F",
@@ -110,32 +103,20 @@
               "acordes": []
             },
             {
-              "texto": "Y aquí te esperaré                    El más bello entre",
+              "texto": "Y aquí te esperaré",
               "acordes": [
                 {
                   "acorde": "Dm",
                   "pos": 3
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "Y aquí te esperaré                    Millares y millares",
+              "texto": "Y aquí te esperaré",
               "acordes": [
                 {
                   "acorde": "G/B",
                   "pos": 3
-                },
-                {
-                  "acorde": "C",
-                  "pos": 41
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
                 }
               ]
             },

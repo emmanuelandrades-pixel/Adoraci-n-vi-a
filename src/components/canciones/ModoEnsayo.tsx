@@ -20,6 +20,7 @@ const COLORES: Record<string, string> = {
   "pre-coro": "text-orange-400",
   intro: "text-blue-400",
   outro: "text-blue-400",
+  instrumental: "text-yellow-400",
 };
 
 interface Props { id: string; }
@@ -42,6 +43,7 @@ export function ModoEnsayo({ id }: Props) {
   const isScrollingRef = useRef(false);
   const speedRef = useRef(2);
   const animFrameRef = useRef<number | null>(null);
+  const accumRef = useRef(0); // acumula fracciones de pixel
 
   // Sincronizar speed state → speedRef
   useEffect(() => { speedRef.current = speed; }, [speed]);
@@ -66,7 +68,14 @@ export function ModoEnsayo({ id }: Props) {
   const scrollLoop = useCallback(() => {
     if (!isScrollingRef.current || !containerRef.current) return;
     const el = containerRef.current;
-    el.scrollTop += speedRef.current * 0.4;
+    // Tabla px/frame: nivel 1 = muy lento, nivel 10 = rápido
+    const PX = [0, 0.5, 0.7, 0.95, 1.25, 1.6, 2.0, 2.5, 3.1, 3.8, 4.6];
+    accumRef.current += PX[speedRef.current] ?? 0.5;
+    const pixels = Math.floor(accumRef.current);
+    if (pixels > 0) {
+      el.scrollTop += pixels;
+      accumRef.current -= pixels;
+    }
     if (el.scrollTop + el.clientHeight >= el.scrollHeight - 2) {
       // Llegó al final
       isScrollingRef.current = false;
@@ -87,6 +96,7 @@ export function ModoEnsayo({ id }: Props) {
   const reiniciar = useCallback(() => {
     if (containerRef.current) containerRef.current.scrollTop = 0;
     isScrollingRef.current = false;
+    accumRef.current = 0;
     setScrolling(false);
     if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
   }, []);
@@ -120,33 +130,65 @@ export function ModoEnsayo({ id }: Props) {
   const secciones = version.secciones;
 
   return (
-    <div className="min-h-screen bg-[#0a0a0f] text-white flex flex-col">
+    <div className="h-screen bg-[#0a0a0f] text-white flex flex-col overflow-hidden">
       {/* Barra superior */}
-      <div className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-4 py-2 bg-black/85 backdrop-blur-sm border-b border-white/10">
-        <div className="min-w-0">
-          <p className="font-bold text-base truncate">{cancion.titulo}</p>
-          <p className="text-xs text-white/50">{version.nombre} · {transponerAcorde(version.tonalidad, semitonos)}</p>
+      <div className="fixed top-0 left-0 right-0 z-50 bg-black/85 backdrop-blur-sm border-b border-white/10">
+        {/* Fila 1: título + controles principales */}
+        <div className="flex items-center justify-between px-3 py-2">
+          <div className="min-w-0 flex-1 mr-2">
+            <p className="font-bold text-sm truncate">{cancion.titulo}</p>
+            <p className="text-xs text-white/50">{version.nombre} · {transponerAcorde(version.tonalidad, semitonos)}</p>
+          </div>
+
+          <div className="flex items-center gap-1.5 flex-shrink-0">
+            {/* Reiniciar */}
+            <button
+              onClick={reiniciar}
+              className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
+              title="Volver al inicio"
+            >
+              <RotateCcw className="w-3.5 h-3.5" />
+            </button>
+
+            {/* Play/Pause */}
+            <button
+              onClick={toggleScroll}
+              className={cn(
+                "flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors",
+                scrolling ? "bg-green-500/30 text-green-400 border border-green-500/30" : "bg-white/10 hover:bg-white/20"
+              )}
+              title="Espacio para pausar/reanudar"
+            >
+              {scrolling ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
+              <span className="hidden sm:inline">{scrolling ? "Pausar" : "Scroll"}</span>
+            </button>
+
+            <button onClick={() => router.back()} className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors">
+              <X className="w-4 h-4" />
+            </button>
+          </div>
         </div>
 
-        <div className="flex items-center gap-2 flex-shrink-0">
+        {/* Fila 2: controles secundarios */}
+        <div className="flex items-center gap-2 px-3 pb-2">
           {/* Transposición */}
           <div className="flex items-center gap-1 bg-white/10 rounded-lg px-2 py-1">
-            <button onClick={() => setSemitonos((s) => s - 1)} className="p-1 hover:text-white/60 text-xs">−</button>
+            <button onClick={() => setSemitonos((s) => s - 1)} className="p-0.5 hover:text-white/60 text-xs">−</button>
             <span className="text-xs font-mono w-6 text-center">{semitonos > 0 ? `+${semitonos}` : semitonos}</span>
-            <button onClick={() => setSemitonos((s) => s + 1)} className="p-1 hover:text-white/60 text-xs">+</button>
+            <button onClick={() => setSemitonos((s) => s + 1)} className="p-0.5 hover:text-white/60 text-xs">+</button>
           </div>
 
           {/* Fuente */}
           <div className="flex items-center gap-1 bg-white/10 rounded-lg px-2 py-1">
-            <button onClick={() => setFontSize((f) => Math.max(12, f - 2))} className="p-1 text-xs hover:text-white/60">A−</button>
-            <button onClick={() => setFontSize((f) => Math.min(40, f + 2))} className="p-1 text-xs hover:text-white/60">A+</button>
+            <button onClick={() => setFontSize((f) => Math.max(12, f - 2))} className="p-0.5 text-xs hover:text-white/60">A−</button>
+            <button onClick={() => setFontSize((f) => Math.min(40, f + 2))} className="p-0.5 text-xs hover:text-white/60">A+</button>
           </div>
 
           {/* Velocidad scroll */}
           <div className="flex items-center gap-1 bg-white/10 rounded-lg px-2 py-1">
             <button
               onClick={() => setSpeed((s) => Math.max(1, s - 1))}
-              className="p-1 text-xs hover:text-white/60"
+              className="p-0.5 text-xs hover:text-white/60"
               title="Más lento"
             >
               <Minus className="w-3 h-3" />
@@ -154,45 +196,19 @@ export function ModoEnsayo({ id }: Props) {
             <span className="text-xs font-mono w-4 text-center">{speed}</span>
             <button
               onClick={() => setSpeed((s) => Math.min(10, s + 1))}
-              className="p-1 text-xs hover:text-white/60"
+              className="p-0.5 text-xs hover:text-white/60"
               title="Más rápido"
             >
               <Plus className="w-3 h-3" />
             </button>
           </div>
-
-          {/* Reiniciar */}
-          <button
-            onClick={reiniciar}
-            className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
-            title="Volver al inicio"
-          >
-            <RotateCcw className="w-3.5 h-3.5" />
-          </button>
-
-          {/* Play/Pause */}
-          <button
-            onClick={toggleScroll}
-            className={cn(
-              "flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors",
-              scrolling ? "bg-green-500/30 text-green-400 border border-green-500/30" : "bg-white/10 hover:bg-white/20"
-            )}
-            title="Espacio para pausar/reanudar"
-          >
-            {scrolling ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
-            {scrolling ? "Pausar" : "Scroll"}
-          </button>
-
-          <button onClick={() => router.back()} className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors">
-            <X className="w-4 h-4" />
-          </button>
         </div>
       </div>
 
       {/* Contenido scrollable */}
       <div
         ref={containerRef}
-        className="flex-1 overflow-y-auto pt-16 pb-20 px-6"
+        className="flex-1 overflow-y-auto pt-24 pb-20 px-4 md:px-6"
         style={{ scrollBehavior: "auto" }}
       >
         <div className="max-w-3xl mx-auto">
@@ -238,12 +254,14 @@ export function ModoEnsayo({ id }: Props) {
                               {lineaAcordes}
                             </pre>
                           )}
-                          <pre
-                            className="font-mono text-white/90 whitespace-pre leading-snug"
-                            style={{ fontSize: `${fontSize}px` }}
-                          >
-                            {linea.texto}
-                          </pre>
+                          {linea.texto !== "" && (
+                            <pre
+                              className="font-mono text-white/90 whitespace-pre leading-snug"
+                              style={{ fontSize: `${fontSize}px` }}
+                            >
+                              {linea.texto}
+                            </pre>
+                          )}
                         </div>
                       );
                     })}

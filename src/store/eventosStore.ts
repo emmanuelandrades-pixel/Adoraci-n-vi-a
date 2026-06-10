@@ -1,6 +1,15 @@
 import { create } from "zustand";
 import { Evento } from "@/types/evento";
-import { cargarEventos } from "@/lib/data-loader/cargarEventos";
+import { supabase } from "@/lib/supabase";
+
+const LS_KEY = "eventos-usuario";
+
+function lsGuardar(eventos: Evento[]) {
+  try { localStorage.setItem(LS_KEY, JSON.stringify(eventos)); } catch { /* ignore */ }
+}
+function lsCargar(): Evento[] {
+  try { const s = localStorage.getItem(LS_KEY); return s ? JSON.parse(s) : []; } catch { return []; }
+}
 
 interface EventosState {
   eventos: Evento[];
@@ -9,10 +18,7 @@ interface EventosState {
   guardar: (evento: Evento) => void;
   eliminar: (id: string) => void;
   nuevo: () => Evento;
-}
-
-function persistir(eventos: Evento[]) {
-  try { localStorage.setItem("eventos-usuario", JSON.stringify(eventos)); } catch { /* ignore */ }
+  suscribir: () => () => void;
 }
 
 export const useEventosStore = create<EventosState>((set, get) => ({
@@ -20,39 +26,48 @@ export const useEventosStore = create<EventosState>((set, get) => ({
   cargando: false,
 
   cargar: async () => {
-    set({ cargando: true });
-    const data = await cargarEventos();
-    const base = data.eventos;
+    set({ cargando: true, eventos: lsCargar() });
 
-    let usuario: Evento[] = [];
     try {
-      const saved = localStorage.getItem("eventos-usuario");
-      if (saved) usuario = JSON.parse(saved);
-    } catch { /* ignore */ }
+      const { data, error } = await supabase
+        .from("eventos")
+        .select("id, data")
+        .order("created_at", { ascending: false });
 
-    // Merge: usuario sobreescribe base por id, los nuevos se agregan
-    const mapa = new Map(base.map((e) => [e.id, e]));
-    for (const e of usuario) mapa.set(e.id, e);
-    set({ eventos: Array.from(mapa.values()), cargando: false });
+      if (error) throw error;
+
+      const eventos: Evento[] = (data ?? []).map((row) => ({ id: row.id, ...row.data } as Evento));
+      set({ eventos, cargando: false });
+      lsGuardar(eventos);
+    } catch {
+      set({ cargando: false });
+    }
   },
 
   guardar: (evento: Evento) => {
     const { eventos } = get();
     const idx = eventos.findIndex((e) => e.id === evento.id);
     const nuevos = idx >= 0
-      ? eventos.map((e) => (e.id === evento.id ? evento : e))
-      : [...eventos, evento];
+      ? eventos.map((e) => e.id === evento.id ? evento : e)
+      : [evento, ...eventos];
     set({ eventos: nuevos });
-    persistir(nuevos);
+    lsGuardar(nuevos);
+
+    const { id, ...data } = evento;
+    supabase.from("eventos").upsert({ id, data }, { onConflict: "id" })
+      .then(({ error }) => { if (error) console.error("Supabase evento error:", error); });
   },
 
   eliminar: (id: string) => {
     const nuevos = get().eventos.filter((e) => e.id !== id);
     set({ eventos: nuevos });
-    persistir(nuevos);
+    lsGuardar(nuevos);
+
+    supabase.from("eventos").delete().eq("id", id)
+      .then(({ error }) => { if (error) console.error("Supabase delete evento:", error); });
   },
 
-  nuevo: () => ({
+  nuevo: (): Evento => ({
     id: `evento-${Date.now()}`,
     nombre: "",
     fecha: new Date().toISOString().split("T")[0],
@@ -63,4 +78,26 @@ export const useEventosStore = create<EventosState>((set, get) => ({
     estado: "confirmado",
     setlists: [],
   }),
+
+  suscribir: () => {
+    const channel = supabase
+      .channel("eventos-realtime")
+      .on("postgres_changes", { event: "*", schema: "public", table: "eventos" }, (payload) => {
+        const { eventos } = get();
+        if (payload.eventType === "DELETE") {
+          const nuevos = eventos.filter((e) => e.id !== (payload.old as { id: string }).id);
+          set({ eventos: nuevos }); lsGuardar(nuevos);
+        } else {
+          const row = payload.new as { id: string; data: object };
+          const updated = { id: row.id, ...row.data } as Evento;
+          const idx = eventos.findIndex((e) => e.id === updated.id);
+          const nuevos = idx >= 0
+            ? eventos.map((e) => e.id === updated.id ? updated : e)
+            : [updated, ...eventos];
+          set({ eventos: nuevos }); lsGuardar(nuevos);
+        }
+      })
+      .subscribe();
+    return () => { supabase.removeChannel(channel); };
+  },
 }));

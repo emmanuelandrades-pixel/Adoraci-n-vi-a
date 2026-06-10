@@ -21,7 +21,7 @@
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "instrumental",
           "numero": null,
           "lineas": [
             {
@@ -265,8 +265,25 @@
               ]
             },
             {
-              "texto": "Interludio: G – D – Bm – A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
+                }
+              ]
             },
             {
               "texto": "La tumba venció,",

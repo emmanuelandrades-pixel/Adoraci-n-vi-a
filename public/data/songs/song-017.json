@@ -53,14 +53,6 @@
                 {
                   "acorde": "C",
                   "pos": 7
-                },
-                {
-                  "acorde": "D",
-                  "pos": 21
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 23
                 }
               ]
             },
@@ -138,6 +130,42 @@
                   "pos": 11
                 }
               ]
+            },
+            {
+              "texto": "Espíritu Santo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Ven como fuego",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Que consume",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Me consumes",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             }
           ]
         },
@@ -169,6 +197,15 @@
                 {
                   "acorde": "Em",
                   "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "A ti me rindo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
                 }
               ]
             },
@@ -267,10 +304,6 @@
                 {
                   "acorde": "G/B",
                   "pos": 15
-                },
-                {
-                  "acorde": "C",
-                  "pos": 22
                 }
               ]
             },
@@ -284,6 +317,18 @@
                 {
                   "acorde": "G/B",
                   "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 23
                 }
               ]
             },
@@ -330,6 +375,18 @@
                 {
                   "acorde": "G/B",
                   "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 19
                 }
               ]
             },
@@ -347,6 +404,18 @@
                 {
                   "acorde": "G/B",
                   "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 21
                 }
               ]
             },
@@ -356,6 +425,81 @@
             },
             {
               "texto": "En tu gloria",
+              "acordes": []
+            },
+            {
+              "texto": "En tu presencia",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "En tu gloria",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Por tu gloria",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Agua viva",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Fluye en mi ser",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Me sumerges",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "En tu gracia",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cielo abierto",
+              "acordes": []
+            },
+            {
+              "texto": "Inundándome",
+              "acordes": []
+            },
+            {
+              "texto": "Me restauras",
               "acordes": []
             }
           ]

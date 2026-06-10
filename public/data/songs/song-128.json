@@ -77,16 +77,26 @@
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Más difícil llega a ser",
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Ya no siento continuar",
@@ -149,16 +159,26 @@
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Menos tengo que ofrecer",
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y me siento atrapado",
@@ -402,6 +422,78 @@
                   "pos": 2
                 }
               ]
+            },
+            {
+              "texto": "En su canto encontraré mi fe",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Lo intentaré otra vez",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Mi hijo",
+              "acordes": []
+            },
+            {
+              "texto": "No sabes cuán orgulloso yo estoy de ti",
+              "acordes": []
+            },
+            {
+              "texto": "Créeme que lo que yo pienso de ti",
+              "acordes": []
+            },
+            {
+              "texto": "Y aunque te sientas vencido",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Yo fuerte seré",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "No me intimidan tus preguntas",
+              "acordes": []
+            },
+            {
+              "texto": "Yo no busco perfección",
+              "acordes": []
+            },
+            {
+              "texto": "En mis ojos suficiente tú serás",
+              "acordes": []
             }
           ]
         }

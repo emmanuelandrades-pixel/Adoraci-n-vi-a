@@ -29,8 +29,21 @@
               "acordes": []
             },
             {
-              "texto": "Em",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 16
+                }
+              ]
             },
             {
               "texto": "Santa la noche Hermosas las",
@@ -79,10 +92,6 @@
                 {
                   "acorde": "C",
                   "pos": 13
-                },
-                {
-                  "acorde": "G",
-                  "pos": 24
                 }
               ]
             },
@@ -152,6 +161,68 @@
             {
               "texto": "brilló",
               "acordes": []
+            },
+            {
+              "texto": "cadenas",
+              "acordes": []
+            },
+            {
+              "texto": "Su ley, su amor y su paz Él nos",
+              "acordes": []
+            },
+            {
+              "texto": "dió",
+              "acordes": []
+            },
+            {
+              "texto": "Nos enseñó amarnos uno al",
+              "acordes": []
+            },
+            {
+              "texto": "G         otro",
+              "acordes": []
+            },
+            {
+              "texto": "Y en Su nombre ya no hay más",
+              "acordes": []
+            },
+            {
+              "texto": "opresión",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Con gratitud traemos",
+              "acordes": []
+            },
+            {
+              "texto": "alabanzas",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La gloria y el poder son del",
+              "acordes": []
+            },
+            {
+              "texto": "Señor",
+              "acordes": []
             }
           ]
         },
@@ -161,11 +232,11 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Coro 1: Em",
+              "texto": "Coro 1: Em    Bm Am",
               "acordes": []
             },
             {
-              "texto": "Hoy adorad, Los ángeles lo",
+              "texto": "Hoy adorad, Los ángeles lo       Em - D - Bm - C - G (x4) ...D/F",
               "acordes": []
             },
             {
@@ -198,13 +269,8 @@
               "acordes": []
             },
             {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 9
-                }
-              ]
+              "texto": "GD       G",
+              "acordes": []
             },
             {
               "texto": "Nació El Salvador",
@@ -285,6 +351,18 @@
                   "pos": 20
                 }
               ]
+            },
+            {
+              "texto": "Coro 1",
+              "acordes": []
+            },
+            {
+              "texto": "(Intro)     Em     Bm     Am Em",
+              "acordes": []
+            },
+            {
+              "texto": "Hoy adorad, Postrados",
+              "acordes": []
             }
           ]
         }

@@ -135,8 +135,13 @@
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No hay nada, nada mejor que mi",
@@ -144,6 +149,133 @@
             },
             {
               "texto": "Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Vengo a ti",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Sin miedo y sin reservas",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Cada fracaso has visto Señor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Y aún tu amigo soy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Porque el Dios de los montes",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Es el Dios de los valles",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "No hay lugar que me pueda alejar",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "De tu gracia y amor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "/Cambias lamento en danza",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "De cenizas traes vida",
+              "acordes": [
+                {
+                  "acorde": "C/G",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cambias culpa por gloria",
+              "acordes": []
+            },
+            {
+              "texto": "Sé que solo tú lo harás",
               "acordes": []
             }
           ]

@@ -94,6 +94,67 @@
             {
               "texto": "Con un amor tan tibio",
               "acordes": []
+            },
+            {
+              "texto": "Porque mi amor se enciende",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Al mirarte de nuevo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Al ver esos ojos de fuego ardiendo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                },
+                {
+                  "acorde": "D",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Porque mi amor se aviva",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Cuando corro a tus brazos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Y dejo que tus ojos quemen mis",
+              "acordes": []
+            },
+            {
+              "texto": "miedos",
+              "acordes": []
             }
           ]
         },
@@ -108,10 +169,6 @@
                 {
                   "acorde": "G",
                   "pos": 7
-                },
-                {
-                  "acorde": "A",
-                  "pos": 16
                 }
               ]
             },
@@ -237,6 +294,23 @@
                   "pos": 22
                 }
               ]
+            },
+            {
+              "texto": "Y volveré a hacer",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Cuando me enamoré",
+              "acordes": []
             }
           ]
         }

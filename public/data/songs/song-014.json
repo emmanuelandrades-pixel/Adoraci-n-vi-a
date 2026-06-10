@@ -68,6 +68,10 @@
                 {
                   "acorde": "Asus4",
                   "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
                 }
               ]
             },
@@ -132,16 +136,26 @@
               ]
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Así eres Tú, así eres Tú, así eres Tú   Que no me puedo contener",
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y soy amado por ti",
@@ -153,6 +167,10 @@
                 {
                   "acorde": "A/C#",
                   "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 15
                 }
               ]
             },
@@ -202,6 +220,63 @@
                   "pos": 24
                 }
               ]
+            },
+            {
+              "texto": "He visto a muchos buscando",
+              "acordes": []
+            },
+            {
+              "texto": "Respuestas por todo lugar",
+              "acordes": []
+            },
+            {
+              "texto": "Pero sé que lo que buscamos",
+              "acordes": []
+            },
+            {
+              "texto": "Solo Tú nos puedes dar",
+              "acordes": []
+            },
+            {
+              "texto": "Porque sabes lo que anhelo",
+              "acordes": []
+            },
+            {
+              "texto": "Antes de mi oración",
+              "acordes": []
+            },
+            {
+              "texto": "//Y perfecta es tu voluntad",
+              "acordes": []
+            },
+            {
+              "texto": "Y perfecta es tu voluntad",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Esus4      Tu amor es tan innegable",
+              "acordes": []
+            },
+            {
+              "texto": "Paz tan inexplicable",
+              "acordes": []
+            },
+            {
+              "texto": "Imposible de comprender",
+              "acordes": []
+            },
+            {
+              "texto": "Y me llamas más profundo",
+              "acordes": []
             }
           ]
         }

@@ -111,16 +111,17 @@
                 {
                   "acorde": "G",
                   "pos": 19
-                },
-                {
-                  "acorde": "C",
-                  "pos": 39
                 }
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "En mi vida has sido bueno",
@@ -255,6 +256,163 @@
                 {
                   "acorde": "G",
                   "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Yo amo Tu voz",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Me has guiado por el fuego",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Tú cerca estás",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "en la oscuridad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Te conozco como Padre",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Y como amigo fiel",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi vida está en la bondad de Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Tu fidelidad sigue",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Persiguiéndome",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tu fidelidad sigue",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Persiguiéndome",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Todo lo que soy",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Te lo entrego hoy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
                 }
               ]
             }

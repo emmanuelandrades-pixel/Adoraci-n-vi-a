@@ -130,10 +130,6 @@
                 {
                   "acorde": "Em",
                   "pos": 9
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 21
                 }
               ]
             },
@@ -171,6 +167,14 @@
                 {
                   "acorde": "G",
                   "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 13
                 }
               ]
             },
@@ -201,6 +205,131 @@
             },
             {
               "texto": "D - Em7 - | Bm7 - A",
+              "acordes": []
+            },
+            {
+              "texto": "A Jesús autor del bien,",
+              "acordes": []
+            },
+            {
+              "texto": "Al recién nacido Rey.",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Ángeles cantando están,",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Tan dulcísima canción",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Las montañas su eco dan,",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Como fiel contestación.",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Oh oh oh oh ria, a Dios en lo al – to",
+              "acordes": []
+            },
+            {
+              "texto": "D/F# G A4 A D/F# G A4 A",
+              "acordes": []
+            },
+            {
+              "texto": "A Dios en lo al - to, a Dios en lo a - al",
+              "acordes": []
+            },
+            {
+              "texto": "- to.",
               "acordes": []
             }
           ]

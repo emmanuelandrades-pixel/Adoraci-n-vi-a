@@ -128,7 +128,7 @@
               ]
             },
             {
-              "texto": "Al mundo paz, el Salvador  C/E",
+              "texto": "Al mundo paz, el Salvador  C/E      F",
               "acordes": []
             },
             {
@@ -244,6 +244,123 @@
                 {
                   "acorde": "C",
                   "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Llego el Rey",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Al mundo paz",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Buena voluntad",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Cristo Jesús",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Él es el Rey",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Alégrense",
+              "acordes": []
+            },
+            {
+              "texto": "Y al mundo paz",
+              "acordes": []
+            },
+            {
+              "texto": "Al mundo Él gobernará",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Con gracia y con poder",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "A las naciones Él mostrará",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Su amor y su poder",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 4
                 }
               ]
             }

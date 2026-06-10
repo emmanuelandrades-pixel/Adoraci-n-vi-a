@@ -32,6 +32,19 @@
                   "pos": 0
                 }
               ]
+            },
+            {
+              "texto": "Ya no hay nada que temer, ooh-oh",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
             }
           ]
         },
@@ -45,8 +58,13 @@
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Dicen que eres uno de ellos",
@@ -62,7 +80,7 @@
               ]
             },
             {
-              "texto": "¡Mira qué hermoso destello eres de Él!",
+              "texto": "¡Mira qué hermoso destello eres de Él!      Bm",
               "acordes": []
             },
             {
@@ -75,6 +93,40 @@
                 {
                   "acorde": "D",
                   "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Todos a la mesa, nadie queda fuera",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Ya no hay tiempo que perder",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no hay nada que temer",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
                 }
               ]
             }
@@ -90,8 +142,13 @@
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Dicen que no está muy lejos",
@@ -154,8 +211,13 @@
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Ya no hay nada que temer, ooh-oh",
@@ -266,6 +328,164 @@
             },
             {
               "texto": "Esta es la promesa, gracia y vida eterna",
+              "acordes": []
+            },
+            {
+              "texto": "Oh-oh-oh, oh-oh-oh-oh-oh",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Ya no hay nada que temer",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no hay nada que temer",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Dicen que Dios tiene sueños",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Ocho billones de sueños",
+              "acordes": []
+            },
+            {
+              "texto": "¡Mira qué hermoso destello eres de Él!",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                },
+                {
+                  "acorde": "D",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Un lisiado a la mesa se sentó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Con vergüenza, sus heridas, ocultó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                },
+                {
+                  "acorde": "A",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Más, al Rey, no le importó su condición",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Bienvenido, hijo mío, declaró",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y el lisiado en la historia era yo",
               "acordes": []
             }
           ]

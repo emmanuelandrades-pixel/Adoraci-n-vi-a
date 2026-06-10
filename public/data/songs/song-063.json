@@ -152,19 +152,130 @@
               ]
             },
             {
+              "texto": "Interludio: G - Em7 - C",
+              "acordes": []
+            },
+            {
+              "texto": "O Alelu - ya, sea al que me libertó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Alelu - ya, de la muerte me arrancó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Las cadenas quebrantó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Y en Su nombre hay salvación",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 18
+                }
+              ]
+            },
+            {
               "texto": "",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi esperanza está en Jesús.",
+              "acordes": []
+            },
+            {
+              "texto": "Y tus promesas fueron selladas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Cuando tu cuerpo resucitó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 5
+                  "pos": 9
                 },
                 {
-                  "acorde": "C",
-                  "pos": 10
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Desde el silencio Tu gran rugido",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
                 }
               ]
             },
@@ -173,15 +284,15 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 43
+                  "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 52
+                  "pos": 15
                 },
                 {
                   "acorde": "G",
-                  "pos": 60
+                  "pos": 23
                 }
               ]
             }
@@ -258,10 +369,6 @@
                 {
                   "acorde": "C",
                   "pos": 0
-                },
-                {
-                  "acorde": "G",
-                  "pos": 10
                 }
               ]
             },
@@ -314,6 +421,104 @@
             },
             {
               "texto": "Mi esperanza está en Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "Y tus promesas fueron selladas",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Cuando tu cuerpo resucitó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Desde el silencio Tu gran rugido",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Quebró el poder de la muerte en mí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 17
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "La victoria está en Ti.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Final",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Mi esperanza está en Jesús",
+              "acordes": []
+            },
+            {
+              "texto": "Mi esperanza está en Jesús.",
               "acordes": []
             }
           ]

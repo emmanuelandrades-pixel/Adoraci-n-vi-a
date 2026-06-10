@@ -123,6 +123,74 @@
                   "pos": 8
                 }
               ]
+            },
+            {
+              "texto": "El centro de mi vida se Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "El centro de mi vida se Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
+                },
+                {
+                  "acorde": "E",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "fin",
+              "acordes": []
+            },
+            {
+              "texto": "Tú has sido y siempre serás",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 13
+                },
+                {
+                  "acorde": "E",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, Cristo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
             }
           ]
         },
@@ -192,7 +260,7 @@
               "acordes": []
             },
             {
-              "texto": "De ti Jesús, (el centro eres",
+              "texto": "De ti Jesús, (el centro eres       A",
               "acordes": [
                 {
                   "acorde": "E",
@@ -267,6 +335,54 @@
                   "pos": 13
                 }
               ]
+            },
+            {
+              "texto": "De mi ser hasta el cielo",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Cristo se el Centro",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Mi vida eres tú, si, mi vida eres",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "tú",
+              "acordes": []
+            },
+            {
+              "texto": "El centro de tu iglesia se Jesús",
+              "acordes": []
             }
           ]
         }

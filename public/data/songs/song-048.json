@@ -74,8 +74,13 @@
               ]
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Mas tu perdón, me liberó",
@@ -86,24 +91,39 @@
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tu voz me habló...",
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y a la muerte venció",
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Glorioso Día,",
@@ -178,6 +198,119 @@
                 {
                   "acorde": "D",
                   "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Ahora libre soy en tu amor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Es tu gracia la que me salvó",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Más tu perdón, a mí me liberó",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "D",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Coro...",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "De mi pecado me rescataste",
+              "acordes": []
+            },
+            {
+              "texto": "En tu gloria cadenas se rompen",
+              "acordes": []
+            },
+            {
+              "texto": "Ahora soy ciudadano del cielo",
+              "acordes": []
+            },
+            {
+              "texto": "Tú me sanaste estando herido",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús por tu amor yo respiro",
+              "acordes": []
+            },
+            {
+              "texto": "Tengo futuro, ahora veo",
+              "acordes": []
+            },
+            {
+              "texto": "Porque tú voz me habló...",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Y a la muerte venció",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Glorioso Día,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "tu sangre me rescató",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Tu voz me habló",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 14
                 }
               ]
             }

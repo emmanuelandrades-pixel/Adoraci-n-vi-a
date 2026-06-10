@@ -78,10 +78,6 @@
                 {
                   "acorde": "C/E",
                   "pos": 6
-                },
-                {
-                  "acorde": "F",
-                  "pos": 38
                 }
               ]
             },
@@ -244,6 +240,49 @@
                 {
                   "acorde": "Dm",
                   "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Opción para continuar:",
+              "acordes": []
+            },
+            {
+              "texto": "Yeshua",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "El más bello entre",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Millares y millares",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 15
                 }
               ]
             }

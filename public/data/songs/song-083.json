@@ -54,10 +54,6 @@
                 {
                   "acorde": "C#",
                   "pos": 10
-                },
-                {
-                  "acorde": "B",
-                  "pos": 13
                 }
               ]
             },
@@ -231,6 +227,70 @@
                   "pos": 25
                 }
               ]
+            },
+            {
+              "texto": "Libre soy en Él",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Libre en verdad",
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "D # m C# B",
+              "acordes": []
+            },
+            {
+              "texto": "Soy hijo de Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Sí lo soy",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Sitio hay para mí",
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "D # m C# B",
+              "acordes": []
+            },
+            {
+              "texto": "Soy hijo de Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Sí lo soy",
+              "acordes": []
+            },
+            {
+              "texto": "Perdonado",
+              "acordes": []
+            },
+            {
+              "texto": "Vas conmigo",
+              "acordes": []
             }
           ]
         }

@@ -101,10 +101,6 @@
                 {
                   "acorde": "G",
                   "pos": 0
-                },
-                {
-                  "acorde": "Gsus",
-                  "pos": 10
                 }
               ]
             },
@@ -278,10 +274,6 @@
                 {
                   "acorde": "Em7",
                   "pos": 31
-                },
-                {
-                  "acorde": "C",
-                  "pos": 35
                 }
               ]
             },
@@ -308,6 +300,267 @@
             },
             {
               "texto": "Pues Jesús... tal como soy me amas",
+              "acordes": []
+            },
+            {
+              "texto": "Quién soy yo para que aceptes mi",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Gsus",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 28
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "alabanza",
+              "acordes": []
+            },
+            {
+              "texto": "C       G5 G2",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Mientras haya aliento en mí te adoro Dios",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "G5 G2",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Eres fiel y lleno de gracia y te lo",
+              "acordes": []
+            },
+            {
+              "texto": "agradezco",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G5",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Todo lo tienes y aún anhelas mi corazón",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Fuiste Tú quien me encontró",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Tuyo soy, tu amor me cambió",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G5",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Mi dolor tu gracia cubrió",
+              "acordes": []
+            },
+            {
+              "texto": "G - Dsus",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Dsus",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor no va a dejarme así (tal como",
+              "acordes": []
+            },
+            {
+              "texto": "soy me amas)",
+              "acordes": []
+            },
+            {
+              "texto": "Mi co - razón solo tuyo es",
+              "acordes": []
+            },
+            {
+              "texto": "Aquí estoy",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor no va a dejarme así",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "Tu amor no va a dejarme",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "//Em7 - C - G",
               "acordes": []
             }
           ]

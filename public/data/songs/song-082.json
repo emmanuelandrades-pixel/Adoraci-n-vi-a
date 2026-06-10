@@ -47,16 +47,26 @@
               ]
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Ven y haz tu voluntad",
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Dios te queremos conocer",
@@ -182,27 +192,146 @@
               ]
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Entrónate en nuestra adoración   A",
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Asombroso eres señor",
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Con tu presencia llénanos",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "/ Espíritu, avívanos",
+              "acordes": []
+            },
+            {
+              "texto": "Te anhelamos dios",
+              "acordes": []
+            },
+            {
+              "texto": "Ooh… Te anhelamos Señor…",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Que se abra el cielo",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Muévete, señor",
+              "acordes": []
+            },
+            {
+              "texto": "Oh gran Dios (Oh gran Dios)",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "No hay cielos cerrados, se abren",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tu reino se mueve aquí",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "En ti está nuestra esperanza)",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "/ Oh gran Dios",
               "acordes": []
             }
           ]

@@ -353,6 +353,152 @@
                   "pos": 6
                 }
               ]
+            },
+            {
+              "texto": "La muerte venciste",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "El velo partiste",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "La tumba vacía ahora está",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 21
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Los cielos declaran",
+              "acordes": []
+            },
+            {
+              "texto": "Tu gloria proclaman",
+              "acordes": []
+            },
+            {
+              "texto": "Resucitaste en majestad",
+              "acordes": []
+            },
+            {
+              "texto": "Inigualable",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Incomparable",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Hoy y por siempre reinarás",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Tuyo es el reino",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Tuya es la gloria",
+              "acordes": []
+            },
+            {
+              "texto": "Bm        A (F#m)",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Tuyo el poder y autoridad",
+              "acordes": []
+            },
+            {
+              "texto": "Poderoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Poderoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "El nombre de Jesús mi Rey",
+              "acordes": []
+            },
+            {
+              "texto": "Poderoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "Incomparable es Él",
+              "acordes": []
+            },
+            {
+              "texto": "Poderoso su nombre es",
+              "acordes": []
+            },
+            {
+              "texto": "No hay otro nombre",
+              "acordes": []
             }
           ]
         }

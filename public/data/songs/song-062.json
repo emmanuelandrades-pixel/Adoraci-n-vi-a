@@ -194,6 +194,10 @@
                   "pos": 20
                 }
               ]
+            },
+            {
+              "texto": "(variación: Em7 – D/F#-Gadd9 - Asus4)",
+              "acordes": []
             }
           ]
         },
@@ -227,10 +231,23 @@
                 {
                   "acorde": "Gadd9",
                   "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "mi      rey, te alabo, te exalto",
+              "acordes": [
+                {
+                  "acorde": "Gadd9",
+                  "pos": 2
                 },
                 {
-                  "acorde": "D/F#",
-                  "pos": 11
+                  "acorde": "Bm7",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 28
                 }
               ]
             }

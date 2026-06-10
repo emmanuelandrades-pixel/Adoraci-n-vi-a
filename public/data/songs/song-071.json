@@ -62,19 +62,32 @@
                 {
                   "acorde": "D",
                   "pos": 0
-                },
-                {
-                  "acorde": "C",
-                  "pos": 14
                 }
               ]
             },
             {
               "texto": "Un camino mejor",
+              "acordes": []
+            },
+            {
+              "texto": "Ya no vivo yo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Tú vives en mí",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 13
                 }
               ]
             }
@@ -142,8 +155,13 @@
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No yo sino Cristo",
@@ -224,6 +242,106 @@
                 {
                   "acorde": "G",
                   "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Y no hay nada más",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Que pueda aportar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Tu gracia Jesús",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Me bastará",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Y consumado fue",
+              "acordes": []
+            },
+            {
+              "texto": "Por la fe puedo ver",
+              "acordes": []
+            },
+            {
+              "texto": "Todo tuyo es",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Y hoy mi adoración",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Vengo a darte Señor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 18
                 }
               ]
             }

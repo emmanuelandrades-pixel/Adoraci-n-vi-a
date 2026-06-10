@@ -48,10 +48,6 @@
                 {
                   "acorde": "Am7",
                   "pos": 6
-                },
-                {
-                  "acorde": "F9",
-                  "pos": 30
                 }
               ]
             },
@@ -73,8 +69,13 @@
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Si me has dado todo lo que tengo",
@@ -99,6 +100,14 @@
                 {
                   "acorde": "C/E",
                   "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 14
                 }
               ]
             },
@@ -125,10 +134,6 @@
                 {
                   "acorde": "F9",
                   "pos": 15
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 18
                 }
               ]
             },
@@ -151,10 +156,6 @@
                 {
                   "acorde": "F9",
                   "pos": 15
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 18
                 }
               ]
             },
@@ -173,6 +174,18 @@
                 {
                   "acorde": "C/E",
                   "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 11
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 20
                 }
               ]
             },
@@ -202,6 +215,133 @@
             },
             {
               "texto": "Si me has dado todo lo que tengo",
+              "acordes": []
+            },
+            {
+              "texto": "Enviaste a tu hijo a la Cruz",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Porque nos amas tanto",
+              "acordes": [
+                {
+                  "acorde": "F9",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F9",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Todo mal que hay en mi corazón",
+              "acordes": []
+            },
+            {
+              "texto": "F9    Ya lo has perdonado",
+              "acordes": []
+            },
+            {
+              "texto": "/Oh Gracias Papá",
+              "acordes": []
+            },
+            {
+              "texto": "Por no dejarme",
+              "acordes": []
+            },
+            {
+              "texto": "Sola... en el día",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Sola... en esa noche",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Sola... en mi mente",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Sola... en mis sueños",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "/Oh Gracias Papá",
+              "acordes": []
+            },
+            {
+              "texto": "Por quitarme",
+              "acordes": []
+            },
+            {
+              "texto": "Todas... las cargas",
+              "acordes": []
+            },
+            {
+              "texto": "Toda... ansiedad",
+              "acordes": []
+            },
+            {
+              "texto": "Toda... enfermedad",
+              "acordes": []
+            },
+            {
+              "texto": "/ Por entregarme tu amor",
               "acordes": []
             }
           ]

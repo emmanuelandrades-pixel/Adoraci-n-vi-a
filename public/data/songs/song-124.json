@@ -135,6 +135,118 @@
                   "pos": 18
                 }
               ]
+            },
+            {
+              "texto": "¿Quién es El que me alegra?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién es El que me da paz?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién es El que me conforta?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién lo amargo endulzara?",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién es el que me apasiona?",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién está creciendo en mi?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién llena mi alma hambrienta,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
+                },
+                {
+                  "acorde": "Asus2",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Y sacia mi necesidad?",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 19
+                }
+              ]
             }
           ]
         },
@@ -196,10 +308,6 @@
                 {
                   "acorde": "C#m",
                   "pos": 17
-                },
-                {
-                  "acorde": "B",
-                  "pos": 21
                 }
               ]
             },
@@ -268,6 +376,100 @@
                 {
                   "acorde": "A",
                   "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "Y por siempre reinarás",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Toda rodilla y toda lengua",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Se doblará y te confesará",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "Todo ángel te da gloria",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Ante tu gran Majestad",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Y aquí nos reunimos",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 18
                 }
               ]
             }

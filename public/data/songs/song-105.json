@@ -122,8 +122,13 @@
               "acordes": []
             },
             {
-              "texto": "B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Estás sufriendo alaba",
@@ -151,11 +156,16 @@
               "acordes": []
             },
             {
-              "texto": "E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
             },
             {
-              "texto": "Dios va al frente abriendo caminos",
+              "texto": "Dios va al frente abriendo caminos     B",
               "acordes": []
             },
             {
@@ -168,19 +178,24 @@
               ]
             },
             {
-              "texto": "Quebrando cadenas sacando espinas",
+              "texto": "Quebrando cadenas sacando espinas      C#",
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Manda a sus ángeles contigo a luchar",
               "acordes": []
             },
             {
-              "texto": "Él abre puertas nadie puede cerrar",
+              "texto": "Él abre puertas nadie puede cerrar     F#",
               "acordes": [
                 {
                   "acorde": "B",
@@ -193,8 +208,13 @@
               "acordes": []
             },
             {
-              "texto": "E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Él trabaja para los que confían",
@@ -210,12 +230,17 @@
               ]
             },
             {
-              "texto": "Camina contigo de noche y de día",
+              "texto": "Camina contigo de noche y de día       C#",
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Levanta tus manos tu victoria llego",
@@ -236,6 +261,79 @@
             },
             {
               "texto": "Cuán grande eres tú",
+              "acordes": []
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Alaba a Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Quebrando cadenas sacando espinas",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Manda a sus ángeles contigo a luchar",
+              "acordes": []
+            },
+            {
+              "texto": "Él abre puertas nadie puede cerrar",
+              "acordes": []
+            },
+            {
+              "texto": "Camina contigo de noche y de día",
+              "acordes": [
+                {
+                  "acorde": "D#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Levanta tus manos tu victoria llego",
+              "acordes": []
+            },
+            {
+              "texto": "Comienza a cantar y",
               "acordes": []
             }
           ]

@@ -47,7 +47,7 @@
               ]
             },
             {
-              "texto": "la estrella más sorprendente",
+              "texto": "la estrella más sorprendente     E",
               "acordes": []
             },
             {
@@ -78,10 +78,6 @@
                 {
                   "acorde": "D",
                   "pos": 0
-                },
-                {
-                  "acorde": "E",
-                  "pos": 11
                 }
               ]
             },
@@ -172,7 +168,7 @@
               ]
             },
             {
-              "texto": "¡Es que en mi casa puedas hoy",
+              "texto": "¡Es que en mi casa puedas hoy    F#      G#    C#",
               "acordes": []
             },
             {
@@ -186,6 +182,92 @@
             },
             {
               "texto": "entrar!",
+              "acordes": []
+            },
+            {
+              "texto": "D        E      / Ooh Ooh Ooh!",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Jesús es Navidad!",
+              "acordes": []
+            },
+            {
+              "texto": "Hosanna en las alturas",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "y a los hombres paz",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "que ha llegado navidad Ooh!",
+              "acordes": [
+                {
+                  "acorde": "D#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Hoy te invito a entrar",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "D#m        a mi corazón Ooh!",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "E       F#      ¿Oigan y si hacemos un baile?",
+              "acordes": []
+            },
+            {
+              "texto": "¡Sí, hagámoslo juntos!",
+              "acordes": []
+            },
+            {
+              "texto": "E   / Ooh Ooh Ooh!",
+              "acordes": []
+            },
+            {
+              "texto": "Jesús es Navidad!",
               "acordes": []
             }
           ]

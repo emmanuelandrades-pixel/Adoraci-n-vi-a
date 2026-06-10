@@ -61,10 +61,6 @@
                 {
                   "acorde": "B",
                   "pos": 3
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 17
                 }
               ]
             },
@@ -146,7 +142,7 @@
               ]
             },
             {
-              "texto": "Hosanna en las alturas",
+              "texto": "Hosanna en las alturas      C#m",
               "acordes": []
             },
             {
@@ -192,7 +188,7 @@
               ]
             },
             {
-              "texto": "Hosanna en las alturas",
+              "texto": "Hosanna en las alturas      E",
               "acordes": []
             },
             {
@@ -222,6 +218,118 @@
                 {
                   "acorde": "C#m",
                   "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Una gran generación",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Con compasión con compasión",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "B",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Veo avivamiento",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Al buscarte y al orar",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Me postraré me postraré",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "C#m E F#m G#m (x2)",
+              "acordes": []
+            },
+            {
+              "texto": "Sáname y Límpiame",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Con mis ojos tus obras quiero ver",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Quiero amarte como tú",
+              "acordes": []
+            },
+            {
+              "texto": "Me amas",
+              "acordes": []
+            },
+            {
+              "texto": "Muéstrame tú corazón",
+              "acordes": []
+            },
+            {
+              "texto": "Todo lo que soy por tu Reino Dios",
+              "acordes": []
+            },
+            {
+              "texto": "Contigo quiero estar por la",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 23
                 }
               ]
             }

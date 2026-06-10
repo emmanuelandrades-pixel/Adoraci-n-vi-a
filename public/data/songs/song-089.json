@@ -29,8 +29,13 @@
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Se postran adorarle",
@@ -54,8 +59,13 @@
               "acordes": []
             },
             {
-              "texto": "E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Los que nos precedieron",
@@ -84,10 +94,6 @@
                 {
                   "acorde": "B",
                   "pos": 15
-                },
-                {
-                  "acorde": "A",
-                  "pos": 27
                 }
               ]
             },
@@ -98,6 +104,67 @@
             {
               "texto": "Cántale al cordero que venció",
               "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cantan ángeles, San – to",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "A       Clama la creación, San – to",
+              "acordes": []
+            },
+            {
+              "texto": "Exaltado Dios, San – to",
+              "acordes": []
+            },
+            {
+              "texto": "Santo por siempre",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Si te ha perdonado",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y tienes salvación",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 16
+                }
+              ]
             }
           ]
         },
@@ -112,10 +179,6 @@
                 {
                   "acorde": "A",
                   "pos": 0
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 23
                 }
               ]
             },
@@ -147,10 +210,6 @@
                 {
                   "acorde": "A",
                   "pos": 0
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 19
                 }
               ]
             },
@@ -201,6 +260,75 @@
                   "pos": 16
                 }
               ]
+            },
+            {
+              "texto": "Si te ha libertado",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Su nombre ha puesto en ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Cántale al cordero que venció",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                },
+                {
+                  "acorde": "A",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Cantaremos siempre \"amén\"",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 17
+                },
+                {
+                  "acorde": "A",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Tu gente cantará, San - to",
+              "acordes": []
             }
           ]
         }

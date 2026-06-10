@@ -56,8 +56,13 @@
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Te escucho señor",
@@ -77,16 +82,26 @@
               ]
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "A tus pies yo espero",
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Aquí quiero estar",
@@ -138,6 +153,75 @@
                   "pos": 17
                 }
               ]
+            },
+            {
+              "texto": "A tus pies me rendiré",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Y mis miedos dejaré",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Transformado soy en tu",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "presencia",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres fuego en el día",
+              "acordes": []
+            },
+            {
+              "texto": "Tú eres briza en la noche",
+              "acordes": []
+            },
+            {
+              "texto": "Tú sacias mi sed",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "No hay duda alguna de tu amor y tu",
+              "acordes": []
+            },
+            {
+              "texto": "afecto",
+              "acordes": []
+            },
+            {
+              "texto": "No hay nada igual",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 16
+                }
+              ]
             }
           ]
         },
@@ -183,6 +267,62 @@
                 {
                   "acorde": "G",
                   "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "//Mi corazón abierto esta",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón abierto está Dios",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Haz lo que quieras en mí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Haz tu voluntad en mi Dios",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
                 }
               ]
             }

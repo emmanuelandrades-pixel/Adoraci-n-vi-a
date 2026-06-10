@@ -413,8 +413,13 @@
               ]
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Ven a adorar al que resucitó",
@@ -447,24 +452,43 @@
               "acordes": []
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",
               "acordes": []
             },
             {
-              "texto": "Em        C                 Ante su trono montes caerán",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Cristo nuestro Dios oh oh oh",
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "El vencedor que a la diestra está",
@@ -497,16 +521,30 @@
               "acordes": []
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",
               "acordes": []
             },
             {
-              "texto": "Em        C                 Interlude Final: Em - C - Em - C - G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Cristo nuestro Dios oh oh oh",

@@ -96,19 +96,15 @@
               "acordes": []
             },
             {
-              "texto": "G         Gsus         G5 G2              Todo lo tienes y aún anhelas mi corazón",
+              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 51
+                  "acorde": "G",
+                  "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 64
-                },
-                {
-                  "acorde": "G5",
-                  "pos": 73
+                  "acorde": "Gsus",
+                  "pos": 10
                 }
               ]
             },
@@ -177,8 +173,13 @@
               ]
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tuyo soy, tu amor me cambió",

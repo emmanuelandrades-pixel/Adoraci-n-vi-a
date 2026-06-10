@@ -205,8 +205,17 @@
               "acordes": []
             },
             {
-              "texto": "Am       F                           You put your love inside",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "You say I'm your own",

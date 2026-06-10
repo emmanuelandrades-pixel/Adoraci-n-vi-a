@@ -40,24 +40,51 @@
               "acordes": []
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tú eres el Padre",
               "acordes": []
             },
             {
-              "texto": "C        F G Am                      Nos abrazas en dolor",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 13
+                }
+              ]
             },
             {
               "texto": "Y nosotros tus hijos",
               "acordes": []
             },
             {
-              "texto": "F",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Nos muestras amor,",
@@ -170,21 +197,29 @@
               ]
             },
             {
-              "texto": "C       G                    Am      Tú me guías y me muestras la verdad",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 43
-                }
-              ]
+              "texto": "C",
+              "acordes": []
             },
             {
               "texto": "Tú eres el Padre bueno y fiel",
               "acordes": []
             },
             {
-              "texto": "F     G          C            Tú eres fiel, Tú eres fiel",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 17
+                }
+              ]
             },
             {
               "texto": "Nos proteges con fervor",
@@ -208,16 +243,34 @@
               ]
             },
             {
-              "texto": "F        G          C             soltará",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 20
+                }
+              ]
             },
             {
               "texto": "No nos vas a abandonar",
               "acordes": []
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Tú corriges nuestro mal",

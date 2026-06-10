@@ -29,7 +29,7 @@
               "acordes": []
             },
             {
-              "texto": "Em        Bm    C         G       cadenas",
+              "texto": "Em",
               "acordes": []
             },
             {
@@ -41,8 +41,21 @@
               "acordes": []
             },
             {
-              "texto": "Em       D      G           dió",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 16
+                }
+              ]
             },
             {
               "texto": "La noche en que nació El",
@@ -53,8 +66,25 @@
               "acordes": []
             },
             {
-              "texto": "Em        Bm C          G         otro",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 13
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                }
+              ]
             },
             {
               "texto": "Tanto esperó el mundo en su",
@@ -65,8 +95,21 @@
               "acordes": []
             },
             {
-              "texto": "Bm      F#m      G        Y en Su nombre ya no hay más",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
             },
             {
               "texto": "Hasta ese día en que Cristo",
@@ -77,8 +120,13 @@
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Una esperanza al mundo",
@@ -89,8 +137,13 @@
               "acordes": []
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "La luz de un nuevo día al fin",
@@ -145,8 +198,13 @@
               "acordes": []
             },
             {
-              "texto": "GD       G         (Intro)     Em     Bm     Am Em               D/F#",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Nació El Salvador",

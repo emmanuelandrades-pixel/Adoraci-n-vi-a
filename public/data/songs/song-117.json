@@ -51,8 +51,13 @@
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Llenas todo con tu luz",
@@ -81,15 +86,19 @@
               ]
             },
             {
-              "texto": "A    F#m Bm                     que ha llegado navidad Ooh!",
+              "texto": "",
               "acordes": [
                 {
-                  "acorde": "D#",
-                  "pos": 33
+                  "acorde": "A",
+                  "pos": 0
                 },
                 {
-                  "acorde": "G#m",
-                  "pos": 52
+                  "acorde": "F#m",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 9
                 }
               ]
             },
@@ -115,8 +124,13 @@
               ]
             },
             {
-              "texto": "B",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "¡Mi regalo al fin llegó Ooh!",

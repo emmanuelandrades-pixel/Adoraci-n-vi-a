@@ -101,16 +101,26 @@
               ]
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Cuán hermoso su nombre es",
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Cuán hermoso su nombre es",
@@ -182,16 +192,34 @@
               ]
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Dejaste el cielo por salvarme",
               "acordes": []
             },
             {
-              "texto": "G       Bm A                      Tuya es la gloria",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 11
+                }
+              ]
             },
             {
               "texto": "Me viniste a rescatar",
@@ -228,8 +256,13 @@
               ]
             },
             {
-              "texto": "D",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Majestuoso su nombre es",
@@ -283,8 +316,13 @@
               "acordes": []
             },
             {
-              "texto": "A",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Nada se iguala a Él",

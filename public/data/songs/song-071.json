@@ -121,11 +121,19 @@
               ]
             },
             {
-              "texto": "D      Em C     Me bastará",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
                 }
               ]
             },

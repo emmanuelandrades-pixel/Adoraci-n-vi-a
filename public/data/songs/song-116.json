@@ -121,23 +121,19 @@
               ]
             },
             {
-              "texto": "D        Em7         Bm7               Como fiel contestación.",
+              "texto": "",
               "acordes": [
                 {
-                  "acorde": "D/F#",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G",
-                  "pos": 47
-                },
-                {
-                  "acorde": "A",
-                  "pos": 49
-                },
-                {
                   "acorde": "D",
-                  "pos": 51
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 21
                 }
               ]
             },

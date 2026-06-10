@@ -96,8 +96,13 @@
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Allí en lo oscuro tu amor profundo",
@@ -248,19 +253,15 @@
               ]
             },
             {
-              "texto": "C         G                 La victoria está en Ti.",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 41
-                },
-                {
-                  "acorde": "D",
-                  "pos": 48
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 50
+                  "pos": 10
                 }
               ]
             },
@@ -282,16 +283,34 @@
               "acordes": []
             },
             {
-              "texto": "G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Señor hermoso te pertenezco",
               "acordes": []
             },
             {
-              "texto": "C      D    G                    Mi esperanza está en Jesús.",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
             },
             {
               "texto": "Mi esperanza está en Jesús",

@@ -69,8 +69,13 @@
               ]
             },
             {
-              "texto": "E",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Veo su amor y gracia",
@@ -124,8 +129,21 @@
               "acordes": []
             },
             {
-              "texto": "A    C#m       B            Quiero amarte como tú",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 15
+                }
+              ]
             },
             {
               "texto": "Hosanna en las alturas",
@@ -157,8 +175,21 @@
               "acordes": []
             },
             {
-              "texto": "A    B     C#m              Muéstrame tú corazón",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 11
+                }
+              ]
             },
             {
               "texto": "Hosanna en las alturas",

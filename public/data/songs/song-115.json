@@ -119,24 +119,47 @@
               ]
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Al mundo paz, el Salvador  C/E",
               "acordes": []
             },
             {
-              "texto": "F     G C              Alégrense",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                }
+              ]
             },
             {
               "texto": "En tierra reinará",
               "acordes": []
             },
             {
-              "texto": "C",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Ya es feliz el pecador",

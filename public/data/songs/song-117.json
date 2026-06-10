@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Ha nacido en un pesebre            B    G#m C#m",
+              "texto": "Ha nacido en un pesebre",
               "acordes": [
                 {
                   "acorde": "A",
@@ -38,15 +38,15 @@
               ]
             },
             {
-              "texto": "Bm               D        E      / Ooh Ooh Ooh!",
+              "texto": "Bm",
               "acordes": []
             },
             {
-              "texto": "la estrella más sorprendente     E          F#",
+              "texto": "la estrella más sorprendente",
               "acordes": []
             },
             {
-              "texto": "A                  C#m           Jesús es Navidad!",
+              "texto": "A",
               "acordes": []
             },
             {
@@ -54,20 +54,16 @@
               "acordes": []
             },
             {
-              "texto": "Ooh Ooh y con el cielo canto     Hosanna en las alturas",
+              "texto": "Ooh Ooh y con el cielo canto",
               "acordes": [
                 {
                   "acorde": "Bm",
                   "pos": 0
-                },
-                {
-                  "acorde": "E",
-                  "pos": 33
                 }
               ]
             },
             {
-              "texto": "alegremente                      y a los hombres paz",
+              "texto": "alegremente",
               "acordes": [
                 {
                   "acorde": "D",
@@ -76,10 +72,6 @@
                 {
                   "acorde": "E",
                   "pos": 11
-                },
-                {
-                  "acorde": "B",
-                  "pos": 33
                 }
               ]
             },
@@ -101,7 +93,7 @@
               "acordes": []
             },
             {
-              "texto": "Jesús es Navidad!/               Hoy te invito a entrar",
+              "texto": "Jesús es Navidad!/",
               "acordes": [
                 {
                   "acorde": "D",
@@ -114,40 +106,27 @@
                 {
                   "acorde": "A",
                   "pos": 15
-                },
-                {
-                  "acorde": "E",
-                  "pos": 33
                 }
               ]
             },
             {
-              "texto": "B                    D#m        a mi corazón Ooh!",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 33
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 48
-                }
-              ]
+              "texto": "B",
+              "acordes": []
             },
             {
               "texto": "¡Mi regalo al fin llegó Ooh!",
               "acordes": []
             },
             {
-              "texto": "C#m              E       F#      ¿Oigan y si hacemos un baile?",
+              "texto": "C#m",
               "acordes": []
             },
             {
-              "texto": "Es Jesús mi Salvador             ¡Sí, hagámoslo juntos!",
+              "texto": "Es Jesús mi Salvador",
               "acordes": []
             },
             {
-              "texto": "El tesoro de la Navidad            C# A#m D#m",
+              "texto": "El tesoro de la Navidad",
               "acordes": [
                 {
                   "acorde": "B",
@@ -160,15 +139,15 @@
               ]
             },
             {
-              "texto": "C#m                          E   / Ooh Ooh Ooh!",
+              "texto": "C#m",
               "acordes": []
             },
             {
-              "texto": "¡Es que en mi casa puedas hoy    F#      G#    C#",
+              "texto": "¡Es que en mi casa puedas hoy",
               "acordes": []
             },
             {
-              "texto": "F#                               Jesús es Navidad!",
+              "texto": "F#",
               "acordes": []
             },
             {

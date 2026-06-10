@@ -25,40 +25,23 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "D - Em7 - Bm7 - A4| A              D/F# G A Bm7",
+              "texto": "D - Em7 - Bm7 - A4| A",
               "acordes": []
             },
             {
-              "texto": "D/F# - G – A4|A - D                A Jesús autor del bien,",
+              "texto": "D/F# - G – A4|A - D",
               "acordes": []
             },
             {
-              "texto": "D/F# G A Bm7                              Al recién nacido Rey.",
-              "acordes": [
-                {
-                  "acorde": "D/F#",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G",
-                  "pos": 47
-                },
-                {
-                  "acorde": "A",
-                  "pos": 49
-                },
-                {
-                  "acorde": "D",
-                  "pos": 51
-                }
-              ]
+              "texto": "D/F# G A Bm7",
+              "acordes": []
             },
             {
               "texto": "Ángeles cantando están,",
               "acordes": []
             },
             {
-              "texto": "Tan dulcísima canción                     Ángeles cantando están,",
+              "texto": "Tan dulcísima canción",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -75,27 +58,11 @@
                 {
                   "acorde": "Bm7",
                   "pos": 9
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G",
-                  "pos": 47
-                },
-                {
-                  "acorde": "A",
-                  "pos": 49
-                },
-                {
-                  "acorde": "Bm7",
-                  "pos": 51
                 }
               ]
             },
             {
-              "texto": "Las montañas su eco dan,                  Tan dulcísima canción",
+              "texto": "Las montañas su eco dan,",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -112,27 +79,11 @@
                 {
                   "acorde": "Bm7",
                   "pos": 15
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G",
-                  "pos": 47
-                },
-                {
-                  "acorde": "A",
-                  "pos": 49
-                },
-                {
-                  "acorde": "Bm7",
-                  "pos": 51
                 }
               ]
             },
             {
-              "texto": "Como fiel contestación.                   Las montañas su eco dan,",
+              "texto": "Como fiel contestación.",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -149,22 +100,6 @@
                 {
                   "acorde": "D",
                   "pos": 9
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G",
-                  "pos": 47
-                },
-                {
-                  "acorde": "A",
-                  "pos": 55
-                },
-                {
-                  "acorde": "Bm7",
-                  "pos": 57
                 }
               ]
             },
@@ -194,7 +129,7 @@
               "acordes": []
             },
             {
-              "texto": "A4 A D/F# G A4 A                      D         Em7           Bm7",
+              "texto": "A4 A D/F# G A4 A",
               "acordes": []
             },
             {
@@ -206,7 +141,7 @@
               "acordes": []
             },
             {
-              "texto": "D - Em7 - Bm7 - A                          Oh oh oh oh ria, a Dios en lo al – to",
+              "texto": "D - Em7 - Bm7 - A",
               "acordes": []
             },
             {
@@ -214,15 +149,15 @@
               "acordes": []
             },
             {
-              "texto": "D/F# G     A Bm7                          D/F# G A4 A D/F# G A4 A",
+              "texto": "D/F# G",
               "acordes": []
             },
             {
-              "texto": "Oh venid pronto a Belen,                  A Dios en lo al - to, a Dios en lo a - al",
+              "texto": "Oh venid pronto a Belen,",
               "acordes": []
             },
             {
-              "texto": "D/F# G A Bm7                              - to.",
+              "texto": "D/F# G A Bm7",
               "acordes": []
             },
             {

@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "El mundo busqué                       Vengo a ti",
+              "texto": "El mundo busqué",
               "acordes": [
                 {
                   "acorde": "C/G",
@@ -34,15 +34,11 @@
                 {
                   "acorde": "G",
                   "pos": 11
-                },
-                {
-                  "acorde": "G",
-                  "pos": 43
                 }
               ]
             },
             {
-              "texto": "Y no pudo llenarme                    Sin miedo y sin reservas",
+              "texto": "Y no pudo llenarme",
               "acordes": [
                 {
                   "acorde": "C/G",
@@ -51,19 +47,11 @@
                 {
                   "acorde": "G",
                   "pos": 7
-                },
-                {
-                  "acorde": "C",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Ningún tesoro que pueda ganar         Cada fracaso has visto Señor",
+              "texto": "Ningún tesoro que pueda ganar",
               "acordes": [
                 {
                   "acorde": "Em",
@@ -72,45 +60,29 @@
                 {
                   "acorde": "G/D",
                   "pos": 17
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 42
-                },
-                {
-                  "acorde": "G/D",
-                  "pos": 56
                 }
               ]
             },
             {
-              "texto": "Me saciará                            Y aún tu amigo soy",
+              "texto": "Me saciará",
               "acordes": [
                 {
                   "acorde": "C",
                   "pos": 5
-                },
-                {
-                  "acorde": "C",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "Mas llegaste tú                       Porque el Dios de los montes",
+              "texto": "Mas llegaste tú",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 8
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "Me diste vida nueva                   Es el Dios de los valles",
+              "texto": "Me diste vida nueva",
               "acordes": [
                 {
                   "acorde": "C/G",
@@ -119,19 +91,11 @@
                 {
                   "acorde": "G",
                   "pos": 12
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 41
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "Y cada deseo se cumplirá              No hay lugar que me pueda alejar",
+              "texto": "Y cada deseo se cumplirá",
               "acordes": [
                 {
                   "acorde": "Em",
@@ -140,70 +104,46 @@
                 {
                   "acorde": "G/D",
                   "pos": 16
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 43
-                },
-                {
-                  "acorde": "G/D",
-                  "pos": 58
                 }
               ]
             },
             {
-              "texto": "Aquí en tu amor                       De tu gracia y amor",
+              "texto": "Aquí en tu amor",
               "acordes": [
                 {
                   "acorde": "C",
                   "pos": 8
-                },
-                {
-                  "acorde": "C",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Oh no hay nada, nada mejor            /Cambias lamento en danza",
+              "texto": "Oh no hay nada, nada mejor",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 38
-                },
-                {
-                  "acorde": "C/G",
-                  "pos": 55
                 }
               ]
             },
             {
-              "texto": "No hay nada, nada mejor               De cenizas traes vida",
+              "texto": "No hay nada, nada mejor",
               "acordes": [
                 {
                   "acorde": "Em",
                   "pos": 4
-                },
-                {
-                  "acorde": "C/G",
-                  "pos": 51
                 }
               ]
             },
             {
-              "texto": "C            G                   Cambias culpa por gloria",
+              "texto": "C",
               "acordes": []
             },
             {
-              "texto": "No hay nada, nada mejor que mi           Em C          G",
+              "texto": "No hay nada, nada mejor que mi",
               "acordes": []
             },
             {
-              "texto": "Dios                                  Sé que solo tú lo harás",
+              "texto": "Dios",
               "acordes": []
             }
           ]

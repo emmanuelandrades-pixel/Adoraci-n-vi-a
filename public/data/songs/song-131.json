@@ -36,7 +36,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Me rompí cuando pensaba que era fuerte        Quién soy yo para que aceptes mi",
+              "texto": "Me rompí cuando pensaba que era fuerte",
               "acordes": [
                 {
                   "acorde": "G",
@@ -53,47 +53,31 @@
                 {
                   "acorde": "G2",
                   "pos": 29
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
-                },
-                {
-                  "acorde": "Gsus",
-                  "pos": 63
-                },
-                {
-                  "acorde": "G5",
-                  "pos": 74
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 77
                 }
               ]
             },
             {
-              "texto": "Em           C       G5 G2              alabanza",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Fiel he sido y te he fallado a la misma vez         Em           C       G5 G2",
+              "texto": "Fiel he sido y te he fallado a la misma vez",
               "acordes": []
             },
             {
-              "texto": "Em           C       G5 G2              Mientras haya aliento en mí te adoro Dios",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Intenté tener control pero no pude               Em            C            G5 G2",
+              "texto": "Intenté tener control pero no pude",
               "acordes": []
             },
             {
-              "texto": "Em           C       G5 G2              Eres fiel y lleno de gracia y te lo",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Llegué alto y en un momento volví a caer      agradezco",
+              "texto": "Llegué alto y en un momento volví a caer",
               "acordes": []
             },
             {
@@ -118,31 +102,31 @@
               "acordes": []
             },
             {
-              "texto": "batalla                                           C            Em7",
+              "texto": "batalla",
               "acordes": []
             },
             {
-              "texto": "Em          C      G5 G2                Fuiste Tú quien me encontró",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Me alejé y me atrajiste de nuevo a ti            G             Dsus",
+              "texto": "Me alejé y me atrajiste de nuevo a ti",
               "acordes": []
             },
             {
-              "texto": "Em          C      G5 G2                Tuyo soy, tu amor me cambió",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Malgasté lo que tenía desesperado                C            Em7",
+              "texto": "Malgasté lo que tenía desesperado",
               "acordes": []
             },
             {
-              "texto": "Em          C      G5                   Mi dolor tu gracia cubrió",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Pero descubrí Tú siempre estuviste ahí                 G - Dsus",
+              "texto": "Pero descubrí Tú siempre estuviste ahí",
               "acordes": []
             },
             {
@@ -150,7 +134,7 @@
               "acordes": []
             },
             {
-              "texto": "Fuiste Tú quien me encontró                   Em7     C         G/B     D",
+              "texto": "Fuiste Tú quien me encontró",
               "acordes": [
                 {
                   "acorde": "C",
@@ -163,15 +147,15 @@
               ]
             },
             {
-              "texto": "G             Dsus                         Tu amor no va a dejarme así (tal como",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "Tuyo soy, tu amor me cambió                   soy me amas)",
+              "texto": "Tuyo soy, tu amor me cambió",
               "acordes": []
             },
             {
-              "texto": "Mi error tu gracia cubrió                     Em7 C G/B D",
+              "texto": "Mi error tu gracia cubrió",
               "acordes": [
                 {
                   "acorde": "C",
@@ -184,11 +168,11 @@
               ]
             },
             {
-              "texto": "G - Dsus                             Mi co - razón solo tuyo es",
+              "texto": "G - Dsus",
               "acordes": []
             },
             {
-              "texto": "No puedo entenderlo                           Em7 C        G/B     D",
+              "texto": "No puedo entenderlo",
               "acordes": []
             },
             {
@@ -196,7 +180,7 @@
               "acordes": []
             },
             {
-              "texto": "Y sé que yo no merezco este amor              Aquí estoy",
+              "texto": "Y sé que yo no merezco este amor",
               "acordes": [
                 {
                   "acorde": "C",
@@ -217,19 +201,11 @@
                 {
                   "acorde": "C",
                   "pos": 14
-                },
-                {
-                  "acorde": "C",
-                  "pos": 46
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Tu amor que no se puede comprender            Tu amor no va a dejarme así",
+              "texto": "Tu amor que no se puede comprender",
               "acordes": [
                 {
                   "acorde": "C",
@@ -250,27 +226,11 @@
                 {
                   "acorde": "C",
                   "pos": 21
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 46
-                },
-                {
-                  "acorde": "D",
-                  "pos": 56
-                },
-                {
-                  "acorde": "C",
-                  "pos": 65
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 69
                 }
               ]
             },
             {
-              "texto": "Gracia que nunca voy a entender, no           Tu amor no va a dejarme",
+              "texto": "Gracia que nunca voy a entender, no",
               "acordes": [
                 {
                   "acorde": "C",
@@ -291,14 +251,6 @@
                 {
                   "acorde": "C",
                   "pos": 35
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 46
-                },
-                {
-                  "acorde": "D",
-                  "pos": 56
                 }
               ]
             },
@@ -307,7 +259,7 @@
               "acordes": []
             },
             {
-              "texto": "C G Dsus              //Em7 - C - G",
+              "texto": "C G Dsus",
               "acordes": []
             },
             {

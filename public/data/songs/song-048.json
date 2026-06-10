@@ -25,33 +25,25 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Mi vergüenza me sepultó                  Ahora libre soy en tu amor",
+              "texto": "Mi vergüenza me sepultó",
               "acordes": [
                 {
                   "acorde": "D",
                   "pos": 7
-                },
-                {
-                  "acorde": "D",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Yo buscaba un salvador                   Es tu gracia la que me salvó",
+              "texto": "Yo buscaba un salvador",
               "acordes": [
                 {
                   "acorde": "Bm",
                   "pos": 7
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 47
                 }
               ]
             },
             {
-              "texto": "Mas tu perdón… me liberó                 Más tu perdón, a mí me liberó",
+              "texto": "Mas tu perdón… me liberó",
               "acordes": [
                 {
                   "acorde": "G",
@@ -60,19 +52,11 @@
                 {
                   "acorde": "D",
                   "pos": 21
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
-                },
-                {
-                  "acorde": "D",
-                  "pos": 69
                 }
               ]
             },
             {
-              "texto": "Muerto estaba en mi interior             Coro...",
+              "texto": "Muerto estaba en mi interior",
               "acordes": [
                 {
                   "acorde": "D",
@@ -81,7 +65,7 @@
               ]
             },
             {
-              "texto": "Me escondía de Ti Señor                  D",
+              "texto": "Me escondía de Ti Señor",
               "acordes": [
                 {
                   "acorde": "Bm",
@@ -90,11 +74,11 @@
               ]
             },
             {
-              "texto": "G           D                 De mi pecado me rescataste",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "Mas tu perdón, me liberó                 En tu gloria cadenas se rompen",
+              "texto": "Mas tu perdón, me liberó",
               "acordes": []
             },
             {
@@ -102,23 +86,23 @@
               "acordes": []
             },
             {
-              "texto": "G                           Ahora soy ciudadano del cielo",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "Tu voz me habló...                       Tú me sanaste estando herido",
+              "texto": "Tu voz me habló...",
               "acordes": []
             },
             {
-              "texto": "D                      Jesús por tu amor yo respiro",
+              "texto": "D",
               "acordes": []
             },
             {
-              "texto": "Y a la muerte venció                     Bm             A",
+              "texto": "Y a la muerte venció",
               "acordes": []
             },
             {
-              "texto": "G                              Tengo futuro, ahora veo",
+              "texto": "G",
               "acordes": []
             },
             {
@@ -126,67 +110,47 @@
               "acordes": []
             },
             {
-              "texto": "tu sangre me rescató                     Porque tú voz me habló...",
+              "texto": "tu sangre me rescató",
               "acordes": [
                 {
                   "acorde": "D",
                   "pos": 18
-                },
-                {
-                  "acorde": "G",
-                  "pos": 62
                 }
               ]
             },
             {
-              "texto": "Tu voz me habló                          Y a la muerte venció",
+              "texto": "Tu voz me habló",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 14
-                },
-                {
-                  "acorde": "D",
-                  "pos": 59
                 }
               ]
             },
             {
-              "texto": "Y a la muerte venció                     Glorioso Día,",
+              "texto": "Y a la muerte venció",
               "acordes": [
                 {
                   "acorde": "Bm",
                   "pos": 17
-                },
-                {
-                  "acorde": "G",
-                  "pos": 51
                 }
               ]
             },
             {
-              "texto": "Glorioso Día,                            tu sangre me rescató",
+              "texto": "Glorioso Día,",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 11
-                },
-                {
-                  "acorde": "D",
-                  "pos": 59
                 }
               ]
             },
             {
-              "texto": "tu sangre me rescató…                    Tu voz me habló",
+              "texto": "tu sangre me rescató…",
               "acordes": [
                 {
                   "acorde": "D",
                   "pos": 18
-                },
-                {
-                  "acorde": "G",
-                  "pos": 55
                 }
               ]
             },

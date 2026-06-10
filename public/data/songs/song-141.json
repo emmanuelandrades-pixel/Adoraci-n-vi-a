@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Faithful one no matter how far I run                  F C/E",
+              "texto": "Faithful one no matter how far I run",
               "acordes": [
                 {
                   "acorde": "Dm",
@@ -38,19 +38,19 @@
               ]
             },
             {
-              "texto": "Am            F                           It was always you",
+              "texto": "Am",
               "acordes": []
             },
             {
-              "texto": "You lead me home you extend your                      Am",
+              "texto": "You lead me home you extend your",
               "acordes": []
             },
             {
-              "texto": "love                                         It was always you",
+              "texto": "love",
               "acordes": []
             },
             {
-              "texto": "Patiently fathering the orphan in me         You found me",
+              "texto": "Patiently fathering the orphan in me",
               "acordes": [
                 {
                   "acorde": "Dm",
@@ -59,15 +59,11 @@
                 {
                   "acorde": "C/E",
                   "pos": 18
-                },
-                {
-                  "acorde": "G",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "You say I am your own                                    F       C",
+              "texto": "You say I am your own",
               "acordes": [
                 {
                   "acorde": "Am",
@@ -84,7 +80,7 @@
               "acordes": []
             },
             {
-              "texto": "I never am alone                 I'm never going back",
+              "texto": "I never am alone",
               "acordes": [
                 {
                   "acorde": "F",
@@ -93,28 +89,20 @@
                 {
                   "acorde": "C/E",
                   "pos": 15
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "I never am alone                 I'm never going back",
+              "texto": "I never am alone",
               "acordes": [
                 {
                   "acorde": "Am",
                   "pos": 13
-                },
-                {
-                  "acorde": "F",
-                  "pos": 48
                 }
               ]
             },
             {
-              "texto": "You found me                     F",
+              "texto": "You found me",
               "acordes": [
                 {
                   "acorde": "G",
@@ -127,7 +115,7 @@
               "acordes": []
             },
             {
-              "texto": "And I've made up my mind               I'm giving you everything",
+              "texto": "And I've made up my mind",
               "acordes": [
                 {
                   "acorde": "F",
@@ -136,36 +124,24 @@
                 {
                   "acorde": "C",
                   "pos": 13
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 39
                 }
               ]
             },
             {
-              "texto": "I'm never going back                   You make my soul alive",
+              "texto": "I'm never going back",
               "acordes": [
                 {
                   "acorde": "Am",
                   "pos": 9
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 39
                 }
               ]
             },
             {
-              "texto": "I'm never going back                   You put your love inside",
+              "texto": "I'm never going back",
               "acordes": [
                 {
                   "acorde": "F",
                   "pos": 9
-                },
-                {
-                  "acorde": "G",
-                  "pos": 39
                 }
               ]
             }
@@ -177,7 +153,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Righteousness found only in your       There's nothing that I have need of",
+              "texto": "Righteousness found only in your",
               "acordes": [
                 {
                   "acorde": "Dm",
@@ -186,35 +162,31 @@
                 {
                   "acorde": "C/E",
                   "pos": 20
-                },
-                {
-                  "acorde": "F",
-                  "pos": 39
                 }
               ]
             },
             {
-              "texto": "face                                   C/E",
+              "texto": "face",
               "acordes": []
             },
             {
-              "texto": "Am            F                      Cuz there's nothing you haven't",
+              "texto": "Am",
               "acordes": []
             },
             {
-              "texto": "You see my heart you extend your       done",
+              "texto": "You see my heart you extend your",
               "acordes": []
             },
             {
-              "texto": "grace                                  Am",
+              "texto": "grace",
               "acordes": []
             },
             {
-              "texto": "Dm              C/E                    You make my soul alive",
+              "texto": "Dm",
               "acordes": []
             },
             {
-              "texto": "Eyes open falling in love again        G",
+              "texto": "Eyes open falling in love again",
               "acordes": []
             },
             {

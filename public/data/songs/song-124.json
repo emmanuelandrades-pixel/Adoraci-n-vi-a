@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "¿Quién se mueve por las aguas?    ¿Quién es El que me alegra?",
+              "texto": "¿Quién se mueve por las aguas?",
               "acordes": [
                 {
                   "acorde": "E",
@@ -34,19 +34,11 @@
                 {
                   "acorde": "A",
                   "pos": 28
-                },
-                {
-                  "acorde": "E",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 55
                 }
               ]
             },
             {
-              "texto": "¿Quién la luna hace salir?       ¿Quién es El que me da paz?",
+              "texto": "¿Quién la luna hace salir?",
               "acordes": [
                 {
                   "acorde": "E",
@@ -55,19 +47,11 @@
                 {
                   "acorde": "B",
                   "pos": 23
-                },
-                {
-                  "acorde": "E",
-                  "pos": 34
-                },
-                {
-                  "acorde": "B",
-                  "pos": 55
                 }
               ]
             },
             {
-              "texto": "¿Quién aparta las tinieblas       ¿Quién es El que me conforta?",
+              "texto": "¿Quién aparta las tinieblas",
               "acordes": [
                 {
                   "acorde": "E",
@@ -76,19 +60,11 @@
                 {
                   "acorde": "A",
                   "pos": 22
-                },
-                {
-                  "acorde": "E",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 58
                 }
               ]
             },
             {
-              "texto": "Con la ardiente luz del sol?      ¿Quién lo amargo endulzara?",
+              "texto": "Con la ardiente luz del sol?",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -97,19 +73,11 @@
                 {
                   "acorde": "B",
                   "pos": 25
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 34
-                },
-                {
-                  "acorde": "B",
-                  "pos": 57
                 }
               ]
             },
             {
-              "texto": "¿Quién aun las montañas cubre     ¿Quién es el que me apasiona?",
+              "texto": "¿Quién aun las montañas cubre",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -118,19 +86,11 @@
                 {
                   "acorde": "A",
                   "pos": 25
-                },
-                {
-                  "acorde": "E/G#",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 60
                 }
               ]
             },
             {
-              "texto": "Y anda en la profundidad?         ¿Quién está creciendo en mi?",
+              "texto": "Y anda en la profundidad?",
               "acordes": [
                 {
                   "acorde": "E",
@@ -139,19 +99,11 @@
                 {
                   "acorde": "B/D#",
                   "pos": 22
-                },
-                {
-                  "acorde": "E",
-                  "pos": 34
-                },
-                {
-                  "acorde": "B/D#",
-                  "pos": 57
                 }
               ]
             },
             {
-              "texto": "Es más grande que los cielos      ¿Quién llena mi alma hambrienta,",
+              "texto": "Es más grande que los cielos",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -164,23 +116,11 @@
                 {
                   "acorde": "Asus2",
                   "pos": 24
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 34
-                },
-                {
-                  "acorde": "B",
-                  "pos": 52
-                },
-                {
-                  "acorde": "Asus2",
-                  "pos": 62
                 }
               ]
             },
             {
-              "texto": "Y me ama con pasión               Y sacia mi necesidad?",
+              "texto": "Y me ama con pasión",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -193,18 +133,6 @@
                 {
                   "acorde": "B",
                   "pos": 18
-                },
-                {
-                  "acorde": "E/G#",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 39
-                },
-                {
-                  "acorde": "B",
-                  "pos": 53
                 }
               ]
             }
@@ -229,7 +157,7 @@
               ]
             },
             {
-              "texto": "Dios Creador es Yahve             Y por siempre reinarás",
+              "texto": "Dios Creador es Yahve",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -242,23 +170,11 @@
                 {
                   "acorde": "C#m",
                   "pos": 17
-                },
-                {
-                  "acorde": "E",
-                  "pos": 34
-                },
-                {
-                  "acorde": "B/D#",
-                  "pos": 40
-                },
-                {
-                  "acorde": "C#m7",
-                  "pos": 54
                 }
               ]
             },
             {
-              "texto": "El Gran Yo Soy es Yahve           Toda rodilla y toda lengua",
+              "texto": "El Gran Yo Soy es Yahve",
               "acordes": [
                 {
                   "acorde": "B",
@@ -267,23 +183,11 @@
                 {
                   "acorde": "E/G#",
                   "pos": 18
-                },
-                {
-                  "acorde": "B",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 36
-                },
-                {
-                  "acorde": "B",
-                  "pos": 56
                 }
               ]
             },
             {
-              "texto": "De todo Dios es Yahve             Se doblará y te confesará",
+              "texto": "De todo Dios es Yahve",
               "acordes": [
                 {
                   "acorde": "A",
@@ -296,15 +200,11 @@
                 {
                   "acorde": "B",
                   "pos": 21
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "Rosa de Sarón es Yahve            Todo ángel te da gloria",
+              "texto": "Rosa de Sarón es Yahve",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -317,23 +217,11 @@
                 {
                   "acorde": "C#m",
                   "pos": 19
-                },
-                {
-                  "acorde": "B",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 36
-                },
-                {
-                  "acorde": "B",
-                  "pos": 56
                 }
               ]
             },
             {
-              "texto": "El Hijo Justo es Yahve            Ante tu gran Majestad",
+              "texto": "El Hijo Justo es Yahve",
               "acordes": [
                 {
                   "acorde": "B",
@@ -342,23 +230,11 @@
                 {
                   "acorde": "E/G#",
                   "pos": 19
-                },
-                {
-                  "acorde": "E",
-                  "pos": 34
-                },
-                {
-                  "acorde": "B/D#",
-                  "pos": 40
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 54
                 }
               ]
             },
             {
-              "texto": "La trinidad es Yahve              Y aquí nos reunimos",
+              "texto": "La trinidad es Yahve",
               "acordes": [
                 {
                   "acorde": "A",
@@ -371,18 +247,6 @@
                 {
                   "acorde": "B",
                   "pos": 18
-                },
-                {
-                  "acorde": "B",
-                  "pos": 34
-                },
-                {
-                  "acorde": "A",
-                  "pos": 36
-                },
-                {
-                  "acorde": "B",
-                  "pos": 52
                 }
               ]
             },

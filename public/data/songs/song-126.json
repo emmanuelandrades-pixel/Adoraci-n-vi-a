@@ -25,7 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Quieto en tu presencia               A tus pies me rendiré",
+              "texto": "Quieto en tu presencia",
               "acordes": [
                 {
                   "acorde": "C",
@@ -34,45 +34,29 @@
                 {
                   "acorde": "Em",
                   "pos": 15
-                },
-                {
-                  "acorde": "C",
-                  "pos": 37
-                },
-                {
-                  "acorde": "D",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Ante ti me presento                  Y mis miedos dejaré",
+              "texto": "Ante ti me presento",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 11
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Quiero oír tu voz                    Transformado soy en tu",
+              "texto": "Quiero oír tu voz",
               "acordes": [
                 {
                   "acorde": "D",
                   "pos": 11
-                },
-                {
-                  "acorde": "G",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "C                           presencia",
+              "texto": "C",
               "acordes": []
             },
             {
@@ -80,7 +64,7 @@
               "acordes": []
             },
             {
-              "texto": "Mi atención te entrego               C               Em",
+              "texto": "Mi atención te entrego",
               "acordes": [
                 {
                   "acorde": "C",
@@ -93,19 +77,19 @@
               ]
             },
             {
-              "texto": "G                       Tú eres fuego en el día",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "A tus pies yo espero                                 G",
+              "texto": "A tus pies yo espero",
               "acordes": []
             },
             {
-              "texto": "D                         Tú eres briza en la noche",
+              "texto": "D",
               "acordes": []
             },
             {
-              "texto": "Aquí quiero estar                               D",
+              "texto": "Aquí quiero estar",
               "acordes": []
             },
             {
@@ -113,7 +97,7 @@
               "acordes": []
             },
             {
-              "texto": "Mi corazón anhela más de       Tú sacias mi sed",
+              "texto": "Mi corazón anhela más de",
               "acordes": [
                 {
                   "acorde": "G",
@@ -122,27 +106,23 @@
                 {
                   "acorde": "C",
                   "pos": 15
-                },
-                {
-                  "acorde": "C",
-                  "pos": 46
                 }
               ]
             },
             {
-              "texto": "ti                                        Em             G",
+              "texto": "ti",
               "acordes": []
             },
             {
-              "texto": "Em                             No hay duda alguna de tu amor y tu",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Haz algo nuevo en mí           afecto",
+              "texto": "Haz algo nuevo en mí",
               "acordes": []
             },
             {
-              "texto": "A ti me entrego Dios           No hay nada igual",
+              "texto": "A ti me entrego Dios",
               "acordes": [
                 {
                   "acorde": "G",
@@ -151,10 +131,6 @@
                 {
                   "acorde": "D",
                   "pos": 17
-                },
-                {
-                  "acorde": "D",
-                  "pos": 47
                 }
               ]
             }
@@ -166,7 +142,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Todo en mí                           //Mi corazón abierto esta",
+              "texto": "Todo en mí",
               "acordes": [
                 {
                   "acorde": "G",
@@ -175,69 +151,33 @@
                 {
                   "acorde": "C",
                   "pos": 6
-                },
-                {
-                  "acorde": "C",
-                  "pos": 46
-                },
-                {
-                  "acorde": "D",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "Es movido por tu amor                Mi corazón abierto está Dios",
+              "texto": "Es movido por tu amor",
               "acordes": [
                 {
                   "acorde": "D",
                   "pos": 11
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 45
-                },
-                {
-                  "acorde": "G",
-                  "pos": 54
                 }
               ]
             },
             {
-              "texto": "Cautivado por tu voz                 Haz lo que quieras en mí",
+              "texto": "Cautivado por tu voz",
               "acordes": [
                 {
                   "acorde": "Em",
                   "pos": 11
-                },
-                {
-                  "acorde": "C",
-                  "pos": 43
-                },
-                {
-                  "acorde": "D",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "Mi deseo es conocerte más señor      Haz tu voluntad en mi Dios",
+              "texto": "Mi deseo es conocerte más señor",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 11
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 44
-                },
-                {
-                  "acorde": "G",
-                  "pos": 54
-                },
-                {
-                  "acorde": "C",
-                  "pos": 60
                 }
               ]
             }

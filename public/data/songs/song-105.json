@@ -36,7 +36,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Tu Presencia es el cielo para mi           E",
+              "texto": "Tu Presencia es el cielo para mi",
               "acordes": [
                 {
                   "acorde": "B",
@@ -57,7 +57,7 @@
               "acordes": []
             },
             {
-              "texto": "Y cantamos Oh Cristo, Oh Cristo-o      Alaba a Dios",
+              "texto": "Y cantamos Oh Cristo, Oh Cristo-o",
               "acordes": [
                 {
                   "acorde": "E",
@@ -70,15 +70,11 @@
                 {
                   "acorde": "B",
                   "pos": 25
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 43
                 }
               ]
             },
             {
-              "texto": "Tu Presencia es el cielo para mi       Alaba a Dios",
+              "texto": "Tu Presencia es el cielo para mi",
               "acordes": [
                 {
                   "acorde": "A",
@@ -87,10 +83,6 @@
                 {
                   "acorde": "E",
                   "pos": 31
-                },
-                {
-                  "acorde": "A",
-                  "pos": 44
                 }
               ]
             },
@@ -104,7 +96,7 @@
               ]
             },
             {
-              "texto": "Oh alaba                               B     F#",
+              "texto": "Oh alaba",
               "acordes": [
                 {
                   "acorde": "E",
@@ -113,40 +105,36 @@
               ]
             },
             {
-              "texto": "Simplemente alaba                      Alaba a Dios",
+              "texto": "Simplemente alaba",
               "acordes": []
             },
             {
-              "texto": "Estás llorando alaba                   Alaba a Dios",
+              "texto": "Estás llorando alaba",
               "acordes": [
                 {
                   "acorde": "A",
                   "pos": 11
-                },
-                {
-                  "acorde": "D#m",
-                  "pos": 44
                 }
               ]
             },
             {
-              "texto": "En la prueba alaba                          B",
+              "texto": "En la prueba alaba",
               "acordes": []
             },
             {
-              "texto": "B                          Alaba a Dios",
+              "texto": "B",
               "acordes": []
             },
             {
-              "texto": "Estás sufriendo alaba                       C#",
+              "texto": "Estás sufriendo alaba",
               "acordes": []
             },
             {
-              "texto": "No importa alaba                       Alaba a Dios",
+              "texto": "No importa alaba",
               "acordes": []
             },
             {
-              "texto": "Tu alabanza él escuchará               F#",
+              "texto": "Tu alabanza él escuchará",
               "acordes": [
                 {
                   "acorde": "E",
@@ -163,28 +151,23 @@
               "acordes": []
             },
             {
-              "texto": "E                                      Quebrando cadenas sacando espinas",
-              "acordes": [
-                {
-                  "acorde": "D#m",
-                  "pos": 39
-                }
-              ]
-            },
-            {
-              "texto": "Dios va al frente abriendo caminos     B",
+              "texto": "E",
               "acordes": []
             },
             {
-              "texto": "C#m                                    Manda a sus ángeles contigo a luchar",
+              "texto": "Dios va al frente abriendo caminos",
               "acordes": []
             },
             {
-              "texto": "Quebrando cadenas sacando espinas      C#",
+              "texto": "C#m",
               "acordes": []
             },
             {
-              "texto": "A                                      Él abre puertas nadie puede cerrar",
+              "texto": "Quebrando cadenas sacando espinas",
+              "acordes": []
+            },
+            {
+              "texto": "A",
               "acordes": []
             },
             {
@@ -192,7 +175,7 @@
               "acordes": []
             },
             {
-              "texto": "Él abre puertas nadie puede cerrar     F#",
+              "texto": "Él abre puertas nadie puede cerrar",
               "acordes": [
                 {
                   "acorde": "B",
@@ -205,28 +188,23 @@
               "acordes": []
             },
             {
-              "texto": "E                                      Camina contigo de noche y de día",
-              "acordes": [
-                {
-                  "acorde": "D#m",
-                  "pos": 39
-                }
-              ]
-            },
-            {
-              "texto": "Él trabaja para los que confían        B",
+              "texto": "E",
               "acordes": []
             },
             {
-              "texto": "C#m                                    Levanta tus manos tu victoria llego",
+              "texto": "Él trabaja para los que confían",
               "acordes": []
             },
             {
-              "texto": "Camina contigo de noche y de día       C#",
+              "texto": "C#m",
               "acordes": []
             },
             {
-              "texto": "A                                      Comienza a cantar y",
+              "texto": "Camina contigo de noche y de día",
+              "acordes": []
+            },
+            {
+              "texto": "A",
               "acordes": []
             },
             {
@@ -234,7 +212,7 @@
               "acordes": []
             },
             {
-              "texto": "Comienza a cantar y                    B D#m C# F#",
+              "texto": "Comienza a cantar y",
               "acordes": [
                 {
                   "acorde": "B",

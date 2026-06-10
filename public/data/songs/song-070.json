@@ -29,7 +29,7 @@
               "acordes": []
             },
             {
-              "texto": "Él es                               En Él",
+              "texto": "Él es",
               "acordes": [
                 {
                   "acorde": "G",
@@ -66,19 +66,11 @@
                 {
                   "acorde": "G",
                   "pos": 5
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 36
-                },
-                {
-                  "acorde": "G",
-                  "pos": 40
                 }
               ]
             },
             {
-              "texto": "Quien reina con poder                Está la Salvación",
+              "texto": "Quien reina con poder",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -107,31 +99,11 @@
                 {
                   "acorde": "D/F#",
                   "pos": 36
-                },
-                {
-                  "acorde": "G",
-                  "pos": 41
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 43
-                },
-                {
-                  "acorde": "G",
-                  "pos": 46
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 48
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "Creador                             LA cruz",
+              "texto": "Creador",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -140,19 +112,11 @@
                 {
                   "acorde": "G",
                   "pos": 5
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 36
-                },
-                {
-                  "acorde": "G",
-                  "pos": 41
                 }
               ]
             },
             {
-              "texto": "Su fama eterna es                  Nos muestra su a-mor",
+              "texto": "Su fama eterna es",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -177,35 +141,11 @@
                 {
                   "acorde": "Em",
                   "pos": 17
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 36
-                },
-                {
-                  "acorde": "G",
-                  "pos": 41
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 43
-                },
-                {
-                  "acorde": "G",
-                  "pos": 46
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 48
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "Su voz                              Venció",
+              "texto": "Su voz",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -214,19 +154,11 @@
                 {
                   "acorde": "C",
                   "pos": 4
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 36
-                },
-                {
-                  "acorde": "C",
-                  "pos": 40
                 }
               ]
             },
             {
-              "texto": "Un eco sin final                    La muerte con poder",
+              "texto": "Un eco sin final",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -251,35 +183,11 @@
                 {
                   "acorde": "Em",
                   "pos": 14
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 36
-                },
-                {
-                  "acorde": "C",
-                  "pos": 40
-                },
-                {
-                  "acorde": "D",
-                  "pos": 42
-                },
-                {
-                  "acorde": "C",
-                  "pos": 44
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 46
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 50
                 }
               ]
             },
             {
-              "texto": "Todos proclamarán                   El Rey de reyes es",
+              "texto": "Todos proclamarán",
               "acordes": [
                 {
                   "acorde": "G",
@@ -288,19 +196,11 @@
                 {
                   "acorde": "C",
                   "pos": 10
-                },
-                {
-                  "acorde": "G",
-                  "pos": 38
-                },
-                {
-                  "acorde": "C",
-                  "pos": 47
                 }
               ]
             },
             {
-              "texto": "No hay nadie como Él                No hay nadie como Él",
+              "texto": "No hay nadie como Él",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -329,39 +229,11 @@
                 {
                   "acorde": "C",
                   "pos": 17
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 36
-                },
-                {
-                  "acorde": "C",
-                  "pos": 40
-                },
-                {
-                  "acorde": "D",
-                  "pos": 42
-                },
-                {
-                  "acorde": "C",
-                  "pos": 44
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 46
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 50
-                },
-                {
-                  "acorde": "C",
-                  "pos": 53
                 }
               ]
             },
             {
-              "texto": "D/F# G                              CORO (termina con “Jesús”)",
+              "texto": "D/F# G",
               "acordes": []
             },
             {
@@ -369,7 +241,7 @@
               "acordes": []
             },
             {
-              "texto": "Radiante más que el sol               / Con tu poder, Se rompen cadenas",
+              "texto": "Radiante más que el sol",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -394,15 +266,11 @@
                 {
                   "acorde": "Em",
                   "pos": 17
-                },
-                {
-                  "acorde": "G",
-                  "pos": 41
                 }
               ]
             },
             {
-              "texto": "Su amor                               Cantarán, El cielo y la tierra",
+              "texto": "Su amor",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -411,15 +279,11 @@
                 {
                   "acorde": "G",
                   "pos": 5
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 38
                 }
               ]
             },
             {
-              "texto": "Y gracia de-rra-mó                    Santo eres Jesús",
+              "texto": "Y gracia de-rra-mó",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -444,15 +308,11 @@
                 {
                   "acorde": "Em",
                   "pos": 17
-                },
-                {
-                  "acorde": "C",
-                  "pos": 38
                 }
               ]
             },
             {
-              "texto": "En Él                                Santo es tu nombre Cristo, Cristo, Cristo",
+              "texto": "En Él",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -461,14 +321,6 @@
                 {
                   "acorde": "C",
                   "pos": 4
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 51
-                },
-                {
-                  "acorde": "C",
-                  "pos": 64
                 }
               ]
             },
@@ -481,7 +333,7 @@
               "acordes": []
             },
             {
-              "texto": "Por siempre reinará                 Ven a adorar al que resucitó",
+              "texto": "Por siempre reinará",
               "acordes": [
                 {
                   "acorde": "G",
@@ -490,15 +342,11 @@
                 {
                   "acorde": "C",
                   "pos": 12
-                },
-                {
-                  "acorde": "G",
-                  "pos": 43
                 }
               ]
             },
             {
-              "texto": "No hay nadie como Él                La luz del mundo, Que nos rescató",
+              "texto": "No hay nadie como Él",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -527,48 +375,39 @@
                 {
                   "acorde": "C",
                   "pos": 17
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 43
                 }
               ]
             },
             {
-              "texto": "G                            No hay otro nombre igual",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 48
-                }
-              ]
-            },
-            {
-              "texto": "Ven a adorar al que resucitó                    C",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "Em                           No hay otro nombre igual",
+              "texto": "Ven a adorar al que resucitó",
               "acordes": []
             },
             {
-              "texto": "La luz del mundo, Que nos rescató           Em        C",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Bm                      Cristo nuestro Dios oh oh oh",
+              "texto": "La luz del mundo, Que nos rescató",
               "acordes": []
             },
             {
-              "texto": "No hay otro nombre igual                  G",
+              "texto": "Bm",
               "acordes": []
             },
             {
-              "texto": "C                       El vencedor que a la diestra está",
+              "texto": "No hay otro nombre igual",
               "acordes": []
             },
             {
-              "texto": "No hay otro nombre igual                  Em",
+              "texto": "C",
+              "acordes": []
+            },
+            {
+              "texto": "No hay otro nombre igual",
               "acordes": []
             },
             {
@@ -576,35 +415,35 @@
               "acordes": []
             },
             {
-              "texto": "Cristo nuestro Dios oh oh oh                    Bm",
+              "texto": "Cristo nuestro Dios oh oh oh",
               "acordes": []
             },
             {
-              "texto": "G                             No hay otro nombre igual",
+              "texto": "G",
               "acordes": []
             },
             {
-              "texto": "El vencedor que a la diestra está               C",
+              "texto": "El vencedor que a la diestra está",
               "acordes": []
             },
             {
-              "texto": "Em                            No hay otro nombre igual",
+              "texto": "Em",
               "acordes": []
             },
             {
-              "texto": "Ante su trono montes caerán                     Em",
+              "texto": "Ante su trono montes caerán",
               "acordes": []
             },
             {
-              "texto": "Bm                      No hay otro nombre igual",
+              "texto": "Bm",
               "acordes": []
             },
             {
-              "texto": "No hay otro nombre igual                        C       G",
+              "texto": "No hay otro nombre igual",
               "acordes": []
             },
             {
-              "texto": "C                       No hay otro nombre igual, Jesús",
+              "texto": "C",
               "acordes": []
             },
             {

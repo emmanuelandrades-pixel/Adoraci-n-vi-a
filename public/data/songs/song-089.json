@@ -25,44 +25,39 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Mil generaciones                            A      C#m B",
+              "texto": "Mil generaciones",
               "acordes": []
             },
             {
-              "texto": "A                E                 Cantan ángeles, San – to",
+              "texto": "A",
               "acordes": []
             },
             {
-              "texto": "Se postran adorarle                             G#m        C#m",
+              "texto": "Se postran adorarle",
               "acordes": []
             },
             {
-              "texto": "C#m          B             A       Clama la creación, San – to",
+              "texto": "C#m",
               "acordes": []
             },
             {
-              "texto": "Le cantan al cordero que                       F#m7    B",
+              "texto": "Le cantan al cordero que",
               "acordes": []
             },
             {
-              "texto": "venció                             Exaltado Dios, San – to",
+              "texto": "venció",
               "acordes": []
             },
             {
-              "texto": "E                                  Santo por siempre",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 46
-                }
-              ]
+              "texto": "E",
+              "acordes": []
             },
             {
               "texto": "Los que nos precedieron",
               "acordes": []
             },
             {
-              "texto": "Y los que en Él creerán            Si te ha perdonado",
+              "texto": "Y los que en Él creerán",
               "acordes": [
                 {
                   "acorde": "A",
@@ -71,15 +66,11 @@
                 {
                   "acorde": "E",
                   "pos": 20
-                },
-                {
-                  "acorde": "E",
-                  "pos": 35
                 }
               ]
             },
             {
-              "texto": "Le cantarán a aquel que ya         Y tienes salvación",
+              "texto": "Le cantarán a aquel que ya",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -92,19 +83,11 @@
                 {
                   "acorde": "A",
                   "pos": 27
-                },
-                {
-                  "acorde": "A",
-                  "pos": 35
-                },
-                {
-                  "acorde": "E",
-                  "pos": 51
                 }
               ]
             },
             {
-              "texto": "venció                             C#m         B           A",
+              "texto": "venció",
               "acordes": []
             },
             {
@@ -119,7 +102,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Tu nombre, es más alto             Si te ha libertado",
+              "texto": "Tu nombre, es más alto",
               "acordes": [
                 {
                   "acorde": "A",
@@ -128,32 +111,20 @@
                 {
                   "acorde": "C#m",
                   "pos": 23
-                },
-                {
-                  "acorde": "E",
-                  "pos": 35
                 }
               ]
             },
             {
-              "texto": "Tu nombre, es más grande           Su nombre ha puesto en ti",
+              "texto": "Tu nombre, es más grande",
               "acordes": [
                 {
                   "acorde": "B",
                   "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 35
-                },
-                {
-                  "acorde": "E",
-                  "pos": 56
                 }
               ]
             },
             {
-              "texto": "Tu nombre, sobre todo es           Cántale al cordero que venció",
+              "texto": "Tu nombre, sobre todo es",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -162,23 +133,11 @@
                 {
                   "acorde": "A",
                   "pos": 22
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 35
-                },
-                {
-                  "acorde": "B",
-                  "pos": 49
-                },
-                {
-                  "acorde": "A",
-                  "pos": 59
                 }
               ]
             },
             {
-              "texto": "Dominios y tronos                  Cantaremos siempre \"amén\"",
+              "texto": "Dominios y tronos",
               "acordes": [
                 {
                   "acorde": "A",
@@ -187,23 +146,11 @@
                 {
                   "acorde": "C#m",
                   "pos": 19
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 35
-                },
-                {
-                  "acorde": "B",
-                  "pos": 52
-                },
-                {
-                  "acorde": "A",
-                  "pos": 59
                 }
               ]
             },
             {
-              "texto": "Poderes, y reinos                              A     C#m B",
+              "texto": "Poderes, y reinos",
               "acordes": [
                 {
                   "acorde": "B",
@@ -212,11 +159,11 @@
               ]
             },
             {
-              "texto": "C#m                   A            Tu gente cantará, San - to",
+              "texto": "C#m",
               "acordes": []
             },
             {
-              "texto": "Tu nombre, sobre todo es                        G#m C#m",
+              "texto": "Tu nombre, sobre todo es",
               "acordes": []
             },
             {

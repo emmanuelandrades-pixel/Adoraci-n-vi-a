@@ -36,7 +36,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "El centro de todo eres Jesús    El centro de mi vida se Jesús",
+              "texto": "El centro de todo eres Jesús",
               "acordes": [
                 {
                   "acorde": "A",
@@ -49,23 +49,11 @@
                 {
                   "acorde": "A/C#",
                   "pos": 20
-                },
-                {
-                  "acorde": "A",
-                  "pos": 36
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 44
-                },
-                {
-                  "acorde": "A/C#",
-                  "pos": 52
                 }
               ]
             },
             {
-              "texto": "El centro de todo eres Jesús    El centro de mi vida se Jesús",
+              "texto": "El centro de todo eres Jesús",
               "acordes": [
                 {
                   "acorde": "D",
@@ -78,18 +66,6 @@
                 {
                   "acorde": "E",
                   "pos": 19
-                },
-                {
-                  "acorde": "D",
-                  "pos": 36
-                },
-                {
-                  "acorde": "A",
-                  "pos": 44
-                },
-                {
-                  "acorde": "E",
-                  "pos": 51
                 }
               ]
             },
@@ -115,11 +91,11 @@
               ]
             },
             {
-              "texto": "fin                             fin",
+              "texto": "fin",
               "acordes": []
             },
             {
-              "texto": "Tú has sido y siempre serás     Tú has sido y siempre serás",
+              "texto": "Tú has sido y siempre serás",
               "acordes": [
                 {
                   "acorde": "E",
@@ -132,23 +108,11 @@
                 {
                   "acorde": "E",
                   "pos": 21
-                },
-                {
-                  "acorde": "E",
-                  "pos": 38
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 45
-                },
-                {
-                  "acorde": "E",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Cristo, Cristo                  Cristo, Cristo",
+              "texto": "Cristo, Cristo",
               "acordes": [
                 {
                   "acorde": "D",
@@ -157,14 +121,6 @@
                 {
                   "acorde": "E",
                   "pos": 8
-                },
-                {
-                  "acorde": "D",
-                  "pos": 33
-                },
-                {
-                  "acorde": "E",
-                  "pos": 40
                 }
               ]
             }
@@ -176,7 +132,7 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "Tu eres el centro               De mi ser hasta el cielo",
+              "texto": "Tu eres el centro",
               "acordes": [
                 {
                   "acorde": "A",
@@ -189,15 +145,11 @@
                 {
                   "acorde": "D",
                   "pos": 14
-                },
-                {
-                  "acorde": "E",
-                  "pos": 37
                 }
               ]
             },
             {
-              "texto": "Nada importa más que tu         Cristo se el Centro",
+              "texto": "Nada importa más que tu",
               "acordes": [
                 {
                   "acorde": "Bm",
@@ -206,15 +158,11 @@
                 {
                   "acorde": "A",
                   "pos": 17
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 33
                 }
               ]
             },
             {
-              "texto": "Todo el universo                Mi vida eres tú, si, mi vida eres",
+              "texto": "Todo el universo",
               "acordes": [
                 {
                   "acorde": "A",
@@ -227,19 +175,11 @@
                 {
                   "acorde": "D",
                   "pos": 8
-                },
-                {
-                  "acorde": "D",
-                  "pos": 35
-                },
-                {
-                  "acorde": "E",
-                  "pos": 49
                 }
               ]
             },
             {
-              "texto": "Bm             F#m             tú",
+              "texto": "Bm",
               "acordes": []
             },
             {
@@ -247,7 +187,7 @@
               "acordes": []
             },
             {
-              "texto": "De ti Jesús, (el centro eres       A        Bm          A/C#",
+              "texto": "De ti Jesús, (el centro eres",
               "acordes": [
                 {
                   "acorde": "E",
@@ -260,7 +200,7 @@
               ]
             },
             {
-              "texto": "solo tú)                        El centro de tu iglesia se Jesús",
+              "texto": "solo tú)",
               "acordes": []
             },
             {

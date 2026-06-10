@@ -124,7 +124,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Gadd9            (variación: Em7 – D/F#-Gadd9 - Asus4)",
+              "texto": "Gadd9",
               "acordes": []
             },
             {
@@ -213,7 +213,7 @@
           "numero": 3,
           "lineas": [
             {
-              "texto": "Mi Dios,      mi      rey, te alabo, te exalto",
+              "texto": "Mi Dios,",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -226,18 +226,6 @@
                 {
                   "acorde": "D/F#",
                   "pos": 11
-                },
-                {
-                  "acorde": "Gadd9",
-                  "pos": 16
-                },
-                {
-                  "acorde": "Bm7",
-                  "pos": 22
-                },
-                {
-                  "acorde": "Asus4",
-                  "pos": 42
                 }
               ]
             }

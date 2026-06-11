@@ -1217,15 +1217,15 @@ body{font-family:'Inter',sans-serif;color:var(--white);}
     progressBar.style.width = ((n/(TOTAL-1))*100)+'%';
     document.querySelectorAll('.pill').forEach((p,i)=>p.classList.toggle('active',i===n));
 
-    // Counter animation for S7 (index 7)
-    if(n===7 && !counterDone){
+    // Counter animation for S7 (trigger by id, not index)
+    if(slides[n].id==='s7' && !counterDone){
       counterDone = true;
       const el = document.getElementById('counter-num');
       setTimeout(()=>animateCounter(el,16000,2000),400);
     }
 
     // S2 auto-spotlight at ~90 seconds
-    if(n===2){
+    if(slides[n].id==='s2'){
       clearTimeout(window._s2SpotTimer);
       window._s2SpotTimer = setTimeout(()=>{
         const s2 = document.getElementById('s2');

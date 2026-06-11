@@ -1,0 +1,224 @@
+{
+  "id": "song-148",
+  "titulo": "Solo Hay Uno Digno",
+  "artista": "",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-06-11T00:00:00Z",
+  "fecha_actualizacion": "2026-06-11T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-148-v001",
+      "nombre": "Original",
+      "tonalidad": "F#",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s1",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Solo hay uno digno",
+              "acordes": []
+            },
+            {
+              "texto": "Nadie más y nadie más nadie más",
+              "acordes": []
+            },
+            {
+              "texto": "Solo hay uno digno",
+              "acordes": []
+            },
+            {
+              "texto": "Nadie más y nadie más nadie más",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Solo hay uno digno",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Nadie más y nadie más nadie más",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Solo hay uno digno",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Nadie más y nadie más nadie más",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y cada amanecer",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Cada anochecer",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Levantaré mi alabanza",
+              "acordes": []
+            },
+            {
+              "texto": "Al que resucitó",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "El león de Judá",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La raíz de David",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 18
+                }
+              ]
+            },
+            {
+              "texto": "El único capaz de desatar los sellos",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": "song-149",
+  "titulo": "Rojo Fue Tu Amor",
+  "artista": "En Espíritu y Verdad",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-06-11T00:00:00Z",
+  "fecha_actualizacion": "2026-06-11T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-149-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s0",
+          "tipo": "instrumental",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s1",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "C",
+                  "pos": 38
+                },
+                {
+                  "acorde": "D",
+                  "pos": 42
+                },
+                {
+                  "acorde": "C",
+                  "pos": 44
+                }
+              ]
+            },
+            {
+              "texto": "Hay un lugar donde su amor reinando esta",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                },
+                {
+                  "acorde": "G",
+                  "pos": 23
+                },
+                {
+                  "acorde": "C",
+                  "pos": 35
+                },
+                {
+                  "acorde": "D",
+                  "pos": 41
+                },
+                {
+                  "acorde": "C",
+                  "pos": 43
+                }
+              ]
+            },
+            {
+              "texto": "Corrientes de gracia fluyen con libertad",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Donde su amor es sin igual",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Fluyendo esta como un caudal",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "A los pies de la cruz rindo todo a Ti",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Asombrado estoy Asombrado estoy",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Cuando rojo fue tu amor Tu borraste mi maldad",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 21
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 33
+                },
+                {
+                  "acorde": "C",
+                  "pos": 50
+                }
+              ]
+            },
+            {
+              "texto": "Debo todo a Ti  Debo todo a Ti   Jesús",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C",
+                  "pos": 39
+                },
+                {
+                  "acorde": "D",
+                  "pos": 45
+                },
+                {
+                  "acorde": "C",
+                  "pos": 47
+                }
+              ]
+            },
+            {
+              "texto": "Hay un lugar donde la maldad pierde su poder",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 18
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C",
+                  "pos": 35
+                },
+                {
+                  "acorde": "D",
+                  "pos": 42
+                },
+                {
+                  "acorde": "C",
+                  "pos": 44
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón tiene paz con Dios y su perdón",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Donde su amor es sin igual",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Fluyendo esta como un caudal",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Mi fe esta en ti y en tu santidad",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Hoy me rindo Hoy me rindo",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 21
+                }
+              ]
+            },
+            {
+              "texto": "Mis brazos abro a Ti eres mi salvador",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Hoy me rindo Hoy me rindo",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

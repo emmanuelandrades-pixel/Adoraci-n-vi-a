@@ -1,0 +1,337 @@
+{
+  "id": "song-150",
+  "titulo": "Declaro el Nombre de Jesús",
+  "artista": "Su Presencia",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-06-11T00:00:00Z",
+  "fecha_actualizacion": "2026-06-11T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-150-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s1",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Declaro el nombre de Jesús ahora",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Sobre cada mente y corazón",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Sé que encuentro paz en su presencia",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Lo declaro",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Declaro el nombre de Jesús ahora",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Se rompe cada vicio y adicción",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Declaro libertad y esperanza",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Lo declaro",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Jesús tu nombre",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Es poderoso",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Vida me da",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Rompe cadenas",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Vence tinieblas",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Trae sanidad",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Declaro el nombre de Jesús ahora",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Sobre la ansiedad y el temor",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Sobre toda alma deprimida",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Lo declaro",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s5",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Jesús en las montañas, Jesús en mi ciudad",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Sobre el enemigo, sobre toda oscuridad",
+              "acordes": []
+            },
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 69
+                }
+              ]
+            },
+            {
+              "texto": "Sobre mi familia declaro el nombre de Jesús",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "id": "song-041",
-  "titulo": "En La Cruz – En El Monte Calvario",
-  "artista": "",
+  "titulo": "En El Monte Calvario",
+  "artista": "Manuel Bonilla",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-041-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "A",
+      "bpm": 75,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,172 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Himno",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
           "numero": 1,
-          "lineas": [
-            {
-              "texto": "Herido, triste, fui Jesús, mostrele mi dolor;",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 1
-                },
-                {
-                  "acorde": "G",
-                  "pos": 3
-                },
-                {
-                  "acorde": "A",
-                  "pos": 5
-                },
-                {
-                  "acorde": "D",
-                  "pos": 7
-                },
-                {
-                  "acorde": "D",
-                  "pos": 27
-                },
-                {
-                  "acorde": "G",
-                  "pos": 29
-                },
-                {
-                  "acorde": "A",
-                  "pos": 31
-                }
-              ]
-            },
-            {
-              "texto": "Perdido, errante, vi su luz, bendíjome en su amor.",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 1
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 23
-                },
-                {
-                  "acorde": "A",
-                  "pos": 26
-                },
-                {
-                  "acorde": "D",
-                  "pos": 36
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
-              "texto": "En la cruz, en la cruz, do primero vi la luz,",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 5
-                },
-                {
-                  "acorde": "A",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "Y las manchas de mi alma yo lavé;",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 3
-                },
-                {
-                  "acorde": "D",
-                  "pos": 20
-                }
-              ]
-            },
-            {
-              "texto": "Fue allí por fe do vi a Jesús,",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 2
-                },
-                {
-                  "acorde": "A",
-                  "pos": 10
-                },
-                {
-                  "acorde": "D",
-                  "pos": 12
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "Y siempre feliz con el seré.",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 2
-                },
-                {
-                  "acorde": "A",
-                  "pos": 10
-                },
-                {
-                  "acorde": "D",
-                  "pos": 20
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
-              "texto": "EN EL MONTE CALVARIO",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
           "lineas": [
             {
               "texto": "En el monte calvario",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A7",
-                  "pos": 10
+                  "pos": 3
                 }
               ]
             },
@@ -196,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 5
+                  "pos": 3
                 }
               ]
             },
@@ -213,15 +59,15 @@
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 7
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 8
                 },
                 {
                   "acorde": "E",
-                  "pos": 22
+                  "pos": 10
                 }
               ]
             },
@@ -230,24 +76,24 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A7",
-                  "pos": 10
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Dónde murió mi Jesús",
+              "texto": "Do murió mi Jesús",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 5
+                  "pos": 3
                 }
               ]
             },
@@ -260,35 +106,43 @@
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 7
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
                 }
               ]
             }
           ]
         },
         {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Oh, yo siempre amaré esa cruz",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 17
+                  "pos": 2
                 },
                 {
                   "acorde": "A7",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -297,15 +151,15 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
             },
@@ -314,15 +168,15 @@
               "acordes": [
                 {
                   "acorde": "A7",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 4
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 21
+                  "pos": 6
                 }
               ]
             },
@@ -331,15 +185,128 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 5
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Y aunque el mundo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Desprecie la cruz de Jesús",
+              "acordes": [
+                {
+                  "acorde": "A7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Para mí, tiene suma atracción",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                },
+                {
+                  "acorde": "E",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Pues en ella llevo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A7",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "El cordero de Dios",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "De mi alma la condenación",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 12
                 }
               ]
             }

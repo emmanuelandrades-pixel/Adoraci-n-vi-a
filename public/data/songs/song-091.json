@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-091-v001",
       "nombre": "Original",
-      "tonalidad": "G",
-      "bpm": 0,
+      "tonalidad": "D",
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -28,16 +28,16 @@
               "texto": "Cris - to,",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "Bm",
+                  "acorde": "F#m",
                   "pos": 2
                 },
                 {
-                  "acorde": "C",
-                  "pos": 5
+                  "acorde": "G",
+                  "pos": 6
                 }
               ]
             },
@@ -45,12 +45,16 @@
               "texto": "Cris - to",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "D/C",
+                  "acorde": "A",
                   "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
                 }
               ]
             },
@@ -58,24 +62,24 @@
               "texto": "Santo y ungi - do Rey",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 8
+                  "acorde": "A",
+                  "pos": 2
                 },
                 {
-                  "acorde": "C",
-                  "pos": 13
+                  "acorde": "G",
+                  "pos": 4
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 15
+                  "acorde": "D/F#",
+                  "pos": 6
                 },
                 {
-                  "acorde": "Am",
-                  "pos": 19
+                  "acorde": "Em",
+                  "pos": 11
                 }
               ]
             },
@@ -83,15 +87,15 @@
               "texto": "Cris – to",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
+                  "acorde": "A",
                   "pos": 2
                 },
                 {
-                  "acorde": "G",
+                  "acorde": "D",
                   "pos": 4
                 }
               ]
@@ -119,19 +123,19 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tu nombre es como miel para mi",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 20
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 29
+                  "acorde": "D",
+                  "pos": 3
                 }
               ]
             },
@@ -139,12 +143,12 @@
               "texto": "Tu Espíritu como agua para mi ser",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 18
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 30
+                  "acorde": "D",
+                  "pos": 3
                 }
               ]
             },
@@ -152,12 +156,12 @@
               "texto": "Tu voz es como lámpara a mis pies",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 16
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "Em",
-                  "pos": 30
+                  "acorde": "Bm",
+                  "pos": 3
                 }
               ]
             },
@@ -165,12 +169,12 @@
               "texto": "Cristo te amo, te amo",
               "acordes": [
                 {
-                  "acorde": "Am",
-                  "pos": 10
+                  "acorde": "Em",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 20
+                  "acorde": "A",
+                  "pos": 4
                 }
               ]
             }
@@ -178,29 +182,42 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Cristo te amo, te amo, te amo",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 9
-                },
-                {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 26
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
                 }
               ]
             },
             {
               "texto": "Con todo mi ser",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
             }
           ]
         }

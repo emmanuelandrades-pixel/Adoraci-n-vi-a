@@ -1,20 +1,20 @@
 {
   "id": "song-109",
   "titulo": "Ven Ante Su Trono",
-  "artista": "O Come To The Altar",
+  "artista": "O Come To The Altar - Elevation Worship",
   "autor": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-109-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 141,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Si abatido y dolido estás",
@@ -33,24 +33,24 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "y cansado del peso cargar",
+              "texto": "Y cansado del peso cargar",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -59,7 +59,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -72,24 +72,24 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "sin saber hacia dónde mirar",
+              "texto": "Sin saber hacia dónde mirar",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -98,10 +98,17 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Ven ante su trono",
               "acordes": [
@@ -111,7 +118,7 @@
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 7
+                  "pos": 2
                 }
               ]
             },
@@ -124,16 +131,16 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 5
                 }
               ]
             },
             {
-              "texto": "con sangre preciosa",
+              "texto": "Con sangre preciosa",
               "acordes": [
                 {
                   "acorde": "C",
@@ -141,7 +148,7 @@
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 8
+                  "pos": 2
                 }
               ]
             },
@@ -154,14 +161,21 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 5
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Deja atrás tu vergüenza y pesar",
               "acordes": [
@@ -171,24 +185,24 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 23
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "ven a Él ya no esperes más",
+              "texto": "Ven a Él ya no esperes más",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -197,7 +211,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -210,24 +224,24 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "nueva Vida Jesús te dará",
+              "texto": "Nueva Vida Jesús te dará",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             },
@@ -236,16 +250,23 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Oh cuán hermoso",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -254,7 +275,7 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 12
+                  "pos": 1
                 }
               ]
             },
@@ -263,11 +284,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 23
+                  "pos": 3
                 }
               ]
             },
@@ -276,7 +297,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -285,7 +306,7 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -294,14 +315,21 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Hasta un día llegar frente a él",
               "acordes": [
@@ -311,28 +339,28 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 28
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "de Su amor a todos contaré",
+              "texto": "De Su amor a todos contaré",
               "acordes": [
                 {
                   "acorde": "A#",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 17
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 25
+                  "pos": 6
                 }
               ]
             }

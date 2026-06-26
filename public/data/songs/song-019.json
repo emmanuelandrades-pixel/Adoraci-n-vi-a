@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-019-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "F",
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,18 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Digno de recibir toda adoración",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 12
+                  "acorde": "F",
+                  "pos": 2
                 }
               ]
             },
@@ -41,12 +41,12 @@
               "texto": "Digno de recibir hoy toda canción",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 12
+                  "acorde": "F",
+                  "pos": 2
                 }
               ]
             },
@@ -54,12 +54,12 @@
               "texto": "Digno de cada aliento que hay en mi ser",
               "acordes": [
                 {
-                  "acorde": "G/B",
+                  "acorde": "C/E",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 19
+                  "acorde": "F",
+                  "pos": 4
                 }
               ]
             },
@@ -67,12 +67,12 @@
               "texto": "Vivo por ti",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 8
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "C",
-                  "pos": 10
+                  "acorde": "F",
+                  "pos": 3
                 }
               ]
             }
@@ -81,41 +81,77 @@
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "Cristo, el nombre que no tiene igual",
-              "acordes": []
-            },
-            {
-              "texto": "Cristo, el único que puede salvar",
-              "acordes": []
-            },
-            {
-              "texto": "Digno de cada aliento que hay en mi ser",
-              "acordes": []
-            },
-            {
-              "texto": "Vivo por ti, vivo por ti",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
           "numero": 2,
           "lineas": [
             {
-              "texto": "Santo e incomparable,",
+              "texto": "Cristo, el nombre que no tiene igual",
               "acordes": [
                 {
                   "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "Am",
-                  "pos": 18
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, el único que puede salvar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Digno de cada aliento que hay en mi ser",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Vivo por ti, vivo por ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Santo e incomparable,",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 2
                 }
               ]
             },
@@ -123,8 +159,8 @@
               "texto": "Tan inigualable",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 13
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
@@ -132,8 +168,8 @@
               "texto": "Hoy revélanos tu gloria",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 10
+                  "acorde": "Am",
+                  "pos": 1
                 }
               ]
             },
@@ -141,12 +177,12 @@
               "texto": "Muéstrate tal como eres",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "F",
                   "pos": 0
                 },
                 {
-                  "acorde": "Am",
-                  "pos": 20
+                  "acorde": "Dm",
+                  "pos": 2
                 }
               ]
             },
@@ -154,8 +190,8 @@
               "texto": "Y llena nuestras vidas",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 18
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
@@ -163,8 +199,8 @@
               "texto": "Para amar como tu amas",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 11
+                  "acorde": "Am",
+                  "pos": 1
                 }
               ]
             }
@@ -172,23 +208,23 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Yo construiré mi vida en ti",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "F",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 11
+                  "acorde": "G",
+                  "pos": 2
                 },
                 {
-                  "acorde": "Em",
-                  "pos": 26
+                  "acorde": "Am",
+                  "pos": 4
                 }
               ]
             },
@@ -196,8 +232,8 @@
               "texto": "Sobre tu amor que es firme",
               "acordes": [
                 {
-                  "acorde": "G/B",
-                  "pos": 11
+                  "acorde": "C/E",
+                  "pos": 1
                 }
               ]
             },
@@ -205,16 +241,16 @@
               "texto": "Y yo confiaré, solo en ti",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "F",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 12
+                  "acorde": "G",
+                  "pos": 2
                 },
                 {
-                  "acorde": "Em",
-                  "pos": 22
+                  "acorde": "Am",
+                  "pos": 4
                 }
               ]
             },
@@ -222,8 +258,8 @@
               "texto": "Firme estaré por siempre",
               "acordes": [
                 {
-                  "acorde": "G/B",
-                  "pos": 10
+                  "acorde": "C/E",
+                  "pos": 1
                 }
               ]
             }

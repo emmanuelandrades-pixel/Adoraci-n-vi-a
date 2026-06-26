@@ -1,8 +1,8 @@
 {
-  "id": "song-123",
-  "titulo": "Dame A Cristo",
-  "artista": "Give Me Jesus",
-  "autor": "Upperroom",
+  "id": "song-151",
+  "titulo": "Nuestra Prioridad",
+  "artista": "MiSion",
+  "autor": "Agustín Salces, Daiana Salces",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
@@ -11,10 +11,10 @@
   "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
-      "id": "song-123-v001",
+      "id": "song-151-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 136,
+      "tonalidad": "C",
+      "bpm": 125,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,16 +25,25 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "No quiero nada más que a ti",
+              "texto": "No queremos vivir un reino",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "Eres más de lo que soñé",
+              "texto": "Sin poder ver al Rey eterno",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Nada está completo",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -43,20 +52,25 @@
               ]
             },
             {
-              "texto": "Todo lo que busqué y anhelé",
+              "texto": "Hasta que Cristo vuelva",
               "acordes": [
                 {
-                  "acorde": "Em7",
+                  "acorde": "F/A",
                   "pos": 1
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 5
                 }
               ]
             },
             {
-              "texto": "No se compara a ti",
+              "texto": "Lo veremos en gloria",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Descendiendo en las nubes",
               "acordes": [
                 {
                   "acorde": "G",
@@ -72,19 +86,27 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Ahora eres mío y tuyo soy",
+              "texto": "Consejero, Admirable por siempre",
               "acordes": []
             },
             {
-              "texto": "Que gran misterio es nuestro amor",
+              "texto": "El Mesías ungido que vuelve",
               "acordes": []
             },
             {
-              "texto": "Quiero por siempre estar perdido",
+              "texto": "Mientras más contemplamos",
               "acordes": []
             },
             {
-              "texto": "En el placer de tu mirar",
+              "texto": "Mucho más lo amamos",
+              "acordes": []
+            },
+            {
+              "texto": "Vivir en su morada",
+              "acordes": []
+            },
+            {
+              "texto": "Estando en las alturas",
               "acordes": []
             }
           ]
@@ -95,50 +117,64 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Dame a Cristo",
+              "texto": "Nuestra prioridad es Él",
               "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "La meta es Él",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, por siempre Él es",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                },
                 {
                   "acorde": "G",
-                  "pos": 0
-                },
-                {
-                  "acorde": "D",
-                  "pos": 2
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "Solo a Cristo",
+              "texto": "Nuestro caminar es Él",
               "acordes": [
                 {
-                  "acorde": "A",
+                  "acorde": "F",
                   "pos": 1
                 }
               ]
             },
             {
-              "texto": "Dejo todo por él",
+              "texto": "La promesa es Él",
               "acordes": [
                 {
-                  "acorde": "Em7",
+                  "acorde": "C/E",
                   "pos": 1
-                },
-                {
-                  "acorde": "Bm7",
-                  "pos": 5
                 }
               ]
             },
             {
-              "texto": "Dejo todo por él",
+              "texto": "Jesús, por siempre Él es",
               "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
                 {
                   "acorde": "G",
-                  "pos": 1
-                },
-                {
-                  "acorde": "A",
-                  "pos": 3
+                  "pos": 4
                 }
               ]
             }
@@ -146,65 +182,33 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
-              "texto": "Más que la plata y el oro es",
-              "acordes": []
-            },
-            {
-              "texto": "El gran tesoro de tu amor",
-              "acordes": []
-            },
-            {
-              "texto": "Ahora que he probado tu bondad",
-              "acordes": []
-            },
-            {
-              "texto": "Nada más me saciará",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s005",
           "tipo": "puente",
           "numero": null,
           "lineas": [
             {
-              "texto": "No quiero a nadie mas",
+              "texto": "No necesitamos nada más que a Él",
               "acordes": [
                 {
-                  "acorde": "D/F#",
+                  "acorde": "F",
                   "pos": 0
                 }
               ]
             },
             {
-              "texto": "No necesito nada mas",
+              "texto": "Nada más que Él",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "Dm",
                   "pos": 1
                 }
               ]
             },
             {
-              "texto": "Eres mi todo",
+              "texto": "Nada más que Él",
               "acordes": [
                 {
-                  "acorde": "Bm",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Eres mi todo",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             }

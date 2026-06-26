@@ -1,37 +1,26 @@
 {
   "id": "song-106",
   "titulo": "Tu Y Solo Tu",
-  "artista": "",
+  "artista": "Upperroon",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-106-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Upperroon",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -40,15 +29,15 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 5
                 }
               ]
             },
@@ -57,15 +46,15 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 5
                 }
               ]
             },
@@ -74,7 +63,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -83,7 +72,82 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Bueno eres Dios, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Por tu misericordia, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "En espíritu y verdad, gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Yo te digo gracias",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
                 }
               ]
             }
@@ -95,94 +159,19 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "Bueno eres Dios, gracias",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 1
-                },
-                {
-                  "acorde": "G",
-                  "pos": 9
-                },
-                {
-                  "acorde": "D",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Por tu misericordia, gracias",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G",
-                  "pos": 10
-                },
-                {
-                  "acorde": "D",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "En espíritu y verdad, gracias",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G",
-                  "pos": 13
-                },
-                {
-                  "acorde": "D",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "Yo te digo gracias",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 9
-                },
-                {
-                  "acorde": "D",
-                  "pos": 11
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
               "texto": "Como el sol es tu fidelidad",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 16
+                  "pos": 5
                 }
               ]
             },
@@ -191,15 +180,15 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 23
+                  "pos": 5
                 }
               ]
             },
@@ -208,7 +197,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 1
                 }
               ]
             },
@@ -217,23 +206,23 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tú y sólo tú",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -242,7 +231,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -251,31 +240,31 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s006",
+          "id": "s005",
           "tipo": "verso",
-          "numero": 5,
+          "numero": 3,
           "lineas": [
             {
               "texto": "Por llamarme tu amigo, gracias",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 6
                 }
               ]
             },
@@ -284,15 +273,15 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 6
                 }
               ]
             },
@@ -301,15 +290,15 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 16
+                  "pos": 6
                 }
               ]
             },
@@ -318,15 +307,15 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 10
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 6
                 }
               ]
             }

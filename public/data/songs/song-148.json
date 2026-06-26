@@ -1,220 +1,298 @@
 {
   "id": "song-148",
-  "titulo": "Solo Hay Uno Digno",
-  "artista": "",
+  "titulo": "Solo Hay Uno",
+  "artista": "Joel Rocco",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2026-06-11T00:00:00Z",
-  "fecha_actualizacion": "2026-06-11T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-148-v001",
       "nombre": "Original",
-      "tonalidad": "F#",
-      "bpm": 0,
+      "tonalidad": "G",
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
-          "id": "s1",
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "El cielo y la tierra se unen",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "A exaltar al cordero inmolado",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Admirable y colmado de gracia",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "En su trono está en majestad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
             {
-              "texto": "Solo hay uno digno",
-              "acordes": []
+              "texto": "Sus pisadas cambiaron la historia",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "Nadie más y nadie más nadie más",
-              "acordes": []
+              "texto": "Sus heridas sanaron las mías",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "Solo hay uno digno",
-              "acordes": []
+              "texto": "El dolor de cargar con mi culpa",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "Nadie más y nadie más nadie más",
-              "acordes": []
+              "texto": "Me trajo libertad hoy puedo cantar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s2",
+          "id": "s003",
           "tipo": "coro",
-          "numero": 1,
+          "numero": null,
           "lineas": [
             {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F#",
-                  "pos": 0
-                }
-              ]
-            },
-            {
               "texto": "Solo hay uno digno",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "E",
+                  "acorde": "D",
                   "pos": 0
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 12
-                },
-                {
-                  "acorde": "G#m",
-                  "pos": 22
                 }
               ]
             },
             {
               "texto": "Nadie más y nadie más nadie más",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "B",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 5
                 }
               ]
             },
             {
               "texto": "Solo hay uno digno",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 12
-                },
-                {
-                  "acorde": "G#m",
-                  "pos": 22
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Nadie más y nadie más nadie más",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s3",
-          "tipo": "puente",
-          "numero": 1,
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
           "lineas": [
             {
-              "texto": "",
+              "texto": "Sus pisadas cambiaron la historia",
               "acordes": [
                 {
-                  "acorde": "C#m",
+                  "acorde": "Bm7",
                   "pos": 0
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 4
                 }
               ]
             },
+            {
+              "texto": "Sus heridas sanaron las mías",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "El dolor de cargar con mi culpa",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Me trajo libertad hoy puedo cantar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Y cada amanecer",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "B",
+                  "acorde": "Am",
                   "pos": 0
-                },
-                {
-                  "acorde": "G#m",
-                  "pos": 8
                 }
               ]
             },
             {
               "texto": "Cada anochecer",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "F#",
+                  "acorde": "G",
                   "pos": 0
                 }
               ]
             },
             {
               "texto": "Levantaré mi alabanza",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Al que resucitó",
               "acordes": []
             },
             {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C#m",
-                  "pos": 0
-                },
-                {
-                  "acorde": "B",
-                  "pos": 12
-                }
-              ]
-            },
-            {
               "texto": "El león de Judá",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "G#m",
+                  "acorde": "Am",
                   "pos": 0
                 }
               ]
             },
             {
               "texto": "La raíz de David",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "F#",
+                  "acorde": "G",
                   "pos": 0
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 18
                 }
               ]
             },
             {
               "texto": "El único capaz de desatar los sellos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
             }
           ]
         }

@@ -1,20 +1,20 @@
 {
   "id": "song-142",
   "titulo": "Not In A Hurry",
-  "artista": "",
-  "autor": "United Pursuit",
+  "artista": "United Pursuit",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Inglés",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-142-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 77,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,33 +22,26 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Capo 4",
               "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
+            },
             {
               "texto": "Lord I don't want to rush on ahead",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 22
+                  "pos": 7
                 }
               ]
             },
@@ -57,15 +50,113 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 24
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "I'm not in a hurry",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "When it comes to your Spirit",
+              "acordes": [
+                {
+                  "acorde": "G/D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "When it comes to your presence",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "When it comes to your voice",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "I'm learning to listen",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Just to rest in your nearness",
+              "acordes": [
+                {
+                  "acorde": "G/D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "I'm starting to notice You are speaking",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
                 }
               ]
             }
@@ -77,117 +168,19 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "I'm not in a hurry",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 6
-                },
-                {
-                  "acorde": "C",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "When it comes to your Spirit",
-              "acordes": [
-                {
-                  "acorde": "G/D",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "When it comes to your presence",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "When it comes to your voice",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "I'm learning to listen",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 6
-                },
-                {
-                  "acorde": "C",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Just to rest in your nearness",
-              "acordes": [
-                {
-                  "acorde": "G/D",
-                  "pos": 9
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 13
-                }
-              ]
-            },
-            {
-              "texto": "I'm starting to notice You are speaking",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 3
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 11
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 22
-                },
-                {
-                  "acorde": "C",
-                  "pos": 26
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
               "texto": "Lord I want to love like you",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 7
                 }
               ]
             },
@@ -196,7 +189,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -205,31 +198,31 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 3
                 }
               ]
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Open my eyes I want to see You",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 22
+                  "pos": 3
                 }
               ]
             },
@@ -238,11 +231,11 @@
               "acordes": [
                 {
                   "acorde": "C/E",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 5
                 }
               ]
             },
@@ -251,11 +244,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
             },
@@ -264,15 +257,15 @@
               "acordes": [
                 {
                   "acorde": "C/E",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "Em",
-                  "pos": 27
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 30
+                  "pos": 8
                 }
               ]
             },
@@ -281,11 +274,11 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             }

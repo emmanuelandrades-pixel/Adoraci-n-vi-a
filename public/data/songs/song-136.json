@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-136-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 73,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,22 +22,22 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Oh luz del mundo, bajaste a tinieblas",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 16
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 24
+                  "pos": 5
                 }
               ]
             },
@@ -50,11 +50,11 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -63,15 +63,15 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 21
+                  "pos": 5
                 }
               ]
             },
@@ -84,11 +84,11 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 12
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 4
                 }
               ]
             }
@@ -96,19 +96,19 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Vengo a adorarte, vengo a postrarme",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 29
+                  "pos": 3
                 }
               ]
             },
@@ -117,11 +117,11 @@
               "acordes": [
                 {
                   "acorde": "E/G#",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 26
+                  "pos": 6
                 }
               ]
             },
@@ -130,11 +130,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 15
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 33
+                  "pos": 3
                 }
               ]
             },
@@ -143,11 +143,11 @@
               "acordes": [
                 {
                   "acorde": "E/G#",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 6
                 }
               ]
             }
@@ -178,23 +178,23 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Jamás sabré cuánto costó",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 8
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 8
                 }
               ]
             },
@@ -203,15 +203,15 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 7
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 12
+                  "pos": 8
                 }
               ]
             }

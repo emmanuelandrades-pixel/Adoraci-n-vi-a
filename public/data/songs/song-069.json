@@ -1,20 +1,20 @@
 {
   "id": "song-069",
   "titulo": "No Hay Otro Igual",
-  "artista": "",
+  "artista": "Adoración Viña Las Condes",
   "autor": "Luian Berdía, David Berguño",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-069-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 156,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,14 +22,14 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Declaramos que Él es Rey",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -38,11 +38,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -51,11 +51,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 22
+                  "pos": 3
                 }
               ]
             },
@@ -64,11 +64,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 3
                 }
               ]
             },
@@ -77,7 +77,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -86,11 +86,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -99,11 +99,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
             },
@@ -112,20 +112,27 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Digno de Honor",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 1
                 }
               ]
             },
@@ -134,7 +141,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             },
@@ -143,7 +150,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -152,11 +159,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -165,15 +172,15 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 8
                 }
               ]
             },
@@ -182,68 +189,185 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Siempre el mismo, siempre Fiel",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "Siempre el mismo, siempre Fiel",
-              "acordes": []
-            },
-            {
               "texto": "El que es, que fue y que pronto volverá",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "A reinar con rectitud y con bondad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "No hay otro igual",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Todo ojo lo verá",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Toda la creación ante Él se postrará",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Toda lengua solo a Él confesará",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "No hay otro igual",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Hoy podemos escuchar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Como el cielo te adora sin cesar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Nos unimos hoy al coro celestial",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "No hay otro igual",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Aleluya",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "Am",
-                  "pos": 6
+                  "pos": 2
                 }
               ]
             }

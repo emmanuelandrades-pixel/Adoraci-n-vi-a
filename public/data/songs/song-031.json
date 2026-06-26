@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-031-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 69,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Despierta alma",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -59,7 +59,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -68,11 +68,11 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 4
                 }
               ]
             }
@@ -81,7 +81,7 @@
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Despierta primer amor",
@@ -92,7 +92,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 16
+                  "pos": 2
                 }
               ]
             },
@@ -101,11 +101,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -118,7 +118,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
@@ -127,11 +127,11 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 10
+                  "pos": 4
                 }
               ]
             }
@@ -139,8 +139,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Espíritu del Dios que vive ven refréscame",
@@ -151,19 +151,19 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 6
                 },
                 {
                   "acorde": "Am",
-                  "pos": 38
+                  "pos": 8
                 }
               ]
             },
@@ -172,15 +172,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
-                  "acorde": "G",
-                  "pos": 18
+                  "acorde": "G/B",
+                  "pos": 5
                 }
               ]
             },
@@ -193,11 +193,11 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 26
+                  "pos": 5
                 }
               ]
             },
@@ -206,32 +206,23 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 17
+                  "pos": 3
                 },
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 6
                 },
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 8
                 },
                 {
-                  "acorde": "G",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "Hasta rebalsar",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 11
+                  "acorde": "G/B",
+                  "pos": 10
                 }
               ]
             }
@@ -239,8 +230,62 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Hasta rebalsar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Espíritu ven y llena",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Este lugar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Que tu gloria ahora irrumpa",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Espíritu ven y llena",
@@ -255,12 +300,8 @@
               "texto": "Este lugar",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 7
-                },
-                {
                   "acorde": "Am",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -269,27 +310,23 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 7
-                },
-                {
-                  "acorde": "C",
-                  "pos": 24
+                  "pos": 1
                 },
                 {
                   "acorde": "Gsus4",
-                  "pos": 26
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 26
+                  "pos": 9
                 },
                 {
                   "acorde": "G2",
-                  "pos": 26
+                  "pos": 11
                 },
                 {
                   "acorde": "G",
-                  "pos": 26
+                  "pos": 14
                 }
               ]
             }

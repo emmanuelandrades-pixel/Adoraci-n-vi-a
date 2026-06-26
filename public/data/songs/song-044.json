@@ -1,20 +1,20 @@
 {
   "id": "song-044",
   "titulo": "Eres Fiel",
-  "artista": "",
-  "autor": "Israel Houghton",
+  "artista": "Israel Houghton",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-044-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 128,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,15 +33,15 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 14
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 34
+                  "pos": 6
                 }
               ]
             },
@@ -54,28 +54,35 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 14
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 33
+                  "pos": 6
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Gente de toda lengua y nación",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "B",
-                  "pos": 16
+                  "pos": 2
                 }
               ]
             },
@@ -84,32 +91,39 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "Te adoramos hoy aleluya, aleluya,",
+              "texto": "Te adoramos hoy, aleluya, aleluya,",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 7
                 }
               ]
             },
@@ -118,19 +132,19 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 7
                 }
               ]
             },
@@ -139,24 +153,24 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 8
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "Te adoramos hoy eres Señor,",
+              "texto": "Te adoramos hoy, eres Señor,",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -164,15 +178,15 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 10
+                  "pos": 6
                 },
                 {
                   "acorde": "C",
-                  "pos": 18
+                  "pos": 8
                 },
                 {
                   "acorde": "D",
-                  "pos": 20
+                  "pos": 10
                 }
               ]
             },
@@ -181,23 +195,99 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "puente",
-          "numero": null,
+          "id": "s004",
+          "tipo": "instrumental",
+          "numero": 1,
           "lineas": [
             {
-              "texto": "E G A – E D C | B",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 5
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "instrumental",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "E",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
                 }
               ]
             }

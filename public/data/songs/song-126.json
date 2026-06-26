@@ -1,20 +1,20 @@
 {
   "id": "song-126",
   "titulo": "En Tu Presencia",
-  "artista": "Touch of Heaven",
+  "artista": "Touch of Heaven - Hillsong Worship",
   "autor": "Hannah Hobbs, Aodhan King & Michael Fatkin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-126-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 68,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Quieto en tu presencia",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -42,7 +42,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -51,22 +51,18 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Te escucho señor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Mi atención te entrego",
@@ -77,149 +73,25 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
+                  "pos": 2
                 }
               ]
             },
             {
               "texto": "A tus pies yo espero",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 0
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Aquí quiero estar",
-              "acordes": []
-            },
-            {
-              "texto": "Aliento en mí ser",
-              "acordes": []
-            },
-            {
-              "texto": "Mi corazón anhela más de",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "C",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "ti",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Haz algo nuevo en mí",
-              "acordes": []
-            },
-            {
-              "texto": "A ti me entrego Dios",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "D",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "A tus pies me rendiré",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "D",
-                  "pos": 13
-                }
-              ]
-            },
-            {
-              "texto": "Y mis miedos dejaré",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 12
-                }
-              ]
-            },
-            {
-              "texto": "Transformado soy en tu",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "presencia",
-              "acordes": []
-            },
-            {
-              "texto": "Tú eres fuego en el día",
-              "acordes": []
-            },
-            {
-              "texto": "Tú eres briza en la noche",
-              "acordes": []
-            },
-            {
-              "texto": "Tú sacias mi sed",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "No hay duda alguna de tu amor y tu",
-              "acordes": []
-            },
-            {
-              "texto": "afecto",
-              "acordes": []
-            },
-            {
-              "texto": "No hay nada igual",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             }
@@ -227,8 +99,50 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Mi corazón anhela más de ti",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Haz algo nuevo en mí",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "A ti me entrego Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Todo en mí",
@@ -239,7 +153,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 6
+                  "pos": 2
                 }
               ]
             },
@@ -248,7 +162,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -257,7 +171,7 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -266,20 +180,127 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "//Mi corazón abierto esta",
+              "texto": "A tus pies me rendiré",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Y mis miedos dejaré",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Transformado soy en tu presencia",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú eres fuego en el día",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres briza en la noche",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Aliento en mí ser",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Tú sacias mi sed",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay duda alguna de tu amor y tu afecto",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "No hay nada igual",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Mi corazón abierto está",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             },
@@ -288,11 +309,11 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             },
@@ -301,11 +322,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             },
@@ -314,15 +335,15 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 23
+                  "pos": 6
                 }
               ]
             }

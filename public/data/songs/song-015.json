@@ -1,26 +1,46 @@
 {
   "id": "song-015",
   "titulo": "Buen Padre",
-  "artista": "",
+  "artista": "Adoración Iglesias Viña Chile",
   "autor": "Daniela Reyes",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-015-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
+          "tipo": "intro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
           "tipo": "verso",
           "numero": null,
           "lineas": [
@@ -33,11 +53,11 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "Am7",
-                  "pos": 34
+                  "pos": 4
                 }
               ]
             },
@@ -46,27 +66,27 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 40
+                  "pos": 3
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y en el momento más oscuro",
               "acordes": [
                 {
                   "acorde": "Am7",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             },
@@ -75,7 +95,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 0
                 }
               ]
             },
@@ -84,11 +104,11 @@
               "acordes": [
                 {
                   "acorde": "Am7",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 28
+                  "pos": 4
                 }
               ]
             },
@@ -97,35 +117,63 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "Am7",
-                  "pos": 24
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 7
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s004",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "oooh-oh",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tú luchas mis batallas, tú vienes sobre mí",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 36
+                  "pos": 3
                 }
               ]
             },
@@ -134,11 +182,11 @@
               "acordes": [
                 {
                   "acorde": "Am7",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 35
+                  "pos": 5
                 }
               ]
             },
@@ -147,11 +195,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 33
+                  "pos": 2
                 }
               ]
             },
@@ -160,28 +208,35 @@
               "acordes": [
                 {
                   "acorde": "Am7",
-                  "pos": 13
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 32
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Mi buen padre, mi buen padre",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 16
+                  "pos": 1
                 },
                 {
                   "acorde": "Am7",
-                  "pos": 27
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 7
                 }
               ]
             }

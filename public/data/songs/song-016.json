@@ -1,20 +1,20 @@
 {
   "id": "song-016",
   "titulo": "Cerca De Ti",
-  "artista": "",
-  "autor": "",
+  "artista": "Mike Leevander",
+  "autor": "Mike Van der Westhuizen",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-016-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,17 +25,6 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Mike Van der Westhuizen",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
               "texto": "Anhelo ver tu belleza y estar cada vez más cerca",
               "acordes": [
                 {
@@ -44,7 +33,7 @@
                 },
                 {
                   "acorde": "Bm7",
-                  "pos": 45
+                  "pos": 2
                 }
               ]
             },
@@ -57,16 +46,16 @@
                 },
                 {
                   "acorde": "Bm7",
-                  "pos": 43
+                  "pos": 2
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Y yo quiero estar tan cerca de ti Dios",
@@ -77,15 +66,15 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 22
+                  "pos": 4
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 34
+                  "pos": 6
                 }
               ]
             },
@@ -94,19 +83,19 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 30
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 42
+                  "pos": 7
                 }
               ]
             },
@@ -115,19 +104,19 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 30
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 39
+                  "pos": 7
                 }
               ]
             },
@@ -136,28 +125,28 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 27
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 42
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 53
+                  "pos": 7
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s003",
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
               "texto": "Oh, oh, oh, oh",
@@ -200,9 +189,9 @@
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Mis ojos anhelan verte, mi boca el adorarte",
@@ -233,9 +222,9 @@
           ]
         },
         {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Y yo quiero estar tan cerca de ti Dios",
@@ -246,15 +235,15 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 2
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 22
+                  "pos": 4
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 32
+                  "pos": 9
                 }
               ]
             },
@@ -263,19 +252,19 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 3
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 30
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 41
+                  "pos": 10
                 }
               ]
             },
@@ -284,19 +273,19 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 3
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 30
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 40
+                  "pos": 10
                 }
               ]
             },
@@ -305,19 +294,19 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 27
+                  "pos": 3
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 42
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 54
+                  "pos": 10
                 }
               ]
             }

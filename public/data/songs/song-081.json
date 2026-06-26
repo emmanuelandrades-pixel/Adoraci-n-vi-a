@@ -1,20 +1,20 @@
 {
   "id": "song-081",
   "titulo": "Que Ruja El León",
-  "artista": "",
-  "autor": "Toma Tu Lugar",
+  "artista": "Toma Tu Lugar",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-081-v001",
       "nombre": "Original",
-      "tonalidad": "E",
-      "bpm": 0,
+      "tonalidad": "F#m",
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,11 +33,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 6
                 }
               ]
             },
@@ -45,8 +45,12 @@
               "texto": "Habrá un Rey",
               "acordes": [
                 {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
                   "acorde": "F#m",
-                  "pos": 5
+                  "pos": 4
                 }
               ]
             },
@@ -59,11 +63,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 6
                 }
               ]
             },
@@ -71,8 +75,12 @@
               "texto": "En amor",
               "acordes": [
                 {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
                   "acorde": "F#m",
-                  "pos": 2
+                  "pos": 4
                 }
               ]
             }
@@ -80,15 +88,15 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Que ruja el león,",
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             },
@@ -97,7 +105,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -106,15 +114,15 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 10
+                  "pos": 6
                 }
               ]
             }
@@ -122,15 +130,15 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "El descendiente de David",
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             },
@@ -139,7 +147,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             },
@@ -148,15 +156,15 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 12
+                  "pos": 6
                 }
               ]
             }
@@ -164,34 +172,23 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
-              "texto": "LEON",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "outro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Hoy se oye rugiendo",
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 18
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 7
                 }
               ]
             },
@@ -200,7 +197,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 14
+                  "pos": 0
                 }
               ]
             },

@@ -1,37 +1,26 @@
 {
   "id": "song-107",
   "titulo": "Vamos A Cantar",
-  "artista": "",
+  "artista": "En Espíritu Y En Verdad",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-107-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 149,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "En Espíritu Y En Verdad",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -66,7 +55,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -75,7 +64,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -84,14 +73,14 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -126,7 +115,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -135,13 +124,55 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Vivimos hoy",
               "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Vamos a cantar con la música del cielo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Vamos a cantar alegres porque escuchas",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cuando cantamos para exaltar tu nombre",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
                 {
                   "acorde": "C",
                   "pos": 5
@@ -152,54 +183,29 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Vamos a cantar con la música del cielo",
+              "texto": "(Entre el coro final)",
               "acordes": [
                 {
                   "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A#",
                   "pos": 2
-                }
-              ]
-            },
-            {
-              "texto": "Vamos a cantar alegres porque escuchas",
-              "acordes": [
+                },
                 {
                   "acorde": "Am",
-                  "pos": 2
-                }
-              ]
-            },
-            {
-              "texto": "Cuando cantamos para exaltar tu nombre",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 3
-                },
-                {
-                  "acorde": "F",
-                  "pos": 11
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 8
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "lineas": [
-            {
-              "texto": "Entre coro final: C - A# - Am - C",
-              "acordes": []
             }
           ]
         }

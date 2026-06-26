@@ -1,20 +1,20 @@
 {
   "id": "song-084",
   "titulo": "Quiero",
-  "artista": "",
+  "artista": "Viña Ágape",
   "autor": "Daniel Hernández",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-084-v001",
       "nombre": "Original",
-      "tonalidad": "G",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 103,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -28,12 +28,12 @@
               "texto": "Quiero servir, quiero ser instrumento,",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 22
+                  "acorde": "F",
+                  "pos": 2
                 }
               ]
             },
@@ -41,12 +41,12 @@
               "texto": "Quiero saber cuándo te estás moviendo.",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 22
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             },
@@ -54,12 +54,12 @@
               "texto": "Quiero adorar y sentirte en el viento,",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 22
+                  "acorde": "F",
+                  "pos": 2
                 }
               ]
             },
@@ -67,12 +67,12 @@
               "texto": "Quiero adorar y que me queme tu fuego.",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 22
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             }
@@ -80,14 +80,14 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y yo cantaré",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -96,8 +96,8 @@
               "texto": "Y con mi canto yo te alabaré,",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 9
+                  "acorde": "F",
+                  "pos": 1
                 }
               ]
             },
@@ -105,7 +105,7 @@
               "texto": "Y yo danzaré",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -114,8 +114,8 @@
               "texto": "Y con mi danza te bendeciré.",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 9
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             }

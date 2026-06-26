@@ -2,19 +2,19 @@
   "id": "song-089",
   "titulo": "Santo Por Siempre",
   "artista": "Holy Forever",
-  "autor": "E                                  Coro:",
+  "autor": "Anthony Skinner, Chris Mcclarney",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-089-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 144,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,44 +22,10 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Mil generaciones",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Se postran adorarle",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C#m",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Le cantan al cordero que",
-              "acordes": []
-            },
-            {
-              "texto": "venció",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "E",
@@ -68,8 +34,43 @@
               ]
             },
             {
+              "texto": "Se postran adorarle",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Le cantan al cordero que venció",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
+            },
+            {
               "texto": "Los que nos precedieron",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y los que en Él creerán",
@@ -80,12 +81,12 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Le cantarán a aquel que ya",
+              "texto": "Le cantarán a aquel que ya venció",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -93,76 +94,11 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "venció",
-              "acordes": []
-            },
-            {
-              "texto": "Cántale al cordero que venció",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Cantan ángeles, San – to",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "B",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "A       Clama la creación, San – to",
-              "acordes": []
-            },
-            {
-              "texto": "Exaltado Dios, San – to",
-              "acordes": []
-            },
-            {
-              "texto": "Santo por siempre",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Si te ha perdonado",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Y tienes salvación",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
+                  "pos": 4
                 },
                 {
-                  "acorde": "E",
-                  "pos": 16
+                  "acorde": "A",
+                  "pos": 6
                 }
               ]
             }
@@ -179,6 +115,10 @@
                 {
                   "acorde": "A",
                   "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
                 }
               ]
             },
@@ -200,7 +140,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             },
@@ -210,6 +150,10 @@
                 {
                   "acorde": "A",
                   "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
                 }
               ]
             },
@@ -223,32 +167,65 @@
               ]
             },
             {
-              "texto": "",
+              "texto": "Tu nombre, sobre todo es",
               "acordes": [
                 {
                   "acorde": "C#m",
                   "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Cantan ángeles, San – to",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "Tu nombre, sobre todo es",
-              "acordes": []
+              "texto": "Clama la creación, Santo",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                }
+              ]
             },
             {
-              "texto": "Rey de reyes es San - to",
-              "acordes": []
-            },
-            {
-              "texto": "por siempre serás San - to",
+              "texto": "Exaltado Dios, Santo",
               "acordes": [
                 {
                   "acorde": "F#m7",
-                  "pos": 25
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 25
+                  "pos": 6
                 }
               ]
             },
@@ -257,7 +234,53 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 16
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Si te ha perdonado",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Y tienes salvación",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Cántale al cordero que venció",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
                 }
               ]
             },
@@ -279,7 +302,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
@@ -292,16 +315,16 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 24
+                  "pos": 6
                 }
               ]
             },
             {
-              "texto": "Cantaremos siempre \"amén\"",
+              "texto": "Cantaremos siempre Amén",
               "acordes": [
                 {
                   "acorde": "C#m",
@@ -309,26 +332,131 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 17
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 24
+                  "pos": 6
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Cantan ángeles, San – to",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 0
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
                 }
               ]
             },
             {
+              "texto": "Clama la creación, Santo",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Exaltado Dios, Santo",
+              "acordes": [
+                {
+                  "acorde": "F#m7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Santo por siempre",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
               "texto": "Tu gente cantará, San - to",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Rey de reyes es Santo",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "por siempre serás Santo",
+              "acordes": [
+                {
+                  "acorde": "F#m7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Santo por siempre",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
             }
           ]
         }

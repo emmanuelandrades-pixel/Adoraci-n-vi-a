@@ -1,20 +1,20 @@
 {
   "id": "song-052",
   "titulo": "Hermoso Nombre",
-  "artista": "What a Beautiful Name",
+  "artista": "What a Beautiful Name - Hillsong Worship",
   "autor": "Ben Fielding, Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-052-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Tú fuiste el verbo en el principio",
@@ -46,23 +46,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
-                },
-                {
-                  "acorde": "G",
-                  "pos": 16
-                },
-                {
-                  "acorde": "A",
-                  "pos": 16
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 16
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 16
+                  "pos": 5
                 }
               ]
             },
@@ -75,11 +59,11 @@
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 8
                 }
               ]
             },
@@ -88,99 +72,50 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 6
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Cuán hermoso su nombre es",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Cuán hermoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Cuán hermoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 3
-                },
-                {
-                  "acorde": "G",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "El nombre de Jesús mi Rey",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D/F#",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Cuán hermoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "Nada se iguala a Él",
-              "acordes": [
-                {
-                  "acorde": "A/C#",
-                  "pos": 10
-                }
-              ]
-            },
-            {
-              "texto": "Cuán hermoso su nombre es",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 13
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro nombre",
-              "acordes": [
+                  "pos": 1
+                },
                 {
                   "acorde": "A",
                   "pos": 4
@@ -192,7 +127,54 @@
               ]
             },
             {
-              "texto": "",
+              "texto": "Cuán hermoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Nada se iguala a Él",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cuán hermoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Dejaste el cielo por salvarme",
               "acordes": [
                 {
                   "acorde": "D",
@@ -201,48 +183,176 @@
               ]
             },
             {
-              "texto": "Dejaste el cielo por salvarme",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Me viniste a rescatar",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 8
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Me viniste a rescatar",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
+                  "pos": 6
                 }
               ]
             },
             {
               "texto": "Mi transgresión tú perdonaste",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Nada nos separará",
               "acordes": [
                 {
                   "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "El nombre de Jesús mi Rey",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Nada se iguala a Él",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Majestuoso su nombre es",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
                   "pos": 2
                 },
                 {
@@ -250,116 +360,24 @@
                   "pos": 4
                 },
                 {
-                  "acorde": "A",
+                  "acorde": "F#m",
                   "pos": 7
                 }
               ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Majestuoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A/C#",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Majestuoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 3
-                },
-                {
-                  "acorde": "G",
-                  "pos": 5
-                }
-              ]
-            },
-            {
-              "texto": "El nombre de Jesús mi Rey",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D/F#",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Majestuoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Nada se iguala a Él",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Majestuoso su nombre es",
-              "acordes": []
-            },
-            {
-              "texto": "No hay otro nombre",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 6
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "La muerte venciste",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
             },
@@ -368,7 +386,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
             },
@@ -377,32 +395,51 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 21
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 24
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "Los cielos declaran",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Tu gloria proclaman",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Resucitaste en majestad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Inigualable",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
@@ -411,7 +448,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
@@ -420,11 +457,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             },
@@ -433,41 +470,65 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Tuya es la gloria",
-              "acordes": []
-            },
-            {
-              "texto": "Bm        A (F#m)",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "A/C#",
-                  "pos": 0
-                },
-                {
-                  "acorde": "D",
-                  "pos": 5
+                  "acorde": "A",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Tuyo el poder y autoridad",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Tuyo el poder y autoridad",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "coro",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Poderoso su nombre es",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -476,29 +537,66 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "El nombre de Jesús mi Rey",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Poderoso su nombre es",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Incomparable es Él",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Poderoso su nombre es",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
             }
           ]
         }

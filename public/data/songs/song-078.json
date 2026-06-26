@@ -1,20 +1,20 @@
 {
   "id": "song-078",
   "titulo": "Perfume A Tus Pies",
-  "artista": "",
-  "autor": "Jaz Jacob",
+  "artista": "Jaz Jacob",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-078-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 71,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Cuando pienso en tu amor y en tu fidelidad",
@@ -33,15 +33,15 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 22
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 39
+                  "pos": 4
                 },
                 {
                   "acorde": "B",
-                  "pos": 41
+                  "pos": 8
                 }
               ]
             },
@@ -50,11 +50,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 40
+                  "pos": 3
                 }
               ]
             },
@@ -63,11 +63,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 27
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 54
+                  "pos": 3
                 }
               ]
             },
@@ -80,7 +80,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             }
@@ -88,23 +88,23 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y no me quiero conformar,",
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "B",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 24
+                  "pos": 6
                 }
               ]
             },
@@ -113,23 +113,23 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "B",
-                  "pos": 10
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 22
+                  "pos": 6
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 22
+                  "pos": 8
                 },
                 {
                   "acorde": "E",
-                  "pos": 22
+                  "pos": 13
                 }
               ]
             }
@@ -137,8 +137,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Yo quiero enamorarme más de ti, enséñame a amarte y a vivir",
@@ -149,36 +149,36 @@
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 30
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 58
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "Conforme a tu justicia y tu verdad, con mi vida quiero a -dorar",
+              "texto": "Conforme a tu justicia y tu verdad, con mi vida quiero a - dorar",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 19
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 33
+                  "pos": 3
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 53
+                  "pos": 5
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 60
+                  "pos": 10
                 },
                 {
                   "acorde": "E",
-                  "pos": 62
+                  "pos": 15
                 }
               ]
             },
@@ -187,11 +187,11 @@
               "acordes": [
                 {
                   "acorde": "B/D#",
-                  "pos": 32
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 62
+                  "pos": 6
                 }
               ]
             },
@@ -200,27 +200,23 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 24
+                  "pos": 3
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 38
+                  "pos": 5
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 45
-                },
-                {
-                  "acorde": "A",
-                  "pos": 49
+                  "pos": 10
                 },
                 {
                   "acorde": "E",
-                  "pos": 49
+                  "pos": 15
                 }
               ]
             }
@@ -229,30 +225,74 @@
         {
           "id": "s004",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Cuando pienso en tu cruz y en todo lo que has dado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 8
+                }
+              ]
             },
             {
               "texto": "Tu sangre por mí, por llevar mi pecado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Cuando pienso en tu mano, que hasta aquí hemos llegado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Por tu fidelidad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
             }
           ]
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Que nuestras vidas sean derramadas",
@@ -263,11 +303,11 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 17
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 33
+                  "pos": 4
                 }
               ]
             },
@@ -280,15 +320,15 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "B",
-                  "pos": 19
+                  "pos": 4
                 },
                 {
                   "acorde": "E",
-                  "pos": 32
+                  "pos": 6
                 }
               ]
             }

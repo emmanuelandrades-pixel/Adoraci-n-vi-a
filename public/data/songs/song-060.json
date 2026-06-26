@@ -1,20 +1,20 @@
 {
   "id": "song-060",
   "titulo": "Lo Harás Otra Vez",
-  "artista": "Do It Again",
+  "artista": "Do It Again - Elevation Worship",
   "autor": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-060-v001",
       "nombre": "Original",
-      "tonalidad": "Eb",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 86,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,13 +22,13 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Muros rodeando estoy",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -37,21 +37,21 @@
               "texto": "Pensé que caerían hoy",
               "acordes": [
                 {
-                  "acorde": "Bb/D",
-                  "pos": 6
+                  "acorde": "G/B",
+                  "pos": 0
                 }
               ]
             },
             {
-              "texto": "Más nunca me has fallado Dios",
+              "texto": "Mas nunca me has fallado Dios",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "Bb",
-                  "pos": 22
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             },
@@ -59,7 +59,7 @@
               "texto": "La espera terminará",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -68,7 +68,7 @@
               "texto": "Sé que has vencido ya",
               "acordes": [
                 {
-                  "acorde": "Bb/D",
+                  "acorde": "G/B",
                   "pos": 0
                 }
               ]
@@ -77,25 +77,32 @@
               "texto": "Nunca me has fallado Dios",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "Bb",
-                  "pos": 16
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "En ti confiaré",
               "acordes": [
                 {
-                  "acorde": "Eb/G",
+                  "acorde": "C/E",
                   "pos": 0
                 },
                 {
-                  "acorde": "F/A",
-                  "pos": 13
+                  "acorde": "D/F#",
+                  "pos": 4
                 }
               ]
             },
@@ -103,8 +110,8 @@
               "texto": "Tu promesa sigue en pie",
               "acordes": [
                 {
-                  "acorde": "Bb",
-                  "pos": 14
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
@@ -112,8 +119,8 @@
               "texto": "Tú eres fiel",
               "acordes": [
                 {
-                  "acorde": "Eb",
-                  "pos": 6
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
@@ -121,12 +128,12 @@
               "texto": "Confiado andaré",
               "acordes": [
                 {
-                  "acorde": "Eb/G",
+                  "acorde": "C/E",
                   "pos": 0
                 },
                 {
-                  "acorde": "F/A",
-                  "pos": 14
+                  "acorde": "D/F#",
+                  "pos": 4
                 }
               ]
             },
@@ -134,24 +141,60 @@
               "texto": "En tus manos estaré",
               "acordes": [
                 {
-                  "acorde": "Bb",
-                  "pos": 6
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "Eb                 // Bb/D – Eb",
-              "acordes": []
-            },
-            {
               "texto": "Siempre has sido fiel",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "instrumental",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "La noche acabará",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -160,8 +203,8 @@
               "texto": "Tu Palabra se cumplirá",
               "acordes": [
                 {
-                  "acorde": "Bb/D",
-                  "pos": 7
+                  "acorde": "G/B",
+                  "pos": 0
                 }
               ]
             },
@@ -169,12 +212,12 @@
               "texto": "Mi corazón te alabará",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "Bb",
-                  "pos": 17
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             },
@@ -182,7 +225,7 @@
               "texto": "Cristo, mi Salvador",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -191,7 +234,7 @@
               "texto": "Cúbreme con tu amor",
               "acordes": [
                 {
-                  "acorde": "Bb/D",
+                  "acorde": "G/B",
                   "pos": 0
                 }
               ]
@@ -200,63 +243,117 @@
               "texto": "Mi corazón te alabará",
               "acordes": [
                 {
-                  "acorde": "Eb",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "Bb",
-                  "pos": 17
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 12
+                },
+                {
+                  "acorde": "G",
+                  "pos": 17
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Yo sé que tú,",
               "acordes": [
                 {
-                  "acorde": "Bb/D",
+                  "acorde": "G/B",
                   "pos": 0
                 },
                 {
-                  "acorde": "Eb",
-                  "pos": 5
-                },
-                {
-                  "acorde": "Bb/D",
-                  "pos": 8
-                },
-                {
-                  "acorde": "Eb",
-                  "pos": 12
-                },
-                {
-                  "acorde": "F/A",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Bdim",
+                  "acorde": "C",
                   "pos": 4
-                },
-                {
-                  "acorde": "F/A",
-                  "pos": 7
-                },
-                {
-                  "acorde": "Bdim",
-                  "pos": 11
                 }
               ]
             },
             {
               "texto": "Mueves montañas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Yo creo en ti,",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Sé que lo harás otra vez",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Abriste el mar en el desierto",

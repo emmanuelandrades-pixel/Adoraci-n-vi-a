@@ -1,37 +1,26 @@
 {
   "id": "song-129",
   "titulo": "Mi Dios Puede Salvar",
-  "artista": "Mighty To Save",
-  "autor": "",
+  "artista": "Mighty To Save - Hillsong Worship",
+  "autor": "Ben Fielding & Reuben Morgan",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-129-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 150,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Ben Fielding & Reuben Morgan",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -44,7 +33,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
@@ -53,7 +42,7 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -62,7 +51,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 4
+                  "pos": 1
                 }
               ]
             },
@@ -75,7 +64,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 12
+                  "pos": 2
                 }
               ]
             },
@@ -84,7 +73,7 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -93,23 +82,35 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
-                },
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 0
                 },
                 {
                   "acorde": "E",
-                  "pos": 18
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "E",
-                  "pos": 18
+                  "pos": 6
                 }
               ]
             }
@@ -117,8 +118,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Cristo puede mover montes",
@@ -129,7 +130,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
@@ -138,11 +139,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
@@ -151,11 +152,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "E",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -164,11 +165,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 26
+                  "pos": 3
                 }
               ]
             },
@@ -177,11 +178,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -190,11 +191,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 18
+                  "pos": 5
                 }
               ]
             }
@@ -203,7 +204,7 @@
         {
           "id": "s004",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Aun con mis temores",
@@ -233,23 +234,23 @@
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "En la tierra, tu luz brillará, cantamos",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "E",
-                  "pos": 29
+                  "pos": 5
                 }
               ]
             },
@@ -262,11 +263,11 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 2
                 },
                 {
                   "acorde": "E",
-                  "pos": 27
+                  "pos": 4
                 }
               ]
             }

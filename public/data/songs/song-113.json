@@ -1,47 +1,47 @@
 {
   "id": "song-113",
   "titulo": "Yeshua",
-  "artista": "",
-  "autor": "Marcos Brunet",
+  "artista": "Marcos Brunet",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-113-v001",
       "nombre": "Original",
-      "tonalidad": "A",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Yeshua",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "B/Db",
-                  "pos": 2
+                  "acorde": "D/F#",
+                  "pos": 3
                 },
                 {
-                  "acorde": "C#m",
-                  "pos": 5
+                  "acorde": "Em",
+                  "pos": 8
                 },
                 {
-                  "acorde": "B",
-                  "pos": 5
+                  "acorde": "D",
+                  "pos": 11
                 }
               ]
             }
@@ -49,15 +49,15 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Mi amado es",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 10
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
@@ -65,8 +65,8 @@
               "texto": "El más bello entre",
               "acordes": [
                 {
-                  "acorde": "C#m",
-                  "pos": 10
+                  "acorde": "Em",
+                  "pos": 1
                 }
               ]
             },
@@ -74,12 +74,12 @@
               "texto": "Millares y millares",
               "acordes": [
                 {
-                  "acorde": "E",
-                  "pos": 3
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "B",
-                  "pos": 15
+                  "acorde": "D",
+                  "pos": 3
                 }
               ]
             }
@@ -87,15 +87,15 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Si te tengo a ti",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 15
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
@@ -107,8 +107,8 @@
               "texto": "Mi amado",
               "acordes": [
                 {
-                  "acorde": "C#m",
-                  "pos": 7
+                  "acorde": "Em",
+                  "pos": 1
                 }
               ]
             },
@@ -116,8 +116,8 @@
               "texto": "Mi tesoro",
               "acordes": [
                 {
-                  "acorde": "B",
-                  "pos": 8
+                  "acorde": "D",
+                  "pos": 1
                 }
               ]
             },
@@ -125,8 +125,8 @@
               "texto": "Fuera de ti",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 10
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
@@ -138,12 +138,12 @@
               "texto": "Señor",
               "acordes": [
                 {
-                  "acorde": "E",
-                  "pos": 4
+                  "acorde": "G",
+                  "pos": 0
                 },
                 {
-                  "acorde": "B",
-                  "pos": 4
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             }

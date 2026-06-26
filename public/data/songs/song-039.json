@@ -1,31 +1,31 @@
 {
   "id": "song-039",
   "titulo": "En La Cruz",
-  "artista": "At the cross",
+  "artista": "At the cross - Hillsong Worship",
   "autor": "Darlene Zschech, Reuben Morgan",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-039-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Señor conoces",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "F",
@@ -33,218 +33,15 @@
                 },
                 {
                   "acorde": "C/E",
-                  "pos": 4
+                  "pos": 2
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
-                },
-                {
-                  "acorde": "G",
-                  "pos": 10
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
                   "pos": 6
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 8
-                }
-              ]
-            },
-            {
-              "texto": "Mi corazón                      Mi escudo eres",
-              "acordes": [
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 33
-                },
-                {
-                  "acorde": "F",
-                  "pos": 37
-                },
-                {
-                  "acorde": "G",
-                  "pos": 39
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 41
-                }
-              ]
-            },
-            {
-              "texto": "Aun cuando te fallo              Mi protección",
-              "acordes": [
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 8
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 33
-                },
-                {
-                  "acorde": "F",
-                  "pos": 37
-                },
-                {
-                  "acorde": "G",
-                  "pos": 39
-                }
-              ]
-            },
-            {
-              "texto": "Se que me amas                  Tu me sostienes",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 3
-                },
-                {
-                  "acorde": "G",
-                  "pos": 11
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 33
-                },
-                {
-                  "acorde": "F",
-                  "pos": 37
-                },
-                {
-                  "acorde": "G",
-                  "pos": 39
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 41
-                }
-              ]
-            },
-            {
-              "texto": "C/E F G Am7                      Se que me amas",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 33
-                },
-                {
-                  "acorde": "G",
-                  "pos": 40
-                }
-              ]
-            },
-            {
-              "texto": "Con tu presencia",
-              "acordes": []
-            },
-            {
-              "texto": "Rodéame                      El velo rasgó",
-              "acordes": [
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "F",
-                  "pos": 41
-                }
-              ]
-            },
-            {
-              "texto": "En todo tiempo               Un camino abrió",
-              "acordes": [
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 8
-                },
-                {
-                  "acorde": "G",
-                  "pos": 42
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 43
-                }
-              ]
-            },
-            {
-              "texto": "Se que me amas/                 Todo consumado es",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
                 },
                 {
                   "acorde": "G",
                   "pos": 8
-                },
-                {
-                  "acorde": "F",
-                  "pos": 43
-                },
-                {
-                  "acorde": "Am7",
-                  "pos": 48
-                },
-                {
-                  "acorde": "G",
-                  "pos": 48
                 }
               ]
             }
@@ -256,7 +53,165 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Hoy me postro ante Jesús         C/E F G Am7",
+              "texto": "Señor conoces",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Aun cuando te fallo",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Sé que me amas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Con tu presencia",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Rodéame",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "En todo tiempo",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Sé que me amas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Hoy me postro ante Jesús",
               "acordes": [
                 {
                   "acorde": "C",
@@ -264,48 +219,260 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 20
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "F            Aun en tormentas",
-              "acordes": []
+              "texto": "Diste tu sangre en la cruz",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "Diste tu sangre en la cruz       C/E F G",
-              "acordes": []
+              "texto": "No hay otro amor igual",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "G                O tempestad",
-              "acordes": []
-            },
-            {
-              "texto": "No hay otro amor igual           C/E F G Am7",
-              "acordes": []
-            },
-            {
-              "texto": "C          Am                    Tu estás conmigo",
-              "acordes": []
-            },
-            {
-              "texto": "El murió y resucito              F       G",
-              "acordes": []
-            },
-            {
-              "texto": "F              /Se que me amas",
-              "acordes": []
+              "texto": "El murió y resucitó",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Sobre la muerte venció",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Nada me separará",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Mi escudo eres",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Mi protección",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Tú me sostienes",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Sé que me amas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "El velo rasgó",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Un camino abrió",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Todo consumado es",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Aun en tormentas",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "O tempestad",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Tu estás conmigo",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Sé que me amas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
                 }
               ]
             }

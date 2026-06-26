@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-035-v001",
       "nombre": "Original",
       "tonalidad": "B",
-      "bpm": 0,
+      "bpm": 94,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,18 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Miro a la cruz, de ella me sostendré",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 30
+                  "pos": 3
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "G#m",
-                  "pos": 20
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 42
+                  "pos": 5
                 }
               ]
             },
@@ -55,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 29
+                  "pos": 3
                 }
               ]
             },
@@ -68,11 +68,11 @@
               "acordes": [
                 {
                   "acorde": "G#m",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 33
+                  "pos": 5
                 }
               ]
             }
@@ -80,8 +80,8 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "En la cruz Tú me cautivas",
@@ -98,16 +98,17 @@
                 {
                   "acorde": "G#m",
                   "pos": 0
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 25
                 }
               ]
             },
             {
               "texto": "Sin palabras enamorado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Dulcemente quebrantado",
@@ -127,26 +128,62 @@
           "lineas": [
             {
               "texto": "Y sin merecer, el regalo de la vida",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Cristo me has dado, por medio de la cruz",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Tú me has llamado, de la muerte a la vida",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Tu ira merecía, hoy por la cruz reconciliados",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
             }
           ]
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Asombrado en la cruz confesaré",
@@ -157,7 +194,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 28
+                  "pos": 4
                 }
               ]
             },
@@ -170,7 +207,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 31
+                  "pos": 4
                 }
               ]
             },
@@ -179,7 +216,7 @@
               "acordes": [
                 {
                   "acorde": "F#",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             }

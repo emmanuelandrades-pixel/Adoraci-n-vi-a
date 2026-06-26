@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-122-v001",
       "nombre": "Original",
       "tonalidad": "B",
-      "bpm": 0,
+      "bpm": 115,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Bendito sea tu nombre",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "F#",
-                  "pos": 10
+                  "pos": 2
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "G#m",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 5
                 }
               ]
             },
@@ -55,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -68,7 +68,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -84,23 +84,23 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Cada bendición convierto en adoración",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "F#",
-                  "pos": 18
+                  "pos": 2
                 },
                 {
                   "acorde": "G#m",
-                  "pos": 32
+                  "pos": 5
                 }
               ]
             },
@@ -109,32 +109,39 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "F#",
-                  "pos": 17
+                  "pos": 2
                 },
                 {
                   "acorde": "G#m",
-                  "pos": 28
+                  "pos": 5
                 },
                 {
                   "acorde": "E",
-                  "pos": 40
+                  "pos": 9
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Bendito sea el nombre del Señor",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 28
+                  "pos": 3
                 }
               ]
             },
@@ -143,11 +150,11 @@
               "acordes": [
                 {
                   "acorde": "G#m",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 5
                 }
               ]
             },
@@ -156,11 +163,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 16
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 29
+                  "pos": 3
                 }
               ]
             },
@@ -169,22 +176,22 @@
               "acordes": [
                 {
                   "acorde": "G#m",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 17
+                  "pos": 5
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 8
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -207,28 +214,28 @@
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Darás y quitarás, darás y quitarás",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "G#m",
-                  "pos": 18
+                  "pos": 6
                 },
                 {
                   "acorde": "E",
-                  "pos": 33
+                  "pos": 10
                 }
               ]
             },
@@ -237,19 +244,19 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 22
+                  "pos": 3
                 },
                 {
                   "acorde": "G#m",
-                  "pos": 25
+                  "pos": 6
                 },
                 {
                   "acorde": "E",
-                  "pos": 36
+                  "pos": 10
                 }
               ]
             }

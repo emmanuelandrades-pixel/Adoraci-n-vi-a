@@ -1,20 +1,20 @@
 {
   "id": "song-119",
   "titulo": "Venid Fieles Todos",
-  "artista": "",
-  "autor": "Marcos Witt",
+  "artista": "Marcos Witt",
+  "autor": "",
   "genero": "Navidad",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-119-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 111,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Venid fieles todos a Belén marchemos",
@@ -33,23 +33,23 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 2
                 },
                 {
                   "acorde": "Em",
-                  "pos": 17
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 7
                 },
                 {
                   "acorde": "G",
-                  "pos": 30
+                  "pos": 9
                 },
                 {
                   "acorde": "D",
-                  "pos": 32
+                  "pos": 11
                 }
               ]
             },
@@ -58,19 +58,19 @@
               "acordes": [
                 {
                   "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
                   "pos": 4
                 },
                 {
-                  "acorde": "D",
-                  "pos": 13
-                },
-                {
                   "acorde": "Am",
-                  "pos": 24
+                  "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 33
+                  "pos": 9
                 }
               ]
             },
@@ -79,22 +79,29 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 24
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 33
+                  "pos": 8
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Venid y adoremos",
               "acordes": [
@@ -113,12 +120,12 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Venid y adoremos",
+              "texto": "Venid y a - do - re - mos",
               "acordes": [
                 {
                   "acorde": "C",
@@ -142,7 +149,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 16
                 }
               ]
             },
@@ -151,44 +158,51 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 0
                 },
                 {
                   "acorde": "D",
-                  "pos": 4
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "En pobre pesebre, yace reclinado",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 17
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 8
                 },
                 {
                   "acorde": "G",
-                  "pos": 28
+                  "pos": 10
                 },
                 {
                   "acorde": "D",
-                  "pos": 30
+                  "pos": 12
                 }
               ]
             },
@@ -197,19 +211,19 @@
               "acordes": [
                 {
                   "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
                   "pos": 4
                 },
                 {
-                  "acorde": "D",
-                  "pos": 13
-                },
-                {
                   "acorde": "Am",
-                  "pos": 24
+                  "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 33
+                  "pos": 9
                 }
               ]
             },
@@ -218,22 +232,29 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 20
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 31
+                  "pos": 8
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Venid y adoremos",
               "acordes": [
@@ -252,12 +273,12 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Venid y adoremos",
+              "texto": "Venid y a - do - re - mos",
               "acordes": [
                 {
                   "acorde": "C",
@@ -281,44 +302,80 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 16
                 }
               ]
             },
             {
-              "texto": "C D               / Em – D - C",
-              "acordes": []
-            },
-            {
               "texto": "A Cristo el Señor",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Cantad jubilosas, célicas criaturas",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 13
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 8
                 },
                 {
                   "acorde": "G",
-                  "pos": 30
+                  "pos": 10
                 },
                 {
                   "acorde": "D",
-                  "pos": 32
+                  "pos": 12
                 }
               ]
             },
@@ -327,19 +384,19 @@
               "acordes": [
                 {
                   "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Am",
                   "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 14
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 29
-                },
-                {
-                  "acorde": "D",
-                  "pos": 37
+                  "pos": 9
                 }
               ]
             },
@@ -348,22 +405,29 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 23
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 34
+                  "pos": 8
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "coro",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Venid y adoremos",
               "acordes": [
@@ -382,36 +446,36 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Venid y adoremos",
+              "texto": "Venid y a - do - re - mos",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 7
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 11
+                  "pos": 7
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 10
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 15
+                  "pos": 12
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 17
                 }
               ]
             },
@@ -420,15 +484,15 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "D",
-                  "pos": 5
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             }

@@ -1,0 +1,401 @@
+{
+  "id": "song-152",
+  "titulo": "Fiesta En El Desierto (la la la)",
+  "artista": "Montesanto",
+  "autor": "Douglas D´lima, Sinai Urdaneta, Yaomari Prieto, Richeld Vilchez",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-152-v001",
+      "nombre": "Original",
+      "tonalidad": "C#m",
+      "bpm": 140,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "En santiago 1 verso 2",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Está escrito que tenga gozo",
+              "acordes": []
+            },
+            {
+              "texto": "Cuando pase por diversas pruebas",
+              "acordes": []
+            },
+            {
+              "texto": "Porque de allí saldré victorioso",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Mi lamento cambiaste por danza",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Ya no hay tristeza solo alabanza",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Mi lamento cambiaste por danza",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Ya no hay tristeza",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Yo danzo, danzo, danzo, danzo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Danzo, danzo, en el proceso",
+              "acordes": [
+                {
+                  "acorde": "G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Y grito, grito, grito, grito",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Grito, grito, no moriré",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Doy vueltas, vueltas, vueltas, vueltas",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Vueltas, vueltas, no me avergüenzo",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Hay fiesta, fiesta, fiesta, fiesta",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Fiesta, fiesta en el desierto",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G#7",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 8
+                },
+                {
+                  "acorde": "B",
+                  "pos": 12
+                },
+                {
+                  "acorde": "A",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G#",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "instrumental",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "La, la, la, la, la, la",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La, la, la, la, la, la",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La, la, la, la, la, la",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "La, la, la, la",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G#",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "x4 y terminar en",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Aunque venga la enfermedad",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Mientras viva te alabaré",
+              "acordes": []
+            },
+            {
+              "texto": "Aunque mis labios quieran callar",
+              "acordes": []
+            },
+            {
+              "texto": "Mientras viva te alabaré",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Aunque el desierto me quiera secar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Mientras viva te alabaré",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Aunque la higuera no florezca",
+              "acordes": [
+                {
+                  "acorde": "G#7",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Mientras viva te alabaré",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

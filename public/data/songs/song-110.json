@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-110-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 107,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,11 +33,11 @@
                 },
                 {
                   "acorde": "A/E",
-                  "pos": 17
+                  "pos": 2
                 },
                 {
                   "acorde": "E",
-                  "pos": 21
+                  "pos": 6
                 }
               ]
             },
@@ -50,11 +50,11 @@
                 },
                 {
                   "acorde": "F#m7",
-                  "pos": 12
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 17
+                  "pos": 7
                 }
               ]
             },
@@ -67,11 +67,11 @@
                 },
                 {
                   "acorde": "A/E",
-                  "pos": 16
+                  "pos": 2
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 6
                 }
               ]
             },
@@ -84,15 +84,15 @@
                 },
                 {
                   "acorde": "F#m7",
-                  "pos": 16
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 25
+                  "pos": 7
                 },
                 {
                   "acorde": "E",
-                  "pos": 27
+                  "pos": 9
                 }
               ]
             }
@@ -100,19 +100,19 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Toda lengua confesará que Él es Dios",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 22
+                  "pos": 3
                 }
               ]
             },
@@ -121,11 +121,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -138,7 +138,7 @@
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             },
@@ -147,11 +147,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 12
+                  "pos": 3
                 }
               ]
             }
@@ -159,8 +159,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "outro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Eres fiel",

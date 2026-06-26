@@ -8,21 +8,21 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-028-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 167,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "instrumental",
-          "numero": null,
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Vi - niste a habitar,",
@@ -37,7 +37,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 5
                 }
               ]
             },
@@ -54,7 +54,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 5
                 }
               ]
             },
@@ -71,11 +71,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 34
+                  "pos": 7
                 }
               ]
             },
@@ -84,11 +84,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -107,21 +107,28 @@
             {
               "texto": "Y llevarnos más alto",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Vamos de gloria en gloria en gloria",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 30
+                  "pos": 6
                 }
               ]
             },
@@ -130,24 +137,24 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 33
+                  "pos": 8
                 }
               ]
             },
             {
-              "texto": "Vamos de gloria en gloria en gloria (Vamos más alto, más alto, más alto)",
+              "texto": "Vamos de gloria en gloria en gloria",
               "acordes": [
                 {
                   "acorde": "A",
@@ -155,15 +162,15 @@
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 11
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 31
+                  "pos": 7
                 }
               ]
             },
@@ -172,22 +179,29 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 1
+                  "pos": 0
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 15
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 31
+                  "pos": 7
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Tú amigo yo soy",
               "acordes": []
@@ -203,17 +217,198 @@
             {
               "texto": "Y me llevas más alto",
               "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Vamos de gloria en gloria en gloria",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
             },
             {
-              "texto": "Jesús queremos ver, tú rostro y majestad",
+              "texto": "Jamás será igual, jamás seré igual",
               "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Vamos de gloria en gloria en gloria",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
                 {
                   "acorde": "G",
                   "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 27
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Gracia que cambió nuestro corazón",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Vamos de gloria en gloria en gloria",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Jamás será igual, jamás seré igual",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Vamos más alto, más alto, más alto",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Gracia que cambió nuestro corazón",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Jesús queremos ver, tú rostro y majestad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
                 }
               ]
             },
@@ -221,16 +416,12 @@
               "texto": "Por siempre cantaremos, Santo, Santo",
               "acordes": [
                 {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
                   "acorde": "A",
                   "pos": 4
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 30
-                },
-                {
-                  "acorde": "A",
-                  "pos": 33
                 }
               ]
             },
@@ -239,11 +430,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 0
                 },
                 {
                   "acorde": "D",
-                  "pos": 39
+                  "pos": 2
                 }
               ]
             },
@@ -252,18 +443,25 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 4
+                  "pos": 0
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 30
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 33
+                  "pos": 5
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
             {
               "texto": "",
               "acordes": [
@@ -273,18 +471,25 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 5
+                  "pos": 2
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 10
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 7
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "La tumba venció,",
               "acordes": []

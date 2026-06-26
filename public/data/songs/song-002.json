@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-002-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 130,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -34,19 +34,20 @@
               ]
             },
             {
-              "texto": "EM7",
-              "acordes": []
-            },
-            {
               "texto": "Abre mis ojos Te pido",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "EM7",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Yo quiero verte",
               "acordes": [
                 {
                   "acorde": "E/A",
-                  "pos": 6
+                  "pos": 1
                 }
               ]
             },
@@ -55,7 +56,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
             }
@@ -63,19 +64,19 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y contemplar Tu Majestad",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 14
+                  "pos": 3
                 }
               ]
             },
@@ -88,7 +89,7 @@
                 },
                 {
                   "acorde": "Bsus",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -97,11 +98,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -110,7 +111,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -119,11 +120,11 @@
               "acordes": [
                 {
                   "acorde": "Bsus",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 11
+                  "pos": 6
                 }
               ]
             }
@@ -131,8 +132,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Santo, Santo, Santo",
@@ -144,12 +145,13 @@
               ]
             },
             {
-              "texto": "EM7",
-              "acordes": []
-            },
-            {
               "texto": "Santo, Santo, Santo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "EM7",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Santo, Santo, Santo",

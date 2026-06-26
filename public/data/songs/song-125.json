@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-125-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 119,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "En secreto, en mi soledad",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 23
+                  "pos": 2
                 }
               ]
             },
@@ -46,11 +46,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 5
                 }
               ]
             },
@@ -64,7 +64,7 @@
               ]
             },
             {
-              "texto": "Te esperare solo a tí",
+              "texto": "Te esperare solo a ti",
               "acordes": [
                 {
                   "acorde": "C",
@@ -81,11 +81,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
             }
@@ -93,8 +93,8 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Quiero conocerte",
@@ -105,7 +105,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 14
+                  "pos": 2
                 }
               ]
             },
@@ -118,7 +118,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -131,11 +131,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 14
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -148,7 +148,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
@@ -161,7 +161,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 3
                 }
               ]
             },
@@ -174,11 +174,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 4
                 }
               ]
             }

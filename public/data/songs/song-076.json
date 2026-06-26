@@ -1,32 +1,53 @@
 {
   "id": "song-076",
   "titulo": "Padre Fiel",
-  "artista": "",
-  "autor": "",
+  "artista": "Viña Ágape",
+  "autor": "Mike Van der Westhuizen",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-076-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 97,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Mike Van der Westhuizen",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
             }
           ]
         },
@@ -36,24 +57,7 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Intro: C G Am G F",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
               "texto": "Tú eres el Padre",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "C",
@@ -61,45 +65,54 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 9
-                },
-                {
-                  "acorde": "G",
-                  "pos": 11
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
             {
               "texto": "Y nosotros tus hijos",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "C",
                   "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
                 }
               ]
             },
             {
               "texto": "Nos muestras amor,",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Nos muestras amor",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -112,7 +125,11 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 18
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
                 }
               ]
             },
@@ -121,11 +138,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
                 }
               ]
             },
@@ -134,161 +155,215 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "F",
-                  "pos": 17
+                  "pos": 5
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 19
+                  "pos": 7
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Y no podemos entender tanto amor",
               "acordes": [
                 {
                   "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Dm",
                   "pos": 7
-                },
-                {
-                  "acorde": "F",
-                  "pos": 21
-                },
-                {
-                  "acorde": "G",
-                  "pos": 26
                 }
               ]
             },
             {
-              "texto": "Fuiste a la cruz a demostrar tu amor C",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 11
-                },
-                {
-                  "acorde": "F",
-                  "pos": 27
-                },
-                {
-                  "acorde": "G",
-                  "pos": 35
-                }
-              ]
-            },
-            {
-              "texto": "",
+              "texto": "Fuiste a la cruz a demostrar tu amor",
               "acordes": [
                 {
                   "acorde": "C",
                   "pos": 0
                 },
                 {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
                   "acorde": "G",
-                  "pos": 8
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Tú eres el Padre bueno y fiel",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 6
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "Nos proteges con fervor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Tú provees nuestro pan",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 10
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
+                  "pos": 3
+                },
                 {
-                  "acorde": "F",
-                  "pos": 0
+                  "acorde": "Am",
+                  "pos": 5
                 }
               ]
             },
             {
               "texto": "No nos vas a abandonar",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "F",
                   "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "Tú corriges nuestro mal",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "F",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 5
                 }
               ]
             },
             {
               "texto": "Y aun así muestras amor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Nos abrazas en dolor",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "G",
                   "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
                 }
               ]
             },
             {
               "texto": "Secas nuestras lágrimas",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "Reafirmas nuestra alma",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "C",
@@ -296,11 +371,334 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 2
                 },
                 {
                   "acorde": "Am",
-                  "pos": 21
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú me guías y me muestras la verdad",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres fiel, Tú eres fiel",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Aun en dificultad tu mano no me soltará",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres fiel, Tú eres fiel",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Y no podemos entender tanto amor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Fuiste a la cruz a demostrar tu amor",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tú eres el Padre bueno y fiel",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Nos proteges con fervor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Tú provees nuestro pan",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "No nos vas a abandonar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Tú corriges nuestro mal",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Y aun así muestras amor",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Nos abrazas en dolor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Secas nuestras lágrimas",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s009",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Y Reafirmas nuestra alma",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 4
                 }
               ]
             },
@@ -309,15 +707,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             },
@@ -330,132 +728,88 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "Am",
-                  "pos": 20
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "Pues tu amor es incondicional",
+              "texto": "Pues tu amor es",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
-                },
-                {
-                  "acorde": "C",
-                  "pos": 27
-                },
-                {
-                  "acorde": "G",
-                  "pos": 28
-                }
-              ]
-            },
-            {
-              "texto": "///Incondicional",
-              "acordes": [
-                {
-                  "acorde": "Am",
                   "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "incondicional",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Incondicional",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 6
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 8
-                },
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s010",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 2
                 },
                 {
                   "acorde": "Am",
-                  "pos": 15
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
                 },
                 {
                   "acorde": "F",
-                  "pos": 15
-                },
-                {
-                  "acorde": "G/C",
-                  "pos": 6
+                  "pos": 9
                 }
               ]
-            },
-            {
-              "texto": "Am      Tú me guías y me muestras la verdad",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Tú eres fiel, Tú eres fiel",
-              "acordes": []
-            },
-            {
-              "texto": "Aun en dificultad tu mano no me",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 6
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "soltará",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Tú eres fiel, Tú eres fiel",
-              "acordes": []
             }
           ]
         }

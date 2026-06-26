@@ -1,97 +1,221 @@
 {
   "id": "song-067",
   "titulo": "Nazareno",
-  "artista": "",
-  "autor": "Wladimir Aranda",
+  "artista": "Wladimir Aranda",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-067-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 125,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Precioso Verbo de Dios",
-              "acordes": []
-            },
-            {
-              "texto": "En las calles nos mostraste tu amor",
-              "acordes": []
-            },
-            {
-              "texto": "Tu marcaste la historia",
-              "acordes": []
-            },
-            {
-              "texto": "Marcaste mi historia",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                }
+              ]
             }
           ]
         },
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
+          "numero": null,
           "lineas": [
             {
-              "texto": "La multitud vio tu luz",
-              "acordes": []
+              "texto": "Precioso verbo de Dios",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Y mi corazón se encendió",
-              "acordes": []
+              "texto": "En las calles nos mostraste tu amor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Tú marcaste la historia",
-              "acordes": []
+              "texto": "Tu marcaste la historia",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Marcaste mi historia",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             }
           ]
         },
         {
           "id": "s003",
           "tipo": "verso",
-          "numero": 2,
+          "numero": 1,
           "lineas": [
             {
-              "texto": "Me has enamorado Nazareno",
-              "acordes": []
+              "texto": "La multitud vió tu luz",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Me has enamorado mi Jesús",
-              "acordes": []
+              "texto": "Y mi corazón se encendió",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Me has atrapado con cuerdas de amor",
-              "acordes": []
+              "texto": "Tu marcaste la historia",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
             },
             {
-              "texto": "Y no voy a huir",
-              "acordes": []
+              "texto": "Marcaste mi historia",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             }
           ]
         },
         {
           "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Me has enamorado Nazareno",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Me has enamorado mi Jesús",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Me has atrapado con cuerdas de amor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Y no voy a huir",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Fijaste tus ojos en mi",
@@ -108,6 +232,39 @@
             {
               "texto": "Amaste mi historia",
               "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Tu amaste la historia",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Amaste mi historia",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             }
           ]
         }

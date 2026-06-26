@@ -1,28 +1,56 @@
 {
   "id": "song-065",
   "titulo": "Mi Roca",
-  "artista": "Cornerstone",
+  "artista": "Cornerstone - Hillsong Worship",
   "autor": "Edward Mote, Eric Liljero, Jonas Myrin, Reuben Morgan",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-065-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Mi esperanza está en Jesús",
@@ -42,7 +70,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 14
+                  "pos": 2
                 }
               ]
             },
@@ -55,7 +83,7 @@
                 },
                 {
                   "acorde": "F#m/E",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
             },
@@ -68,27 +96,27 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "En Jesús,",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 4
+                  "pos": 1
                 }
               ]
             },
@@ -97,7 +125,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 4
+                  "pos": 1
                 }
               ]
             },
@@ -106,7 +134,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 4
+                  "pos": 1
                 }
               ]
             },
@@ -119,7 +147,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 9
+                  "pos": 4
                 }
               ]
             },
@@ -156,7 +184,7 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -178,7 +206,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
@@ -191,7 +219,7 @@
                 },
                 {
                   "acorde": "F#m/E",
-                  "pos": 13
+                  "pos": 4
                 }
               ]
             },
@@ -204,11 +232,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             },
@@ -221,18 +249,18 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
+          "id": "s005",
           "tipo": "verso",
           "numero": 3,
           "lineas": [
@@ -254,7 +282,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 2
                 }
               ]
             },
@@ -267,7 +295,7 @@
                 },
                 {
                   "acorde": "F#m/E",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -280,11 +308,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             }

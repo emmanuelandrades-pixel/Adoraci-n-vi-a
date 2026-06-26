@@ -1,41 +1,26 @@
 {
   "id": "song-087",
   "titulo": "Rodeado (Así Peleo Mis Batallas)",
-  "artista": "",
-  "autor": "",
+  "artista": "Surrounded (This Is How I Fight My Battles)",
+  "autor": "Elyssa Smith",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-087-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 83,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Surrounded (This Is How I Fight My Battles)",
-              "acordes": []
-            },
-            {
-              "texto": "Elyssa Smith",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -48,44 +33,102 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 6
+                  "pos": 5
                 },
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 7
                 },
                 {
                   "acorde": "B",
-                  "pos": 10
+                  "pos": 9
                 }
               ]
             },
             {
               "texto": "En presencia de mis enemigos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Cuerpo y sangre vertiste tú por mí",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Así peleo mis batallas",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "C#m7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E",
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Creo que tú has vencido",
               "acordes": [
                 {
                   "acorde": "E/G#",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 12
+                  "pos": 5
                 },
                 {
                   "acorde": "B",
-                  "pos": 22
+                  "pos": 7
                 }
               ]
             },
@@ -94,11 +137,11 @@
               "acordes": [
                 {
                   "acorde": "C#m7",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
             },
@@ -107,11 +150,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
             }
@@ -119,19 +162,19 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Así peleo mis batallas",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
@@ -140,11 +183,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m7",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             },
@@ -153,15 +196,15 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 3
                 },
                 {
                   "acorde": "B",
-                  "pos": 21
+                  "pos": 5
                 }
               ]
             }
@@ -170,7 +213,7 @@
         {
           "id": "s004",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "En el valle tú estás junto a mí",
@@ -192,27 +235,27 @@
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Aun rodeado de problemas, estoy rodeado por ti",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "B",
-                  "pos": 23
+                  "pos": 5
                 },
                 {
                   "acorde": "C#m7",
-                  "pos": 32
+                  "pos": 7
                 }
               ]
             }
@@ -220,12 +263,29 @@
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Y mi victoria está en Jesús",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Y mi victoria está en Jesús",

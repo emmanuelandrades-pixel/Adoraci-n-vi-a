@@ -1,20 +1,20 @@
 {
   "id": "song-032",
   "titulo": "De Ti Dependo",
-  "artista": "",
-  "autor": "Viña Ágape",
+  "artista": "Viña Ágape",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-032-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 120,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -34,134 +34,218 @@
                 {
                   "acorde": "F",
                   "pos": 2
-                },
-                {
-                  "acorde": "G",
-                  "pos": 4
-                },
-                {
-                  "acorde": "C",
-                  "pos": 6
                 }
               ]
             },
             {
               "texto": "Y ante tus pies me humillo quebrantándome",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Vengo ante ti humilde",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Con sed de tu fragancia",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Llena tú mi ser",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             }
           ]
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y en mis fracasos",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 5
-                },
-                {
-                  "acorde": "C",
-                  "pos": 9
-                },
-                {
-                  "acorde": "G",
-                  "pos": 13
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "Veo tu amor una y otra vez",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Cada vez que me levantas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Ya no importa lo de atrás",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Y en mis batallas",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Veo tu amor una y otra vez",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Y estás fortaleciendo siempre",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "En mi débil ser",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
             }
           ]
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
-              "texto": "Y en mis batallas",
-              "acordes": []
-            },
-            {
-              "texto": "Veo tu amor una y otra vez",
-              "acordes": []
-            },
-            {
-              "texto": "Y estás fortaleciendo siempre",
-              "acordes": []
-            },
-            {
-              "texto": "En mi débil ser",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "final-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Mi corazón rindo a ti",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 2
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 4
+                  "pos": 5
                 }
               ]
             },
             {
               "texto": "Prevalece tú en mí",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
             {
               "texto": "",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 4
                 }
               ]
             }

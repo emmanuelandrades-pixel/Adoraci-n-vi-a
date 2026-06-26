@@ -1,28 +1,56 @@
 {
   "id": "song-135",
-  "titulo": "Tu Siempre Estas Conmigo",
-  "artista": "",
+  "titulo": "Tu Siempre Estás Conmigo",
+  "artista": "Adoración Viña Las Condes",
   "autor": "David Berguño",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-135-v001",
       "nombre": "Original",
       "tonalidad": "Eb",
-      "bpm": 0,
+      "bpm": 142,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Bb/D",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Tú eres mi herencia",
@@ -51,36 +79,62 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 0
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Tú me proteges",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Aun en la oscuridad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Siempre me guiarás",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Mi corazón segu - ro está",
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 20
+                  "pos": 1
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 23
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 24
+                  "pos": 7
                 }
               ]
             },
@@ -89,15 +143,15 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 25
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb/D",
-                  "pos": 28
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 31
+                  "pos": 9
                 }
               ]
             },
@@ -106,15 +160,15 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 21
+                  "pos": 1
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 24
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 25
+                  "pos": 7
                 }
               ]
             },
@@ -123,7 +177,7 @@
               "acordes": [
                 {
                   "acorde": "Eb/G",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -132,10 +186,17 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "¿Por qué temeré?",
               "acordes": [
@@ -171,31 +232,83 @@
                   "pos": 0
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "En las tormentas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "De dudas y temor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Mi ancla eres Tú",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Tú me rodeas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Con cantos de amor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y de liberación",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Tú lo prome - tiste",
               "acordes": [
@@ -205,11 +318,11 @@
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "F",
-                  "pos": 18
+                  "pos": 6
                 }
               ]
             },
@@ -218,11 +331,11 @@
               "acordes": [
                 {
                   "acorde": "Bb/D",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 14
+                  "pos": 6
                 }
               ]
             },
@@ -231,25 +344,56 @@
               "acordes": [
                 {
                   "acorde": "Gm",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "Siempre Tú estarás",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Eb",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Conmigo hasta el final",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bb/D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Conmigo hasta el final",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
             }
           ]
         }

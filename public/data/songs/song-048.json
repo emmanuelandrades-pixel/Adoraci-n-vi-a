@@ -1,20 +1,20 @@
 {
   "id": "song-048",
   "titulo": "Glorioso Día",
-  "artista": "Glorious Day",
+  "artista": "Glorious Day - Passion",
   "autor": "Jason Ingram, Jonathan Smith, Kristian Stanfill, Sean Curran",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-048-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 0,
+      "tonalidad": "F",
+      "bpm": 111,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,14 +22,14 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Mi vergüenza me sepultó",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -38,7 +38,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -47,11 +47,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             },
@@ -69,72 +69,63 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Mas tu perdón, me liberó",
-              "acordes": []
-            },
-            {
-              "texto": "Vivía solo y sin consuelo",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Tu voz me habló...",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
+                  "pos": 1
+                },
                 {
                   "acorde": "D",
-                  "pos": 0
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tu voz me habló...",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Y a la muerte venció",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 0
+                  "acorde": "D",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Glorioso Día,",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "tu sangre me rescató",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 1
                 }
               ]
             },
@@ -143,7 +134,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -152,7 +143,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -161,7 +152,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -170,43 +161,23 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "Y a la muerte venció",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 19
-                }
-              ]
-            },
-            {
-              "texto": "Glorioso Día,",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 12
-                }
-              ]
-            },
-            {
-              "texto": "tu sangre me rescató…",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 20
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Ahora libre soy en tu amor",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
             },
@@ -215,7 +186,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 1
                 }
               ]
             },
@@ -224,20 +195,23 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 28
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
             {
-              "texto": "Coro...",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "De mi pecado me rescataste",
               "acordes": [
                 {
                   "acorde": "D",
@@ -246,11 +220,11 @@
               ]
             },
             {
-              "texto": "De mi pecado me rescataste",
+              "texto": "En tu gloria cadenas se rompen",
               "acordes": []
             },
             {
-              "texto": "En tu gloria cadenas se rompen",
+              "texto": "Vivía solo y sin consuelo",
               "acordes": []
             },
             {
@@ -267,14 +241,30 @@
             },
             {
               "texto": "Tengo futuro, ahora veo",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Porque tú voz me habló...",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 1
                 }
               ]
             },
@@ -283,7 +273,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 1
                 }
               ]
             },
@@ -292,7 +282,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             },
@@ -301,7 +291,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 1
                 }
               ]
             },
@@ -310,7 +300,34 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Y a la muerte venció",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Glorioso Día,",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "tu sangre me rescató…",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
                 }
               ]
             }

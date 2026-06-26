@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-049-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 71,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 13
+                  "pos": 3
                 }
               ]
             },
@@ -42,7 +42,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
             },
@@ -51,11 +51,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             },
@@ -64,7 +64,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -81,27 +81,20 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 14
+                  "pos": 6
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
+            },
             {
               "texto": "Es tu aliento, en mi ser",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             },
@@ -110,7 +103,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             },
@@ -119,11 +112,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
@@ -132,6 +125,34 @@
               "acordes": [
                 {
                   "acorde": "E",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Que me hace adorarte, solo a ti",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
                   "pos": 11
                 }
               ]
@@ -140,15 +161,15 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "La tierra te adorará",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
@@ -157,7 +178,7 @@
               "acordes": [
                 {
                   "acorde": "Asus4",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
@@ -166,11 +187,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             }

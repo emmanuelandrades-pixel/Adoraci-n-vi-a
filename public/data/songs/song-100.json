@@ -1,20 +1,20 @@
 {
   "id": "song-100",
   "titulo": "Tesoro",
-  "artista": "",
+  "artista": "Maverick City Music",
   "autor": "Karen Espinosa, Justin Williams, Tianna Horsey & Lemuel Marin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-100-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "G",
+      "bpm": 75,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,77 +25,223 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Abriste mis ojos hacia ti",
-              "acordes": []
+              "texto": "Abriste mis ojos hacia Ti",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 13
+                }
+              ]
             },
             {
-              "texto": "Y ahora puedo ver tu reflejo frente a mí",
-              "acordes": []
+              "texto": "Y ahora puedo ver",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tu reflejo frente a mí",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
             }
           ]
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Estás en el viento",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "En cada respiro",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "En mis pensamientos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Tú nunca te alejas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "En todo estás",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Dsus",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
             }
           ]
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tú eres todo lo que yo he soñado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Mucho más de lo que he imaginado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
             },
             {
-              "texto": "Aquí estás y me dices que tu tesoro soy",
-              "acordes": []
+              "texto": "Aquí estás y me dices que Tu tesoro soy",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
             }
           ]
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Mi único deseo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Que todos te conozcan",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Como yo te conozco",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
             }
           ]
         }

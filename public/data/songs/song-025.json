@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-025-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "El esplendor del Rey, vestido en Majestad",
@@ -33,11 +33,11 @@
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 21
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 25
+                  "pos": 7
                 }
               ]
             },
@@ -46,11 +46,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 18
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 40
+                  "pos": 3
                 }
               ]
             },
@@ -63,11 +63,11 @@
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 20
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 24
+                  "pos": 7
                 }
               ]
             },
@@ -76,11 +76,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 37
+                  "pos": 3
                 }
               ]
             }
@@ -88,19 +88,15 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Cuán grande es Dios, cántale",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 27
+                  "pos": 1
                 }
               ]
             },
@@ -108,12 +104,16 @@
               "texto": "Cuán grande es Dios, todos lo verán",
               "acordes": [
                 {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 2
                 },
                 {
                   "acorde": "F",
-                  "pos": 34
+                  "pos": 5
                 }
               ]
             },
@@ -122,11 +122,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             }
@@ -139,33 +139,77 @@
           "lineas": [
             {
               "texto": "Día a día Él está, el tiempo está en Él",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Principio y el Fin, Principio y el Fin",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "La Trinidad en Dios, Padre, Hijo, Espíritu",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Cordero y el León, Cordero y el León",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
             }
           ]
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tu nombre sobre todo es",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -178,7 +222,7 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 2
                 }
               ]
             },
@@ -191,15 +235,15 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 23
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 31
+                  "pos": 6
                 }
               ]
             }

@@ -1,20 +1,20 @@
 {
   "id": "song-071",
   "titulo": "No Yo, Sino Cristo",
-  "artista": "",
+  "artista": "Majo y Dan",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-071-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,150 +25,7 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Majo y Dan",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "Solía vivir la vida en temor   Y crucificado junto a ti",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G",
-                  "pos": 26
-                },
-                {
-                  "acorde": "C",
-                  "pos": 31
-                },
-                {
-                  "acorde": "G",
-                  "pos": 51
-                }
-              ]
-            },
-            {
-              "texto": "Y me encontró",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Un camino mejor",
-              "acordes": []
-            },
-            {
-              "texto": "Ya no vivo yo",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                },
-                {
-                  "acorde": "C",
-                  "pos": 12
-                }
-              ]
-            },
-            {
-              "texto": "Tú vives en mí",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 13
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
-              "texto": "Toda mi carga Y condenación",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "Cambiada fue",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                },
-                {
-                  "acorde": "C",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "por tu gracia y perdón",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 7
-                },
-                {
-                  "acorde": "C",
-                  "pos": 10
-                }
-              ]
-            },
-            {
-              "texto": "Y no me hace falta nada ya",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "No yo sino Cristo",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Solía vivir la vida en temor",
               "acordes": [
                 {
                   "acorde": "C",
@@ -181,19 +38,143 @@
               ]
             },
             {
-              "texto": "No yo sino Cristo",
-              "acordes": []
+              "texto": "Y me encontró",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
             },
             {
-              "texto": "Y este corazón",
-              "acordes": []
+              "texto": "Un camino mejor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Toda mi carga Y condenación",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
             },
+            {
+              "texto": "Cambiada fue",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "por tu gracia y perdón",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Y no me hace falta nada ya",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "No yo sino Cristo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "No yo sino Cristo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Lo que fui no soy más",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -202,7 +183,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -215,36 +196,63 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
-              "texto": "Eres mi porción",
+              "texto": "Y crucificado junto a ti",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Para siempre",
+              "texto": "Ya no vivo yo",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 0
                 },
                 {
-                  "acorde": "G",
-                  "pos": 11
+                  "acorde": "C",
+                  "pos": 2
                 }
               ]
             },
+            {
+              "texto": "Tú vives en mí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Y no hay nada más",
               "acordes": [
@@ -259,11 +267,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "Em",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -276,7 +284,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 3
                 }
               ]
             },
@@ -285,41 +293,58 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Y consumado fue",
               "acordes": [
                 {
                   "acorde": "C",
                   "pos": 0
-                },
-                {
-                  "acorde": "G",
-                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Y consumado fue",
-              "acordes": []
+              "texto": "Por la fe puedo ver",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Por la fe puedo ver",
-              "acordes": []
+              "texto": "Y este corazón",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Todo tuyo es",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 10
+                  "pos": 3
                 }
               ]
             },
@@ -337,11 +362,33 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "Em",
-                  "pos": 18
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi porción",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Para siempre",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
                 }
               ]
             }

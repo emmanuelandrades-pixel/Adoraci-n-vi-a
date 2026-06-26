@@ -1,19 +1,19 @@
 {
   "id": "song-064",
   "titulo": "Mi Primer Amor",
-  "artista": "",
-  "autor": "Camila Bravo",
+  "artista": "Camila Bravo",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-064-v001",
       "nombre": "Original",
-      "tonalidad": "C",
+      "tonalidad": "G",
       "bpm": 0,
       "compas": "4/4",
       "duracion_segundos": 0,
@@ -22,11 +22,28 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Guíame y te seguiré",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Gmaj13",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 15
+                }
+              ]
             },
             {
               "texto": "Muéstrame tu camino",
@@ -44,12 +61,29 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Oh grandioso Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C9",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Gmaj13",
+                  "pos": 11
+                }
+              ]
             },
             {
               "texto": "Eres un perfecto amor",
@@ -80,7 +114,24 @@
           "lineas": [
             {
               "texto": "Quiero que todos sepan",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Gmaj13",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 15
+                }
+              ]
             },
             {
               "texto": "Todo el amor que puedes dar",
@@ -98,12 +149,29 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Es un gozo seguirte",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Gmaj13",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 15
+                }
+              ]
             },
             {
               "texto": "Adorarte, alabarte",

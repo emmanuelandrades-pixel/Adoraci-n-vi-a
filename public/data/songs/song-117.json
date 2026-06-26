@@ -1,20 +1,20 @@
 {
   "id": "song-117",
   "titulo": "Jesús Es Navidad",
-  "artista": "",
-  "autor": "Pequeños Héroes",
+  "artista": "Pequeños Héroes",
+  "autor": "",
   "genero": "Navidad",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-117-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 167,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Ha nacido en un pesebre",
@@ -33,35 +33,39 @@
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "La estrella más sorprendente",
               "acordes": [
                 {
                   "acorde": "Bm",
                   "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "la estrella más sorprendente     E",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
+                },
                 {
-                  "acorde": "A",
-                  "pos": 0
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
                 }
               ]
             },
             {
               "texto": "Llenas todo con tu luz",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Ooh Ooh y con el cielo canto",
@@ -73,37 +77,7 @@
               ]
             },
             {
-              "texto": "alegremente",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 5
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Ooh Ooh Ooh!",
-              "acordes": []
-            },
-            {
-              "texto": "Jesús es Navidad!/",
+              "texto": "Alegremente",
               "acordes": [
                 {
                   "acorde": "D",
@@ -111,39 +85,87 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 8
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Ooh Ooh Ooh\\!",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Jesús es Navidad\\!",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "¡Mi regalo al fin llegó Ooh\\!",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "¡Mi regalo al fin llegó Ooh!",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
+                  "pos": 1
+                },
                 {
-                  "acorde": "C#m",
-                  "pos": 0
+                  "acorde": "D#m",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Es Jesús mi Salvador",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "El tesoro de la Navidad",
@@ -154,53 +176,76 @@
                 },
                 {
                   "acorde": "D#m",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "¡Es que en mi casa puedas hoy",
               "acordes": [
                 {
                   "acorde": "C#m",
                   "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "¡Es que en mi casa puedas hoy    F#      G#    C#",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Entrar\\!",
               "acordes": [
                 {
                   "acorde": "F#",
                   "pos": 0
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
             {
-              "texto": "entrar!",
-              "acordes": []
-            },
-            {
-              "texto": "D        E      / Ooh Ooh Ooh!",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Ooh Ooh Ooh\\!",
               "acordes": [
                 {
+                  "acorde": "B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 3
+                },
+                {
                   "acorde": "C#m",
-                  "pos": 0
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "Jesús es Navidad!",
-              "acordes": []
-            },
+              "texto": "Jesús es Navidad\\!",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Hosanna en las alturas",
               "acordes": [
@@ -211,7 +256,7 @@
               ]
             },
             {
-              "texto": "y a los hombres paz",
+              "texto": "Y a los hombres paz",
               "acordes": [
                 {
                   "acorde": "B",
@@ -220,15 +265,15 @@
               ]
             },
             {
-              "texto": "que ha llegado navidad Ooh!",
+              "texto": "Que ha llegado navidad Ooh\\!",
               "acordes": [
                 {
                   "acorde": "D#",
-                  "pos": 1
+                  "pos": 0
                 },
                 {
                   "acorde": "G#m",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
@@ -242,33 +287,66 @@
               ]
             },
             {
-              "texto": "D#m        a mi corazón Ooh!",
+              "texto": "A mi corazón Ooh\\!",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 12
+                  "pos": 0
                 },
                 {
                   "acorde": "F#",
-                  "pos": 27
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "E       F#      ¿Oigan y si hacemos un baile?",
+              "texto": "¿Oigan y si hacemos un baile?",
               "acordes": []
             },
             {
-              "texto": "¡Sí, hagámoslo juntos!",
+              "texto": "¡Sí, hagámoslo juntos\\!",
               "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Ooh Ooh Ooh\\!",
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D#m",
+                  "pos": 8
+                }
+              ]
             },
             {
-              "texto": "E   / Ooh Ooh Ooh!",
-              "acordes": []
-            },
-            {
-              "texto": "Jesús es Navidad!",
-              "acordes": []
+              "texto": "Jesús es Navidad\\!",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 6
+                }
+              ]
             }
           ]
         }

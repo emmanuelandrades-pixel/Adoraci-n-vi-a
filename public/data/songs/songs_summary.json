@@ -25,7 +25,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -40,8 +40,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "E",
+    "bpm": 79,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -82,14 +82,14 @@
   {
     "id": "song-006",
     "titulo": "Al Que Está Sentado En El Trono",
-    "artista": "",
+    "artista": "Marcos Brunet",
     "autor": "Marcos Brunet",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "D",
+    "bpm": 68,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -178,14 +178,14 @@
   {
     "id": "song-012",
     "titulo": "Aquí Me Tienes",
-    "artista": "",
+    "artista": "David Berguño",
     "autor": "Gabriel Ávalos, David Berguño",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -217,7 +217,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -226,14 +226,14 @@
   {
     "id": "song-015",
     "titulo": "Buen Padre",
-    "artista": "",
+    "artista": "Adoración Iglesias Viña Chile",
     "autor": "Daniela Reyes",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -242,14 +242,14 @@
   {
     "id": "song-016",
     "titulo": "Cerca De Ti",
-    "artista": "",
-    "autor": "",
+    "artista": "Mike Leevander",
+    "autor": "Mike Van der Westhuizen",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -258,14 +258,14 @@
   {
     "id": "song-017",
     "titulo": "Cielo Abierto (Agua Viva)",
-    "artista": "",
-    "autor": "",
+    "artista": "Open Heaven (River Wild) - Hillsong United",
+    "autor": "Matthew Crocker y Marty Sampson",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "F",
+    "bpm": 137,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -274,14 +274,14 @@
   {
     "id": "song-018",
     "titulo": "Como En El Cielo",
-    "artista": "Here As In Heaven",
+    "artista": "Here As In Heaven - Elevation Worship",
     "autor": "Paul Brown, Mack Brock, Matthews Ntlele, Steven Furtick, Wade Joye",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "F",
-    "bpm": 0,
+    "tonalidad": "G",
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -296,8 +296,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "F",
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -306,14 +306,14 @@
   {
     "id": "song-020",
     "titulo": "Contigo (En Tus Manos)",
-    "artista": "",
+    "artista": "Música Ágape",
     "autor": "Mike Van Der Westhuisen",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "D",
+    "bpm": 78,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -322,14 +322,14 @@
   {
     "id": "song-021",
     "titulo": "Corazón De León",
-    "artista": "",
+    "artista": "Adoración Iglesias Viña Chile",
     "autor": "Vastián Valenzuela",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "Ab",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 65,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -344,8 +344,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 91,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -354,14 +354,14 @@
   {
     "id": "song-023",
     "titulo": "Creo En Ti",
-    "artista": "",
+    "artista": "Julio Melgar",
     "autor": "Julio Melgar",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -371,13 +371,13 @@
     "id": "song-024",
     "titulo": "Cristo Te Amamos",
     "artista": "Jesus We Love You",
-    "autor": "",
+    "autor": "Paul Mcclure / Hannah Mcclure / Kalley Heiligenthal",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 115,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -393,7 +393,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -409,7 +409,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 97,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -425,7 +425,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -440,8 +440,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "D",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 167,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -450,14 +450,14 @@
   {
     "id": "song-029",
     "titulo": "Desde Mi Interior",
-    "artista": "From Inside Out",
+    "artista": "From Inside Out - Hillsong United",
     "autor": "Joel Houston",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "F",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -466,14 +466,14 @@
   {
     "id": "song-030",
     "titulo": "Despierta Mi Alma",
-    "artista": "Awake My Soul",
+    "artista": "Awake My Soul - Hillsong Worship",
     "autor": "Brooke Ligertwood",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 127,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -489,7 +489,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 69,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -498,14 +498,14 @@
   {
     "id": "song-032",
     "titulo": "De Ti Dependo",
-    "artista": "",
+    "artista": "Viña Ágape",
     "autor": "Viña Ágape",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 120,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -521,7 +521,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 115,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -531,13 +531,13 @@
     "id": "song-034",
     "titulo": "Donde Tú Estás",
     "artista": "Where You Are",
-    "autor": "",
+    "autor": "Leeland",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "D",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 72,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -553,7 +553,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "B",
-    "bpm": 0,
+    "bpm": 94,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -562,14 +562,14 @@
   {
     "id": "song-036",
     "titulo": "El Fuego Nunca Duerme",
-    "artista": "",
+    "artista": "Toma Tu Lugar",
     "autor": "TOMA TU LUGAR",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -578,14 +578,14 @@
   {
     "id": "song-037",
     "titulo": "Él No Cambiará",
-    "artista": "",
+    "artista": "Adoración Iglesias Viña Chile",
     "autor": "Jael Cofré, André Nancavil, Franco Peña",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "D",
+    "bpm": 158,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -594,14 +594,14 @@
   {
     "id": "song-038",
     "titulo": "Enciende Un Fuego",
-    "artista": "Set a Fire",
+    "artista": "Set a Fire - United Persuit",
     "autor": "United Persuit",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 120,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -610,14 +610,14 @@
   {
     "id": "song-039",
     "titulo": "En La Cruz",
-    "artista": "At the cross",
+    "artista": "At the cross - Hillsong Worship",
     "autor": "Darlene Zschech, Reuben Morgan",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -641,15 +641,15 @@
   },
   {
     "id": "song-041",
-    "titulo": "En La Cruz – En El Monte Calvario",
-    "artista": "",
+    "titulo": "En El Monte Calvario",
+    "artista": "Manuel Bonilla",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 75,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -658,14 +658,14 @@
   {
     "id": "song-042",
     "titulo": "En Ti Estoy Firme",
-    "artista": "Stand In Your Love",
+    "artista": "Stand In Your Love - Bethel Music",
     "autor": "Josh Baldwin, Rita Springer, Ethan Hulse, Mark Harris",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 141,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -680,8 +680,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 68,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -690,14 +690,14 @@
   {
     "id": "song-044",
     "titulo": "Eres Fiel",
-    "artista": "",
+    "artista": "Israel Houghton",
     "autor": "Israel Houghton",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 128,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -705,15 +705,15 @@
   },
   {
     "id": "song-045",
-    "titulo": "Es El",
-    "artista": "",
+    "titulo": "Es Él",
+    "artista": "Felipe S. Santos",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -745,7 +745,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 105,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -754,14 +754,14 @@
   {
     "id": "song-048",
     "titulo": "Glorioso Día",
-    "artista": "Glorious Day",
+    "artista": "Glorious Day - Passion",
     "autor": "Jason Ingram, Jonathan Smith, Kristian Stanfill, Sean Curran",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "D",
-    "bpm": 0,
+    "tonalidad": "F",
+    "bpm": 111,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -777,7 +777,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 71,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -785,7 +785,7 @@
   },
   {
     "id": "song-050",
-    "titulo": "Gran Yo Soy",
+    "titulo": "El Gran Yo Soy",
     "artista": "Great I Am",
     "autor": "Jared Anderson",
     "genero": "Adoración",
@@ -793,7 +793,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 80,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -801,15 +801,15 @@
   },
   {
     "id": "song-051",
-    "titulo": "He Decidido Seguir A Cristo",
-    "artista": "",
+    "titulo": "He Decido Seguir A Cristo",
+    "artista": "Marcos Witt",
     "autor": "Marcos Witt",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 91,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -818,14 +818,14 @@
   {
     "id": "song-052",
     "titulo": "Hermoso Nombre",
-    "artista": "What a Beautiful Name",
+    "artista": "What a Beautiful Name - Hillsong Worship",
     "autor": "Ben Fielding, Brooke Ligertwood",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -834,14 +834,14 @@
   {
     "id": "song-053",
     "titulo": "Hijo De Dios",
-    "artista": "",
+    "artista": "En Espíritu y en Verdad",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 86,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -850,14 +850,14 @@
   {
     "id": "song-054",
     "titulo": "Hossana",
-    "artista": "",
+    "artista": "Hillsong United",
     "autor": "Brooke Ligertwood",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 150,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -873,7 +873,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 166,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -882,14 +882,14 @@
   {
     "id": "song-056",
     "titulo": "Jesús Es El Centro",
-    "artista": "",
+    "artista": "Israel Houghton",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -898,14 +898,14 @@
   {
     "id": "song-057",
     "titulo": "La Bendición",
-    "artista": "The Blessings",
+    "artista": "The Blessings - Elevation Worship",
     "autor": "Kari Jobe, Cody Carnes, Steven Furtick, Chris Brown",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "Bb",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -914,14 +914,14 @@
   {
     "id": "song-058",
     "titulo": "La Bondad De Dios",
-    "artista": "Goodness Of God",
+    "artista": "Goodness Of God - Bethel Music",
     "autor": "Jason Ingram, Ed Cash, Jenn Johnson, Brian Johnson, Ben Fielding",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 125,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -930,14 +930,14 @@
   {
     "id": "song-059",
     "titulo": "Levanto Un Aleluya",
-    "artista": "Raise A Hallelujah",
+    "artista": "Raise A Hallelujah - Bethel Music",
     "autor": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 164,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -946,14 +946,14 @@
   {
     "id": "song-060",
     "titulo": "Lo Harás Otra Vez",
-    "artista": "Do It Again",
+    "artista": "Do It Again - Elevation Worship",
     "autor": "Steven Furtick, Matt Redman, Chris Brown, Mack Brock",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "Eb",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 86,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -969,7 +969,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -978,14 +978,14 @@
   {
     "id": "song-062",
     "titulo": "Mi Dios, Mi Rey",
-    "artista": "",
+    "artista": "Viña Ágape",
     "autor": "Ángelo Díaz",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 88,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -994,14 +994,14 @@
   {
     "id": "song-063",
     "titulo": "Mi Esperanza Está En Jesús",
-    "artista": "Living Hope",
-    "autor": "",
+    "artista": "Living Hope - Bethel Music",
+    "autor": "Brian Johnson, phil Wickham",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 72,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1010,13 +1010,13 @@
   {
     "id": "song-064",
     "titulo": "Mi Primer Amor",
-    "artista": "",
+    "artista": "Camila Bravo",
     "autor": "Camila Bravo",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
+    "tonalidad": "G",
     "bpm": 0,
     "versions_count": 1,
     "versions_nombres": [
@@ -1026,14 +1026,14 @@
   {
     "id": "song-065",
     "titulo": "Mi Roca",
-    "artista": "Cornerstone",
+    "artista": "Cornerstone - Hillsong Worship",
     "autor": "Edward Mote, Eric Liljero, Jonas Myrin, Reuben Morgan",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1042,14 +1042,14 @@
   {
     "id": "song-066",
     "titulo": "Mover Tu Corazón",
-    "artista": "",
+    "artista": "Miel San Marcos",
     "autor": "Miel San Marcos",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "B",
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1058,14 +1058,14 @@
   {
     "id": "song-067",
     "titulo": "Nazareno",
-    "artista": "",
+    "artista": "Wladimir Aranda",
     "autor": "Wladimir Aranda",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 125,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1074,14 +1074,14 @@
   {
     "id": "song-068",
     "titulo": "No Hay Lugar Más Alto",
-    "artista": "",
+    "artista": "Miel San Marcos",
     "autor": "Miel San Marcos",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 68,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1090,14 +1090,14 @@
   {
     "id": "song-069",
     "titulo": "No Hay Otro Igual",
-    "artista": "",
+    "artista": "Adoración Viña Las Condes",
     "autor": "Luian Berdía, David Berguño",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 156,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1106,14 +1106,14 @@
   {
     "id": "song-070",
     "titulo": "No Hay Otro Nombre",
-    "artista": "No Other Name",
-    "autor": "",
+    "artista": "No Other Name - Hillsong Worship",
+    "autor": "Joel Houston & Jonas Myrin",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 150,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1122,14 +1122,14 @@
   {
     "id": "song-071",
     "titulo": "No Yo, Sino Cristo",
-    "artista": "",
+    "artista": "Majo y Dan",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1144,8 +1144,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "Bb",
-    "bpm": 0,
+    "tonalidad": "G",
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1153,15 +1153,15 @@
   },
   {
     "id": "song-073",
-    "titulo": "Oceanos",
-    "artista": "",
-    "autor": "",
+    "titulo": "Océanos (Donde Mis Pies Pueden Fallar)",
+    "artista": "Oceans (Where Feet My Fail) - Hillsong United",
+    "autor": "Matt Crocker, Joel Houston, Salomon Lighthelm",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "D",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 125,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1170,14 +1170,14 @@
   {
     "id": "song-074",
     "titulo": "Oír Tu Voz",
-    "artista": "",
+    "artista": "David Berguño",
     "autor": "David Berguño",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 94,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1186,14 +1186,14 @@
   {
     "id": "song-075",
     "titulo": "Oh Padre",
-    "artista": "Our Father",
+    "artista": "Our Father - Bethel Music",
     "autor": "Marcus Meier",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "D",
-    "bpm": 0,
+    "tonalidad": "G",
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1202,14 +1202,14 @@
   {
     "id": "song-076",
     "titulo": "Padre Fiel",
-    "artista": "",
-    "autor": "",
+    "artista": "Viña Ágape",
+    "autor": "Mike Van der Westhuizen",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 97,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1218,14 +1218,14 @@
   {
     "id": "song-077",
     "titulo": "Perdonada",
-    "artista": "",
+    "artista": "Camila Bravo",
     "autor": "Camila Bravo",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "G",
+    "bpm": 155,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1234,14 +1234,14 @@
   {
     "id": "song-078",
     "titulo": "Perfume A Tus Pies",
-    "artista": "",
+    "artista": "Jaz Jacob",
     "autor": "Jaz Jacob",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 71,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1250,14 +1250,14 @@
   {
     "id": "song-079",
     "titulo": "Preciosa Sangre",
-    "artista": "",
+    "artista": "Marco Barrientos",
     "autor": "Marco Barrientos",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1266,14 +1266,14 @@
   {
     "id": "song-080",
     "titulo": "Primer Amor",
-    "artista": "",
+    "artista": "Wladimir Aranda",
     "autor": "David Berguño",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1282,14 +1282,14 @@
   {
     "id": "song-081",
     "titulo": "Que Ruja El León",
-    "artista": "",
+    "artista": "Toma Tu Lugar",
     "autor": "Toma Tu Lugar",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "E",
-    "bpm": 0,
+    "tonalidad": "F#m",
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1298,14 +1298,14 @@
   {
     "id": "song-082",
     "titulo": "Que Se Abra El Cielo",
-    "artista": "",
+    "artista": "Christine D´Clario",
     "autor": "Christine D´Clario",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1314,14 +1314,14 @@
   {
     "id": "song-083",
     "titulo": "Quien Dices Que Soy",
-    "artista": "Who You Say I Am",
-    "autor": "",
+    "artista": "Who You Say I Am - Hillsong Worship",
+    "autor": "Ben Fielding & Reuben Morgan",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "F#",
-    "bpm": 0,
+    "tonalidad": "E",
+    "bpm": 176,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1330,14 +1330,14 @@
   {
     "id": "song-084",
     "titulo": "Quiero",
-    "artista": "",
+    "artista": "Viña Ágape",
     "autor": "Daniel Hernández",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 103,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1346,14 +1346,14 @@
   {
     "id": "song-085",
     "titulo": "Reinas Por La Eternidad",
-    "artista": "Forever Reign",
-    "autor": "",
+    "artista": "Forever Reign - Hillsong United",
+    "autor": "Reuben Morgan & Jason Ingram",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 83,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1362,14 +1362,14 @@
   {
     "id": "song-086",
     "titulo": "Rey De Mi Corazón",
-    "artista": "King of My Heart",
+    "artista": "King of My Heart - Bethel Music",
     "autor": "Sara McMillan",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1378,14 +1378,14 @@
   {
     "id": "song-087",
     "titulo": "Rodeado (Así Peleo Mis Batallas)",
-    "artista": "",
-    "autor": "",
+    "artista": "Surrounded (This Is How I Fight My Battles)",
+    "autor": "Elyssa Smith",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 83,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1401,7 +1401,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 100,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1411,13 +1411,13 @@
     "id": "song-089",
     "titulo": "Santo Por Siempre",
     "artista": "Holy Forever",
-    "autor": "E                                  Coro:",
+    "autor": "Anthony Skinner, Chris Mcclarney",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 144,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1426,14 +1426,14 @@
   {
     "id": "song-090",
     "titulo": "Santo (Una Cosa)",
-    "artista": "",
-    "autor": "Marcos Brunet",
+    "artista": "Toma Tu Lugar",
+    "autor": "Lucas Conslie",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1448,8 +1448,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "G",
-    "bpm": 0,
+    "tonalidad": "D",
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1458,14 +1458,14 @@
   {
     "id": "song-092",
     "titulo": "Sé Entronado",
-    "artista": "Be Enthroned",
+    "artista": "Be Enthroned - Bethel Music",
     "autor": "Hunter Thompson, Kalley Heiligenthal, Jeremy Riddle",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1474,14 +1474,14 @@
   {
     "id": "song-093",
     "titulo": "Solo Cristo",
-    "artista": "None But You",
+    "artista": "None But You - Hillsong United",
     "autor": "Heather Laskin",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "B",
-    "bpm": 0,
+    "bpm": 73,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1497,7 +1497,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 145,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1513,7 +1513,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 100,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1522,14 +1522,14 @@
   {
     "id": "song-096",
     "titulo": "Sueños",
-    "artista": "",
+    "artista": "Un Corazón",
     "autor": "Un Corazón",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 75,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1544,8 +1544,8 @@
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "Ab",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 81,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1561,7 +1561,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1577,7 +1577,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 83,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1586,14 +1586,14 @@
   {
     "id": "song-100",
     "titulo": "Tesoro",
-    "artista": "",
+    "artista": "Maverick City Music",
     "autor": "Karen Espinosa, Justin Williams, Tianna Horsey & Lemuel Marin",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "G",
+    "bpm": 75,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1602,14 +1602,14 @@
   {
     "id": "song-101",
     "titulo": "Toda Lengua Y Toda Nación",
-    "artista": "",
-    "autor": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís",
+    "artista": "Toma Tu Lugar",
+    "autor": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís González",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "D",
-    "bpm": 0,
+    "tonalidad": "E",
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1618,14 +1618,14 @@
   {
     "id": "song-102",
     "titulo": "Trae Tu Reino",
-    "artista": "",
-    "autor": "",
+    "artista": "Viña Ágape",
+    "autor": "Mike Van der Westhuizen",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 87,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1634,14 +1634,14 @@
   {
     "id": "song-103",
     "titulo": "Tumba Las Mesas",
-    "artista": "",
+    "artista": "Wladimir Aranda",
     "autor": "Wladimir Aranda",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "A",
+    "bpm": 132,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1650,14 +1650,14 @@
   {
     "id": "song-104",
     "titulo": "Tumbas A Jardines",
-    "artista": "Graves into Gardens",
+    "artista": "Graves into Gardens - Elevation Worship",
     "autor": "Brandon Lake, Chris Brown, Steven Furtick & Tiffany Hammer",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "C",
-    "bpm": 0,
+    "tonalidad": "B",
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1665,15 +1665,15 @@
   },
   {
     "id": "song-105",
-    "titulo": "Tu Presencia Es El Cielo – Alaba",
-    "artista": "",
+    "titulo": "Tu Presencia Es El Cielo - Alaba",
+    "artista": "Israel & New Breed Version",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1682,14 +1682,14 @@
   {
     "id": "song-106",
     "titulo": "Tu Y Solo Tu",
-    "artista": "",
+    "artista": "Upperroon",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1698,14 +1698,14 @@
   {
     "id": "song-107",
     "titulo": "Vamos A Cantar",
-    "artista": "",
+    "artista": "En Espíritu Y En Verdad",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 149,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1714,14 +1714,14 @@
   {
     "id": "song-108",
     "titulo": "Vasijas Rotas (Sublime Gracia)",
-    "artista": "",
-    "autor": "",
+    "artista": "Broken vassels (Amazing Grace) - Hillsong Worship",
+    "autor": "Joel Houston, Jonas Mirin",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 70,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1730,14 +1730,14 @@
   {
     "id": "song-109",
     "titulo": "Ven Ante Su Trono",
-    "artista": "O Come To The Altar",
+    "artista": "O Come To The Altar - Elevation Worship",
     "autor": "Steven, Furtick, Chris Brown, Wade Joye & Mack Brock",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 141,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1753,7 +1753,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 107,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1762,14 +1762,14 @@
   {
     "id": "song-111",
     "titulo": "Vino Nuevo",
-    "artista": "New Wine",
+    "artista": "New Wine - Hillsong Worship",
     "autor": "Brooke Ligertwood",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1778,14 +1778,14 @@
   {
     "id": "song-112",
     "titulo": "Ya No Somos Esclavos",
-    "artista": "No Longer Slaves",
+    "artista": "No Longer Slaves - Bethel Music",
     "autor": "Brian Johnson, Jonathan David Helser, Joel Case",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 149,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1794,14 +1794,14 @@
   {
     "id": "song-113",
     "titulo": "Yeshua",
-    "artista": "",
+    "artista": "Marcos Brunet",
     "autor": "Marcos Brunet",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "A",
-    "bpm": 0,
+    "tonalidad": "C",
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1842,14 +1842,14 @@
   {
     "id": "song-117",
     "titulo": "Jesús Es Navidad",
-    "artista": "",
+    "artista": "Pequeños Héroes",
     "autor": "Pequeños Héroes",
     "genero": "Navidad",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 167,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1858,14 +1858,14 @@
   {
     "id": "song-118",
     "titulo": "Oh Noche Divina",
-    "artista": "",
+    "artista": "Marcos Witt",
     "autor": "Marcos Witt",
     "genero": "Navidad",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 58,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1874,14 +1874,14 @@
   {
     "id": "song-119",
     "titulo": "Venid Fieles Todos",
-    "artista": "",
+    "artista": "Marcos Witt",
     "autor": "Marcos Witt",
     "genero": "Navidad",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 111,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1913,7 +1913,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "B",
-    "bpm": 0,
+    "bpm": 115,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1923,13 +1923,13 @@
     "id": "song-123",
     "titulo": "Dame A Cristo",
     "artista": "Give Me Jesus",
-    "autor": "",
+    "autor": "Upperroom",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1938,14 +1938,14 @@
   {
     "id": "song-124",
     "titulo": "Él Es Yahve",
-    "artista": "He is Yahve",
+    "artista": "He is Yahve - Vineyard Worship",
     "autor": "Dean Salyn",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 81,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1961,7 +1961,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 119,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1970,14 +1970,14 @@
   {
     "id": "song-126",
     "titulo": "En Tu Presencia",
-    "artista": "Touch of Heaven",
+    "artista": "Touch of Heaven - Hillsong Worship",
     "autor": "Hannah Hobbs, Aodhan King & Michael Fatkin",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 68,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -1993,7 +1993,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 81,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2009,7 +2009,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 75,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2018,14 +2018,14 @@
   {
     "id": "song-129",
     "titulo": "Mi Dios Puede Salvar",
-    "artista": "Mighty To Save",
-    "autor": "",
+    "artista": "Mighty To Save - Hillsong Worship",
+    "autor": "Ben Fielding & Reuben Morgan",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 150,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2041,7 +2041,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 88,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2050,14 +2050,14 @@
   {
     "id": "song-131",
     "titulo": "Tal Como Soy",
-    "artista": "As You Find Me",
-    "autor": "",
+    "artista": "As You Find Me - Hillsong United",
+    "autor": "Joel Houston, ben Hastings y matt Crocker",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 67,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2073,7 +2073,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "Eb",
-    "bpm": 0,
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2089,7 +2089,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "F",
-    "bpm": 0,
+    "bpm": 150,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2098,14 +2098,14 @@
   {
     "id": "song-134",
     "titulo": "Tu Eres La Fuente",
-    "artista": "",
+    "artista": "Adoración Viña Las Condes",
     "autor": "Luian Berdía, David Berguño",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "A",
-    "bpm": 0,
+    "bpm": 57,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2113,15 +2113,15 @@
   },
   {
     "id": "song-135",
-    "titulo": "Tu Siempre Estas Conmigo",
-    "artista": "",
+    "titulo": "Tu Siempre Estás Conmigo",
+    "artista": "Adoración Viña Las Condes",
     "autor": "David Berguño",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "Eb",
-    "bpm": 0,
+    "bpm": 142,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2137,7 +2137,7 @@
     "favorita": false,
     "activa": true,
     "tonalidad": "E",
-    "bpm": 0,
+    "bpm": 73,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2146,14 +2146,14 @@
   {
     "id": "song-138",
     "titulo": "Closer",
-    "artista": "",
+    "artista": "Bethel Music",
     "autor": "Bethel Music",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 68,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2162,14 +2162,14 @@
   {
     "id": "song-139",
     "titulo": "Defender",
-    "artista": "",
+    "artista": "Bethel Music",
     "autor": "Bethel Music",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2178,14 +2178,14 @@
   {
     "id": "song-140",
     "titulo": "Let It Happen",
-    "artista": "",
+    "artista": "United Pursuit",
     "autor": "United Pursuit",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 140,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2194,14 +2194,14 @@
   {
     "id": "song-141",
     "titulo": "Never Going Back",
-    "artista": "",
+    "artista": "United Pursuit",
     "autor": "United Pursuit",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 136,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2210,14 +2210,14 @@
   {
     "id": "song-142",
     "titulo": "Not In A Hurry",
-    "artista": "",
+    "artista": "United Pursuit",
     "autor": "United Pursuit",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 77,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2226,14 +2226,14 @@
   {
     "id": "song-143",
     "titulo": "Rest On Us",
-    "artista": "",
+    "artista": "Upperroom",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 149,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2242,14 +2242,14 @@
   {
     "id": "song-144",
     "titulo": "Set A Fire",
-    "artista": "",
+    "artista": "United Pursuit",
     "autor": "United Pursuit",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 130,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2258,14 +2258,14 @@
   {
     "id": "song-145",
     "titulo": "Since Your Love",
-    "artista": "",
+    "artista": "United Pursuit",
     "autor": "United Pursuit",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "G",
-    "bpm": 0,
+    "bpm": 71,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2274,14 +2274,14 @@
   {
     "id": "song-146",
     "titulo": "You Know Me",
-    "artista": "",
+    "artista": "Bethel Music",
     "autor": "Bethel Music",
     "genero": "Adoración",
     "idioma": "Inglés",
     "favorita": false,
     "activa": true,
     "tonalidad": "D",
-    "bpm": 0,
+    "bpm": 67,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2305,15 +2305,15 @@
   },
   {
     "id": "song-148",
-    "titulo": "Solo Hay Uno Digno",
-    "artista": "",
+    "titulo": "Solo Hay Uno",
+    "artista": "Joel Rocco",
     "autor": "",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
-    "tonalidad": "F#",
-    "bpm": 0,
+    "tonalidad": "G",
+    "bpm": 143,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2322,14 +2322,14 @@
   {
     "id": "song-149",
     "titulo": "Rojo Fue Tu Amor",
-    "artista": "En Espíritu y Verdad",
-    "autor": "",
+    "artista": "At The Cross (Love Ran Red)",
+    "autor": "Chris Tomlin, Ed Cash, Jonas Myrin, Matt Armstrong, Matt Redman",
     "genero": "Adoración",
     "idioma": "Español",
     "favorita": false,
     "activa": true,
     "tonalidad": "C",
-    "bpm": 0,
+    "bpm": 71,
     "versions_count": 1,
     "versions_nombres": [
       "Original"
@@ -2346,6 +2346,54 @@
     "activa": true,
     "tonalidad": "G",
     "bpm": 0,
+    "versions_count": 1,
+    "versions_nombres": [
+      "Original"
+    ]
+  },
+  {
+    "id": "song-151",
+    "titulo": "Nuestra Prioridad",
+    "artista": "MiSion",
+    "autor": "Agustín Salces, Daiana Salces",
+    "genero": "Adoración",
+    "idioma": "Español",
+    "favorita": false,
+    "activa": true,
+    "tonalidad": "C",
+    "bpm": 125,
+    "versions_count": 1,
+    "versions_nombres": [
+      "Original"
+    ]
+  },
+  {
+    "id": "song-152",
+    "titulo": "Fiesta En El Desierto (la la la)",
+    "artista": "Montesanto",
+    "autor": "Douglas D´lima, Sinai Urdaneta, Yaomari Prieto, Richeld Vilchez",
+    "genero": "Adoración",
+    "idioma": "Español",
+    "favorita": false,
+    "activa": true,
+    "tonalidad": "C#m",
+    "bpm": 140,
+    "versions_count": 1,
+    "versions_nombres": [
+      "Original"
+    ]
+  },
+  {
+    "id": "song-153",
+    "titulo": "Digno Es El Señor",
+    "artista": "Marcela Gándara",
+    "autor": "Marcela Gándara",
+    "genero": "Adoración",
+    "idioma": "Español",
+    "favorita": false,
+    "activa": true,
+    "tonalidad": "G",
+    "bpm": 88,
     "versions_count": 1,
     "versions_nombres": [
       "Original"

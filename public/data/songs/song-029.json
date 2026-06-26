@@ -1,20 +1,20 @@
 {
   "id": "song-029",
   "titulo": "Desde Mi Interior",
-  "artista": "From Inside Out",
+  "artista": "From Inside Out - Hillsong United",
   "autor": "Joel Houston",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-029-v001",
       "nombre": "Original",
       "tonalidad": "F",
-      "bpm": 0,
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Mil veces te fallé, mas tú fuiste fiel",
@@ -33,11 +33,11 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 23
+                  "pos": 4
                 }
               ]
             },
@@ -46,15 +46,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 4
                 }
               ]
             },
@@ -63,19 +63,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 25
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 7
                 }
               ]
             },
@@ -84,19 +84,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 7
                 }
               ]
             }
@@ -105,22 +105,22 @@
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Señor, tu voluntad permanecerá",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             },
@@ -129,15 +129,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             },
@@ -146,19 +146,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 24
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 26
+                  "pos": 7
                 }
               ]
             },
@@ -167,19 +167,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 7
                 }
               ]
             }
@@ -187,23 +187,23 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "De mi corazón te doy el control",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 2
                 },
                 {
                   "acorde": "Am",
-                  "pos": 27
+                  "pos": 4
                 }
               ]
             },
@@ -212,7 +212,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 0
                 }
               ]
             },
@@ -221,15 +221,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "Am",
-                  "pos": 14
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 5
                 }
               ]
             },
@@ -238,7 +238,7 @@
               "acordes": [
                 {
                   "acorde": "Dm",
-                  "pos": 14
+                  "pos": 0
                 }
               ]
             }
@@ -246,27 +246,27 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Dios Eterno, tu luz por siempre brillará",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 4
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 23
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 7
                 }
               ]
             },
@@ -275,19 +275,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 4
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 7
                 }
               ]
             },
@@ -296,19 +296,19 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 4
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "Am",
-                  "pos": 20
+                  "pos": 6
                 }
               ]
             },
@@ -317,19 +317,47 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "F",
-                  "pos": 19
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Desde mi interior, mi alma clamará",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
                 }
               ]
             }

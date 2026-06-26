@@ -2,36 +2,25 @@
   "id": "song-024",
   "titulo": "Cristo Te Amamos",
   "artista": "Jesus We Love You",
-  "autor": "",
+  "autor": "Paul Mcclure / Hannah Mcclure / Kalley Heiligenthal",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-024-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 115,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Paul Mcclure / Hannah Mcclure / Kalley Heiligenthal",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -40,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 30
+                  "pos": 3
                 }
               ]
             },
@@ -53,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 33
+                  "pos": 3
                 }
               ]
             },
@@ -66,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 39
+                  "pos": 3
                 }
               ]
             },
@@ -79,27 +68,27 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 26
+                  "pos": 3
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Por lo que Tú has hecho",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
             },
@@ -108,11 +97,11 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 23
+                  "pos": 4
                 }
               ]
             },
@@ -121,23 +110,27 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Cristo te amamos",
               "acordes": [
                 {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
                   "acorde": "F",
-                  "pos": 14
+                  "pos": 4
                 }
               ]
             },
@@ -146,7 +139,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -155,32 +148,87 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 29
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "( //// Te adora a ti //// )",
+              "texto": "Te adora a ti",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 16
+                  "acorde": "G/B",
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú la esperanza das, el huérfano tiene hogar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 22
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "El perdido encuentra su lugar en Ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Levantas nuestro mirar, al débil fuerzas le das",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "A los huesos secos das vida en Ti Jesús",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
                 }
               ]
             }
@@ -188,42 +236,140 @@
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "pre-coro",
+          "numero": 2,
           "lineas": [
             {
-              "texto": "Tú la esperanza das, el huérfano tiene hogar",
-              "acordes": []
+              "texto": "Por lo que Tú has hecho",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "El perdido encuentra su lugar en Ti",
-              "acordes": []
+              "texto": "En amor respondemos a Ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
             },
             {
-              "texto": "Levantas nuestro mirar, al débil fuerzas le das",
-              "acordes": []
-            },
-            {
-              "texto": "A los huesos secos das vida en Ti Jesús",
-              "acordes": []
+              "texto": "Cantamos Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             }
           ]
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Cristo te amamos",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Cuanto te amamos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Nuestro corazón hoy te adora a ti",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Te adora a ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Te adora a ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Nuestro afecto y devoción, ponemos a tus pies oh Cristo",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 31
+                  "pos": 3
                 }
               ]
             },
@@ -235,8 +381,8 @@
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 30
+                  "acorde": "C/E",
+                  "pos": 3
                 }
               ]
             },
@@ -249,7 +395,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 30
+                  "pos": 2
                 }
               ]
             }

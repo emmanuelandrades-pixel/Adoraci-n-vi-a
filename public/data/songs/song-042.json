@@ -1,39 +1,63 @@
 {
   "id": "song-042",
   "titulo": "En Ti Estoy Firme",
-  "artista": "Stand In Your Love",
+  "artista": "Stand In Your Love - Bethel Music",
   "autor": "Josh Baldwin, Rita Springer, Ethan Hulse, Mark Harris",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-042-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 141,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Si la tiniebla viene atropellar",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
@@ -46,7 +70,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -55,11 +79,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 4
                 }
               ]
             },
@@ -68,39 +92,39 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 23
+                  "pos": 6
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tu amor vence el temor, cuando en Ti estoy firme",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
             },
@@ -109,30 +133,51 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
             },
             {
-              "texto": "Bm        A       G          DAG",
-              "acordes": []
-            },
-            {
               "texto": "Tu amor vence el temor, cuando en Ti estoy firme",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -141,11 +186,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 1
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 2
                 }
               ]
             },
@@ -158,7 +203,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             },
@@ -167,15 +212,15 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 6
                 }
               ]
             },
@@ -184,44 +229,44 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Es Tu poder que nos da libertad",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Y puede aún los muertos levantar",
+              "texto": "Y puede aún los muertos levantar",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -230,20 +275,29 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "G               D (mantener G para el coro)",
-              "acordes": []
+              "texto": "Hay poder en Tu nombre, Hay poder en Tu nombre",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Hay poder en Tu nombre, Hay poder en Tu nombre",
+              "texto": "(MANTENER G para pasar al coro)",
               "acordes": []
             }
           ]

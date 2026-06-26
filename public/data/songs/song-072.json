@@ -8,32 +8,32 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-072-v001",
       "nombre": "Original",
-      "tonalidad": "Bb",
-      "bpm": 0,
+      "tonalidad": "G",
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "coro",
           "numero": null,
           "lineas": [
             {
               "texto": "Nuestro Dios",
               "acordes": [
                 {
-                  "acorde": "Bb/D",
-                  "pos": 4
+                  "acorde": "G/B",
+                  "pos": 1
                 },
                 {
-                  "acorde": "Eb",
-                  "pos": 9
+                  "acorde": "C",
+                  "pos": 5
                 }
               ]
             },
@@ -41,12 +41,12 @@
               "texto": "Reina hoy",
               "acordes": [
                 {
-                  "acorde": "F",
-                  "pos": 4
+                  "acorde": "D",
+                  "pos": 1
                 },
                 {
-                  "acorde": "Gm",
-                  "pos": 6
+                  "acorde": "Em",
+                  "pos": 3
                 }
               ]
             },
@@ -54,8 +54,8 @@
               "texto": "Por siempre",
               "acordes": [
                 {
-                  "acorde": "Gm",
-                  "pos": 4
+                  "acorde": "Em",
+                  "pos": 1
                 }
               ]
             },
@@ -63,12 +63,12 @@
               "texto": "Su reino es",
               "acordes": [
                 {
-                  "acorde": "F/A",
+                  "acorde": "D/F#",
                   "pos": 0
                 },
                 {
-                  "acorde": "Bb",
-                  "pos": 9
+                  "acorde": "G",
+                  "pos": 5
                 }
               ]
             }

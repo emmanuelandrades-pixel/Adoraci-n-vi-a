@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-027-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Pues tú has venido sobre los montes, por las montañas",
@@ -33,15 +33,11 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 15
-                },
-                {
-                  "acorde": "C",
-                  "pos": 32
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 48
+                  "pos": 5
                 }
               ]
             },
@@ -54,15 +50,15 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 16
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 26
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 45
+                  "pos": 7
                 }
               ]
             }
@@ -70,8 +66,8 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Conmigo danza",
@@ -91,11 +87,11 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "F",
-                  "pos": 16
+                  "pos": 5
                 }
               ]
             },
@@ -104,7 +100,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 16
+                  "pos": 0
                 }
               ]
             },
@@ -126,11 +122,11 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "F",
-                  "pos": 17
+                  "pos": 5
                 }
               ]
             },
@@ -139,7 +135,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 0
                 }
               ]
             }
@@ -159,20 +155,20 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 25
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 39
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "El invierno paso y la primavera llegó",
+              "texto": "El invierno pasó y la primavera llegó",
               "acordes": [
                 {
                   "acorde": "Am",
@@ -180,15 +176,15 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 23
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 35
+                  "pos": 7
                 }
               ]
             }

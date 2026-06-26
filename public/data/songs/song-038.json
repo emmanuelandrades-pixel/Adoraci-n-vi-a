@@ -1,20 +1,20 @@
 {
   "id": "song-038",
   "titulo": "Enciende Un Fuego",
-  "artista": "Set a Fire",
-  "autor": "United Persuit",
+  "artista": "Set a Fire - United Persuit",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-038-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 120,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -56,7 +56,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             }
@@ -64,8 +64,8 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Enciende un fuego en mi corazón",
@@ -103,7 +103,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             }

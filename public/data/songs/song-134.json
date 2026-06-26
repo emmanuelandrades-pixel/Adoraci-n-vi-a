@@ -1,20 +1,20 @@
 {
   "id": "song-134",
   "titulo": "Tu Eres La Fuente",
-  "artista": "",
+  "artista": "Adoración Viña Las Condes",
   "autor": "Luian Berdía, David Berguño",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-134-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 57,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,7 +29,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 3
+                  "pos": 1
                 }
               ]
             },
@@ -38,24 +38,31 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 3
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Mi corazón",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Tu eres la fuente de vida",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 22
+                  "pos": 3
                 }
               ]
             },
@@ -64,7 +71,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 22
+                  "pos": 1
                 }
               ]
             }

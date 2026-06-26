@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-061-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,18 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "En la calma de mi ser",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -42,19 +42,19 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 14
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 10
                 }
               ]
             }
@@ -62,19 +62,19 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Llenas mi corazón",
               "acordes": [
                 {
                   "acorde": "Bm7",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             },
@@ -83,19 +83,19 @@
               "acordes": [
                 {
                   "acorde": "Bm7",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 17
+                  "pos": 4
                 },
                 {
                   "acorde": "E",
-                  "pos": 32
+                  "pos": 9
                 },
                 {
                   "acorde": "A",
-                  "pos": 32
+                  "pos": 11
                 }
               ]
             }
@@ -103,8 +103,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Cristo eres más que un amigo",
@@ -115,11 +115,11 @@
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m7",
-                  "pos": 23
+                  "pos": 8
                 }
               ]
             },
@@ -128,19 +128,19 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 3
                 },
                 {
                   "acorde": "E",
-                  "pos": 29
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 38
+                  "pos": 7
                 }
               ]
             },
@@ -149,15 +149,15 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m7",
-                  "pos": 24
+                  "pos": 8
                 }
               ]
             },
@@ -166,28 +166,28 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Traes gozo a mi ser, gozo a mi ser",
+              "texto": "Traes gozo a mi ser",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 28
+                  "pos": 5
                 }
               ]
             }
@@ -195,16 +195,62 @@
         },
         {
           "id": "s004",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Gozo a mi ser",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Anhelo adorarte, oh mi Rey",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "Anhelo traerte ofrendas de amo",
-              "acordes": []
+              "texto": "Anhelo traerte ofrendas de amor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
             }
           ]
         }

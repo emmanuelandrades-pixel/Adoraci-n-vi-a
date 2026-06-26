@@ -8,21 +8,49 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-094-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 145,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Fuimos perdonados y hoy cantamos de redención",
@@ -33,7 +61,7 @@
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 27
+                  "pos": 2
                 }
               ]
             },
@@ -42,26 +70,55 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 34
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 49
+                  "pos": 7
                 }
               ]
             },
             {
               "texto": "Nada nos detiene, correremos en la oscuridad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Arde un fuego en nuestro ser, un fuego en nuestro ser",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Somos una generación que canta",
               "acordes": [
@@ -71,7 +128,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -84,7 +141,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 4
                 }
               ]
             },
@@ -97,7 +154,7 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 2
                 }
               ]
             },
@@ -110,7 +167,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 4
                 }
               ]
             },
@@ -119,11 +176,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 28
+                  "pos": 3
                 }
               ]
             },
@@ -136,7 +193,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
             },
@@ -149,26 +206,112 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 16
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Resucitados, hoy vivimos para ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Resucitados, hoy vivimos para ti",
-              "acordes": []
-            },
-            {
               "texto": "La pasión no morirá, la pasión no morirá",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Nada nos detiene, correremos en la oscuridad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "La pasión no morirá, la pasión no morirá",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Resucitaste con poder",
               "acordes": [
@@ -183,7 +326,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 28
+                  "pos": 1
                 }
               ]
             },
@@ -205,7 +348,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 30
+                  "pos": 1
                 }
               ]
             },
@@ -214,11 +357,137 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 23
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Somos una generación que canta",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "De tu misericordia",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Tú eres quien nos pone en movimiento",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tuya es la gloria",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Hay un fuego en mi ser que arde por ti",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Nunca se apagará",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Somos libres, tuya es la gloria",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
                 }
               ]
             }

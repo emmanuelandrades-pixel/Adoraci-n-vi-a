@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-003-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "E",
+      "bpm": 79,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,22 +22,22 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Por su gracia nos salvó",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 8
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 17
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -45,16 +45,16 @@
               "texto": "No es por obras, es por fe",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 11
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 25
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -62,16 +62,16 @@
               "texto": "Sólo hay vida en Jesús",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 10
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 18
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -79,16 +79,16 @@
               "texto": "Vivir es un gozo, vivir es Él",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 12
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 26
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             }
@@ -96,23 +96,23 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Ven y adoremos",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 3
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 5
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -120,16 +120,16 @@
               "texto": "Ven y adoremos",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 3
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 5
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             }
@@ -144,16 +144,16 @@
               "texto": "Resucitados en Jesús",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 8
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 17
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -161,16 +161,16 @@
               "texto": "Fijamos la mirada en Él",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 8
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 22
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -178,16 +178,16 @@
               "texto": "Para ser llenos de nuestro Dios",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 9
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 27
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -195,16 +195,16 @@
               "texto": "Y caminar en Su libertad",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
-                  "pos": 12
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C",
-                  "pos": 19
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             }
@@ -212,14 +212,14 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "A nuestro Dios",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "A",
                   "pos": 0
                 }
               ]
@@ -228,7 +228,7 @@
               "texto": "A nuestro Padre",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "B",
                   "pos": 0
                 }
               ]
@@ -237,7 +237,7 @@
               "texto": "Sea la gloria",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "C#m",
                   "pos": 0
                 }
               ]
@@ -246,7 +246,7 @@
               "texto": "Por siempre y siempre",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "E",
                   "pos": 0
                 }
               ]
@@ -255,16 +255,42 @@
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "final-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Oh, adoremos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "E",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Oh, adoremos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "E",
+                  "pos": 6
+                }
+              ]
             }
           ]
         }

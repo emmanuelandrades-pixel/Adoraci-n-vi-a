@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-098-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 140,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 2
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 4
                 }
               ]
             },
@@ -55,50 +55,24 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Es tu poder, fue tu cruz,",
+              "texto": "Es tu poder, fue tu cruz",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "La que me salvo me rescato",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 9
-                },
-                {
-                  "acorde": "G",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "Un momento ahí nos dio libertad.",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 7
-                },
-                {
-                  "acorde": "F",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             }
@@ -106,15 +80,48 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "La que me salvó me rescató",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Un momento ahí nos dio libertad",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Te doy gloria gloria,",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -123,7 +130,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -132,7 +139,7 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -141,27 +148,27 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Con una corona de espinos",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             },
@@ -170,11 +177,11 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             }

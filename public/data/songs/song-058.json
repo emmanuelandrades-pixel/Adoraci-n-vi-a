@@ -1,35 +1,75 @@
 {
   "id": "song-058",
   "titulo": "La Bondad De Dios",
-  "artista": "Goodness Of God",
+  "artista": "Goodness Of God - Bethel Music",
   "autor": "Jason Ingram, Ed Cash, Jenn Johnson, Brian Johnson, Ben Fielding",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-058-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 125,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Te amo Dios",
               "acordes": [
                 {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 3
                 }
               ]
             },
@@ -38,11 +78,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 3
                 }
               ]
             },
@@ -59,11 +99,11 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 9
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 11
                 }
               ]
             },
@@ -72,11 +112,11 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 4
                 }
               ]
             },
@@ -85,15 +125,15 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 8
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 13
+                  "pos": 8
                 }
               ]
             },
@@ -102,33 +142,27 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "En mi vida has sido bueno",
-              "acordes": []
-            },
-            {
-              "texto": "En mi vida has sido tan fiel",
               "acordes": [
                 {
                   "acorde": "C",
@@ -136,11 +170,24 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "En mi vida has sido tan tan fiel",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
             },
@@ -153,15 +200,15 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 2
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 16
+                  "pos": 4
                 },
                 {
                   "acorde": "Em",
-                  "pos": 21
+                  "pos": 9
                 }
               ]
             },
@@ -170,95 +217,66 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 5
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "Para terminar:",
-              "acordes": []
+              "texto": "Yo cantaré de la bondad de Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Yo cantaré de la bondad de Dios",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 6
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "Yo cantaré de la bondad de Dios)",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 4
-                },
-                {
-                  "acorde": "D",
-                  "pos": 6
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 5
                 }
               ]
-            },
-            {
-              "texto": "A Ti me rendiré",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 14
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "Tu fidelidad sigue",
-              "acordes": [
-                {
-                  "acorde": "G/B",
-                  "pos": 17
-                },
-                {
-                  "acorde": "C",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "Persiguiéndome",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 13
-                },
-                {
-                  "acorde": "G",
-                  "pos": 13
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Yo amo Tu voz",
               "acordes": [
@@ -273,11 +291,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -286,11 +304,11 @@
               "acordes": [
                 {
                   "acorde": "D/F#",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "Em",
-                  "pos": 7
+                  "pos": 6
                 }
               ]
             },
@@ -299,11 +317,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 3
                 }
               ]
             },
@@ -312,7 +330,7 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -320,32 +338,47 @@
               "texto": "Y como amigo fiel",
               "acordes": [
                 {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 11
+                  "pos": 4
                 },
                 {
                   "acorde": "Em",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
+                  "pos": 9
                 }
               ]
             },
             {
               "texto": "Mi vida está en la bondad de Dios",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Tu fidelidad sigue",
               "acordes": [
@@ -355,7 +388,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 4
                 }
               ]
             },
@@ -368,7 +401,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 2
                 }
               ]
             },
@@ -381,7 +414,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 4
                 }
               ]
             },
@@ -394,7 +427,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 2
                 }
               ]
             },
@@ -403,7 +436,7 @@
               "acordes": [
                 {
                   "acorde": "G/B",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             },
@@ -412,7 +445,46 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 6
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "A Ti me rendiré",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Tu fidelidad sigue",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Persiguiéndome",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             }

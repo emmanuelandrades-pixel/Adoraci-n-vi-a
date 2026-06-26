@@ -1,20 +1,20 @@
 {
   "id": "song-131",
   "titulo": "Tal Como Soy",
-  "artista": "As You Find Me",
-  "autor": "",
+  "artista": "As You Find Me - Hillsong United",
+  "autor": "Joel Houston, ben Hastings y matt Crocker",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-131-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 67,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,8 +25,64 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Joel Houston, ben Hastings y matt Crocker",
-              "acordes": []
+              "texto": "Me rompí cuando pensaba que era fuerte",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Fiel he sido y te he fallado a la misma vez",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Intenté tener control pero no pude",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Llegué alto y en un momento volví a caer",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
             }
           ]
         },
@@ -36,178 +92,137 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Me rompí cuando pensaba que era fuerte",
+              "texto": "He luchado y me he rendido ante la batalla",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 1
                 },
-                {
-                  "acorde": "Gsus",
-                  "pos": 14
-                },
-                {
-                  "acorde": "G5",
-                  "pos": 26
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 29
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Fiel he sido y te he fallado a la misma vez",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Intenté tener control pero no pude",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Llegué alto y en un momento volví a caer",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "He luchado y me he rendido ante la",
-              "acordes": []
-            },
-            {
-              "texto": "batalla",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Me alejé y me atrajiste de nuevo a ti",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Malgasté lo que tenía desesperado",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Pero descubrí Tú siempre estuviste ahí",
-              "acordes": []
-            },
-            {
-              "texto": "No puedo entenderlo",
-              "acordes": []
-            },
-            {
-              "texto": "Fuiste Tú quien me encontró",
-              "acordes": [
+                  "pos": 1
+                },
                 {
                   "acorde": "C",
                   "pos": 4
                 },
                 {
-                  "acorde": "Em7",
-                  "pos": 17
+                  "acorde": "G",
+                  "pos": 6
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "Malgasté lo que tenía desesperado",
               "acordes": [
                 {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Pero descubrí Tú siempre estuviste ahí",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Fuiste Tú quien me encontró",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Tuyo soy, tu amor me cambió",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Mi error tu gracia cubrió",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "G - Dsus",
-              "acordes": []
-            },
-            {
               "texto": "No puedo entenderlo",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "Ante tu amor yo me rendiré",
-              "acordes": []
-            },
-            {
-              "texto": "Y sé que yo no merezco este amor",
+              "texto": "Y sé que yo, yo no merezco este amor",
               "acordes": [
                 {
                   "acorde": "C",
@@ -248,41 +263,16 @@
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 17
+                  "pos": 9
                 },
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 13
                 }
               ]
             },
             {
-              "texto": "Gracia que nunca voy a entender, no",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G",
-                  "pos": 5
-                },
-                {
-                  "acorde": "Dsus",
-                  "pos": 19
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 31
-                }
-              ]
-            },
-            {
-              "texto": "hay nada que yo pueda hacer",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Gracia que nunca voy a entender,",
               "acordes": [
                 {
                   "acorde": "C",
@@ -299,218 +289,254 @@
               ]
             },
             {
-              "texto": "Pues Jesús... tal como soy me amas",
-              "acordes": []
+              "texto": "no hay nada que yo pueda hacer",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
-              "texto": "Quién soy yo para que aceptes mi",
+              "texto": "Pues Jesús",
               "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Tal como soy me amas",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                },
                 {
                   "acorde": "G",
                   "pos": 7
-                },
-                {
-                  "acorde": "Gsus",
-                  "pos": 17
-                },
-                {
-                  "acorde": "G5",
-                  "pos": 28
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 31
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "Tu amor no va a dejarme así (tal como soy me amas)",
               "acordes": [
                 {
+                  "acorde": "Em7",
+                  "pos": 1
+                },
+                {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 5
                 },
                 {
-                  "acorde": "G5",
-                  "pos": 8
+                  "acorde": "G/B",
+                  "pos": 7
                 },
                 {
-                  "acorde": "G2",
+                  "acorde": "D",
                   "pos": 11
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
-              "texto": "alabanza",
-              "acordes": []
-            },
-            {
-              "texto": "C       G5 G2",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Quién soy yo para que aceptes mi alabanza",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G5",
-                  "pos": 8
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 11
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Mientras haya aliento en mí te adoro Dios",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
                 }
               ]
             },
             {
-              "texto": "G5 G2",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Eres fiel y lleno de gracia y te lo agradezco",
               "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
                 {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 4
                 },
                 {
-                  "acorde": "G5",
-                  "pos": 8
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Eres fiel y lleno de gracia y te lo",
-              "acordes": []
-            },
-            {
-              "texto": "agradezco",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G5",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 3
+                  "acorde": "G",
+                  "pos": 6
                 }
               ]
             },
             {
               "texto": "Todo lo tienes y aún anhelas mi corazón",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 4
                 },
                 {
-                  "acorde": "G5",
-                  "pos": 7
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 10
+                  "acorde": "G",
+                  "pos": 6
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "pre-coro",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Fuiste Tú quien me encontró",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
-                  "acorde": "G5",
-                  "pos": 7
-                },
-                {
-                  "acorde": "G2",
-                  "pos": 10
+                  "acorde": "Em7",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Tuyo soy, tu amor me cambió",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 0
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G5",
-                  "pos": 7
+                  "acorde": "Dsus",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Mi dolor tu gracia cubrió",
-              "acordes": []
-            },
-            {
-              "texto": "G - Dsus",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Dsus",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Tu amor no va a dejarme así (tal como",
-              "acordes": []
-            },
-            {
-              "texto": "soy me amas)",
-              "acordes": []
-            },
+              "texto": "No puedo entenderlo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Dsus",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Mi co - razón solo tuyo es",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Ante tu amor yo me rendiré",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Aquí estoy",
@@ -521,7 +547,7 @@
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 4
+                  "pos": 2
                 }
               ]
             },
@@ -534,15 +560,15 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 6
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 23
+                  "pos": 8
                 }
               ]
             },
@@ -555,13 +581,9 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 4
                 }
               ]
-            },
-            {
-              "texto": "//Em7 - C - G",
-              "acordes": []
             }
           ]
         }

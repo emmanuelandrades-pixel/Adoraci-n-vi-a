@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-133-v001",
       "nombre": "Original",
       "tonalidad": "F",
-      "bpm": 0,
+      "bpm": 150,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,22 +22,22 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Más alto que los montes frente a mi",
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 34
+                  "pos": 7
                 }
               ]
             },
@@ -46,15 +46,15 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 19
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 34
+                  "pos": 7
                 }
               ]
             },
@@ -63,32 +63,32 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 34
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "Tu amor      permanece fiel",
+              "texto": "Tu amor permanece fiel",
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 8
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 26
+                  "pos": 7
                 }
               ]
             }
@@ -96,24 +96,24 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tu amor nunca falla, nunca se acaba",
               "acordes": [
                 {
                   "acorde": "Gm",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "Nunca me dejará (3x)",
+              "texto": "Nunca me dejará",
               "acordes": [
                 {
                   "acorde": "Bb",
@@ -121,28 +121,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "Tu amor",
-              "acordes": [
-                {
-                  "acorde": "Gm",
-                  "pos": 5
-                },
-                {
-                  "acorde": "Eb",
-                  "pos": 6
-                },
-                {
-                  "acorde": "Bb",
-                  "pos": 6
-                },
-                {
-                  "acorde": "F",
-                  "pos": 6
+                  "pos": 3
                 }
               ]
             }
@@ -150,6 +129,34 @@
         },
         {
           "id": "s003",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Tu amor",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Eb",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Bb",
+                  "pos": 7
+                },
+                {
+                  "acorde": "F",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -172,20 +179,20 @@
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "En la vida, en la muerte",
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -194,11 +201,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "Cm",
-                  "pos": 22
+                  "pos": 3
                 }
               ]
             },
@@ -207,15 +214,15 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb/D",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 26
+                  "pos": 9
                 }
               ]
             },
@@ -224,11 +231,11 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             },
@@ -237,15 +244,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "Cm",
-                  "pos": 24
+                  "pos": 3
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 29
+                  "pos": 6
                 }
               ]
             },
@@ -254,11 +261,11 @@
               "acordes": [
                 {
                   "acorde": "Bb/D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 6
                 }
               ]
             }

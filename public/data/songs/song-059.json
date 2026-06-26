@@ -1,20 +1,20 @@
 {
   "id": "song-059",
   "titulo": "Levanto Un Aleluya",
-  "artista": "Raise A Hallelujah",
+  "artista": "Raise A Hallelujah - Bethel Music",
   "autor": "Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-059-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 164,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Levanto un aleluya, en presencia de mis enemigos",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 23
+                  "pos": 2
                 }
               ]
             },
@@ -46,7 +46,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 23
+                  "pos": 2
                 }
               ]
             },
@@ -59,7 +59,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 23
+                  "pos": 2
                 }
               ]
             },
@@ -72,10 +72,17 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "En la tormenta, yo cantaré",
               "acordes": [
@@ -85,7 +92,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 18
+                  "pos": 2
                 }
               ]
             },
@@ -98,7 +105,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 26
+                  "pos": 3
                 }
               ]
             },
@@ -111,7 +118,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
@@ -124,20 +131,27 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Levanto un aleluya, con todo lo que hay en mi",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
             },
@@ -146,24 +160,24 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "Levanto un aleluya, aunque no pueda entender",
+              "texto": "Levanto un aleluya, aunque no lo pueda entender",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 25
+                  "pos": 3
                 }
               ]
             },
@@ -172,14 +186,64 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Cántalo más fuerte",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
+            {
+              "texto": "Cántalo más fuerte",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cántalo más fuerte",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cántalo más fuerte",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Cántalo más fuerte (en presencia de mis enemigos)",
               "acordes": [
@@ -215,7 +279,73 @@
                   "pos": 1
                 }
               ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Cántalo más fuerte",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Levanto un aleluya",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
+            {
+              "texto": "Levanto un aleluya",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Levanto un aleluya",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "coro",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Levanto un aleluya (en presencia de mis enemigos)",
               "acordes": [

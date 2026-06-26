@@ -1,20 +1,20 @@
 {
   "id": "song-090",
   "titulo": "Santo (Una Cosa)",
-  "artista": "",
-  "autor": "Marcos Brunet",
+  "artista": "Toma Tu Lugar",
+  "autor": "Lucas Conslie",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-090-v001",
       "nombre": "Original",
-      "tonalidad": "G",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 130,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -28,7 +28,7 @@
               "texto": "Todo está preparado aquí",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -37,7 +37,7 @@
               "texto": "La casa y mi corazón también",
               "acordes": [
                 {
-                  "acorde": "C9",
+                  "acorde": "F9",
                   "pos": 0
                 }
               ]
@@ -46,30 +46,23 @@
               "texto": "Eres el único motivo que me hizo llegar",
               "acordes": [
                 {
-                  "acorde": "G/B",
+                  "acorde": "C/E",
                   "pos": 0
                 },
                 {
-                  "acorde": "C9",
-                  "pos": 26
+                  "acorde": "F9",
+                  "pos": 4
                 },
                 {
-                  "acorde": "D",
-                  "pos": 29
+                  "acorde": "G",
+                  "pos": 7
                 },
                 {
-                  "acorde": "C9",
-                  "pos": 31
+                  "acorde": "F9",
+                  "pos": 9
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
+            },
             {
               "texto": "Los hijos ya están llegando aquí",
               "acordes": []
@@ -81,17 +74,24 @@
             {
               "texto": "Encuentra mi corazón dispuesto a quemar por ti",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Todos los versos y canciones que conseguí cantar",
               "acordes": [
                 {
-                  "acorde": "G/B",
-                  "pos": 10
+                  "acorde": "C/E",
+                  "pos": 1
                 },
                 {
-                  "acorde": "C9",
-                  "pos": 36
+                  "acorde": "F9",
+                  "pos": 5
                 }
               ]
             },
@@ -99,12 +99,12 @@
               "texto": "Todas las veces quebrantado, yo quiero declarar",
               "acordes": [
                 {
-                  "acorde": "G/B",
-                  "pos": 10
+                  "acorde": "C/E",
+                  "pos": 1
                 },
                 {
-                  "acorde": "C9",
-                  "pos": 36
+                  "acorde": "F9",
+                  "pos": 5
                 }
               ]
             }
@@ -112,23 +112,23 @@
         },
         {
           "id": "s003",
-          "tipo": "instrumental",
-          "numero": null,
+          "tipo": "pre-coro",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Tuyo es el reino, la gloria por siempre",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 14
+                  "acorde": "Am",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 25
+                  "acorde": "G",
+                  "pos": 4
                 },
                 {
-                  "acorde": "C9",
-                  "pos": 33
+                  "acorde": "F9",
+                  "pos": 6
                 }
               ]
             },
@@ -136,99 +136,16 @@
               "texto": "Tuyo el dominio, el poder, amén, amén",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 14
+                  "acorde": "Am",
+                  "pos": 1
                 },
-                {
-                  "acorde": "D",
-                  "pos": 25
-                },
-                {
-                  "acorde": "C9",
-                  "pos": 33
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 4
                 },
                 {
-                  "acorde": "C9",
-                  "pos": 5
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 10
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 15
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 20
-                },
-                {
-                  "acorde": "C",
-                  "pos": 25
-                }
-              ]
-            },
-            {
-              "texto": "Tú eres Santo",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Y Tú eres Santo",
-              "acordes": [
-                {
-                  "acorde": "C9",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Y no hay otro como Tú",
-              "acordes": [
-                {
-                  "acorde": "G/B",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro como tú",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro como Tú",
-              "acordes": [
-                {
-                  "acorde": "G/B",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro como Jesús",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 18
+                  "acorde": "F9",
+                  "pos": 6
                 }
               ]
             }
@@ -236,19 +153,116 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F9",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 12
+                },
+                {
+                  "acorde": "F",
+                  "pos": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Tú eres Santo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Y Tú eres Santo",
+              "acordes": [
+                {
+                  "acorde": "F9",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Y no hay otro como Tú",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro como tú",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro como Tú",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro como Jesús",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Una cosa pediré",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "Dm",
                   "pos": 0
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 9
+                  "acorde": "C/E",
+                  "pos": 3
                 }
               ]
             },
@@ -256,8 +270,8 @@
               "texto": "Me quiero quedar en este lugar",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 10
+                  "acorde": "Am",
+                  "pos": 1
                 }
               ]
             },
@@ -265,8 +279,8 @@
               "texto": "Todos los días de mi vida",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 9
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             }

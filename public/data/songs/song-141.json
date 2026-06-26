@@ -1,20 +1,20 @@
 {
   "id": "song-141",
   "titulo": "Never Going Back",
-  "artista": "",
-  "autor": "United Pursuit",
+  "artista": "United Pursuit",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Inglés",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-141-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Faithful one no matter how far I run",
@@ -33,26 +33,22 @@
                 },
                 {
                   "acorde": "C/E",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "You lead me home you extend your love",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 0
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
                 }
               ]
-            },
-            {
-              "texto": "You lead me home you extend your",
-              "acordes": []
-            },
-            {
-              "texto": "love",
-              "acordes": []
             },
             {
               "texto": "Patiently fathering the orphan in me",
@@ -63,7 +59,7 @@
                 },
                 {
                   "acorde": "C/E",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -72,28 +68,31 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 4
                 }
               ]
-            },
-            {
-              "texto": "You call me your own",
-              "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "I never am alone",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 0
                 },
                 {
                   "acorde": "C/E",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -102,7 +101,7 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -111,67 +110,26 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "I'm singing out your lovely name",
-              "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "And I've made up my mind",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
-                }
-              ]
-            },
-            {
-              "texto": "I'm never going back",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "I'm never going back",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "It was always you",
-              "acordes": []
-            },
-            {
-              "texto": "It was always you",
-              "acordes": []
-            },
-            {
-              "texto": "You found me",
-              "acordes": [
-                {
-                  "acorde": "G",
                   "pos": 3
                 }
               ]
@@ -181,7 +139,7 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -190,7 +148,158 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 15
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Righteousness found only in your face",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "You see my heart you extend your grace",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Eyes open falling in love again",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "You say I'm your own",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "pre-coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "It was always you",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "It was always you",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "You found me",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "You call me your own",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "I'm never going back",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "I'm never going back",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "I'm singing out your lovely name",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
                 }
               ]
             },
@@ -224,74 +333,10 @@
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s008",
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
-            {
-              "texto": "Righteousness found only in your",
-              "acordes": [
-                {
-                  "acorde": "Dm",
-                  "pos": 0
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 20
-                }
-              ]
-            },
-            {
-              "texto": "face",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "You see my heart you extend your",
-              "acordes": []
-            },
-            {
-              "texto": "grace",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Dm",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Eyes open falling in love again",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "You say I'm your own",
-              "acordes": []
-            },
             {
               "texto": "There's nothing that I have need of",
               "acordes": [
@@ -302,24 +347,7 @@
               ]
             },
             {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Cuz there's nothing you haven't",
-              "acordes": []
-            },
-            {
-              "texto": "done",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Cuz there's nothing you haven't done",
               "acordes": [
                 {
                   "acorde": "C/E",
@@ -329,11 +357,21 @@
             },
             {
               "texto": "You make my soul alive",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "You put your love inside",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             }
           ]
         }

@@ -1,35 +1,31 @@
 {
   "id": "song-070",
   "titulo": "No Hay Otro Nombre",
-  "artista": "No Other Name",
-  "autor": "",
+  "artista": "No Other Name - Hillsong Worship",
+  "autor": "Joel Houston & Jonas Myrin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-070-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 150,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Joel Houston & Jonas Myrin",
-              "acordes": []
-            },
-            {
-              "texto": "Él es",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "G",
@@ -37,11 +33,47 @@
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 4
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 12
                 },
                 {
                   "acorde": "D/F#",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Él es",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
                   "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
                 }
               ]
             },
@@ -109,6 +141,10 @@
                 {
                   "acorde": "D/F#",
                   "pos": 12
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 17
                 }
               ]
             },
@@ -163,7 +199,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 3
                 }
               ]
             },
@@ -199,9 +235,16 @@
                   "pos": 17
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Su luz",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -212,10 +255,6 @@
                   "pos": 5
                 }
               ]
-            },
-            {
-              "texto": "Su luz",
-              "acordes": []
             },
             {
               "texto": "Radiante más que el sol",
@@ -302,7 +341,7 @@
               ]
             },
             {
-              "texto": "",
+              "texto": "Encuentro sani-dad",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -331,19 +370,15 @@
               ]
             },
             {
-              "texto": "Encuentro sani-dad",
-              "acordes": []
-            },
-            {
               "texto": "Por siempre reinará",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 12
+                  "pos": 3
                 }
               ]
             },
@@ -379,137 +414,119 @@
                   "pos": 17
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Ven a adorar al que resucitó",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Ven a adorar al que resucitó",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "La luz del mundo, Que nos rescató",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro nombre igual",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro nombre igual",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 0
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre igual",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre igual",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Cristo nuestro Dios oh oh oh",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 0
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "El vencedor que a la diestra está",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 0
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Ante su trono montes caerán",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro nombre igual",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "No hay otro nombre igual",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 0
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre igual",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No hay otro nombre igual",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Cristo nuestro Dios oh oh oh",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "En Él",
               "acordes": [
@@ -519,7 +536,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 5
                 }
               ]
             },
@@ -527,24 +544,28 @@
               "texto": "Está la Salvación",
               "acordes": [
                 {
+                  "acorde": "D/F#",
+                  "pos": 0
+                },
+                {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 5
                 },
                 {
                   "acorde": "Am",
-                  "pos": 6
+                  "pos": 7
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 10
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 11
+                  "pos": 12
                 },
                 {
                   "acorde": "Em",
-                  "pos": 16
+                  "pos": 17
                 }
               ]
             },
@@ -566,27 +587,27 @@
               "acordes": [
                 {
                   "acorde": "D/F#",
-                  "pos": 1
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 6
+                  "pos": 5
                 },
                 {
                   "acorde": "Am",
-                  "pos": 8
+                  "pos": 7
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 10
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 13
+                  "pos": 12
                 },
                 {
                   "acorde": "Em",
-                  "pos": 18
+                  "pos": 17
                 }
               ]
             },
@@ -637,11 +658,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -681,13 +702,20 @@
             {
               "texto": "CORO (termina con “Jesús”)",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "/ Con tu poder, Se rompen cadenas",
+              "texto": "Con tu poder, Se rompen cadenas",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 1
                 }
               ]
             },
@@ -714,20 +742,27 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 27
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Ven a adorar al que resucitó",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -736,7 +771,7 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -745,45 +780,121 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 19
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "No hay otro nombre igual",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Cristo nuestro Dios oh oh oh",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "El vencedor que a la diestra está",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Ante su trono montes caerán",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "No hay otro nombre igual, Jesús",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "Interlude Final: Em - C - Em - C - G",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
             }
           ]
         }

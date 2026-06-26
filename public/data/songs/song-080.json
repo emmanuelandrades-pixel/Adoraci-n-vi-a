@@ -1,20 +1,20 @@
 {
   "id": "song-080",
   "titulo": "Primer Amor",
-  "artista": "",
+  "artista": "Wladimir Aranda",
   "autor": "David Berguño",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-080-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -42,7 +42,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -51,7 +51,7 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -60,7 +60,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -69,7 +69,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             },
@@ -78,127 +78,54 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F#m",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Con un amor tan tibio",
-              "acordes": []
-            },
-            {
-              "texto": "Porque mi amor se enciende",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 19
+                  "acorde": "F#m",
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "Al mirarte de nuevo",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "Al ver esos ojos de fuego ardiendo",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 12
-                },
-                {
-                  "acorde": "A",
-                  "pos": 26
-                },
-                {
-                  "acorde": "D",
-                  "pos": 28
-                }
-              ]
-            },
-            {
-              "texto": "Porque mi amor se aviva",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "Cuando corro a tus brazos",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "Y dejo que tus ojos quemen mis",
-              "acordes": []
-            },
-            {
-              "texto": "miedos",
-              "acordes": []
             }
           ]
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Ya no, no más",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Porque ya sé lo que quieres   Las cosas que hice al comienzo",
+              "texto": "Porque ya sé lo que quieres de mi",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 27
-                },
-                {
-                  "acorde": "D",
-                  "pos": 35
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 55
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "de mi",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Ya no, no más",
               "acordes": [
                 {
                   "acorde": "D",
@@ -219,44 +146,164 @@
               ]
             },
             {
-              "texto": "Ya no, no más",
-              "acordes": []
+              "texto": "Hoy vuelvo al primer amor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Porque mi amor se enciende",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Al mirarte de nuevo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Al ver esos ojos de fuego ardiendo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Porque mi amor se aviva",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cuando corro a tus brazos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Y dejo que tus ojos quemen mis miedos",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Y volveré a hacer",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Las cosas que hice al comienzo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Cuando me enamoré",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Y nada era imposible",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 19
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 18
-                },
-                {
-                  "acorde": "A",
-                  "pos": 19
-                },
-                {
-                  "acorde": "D",
-                  "pos": 19
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "Hoy vuelvo al primer amor",
-              "acordes": []
             },
             {
               "texto": "Y volveré a creer",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 2
                 }
               ]
             },
@@ -265,11 +312,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 30
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 30
+                  "pos": 3
                 }
               ]
             },
@@ -278,11 +325,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -291,26 +338,9 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 22
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "Y volveré a hacer",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 5
-                },
-                {
-                  "acorde": "A",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "Cuando me enamoré",
-              "acordes": []
             }
           ]
         }

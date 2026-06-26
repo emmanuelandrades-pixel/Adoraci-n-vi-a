@@ -1,51 +1,115 @@
 {
   "id": "song-021",
   "titulo": "Corazón De León",
-  "artista": "",
+  "artista": "Adoración Iglesias Viña Chile",
   "autor": "Vastián Valenzuela",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-021-v001",
       "nombre": "Original",
-      "tonalidad": "Ab",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 65,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Él es el león que abrió el mar",
-              "acordes": []
-            },
-            {
-              "texto": "Las olas el calmó, el viento y el mar",
-              "acordes": []
-            },
-            {
-              "texto": "Él es el león que va frente a mí",
-              "acordes": []
-            },
-            {
-              "texto": "Mi vida rescató, mi guerra Él venció",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 8
+                }
+              ]
             }
           ]
         },
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Él es el león que abrió el mar",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Las olas el calmó, el viento y el mar",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Él es el león que va frente a mí",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Mi vida rescató, mi guerra Él venció",
+              "acordes": [
+                {
+                  "acorde": "C/E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am7",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tu corazón ruge en poder y autoridad",
@@ -66,9 +130,9 @@
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Toda tiniebla huye",

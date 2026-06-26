@@ -1,70 +1,43 @@
 {
   "id": "song-006",
   "titulo": "Al Que Está Sentado En El Trono",
-  "artista": "",
-  "autor": "Marcos Brunet",
+  "artista": "Marcos Brunet",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-006-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "D",
+      "bpm": 68,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Quiero conocerte",
+              "texto": "",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "G",
                   "pos": 0
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "Cada día más a Ti",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Entrar en tu presencia",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "y adorar",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
+                  "pos": 2
                 },
                 {
-                  "acorde": "G",
-                  "pos": 7
+                  "acorde": "D",
+                  "pos": 5
                 }
               ]
             }
@@ -76,46 +49,38 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Revélanos Tu gloria",
+              "texto": "Quiero conocerte",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "D",
                   "pos": 0
                 }
               ]
             },
             {
-              "texto": "Deseamos ir mucho más en Ti",
+              "texto": "Cada día más a Ti",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "Bm",
                   "pos": 0
                 }
               ]
             },
             {
-              "texto": "Queremos Tu presencia",
+              "texto": "Entrar en tu presencia",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "D",
                   "pos": 0
                 }
               ]
             },
             {
-              "texto": "Jesús",
+              "texto": "y adorar",
               "acordes": [
                 {
                   "acorde": "G",
                   "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G",
-                  "pos": 4
                 }
               ]
             }
@@ -127,15 +92,66 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "Al que está sentado en el Trono",
+              "texto": "Revélanos Tu gloria",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "Bm",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Deseamos ir mucho más en Ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Queremos Tu presencia",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
                   "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 30
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Al que está sentado en el Trono",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 2
                 }
               ]
             },
@@ -143,7 +159,7 @@
               "texto": "Al que vive para siempre y siempre",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "Bm",
                   "pos": 0
                 }
               ]
@@ -152,20 +168,16 @@
               "texto": "Sea la Gloria, Sea la Honra y el Poder",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "A",
                   "pos": 0
                 },
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 2
                 },
                 {
-                  "acorde": "Dm",
+                  "acorde": "D/F#",
                   "pos": 4
-                },
-                {
-                  "acorde": "C/E",
-                  "pos": 22
                 }
               ]
             },
@@ -173,12 +185,45 @@
               "texto": "Sea la Gloria, sea la Honra y el Poder",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 0
                 },
                 {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Sea la Gloria, Sea la Honra y el Poder",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Sea la Gloria, sea la Honra y el Poder",
+              "acordes": [
+                {
                   "acorde": "G",
-                  "pos": 12
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
                 }
               ]
             }

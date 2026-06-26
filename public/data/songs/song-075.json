@@ -1,20 +1,20 @@
 {
   "id": "song-075",
   "titulo": "Oh Padre",
-  "artista": "Our Father",
+  "artista": "Our Father - Bethel Music",
   "autor": "Marcus Meier",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-075-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 0,
+      "tonalidad": "G",
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -28,8 +28,8 @@
               "texto": "Oh padre del cielo",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 3
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
@@ -37,12 +37,12 @@
               "texto": "Santo es tu nombre",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
-                  "pos": 16
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             },
@@ -50,8 +50,8 @@
               "texto": "Que venga tu reino",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 4
+                  "acorde": "G",
+                  "pos": 1
                 }
               ]
             },
@@ -59,12 +59,12 @@
               "texto": "Haz tu voluntad",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
-                  "pos": 14
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             }
@@ -72,27 +72,27 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "En la tierra como es en el cielo",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 9
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D/F#",
-                  "pos": 11
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
                 },
                 {
                   "acorde": "Em",
-                  "pos": 16
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 19
+                  "pos": 10
                 }
               ]
             },
@@ -100,8 +100,8 @@
               "texto": "Que el cielo venga",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 10
+                  "acorde": "D",
+                  "pos": 0
                 }
               ]
             },
@@ -109,20 +109,20 @@
               "texto": "En la tierra como es en el cielo",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 9
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D/F#",
-                  "pos": 11
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
                 },
                 {
                   "acorde": "Em",
-                  "pos": 16
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 19
+                  "pos": 10
                 }
               ]
             },
@@ -130,8 +130,8 @@
               "texto": "Que el cielo venga hoy",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 11
+                  "acorde": "D",
+                  "pos": 1
                 }
               ]
             }
@@ -139,19 +139,19 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "final-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Del cielo ven, del cielo ven",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 17
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "Bm",
-                  "pos": 27
+                  "acorde": "Em",
+                  "pos": 3
                 }
               ]
             }
@@ -159,19 +159,19 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tuyo es el reino, tuyo el poder",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
-                  "pos": 29
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             },
@@ -179,12 +179,12 @@
               "texto": "Tuya es la gloria por siempre amén",
               "acordes": [
                 {
-                  "acorde": "Bm",
+                  "acorde": "Em",
                   "pos": 0
                 },
                 {
-                  "acorde": "D/F#",
-                  "pos": 24
+                  "acorde": "G/B",
+                  "pos": 3
                 }
               ]
             }

@@ -1,20 +1,20 @@
 {
   "id": "song-101",
   "titulo": "Toda Lengua Y Toda Nación",
-  "artista": "",
-  "autor": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís",
+  "artista": "Toma Tu Lugar",
+  "autor": "Jan Daniel Earle, Marcos Brunet, Eduardo Danilo Ruiz & María José Solís González",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-101-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 0,
+      "tonalidad": "E",
+      "bpm": 130,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,7 +25,29 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "González",
+              "texto": "Hasta que Él venga sonará",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "La melodía del clamor de tu iglesia",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, ¡Regresa\\!",
               "acordes": []
             }
           ]
@@ -36,44 +58,11 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Hasta que Él venga sonará",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 8
-                }
-              ]
-            },
-            {
-              "texto": "La melodía del clamor de tu iglesia",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 4
-                },
-                {
-                  "acorde": "A",
-                  "pos": 20
-                }
-              ]
-            },
-            {
-              "texto": "Jesús, ¡Regresa!",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
               "texto": "Hasta que Él venga subirá",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 8
+                  "acorde": "E",
+                  "pos": 0
                 }
               ]
             },
@@ -81,32 +70,32 @@
               "texto": "La adoración de los que anhelan tu belleza",
               "acordes": [
                 {
-                  "acorde": "Bm",
-                  "pos": 6
+                  "acorde": "C#m",
+                  "pos": 1
                 },
                 {
-                  "acorde": "A",
-                  "pos": 24
+                  "acorde": "B",
+                  "pos": 5
                 }
               ]
             },
             {
-              "texto": "Jesús, ¡Regresa!",
+              "texto": "Jesús, ¡Regresa\\!",
               "acordes": []
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y mientras te esperamos",
               "acordes": [
                 {
-                  "acorde": "F#m",
-                  "pos": 6
+                  "acorde": "G#m",
+                  "pos": 0
                 }
               ]
             },
@@ -114,16 +103,16 @@
               "texto": "El fuego no se apagará",
               "acordes": [
                 {
+                  "acorde": "F#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
                   "acorde": "E",
-                  "pos": 8
-                },
-                {
-                  "acorde": "A",
-                  "pos": 17
-                },
-                {
-                  "acorde": "D",
-                  "pos": 19
+                  "pos": 6
                 }
               ]
             },
@@ -135,8 +124,8 @@
               "texto": "Ábranse las puertas",
               "acordes": [
                 {
-                  "acorde": "F#m",
-                  "pos": 6
+                  "acorde": "G#m",
+                  "pos": 0
                 }
               ]
             },
@@ -144,16 +133,16 @@
               "texto": "El Rey de gloria viene ya",
               "acordes": [
                 {
+                  "acorde": "F#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
                   "acorde": "E",
-                  "pos": 9
-                },
-                {
-                  "acorde": "A",
-                  "pos": 18
-                },
-                {
-                  "acorde": "D",
-                  "pos": 20
+                  "pos": 6
                 }
               ]
             },
@@ -161,23 +150,23 @@
               "texto": "y todo ojo lo verá",
               "acordes": [
                 {
-                  "acorde": "E",
-                  "pos": 9
+                  "acorde": "F#",
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Toda lengua y toda nación",
               "acordes": [
                 {
-                  "acorde": "D",
+                  "acorde": "E",
                   "pos": 0
                 }
               ]
@@ -186,7 +175,7 @@
               "texto": "Toda lengua y toda nación",
               "acordes": [
                 {
-                  "acorde": "Bm",
+                  "acorde": "C#m",
                   "pos": 0
                 }
               ]
@@ -195,7 +184,53 @@
               "texto": "Toda lengua y toda nación",
               "acordes": [
                 {
-                  "acorde": "A",
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Alabe tu nombre",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Toda lengua y toda nación",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Toda lengua y toda nación",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#/A#",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Toda lengua y toda nación",
+              "acordes": [
+                {
+                  "acorde": "B",
                   "pos": 0
                 }
               ]
@@ -212,63 +247,71 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "",
+              "texto": "Ooh oh oh oh oh oh oh ooh",
               "acordes": [
                 {
-                  "acorde": "F#m",
+                  "acorde": "G#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
-                  "pos": 5
+                  "acorde": "F#/A#",
+                  "pos": 4
                 },
                 {
-                  "acorde": "D",
+                  "acorde": "B",
                   "pos": 10
                 },
                 {
-                  "acorde": "A",
-                  "pos": 15
+                  "acorde": "B/D#",
+                  "pos": 12
                 },
                 {
                   "acorde": "E",
-                  "pos": 20
+                  "pos": 17
+                },
+                {
+                  "acorde": "D#m",
+                  "pos": 19
+                },
+                {
+                  "acorde": "B",
+                  "pos": 23
+                },
+                {
+                  "acorde": "F#/A#",
+                  "pos": 25
                 }
               ]
-            },
-            {
-              "texto": "Oh oh oh oh oh oh oh",
-              "acordes": []
             }
           ]
         },
         {
           "id": "s007",
-          "tipo": "verso",
-          "numero": 6,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Santo y digno es el cordero",
               "acordes": [
                 {
-                  "acorde": "F#m",
+                  "acorde": "G#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
+                  "acorde": "B",
                   "pos": 4
                 },
                 {
-                  "acorde": "D",
-                  "pos": 14
-                },
-                {
-                  "acorde": "A",
-                  "pos": 16
-                },
-                {
                   "acorde": "E",
-                  "pos": 18
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 10
                 }
               ]
             },
@@ -276,24 +319,24 @@
               "texto": "Que murió y resucitó",
               "acordes": [
                 {
-                  "acorde": "F#m",
+                  "acorde": "G#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
+                  "acorde": "B",
                   "pos": 4
                 },
                 {
-                  "acorde": "D",
-                  "pos": 12
-                },
-                {
-                  "acorde": "A",
-                  "pos": 14
-                },
-                {
                   "acorde": "E",
-                  "pos": 16
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 8
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 10
                 }
               ]
             }

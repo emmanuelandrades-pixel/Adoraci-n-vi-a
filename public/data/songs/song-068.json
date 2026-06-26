@@ -1,20 +1,20 @@
 {
   "id": "song-068",
   "titulo": "No Hay Lugar Más Alto",
-  "artista": "",
-  "autor": "Miel San Marcos",
+  "artista": "Miel San Marcos",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-068-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 68,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 22
+                  "pos": 3
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 26
+                  "pos": 5
                 }
               ]
             },
@@ -55,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             },
@@ -68,11 +68,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 26
+                  "pos": 5
                 }
               ]
             }
@@ -80,19 +80,19 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Me perdonaste, me acercaste a tu presencia",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 41
+                  "pos": 3
                 }
               ]
             },
@@ -101,11 +101,11 @@
               "acordes": [
                 {
                   "acorde": "F#m7",
-                  "pos": 16
+                  "pos": 1
                 },
                 {
                   "acorde": "E/G#",
-                  "pos": 38
+                  "pos": 6
                 }
               ]
             }
@@ -113,19 +113,19 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "No hay lugar más alto",
               "acordes": [
                 {
                   "acorde": "A/C#",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 20
+                  "pos": 6
                 }
               ]
             },
@@ -134,11 +134,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m7",
-                  "pos": 28
+                  "pos": 3
                 }
               ]
             },
@@ -147,7 +147,7 @@
               "acordes": [
                 {
                   "acorde": "A/C#",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             }
@@ -155,19 +155,19 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y aquí permaneceré",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             },
@@ -176,15 +176,15 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "F#m7",
-                  "pos": 17
+                  "pos": 5
                 }
               ]
             },
@@ -193,11 +193,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             },
@@ -206,11 +206,11 @@
               "acordes": [
                 {
                   "acorde": "F#m7",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 6
                 }
               ]
             }

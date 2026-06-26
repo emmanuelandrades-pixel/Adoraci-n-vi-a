@@ -1,20 +1,20 @@
 {
   "id": "song-086",
   "titulo": "Rey De Mi Corazón",
-  "artista": "King of My Heart",
+  "artista": "King of My Heart - Bethel Music",
   "autor": "Sara McMillan",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-086-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,14 +22,14 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Rey de mi corazón",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -38,11 +38,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 3
                 }
               ]
             },
@@ -51,11 +51,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 19
+                  "pos": 5
                 }
               ]
             },
@@ -64,11 +64,59 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Rey de mi corazón",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Sombra que me esconderá",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Mi rescate en tempestad",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi canción",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
                 }
               ]
             }
@@ -76,24 +124,29 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Rey de mi corazón",
-              "acordes": []
-            },
-            {
-              "texto": "Sombra que me esconderá",
-              "acordes": []
-            },
-            {
-              "texto": "Mi rescate en tempestad",
-              "acordes": []
-            },
-            {
-              "texto": "Eres mi canción",
-              "acordes": []
+              "texto": "Bueno es Dios, Dios oh oh",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
             }
           ]
         },
@@ -103,23 +156,98 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "Bueno es Dios, Dios oh",
+              "texto": "Rey de mi corazón",
               "acordes": [
                 {
-                  "acorde": "F#m",
-                  "pos": 12
-                },
-                {
-                  "acorde": "E",
-                  "pos": 16
-                },
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Viento que llena mi ser",
+              "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Mi ancla firme y fiel",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi canción",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Rey de mi corazón",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Fuego que arde en mi interior",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "El eco de mi voz",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Eres mi canción",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
                 }
               ]
             }
@@ -127,54 +255,43 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
-              "texto": "Rey de mi corazón",
-              "acordes": []
-            },
-            {
-              "texto": "Viento que llena mi ser",
-              "acordes": []
-            },
-            {
-              "texto": "Mi ancla firme y fiel",
-              "acordes": []
-            },
-            {
-              "texto": "Eres mi canción",
-              "acordes": []
-            },
-            {
-              "texto": "Rey de mi corazón",
-              "acordes": []
-            },
-            {
-              "texto": "Fuego que arde en mi interior",
-              "acordes": []
-            },
-            {
-              "texto": "El eco de mi voz",
-              "acordes": []
-            },
-            {
-              "texto": "Eres mi canción",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Tú no me dejarás",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 6
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "No me dejarás jamás",
+              "acordes": []
+            },
+            {
+              "texto": "Tú no me dejarás",
+              "acordes": []
+            },
+            {
+              "texto": "No me dejarás jamás",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú no me dejarás",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
                 }
               ]
             },
@@ -183,11 +300,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "E",
-                  "pos": 18
+                  "pos": 2
                 }
               ]
             },
@@ -196,11 +313,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "E",
-                  "pos": 10
+                  "pos": 4
                 }
               ]
             },
@@ -209,11 +326,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 6
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 18
+                  "pos": 2
                 }
               ]
             }
@@ -221,32 +338,32 @@
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "puente",
+          "numero": 3,
           "lineas": [
             {
               "texto": "Cuando venga la oscuridad",
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 14
+                  "pos": 7
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 9
                 }
               ]
             },
             {
-              "texto": "Tú me sostendrá",
+              "texto": "Tú me sostendrás",
               "acordes": [
                 {
                   "acorde": "Bm",
@@ -259,6 +376,23 @@
                 {
                   "acorde": "D",
                   "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Tú me sostendrás",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
                 }
               ]
             }

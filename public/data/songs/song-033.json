@@ -8,24 +8,24 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-033-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 115,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Digno y Santo el cordero",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "D",
@@ -33,17 +33,28 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 4
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 7
                 }
               ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Digno y Santo el cordero",
+              "acordes": []
             },
             {
               "texto": "Inmolado en la cruz",
@@ -60,9 +71,9 @@
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Santo, Santo, Santo",
@@ -95,7 +106,7 @@
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -122,7 +133,7 @@
           ]
         },
         {
-          "id": "s004",
+          "id": "s005",
           "tipo": "verso",
           "numero": 3,
           "lineas": [

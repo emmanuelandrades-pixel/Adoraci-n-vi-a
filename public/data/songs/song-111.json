@@ -1,20 +1,20 @@
 {
   "id": "song-111",
   "titulo": "Vino Nuevo",
-  "artista": "New Wine",
+  "artista": "New Wine - Hillsong Worship",
   "autor": "Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-111-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 2
                 }
               ]
             },
@@ -46,11 +46,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 6
                 }
               ]
             },
@@ -63,7 +63,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 2
                 }
               ]
             },
@@ -76,11 +76,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 6
                 }
               ]
             }
@@ -88,31 +88,23 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "En tus manos sé que puedo descansar",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 6
-                },
-                {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 21
+                  "pos": 3
                 },
                 {
                   "acorde": "E",
-                  "pos": 31
-                },
-                {
-                  "acorde": "A/C#",
-                  "pos": 33
+                  "pos": 7
                 }
               ]
             },
@@ -120,19 +112,30 @@
               "texto": "Aún si no entiendo en ti puedo confiar",
               "acordes": [
                 {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 5
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 21
+                  "pos": 7
                 },
                 {
                   "acorde": "E",
-                  "pos": 25
+                  "pos": 11
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Rindo mi vida",
               "acordes": [
@@ -147,7 +150,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 2
+                  "pos": 0
                 }
               ]
             },
@@ -169,7 +172,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
+                  "pos": 3
                 }
               ]
             },
@@ -187,7 +190,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 3
+                  "pos": 1
                 }
               ]
             },
@@ -200,24 +203,31 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 6
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Donde hay vino nuevo",
               "acordes": [
                 {
                   "acorde": "A/C#",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 6
                 }
               ]
             },
@@ -226,11 +236,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 9
+                  "pos": 5
                 }
               ]
             },
@@ -243,7 +253,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 5
                 }
               ]
             },
@@ -252,11 +262,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 14
+                  "pos": 5
                 }
               ]
             },
@@ -265,11 +275,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 2
                 }
               ]
             },
@@ -278,15 +288,15 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 14
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 21
+                  "pos": 7
                 }
               ]
             }

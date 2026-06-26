@@ -1,6 +1,6 @@
 {
   "id": "song-050",
-  "titulo": "Gran Yo Soy",
+  "titulo": "El Gran Yo Soy",
   "artista": "Great I Am",
   "autor": "Jared Anderson",
   "genero": "Adoración",
@@ -8,25 +8,38 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-050-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 80,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "D //// Em7 // A/C#",
-              "acordes": []
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 6
+                }
+              ]
             }
           ]
         },
@@ -44,15 +57,15 @@
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 19
+                  "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 29
+                  "pos": 11
                 }
               ]
             },
@@ -61,40 +74,41 @@
               "acordes": [
                 {
                   "acorde": "Em7",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 22
+                  "pos": 4
                 },
                 {
                   "acorde": "Bm7",
-                  "pos": 27
+                  "pos": 9
                 }
               ]
             },
             {
-              "texto": "Quiero oír las voces de ángeles hoy. Cantando unidos",
+              "texto": "Quiero oír las voces de ángeles hoy",
               "acordes": [
                 {
                   "acorde": "Em7",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 20
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 25
-                },
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Cantando unidos",
+              "acordes": [
                 {
                   "acorde": "Em7",
-                  "pos": 37
-                },
-                {
-                  "acorde": "A/C#",
-                  "pos": 50
+                  "pos": 0
                 }
               ]
             }
@@ -102,27 +116,31 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Aleluya, Santo, Santo, Poderoso, Gran Yo Soy",
               "acordes": [
                 {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
                   "acorde": "Bm7",
-                  "pos": 1
+                  "pos": 5
                 },
                 {
                   "acorde": "G2",
-                  "pos": 17
+                  "pos": 9
                 },
                 {
                   "acorde": "D",
-                  "pos": 28
+                  "pos": 12
                 },
                 {
-                  "acorde": "A",
-                  "pos": 42
+                  "acorde": "Asus4",
+                  "pos": 14
                 }
               ]
             },
@@ -131,19 +149,19 @@
               "acordes": [
                 {
                   "acorde": "Bm7",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "G2",
-                  "pos": 23
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 34
+                  "pos": 7
                 },
                 {
                   "acorde": "A",
-                  "pos": 46
+                  "pos": 9
                 }
               ]
             }
@@ -151,42 +169,180 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Me quiero acercar a tu lado estar",
-              "acordes": []
-            },
-            {
-              "texto": "Al mundo amar y lo oscuro odiar",
-              "acordes": []
-            },
-            {
-              "texto": "El valle de huesos ver revivir",
-              "acordes": []
-            },
-            {
-              "texto": "Cantando unidos",
-              "acordes": []
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 6
+                }
+              ]
             }
           ]
         },
         {
           "id": "s005",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 2,
           "lineas": [
             {
-              "texto": "A // Bm7 // G2",
-              "acordes": []
+              "texto": "Me quiero acercar, a tu lado estar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "Al mundo amar, y lo oscuro odiar.",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "El valle de huesos de revivir,",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Cantando unidos",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 1
+                }
+              ]
             }
           ]
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Aleluya, Santo, Santo, Poderoso, Gran Yo Soy",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Al que es digno, incomparable, Poderoso, Gran Yo Soy",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Gran Yo Soy (x4)",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm7",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G2",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tiembla ante Ti la tierra, demonios huyen ya",
@@ -225,20 +381,46 @@
               ]
             },
             {
-              "texto": "Bm         G          D //// A",
-              "acordes": []
+              "texto": "Gran Yo Soy, Gran Yo Soy, Gran Yo Soy",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Gran Yo Soy, Gran Yo Soy, Gran Yo Soy",
-              "acordes": []
-            },
-            {
-              "texto": "Bm               G         D //// A",
-              "acordes": []
-            },
-            {
-              "texto": "Gran Yo Soy, Gran Yo Soy, Gran Yo Soy",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             }
           ]
         }

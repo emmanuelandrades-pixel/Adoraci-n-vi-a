@@ -2,19 +2,19 @@
   "id": "song-034",
   "titulo": "Donde Tú Estás",
   "artista": "Where You Are",
-  "autor": "",
+  "autor": "Leeland",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-034-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 72,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,17 +22,13 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
-            {
-              "texto": "Leeland",
-              "acordes": []
-            },
             {
               "texto": "Siempre quiero más",
               "acordes": [
                 {
-                  "acorde": "D",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -41,7 +37,7 @@
               "texto": "Siempre quiero más",
               "acordes": [
                 {
-                  "acorde": "Bm7",
+                  "acorde": "Am7",
                   "pos": 0
                 }
               ]
@@ -50,8 +46,8 @@
               "texto": "De tu infinito amor",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 2
+                  "acorde": "Dm",
+                  "pos": 1
                 }
               ]
             },
@@ -59,16 +55,23 @@
               "texto": "Quiero más Señor",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 2
+                  "acorde": "F",
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "No puedo escapar",
               "acordes": [
                 {
-                  "acorde": "D",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -77,7 +80,7 @@
               "texto": "No puedo escapar",
               "acordes": [
                 {
-                  "acorde": "Bm7",
+                  "acorde": "Am7",
                   "pos": 0
                 }
               ]
@@ -86,8 +89,8 @@
               "texto": "Pues te he podido ver",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 2
+                  "acorde": "Dm",
+                  "pos": 1
                 }
               ]
             },
@@ -95,16 +98,23 @@
               "texto": "Y ya no quiero volver",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 2
+                  "acorde": "F",
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Quiero estar dónde Tú estás",
               "acordes": [
                 {
-                  "acorde": "D",
+                  "acorde": "C",
                   "pos": 0
                 }
               ]
@@ -113,8 +123,8 @@
               "texto": "Cerca de Tu corazón",
               "acordes": [
                 {
-                  "acorde": "Bm7",
-                  "pos": 0
+                  "acorde": "Am7",
+                  "pos": 1
                 }
               ]
             },
@@ -122,8 +132,8 @@
               "texto": "Pues no hay nadie como Tú",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 10
+                  "acorde": "Dm",
+                  "pos": 1
                 }
               ]
             },
@@ -131,21 +141,24 @@
               "texto": "Jesús, no hay nadie como Tú",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 10
+                  "acorde": "F",
+                  "pos": 1
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Santo, Santo",
               "acordes": [
                 {
-                  "acorde": "D",
+                  "acorde": "C",
                   "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 11
                 }
               ]
             },
@@ -153,12 +166,8 @@
               "texto": "Eres Santo, Santo",
               "acordes": [
                 {
-                  "acorde": "Bm7",
+                  "acorde": "Am7",
                   "pos": 1
-                },
-                {
-                  "acorde": "A",
-                  "pos": 15
                 }
               ]
             },
@@ -166,8 +175,8 @@
               "texto": "Eres Santo, Santo",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 2
+                  "acorde": "Dm",
+                  "pos": 1
                 }
               ]
             },
@@ -175,25 +184,83 @@
               "texto": "Cristo Te amo, Cristo Te amo",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 4
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
                 },
                 {
-                  "acorde": "A",
-                  "pos": 27
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             },
             {
+              "texto": "Eres Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "Am7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Eres Santo, Santo",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cristo Te amo, Cristo Te amo",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
               "texto": "Quiero estar dónde Tú estás",
               "acordes": [
                 {
-                  "acorde": "D",
+                  "acorde": "C",
                   "pos": 0
                 },
                 {
-                  "acorde": "A",
-                  "pos": 26
+                  "acorde": "G",
+                  "pos": 2
                 }
               ]
             },
@@ -201,12 +268,12 @@
               "texto": "Cerca de Tu corazón",
               "acordes": [
                 {
-                  "acorde": "Bm7",
-                  "pos": 0
+                  "acorde": "Am7",
+                  "pos": 1
                 },
                 {
-                  "acorde": "A",
-                  "pos": 18
+                  "acorde": "G",
+                  "pos": 5
                 }
               ]
             },
@@ -214,8 +281,8 @@
               "texto": "Pues no hay nadie como Tú",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 10
+                  "acorde": "Dm",
+                  "pos": 1
                 }
               ]
             },
@@ -223,12 +290,12 @@
               "texto": "Jesús, no hay nadie como Tú",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 10
+                  "acorde": "F",
+                  "pos": 1
                 },
                 {
-                  "acorde": "A",
-                  "pos": 26
+                  "acorde": "G",
+                  "pos": 3
                 }
               ]
             }

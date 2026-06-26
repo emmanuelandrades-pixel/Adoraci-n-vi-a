@@ -1,20 +1,20 @@
 {
   "id": "song-063",
   "titulo": "Mi Esperanza Está En Jesús",
-  "artista": "Living Hope",
-  "autor": "",
+  "artista": "Living Hope - Bethel Music",
+  "autor": "Brian Johnson, phil Wickham",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-063-v001",
       "nombre": "Original",
-      "tonalidad": "G",
-      "bpm": 0,
+      "tonalidad": "A",
+      "bpm": 72,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,29 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Brian Johnson, phil Wickham",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
           "numero": 1,
           "lineas": [
             {
               "texto": "Cuán grande abismo entre nosotros",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 2
+                  "acorde": "A",
+                  "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 23
+                  "acorde": "E",
+                  "pos": 2
                 }
               ]
             },
@@ -52,16 +41,16 @@
               "texto": "Cuán alto monte fallé escalar",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 7
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 9
-                },
-                {
                   "acorde": "D",
-                  "pos": 25
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
                 }
               ]
             },
@@ -69,12 +58,12 @@
               "texto": "Con desespero volví al cielo",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 5
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 16
+                  "acorde": "E",
+                  "pos": 3
                 }
               ]
             },
@@ -82,42 +71,49 @@
               "texto": "Y en la noche te hice llamar.",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 4
-                },
-                {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
+                  "acorde": "E",
+                  "pos": 3
+                },
                 {
-                  "acorde": "C",
-                  "pos": 0
+                  "acorde": "A",
+                  "pos": 5
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Allí en lo oscuro tu amor profundo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Cruzó la sombra y me alcanzó",
               "acordes": [
                 {
-                  "acorde": "Em7",
-                  "pos": 6
+                  "acorde": "F#m7",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 21
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -125,12 +121,12 @@
               "texto": "Ya es consumado y el fin escrito",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 8
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 19
+                  "acorde": "E",
+                  "pos": 3
                 }
               ]
             },
@@ -138,161 +134,16 @@
               "texto": "Mi esperanza está en Jesús.",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 5
-                },
-                {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "Interludio: G - Em7 - C",
-              "acordes": []
-            },
-            {
-              "texto": "O Alelu - ya, sea al que me libertó",
-              "acordes": [
-                {
-                  "acorde": "C",
+                  "acorde": "E",
                   "pos": 3
                 },
                 {
-                  "acorde": "G",
+                  "acorde": "A",
                   "pos": 5
-                },
-                {
-                  "acorde": "D",
-                  "pos": 17
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "Alelu - ya, de la muerte me arrancó",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G",
-                  "pos": 4
-                },
-                {
-                  "acorde": "D",
-                  "pos": 15
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 24
-                }
-              ]
-            },
-            {
-              "texto": "Las cadenas quebrantó",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "Y en Su nombre hay salvación",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 5
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Mi esperanza está en Jesús.",
-              "acordes": []
-            },
-            {
-              "texto": "Y tus promesas fueron selladas",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 6
-                },
-                {
-                  "acorde": "D",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "Cuando tu cuerpo resucitó",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 7
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 9
-                },
-                {
-                  "acorde": "D",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "Desde el silencio Tu gran rugido",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 8
-                },
-                {
-                  "acorde": "D",
-                  "pos": 20
-                }
-              ]
-            },
-            {
-              "texto": "Quebró el poder de la muerte en mí.",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 6
-                },
-                {
-                  "acorde": "D",
-                  "pos": 15
-                },
-                {
-                  "acorde": "G",
-                  "pos": 23
                 }
               ]
             }
@@ -300,6 +151,30 @@
         },
         {
           "id": "s003",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 2
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -307,12 +182,12 @@
               "texto": "Quien imagina piedad tan grande",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 6
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 18
+                  "acorde": "E",
+                  "pos": 3
                 }
               ]
             },
@@ -320,16 +195,16 @@
               "texto": "Tan plena gracia al corazón",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 7
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 9
-                },
-                {
                   "acorde": "D",
-                  "pos": 22
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
                 }
               ]
             },
@@ -337,12 +212,12 @@
               "texto": "El Dios eterno dejó Su gloria",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 6
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 16
+                  "acorde": "E",
+                  "pos": 3
                 }
               ]
             },
@@ -350,89 +225,232 @@
               "texto": "De mi pecado Él se vistió",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 4
-                },
-                {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
+                  "acorde": "E",
+                  "pos": 3
+                },
                 {
-                  "acorde": "C",
-                  "pos": 0
+                  "acorde": "A",
+                  "pos": 5
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "pre-coro",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "La cruz ha hablado, soy perdonado",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 0
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "El Rey de Reyes me adoptó",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 0
+                  "acorde": "F#m7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
             {
               "texto": "Señor hermoso te pertenezco",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 0
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 7
-                },
-                {
-                  "acorde": "G",
-                  "pos": 12
+                  "acorde": "E",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Mi esperanza está en Jesús",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "O Alelu - ya, sea al que me libertó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 7
+                }
+              ]
             },
+            {
+              "texto": "Alelu - ya, de la muerte me arrancó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Las cadenas quebrantó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Y en Su nombre hay salvación",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Mi esperanza está en Jesús.",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Mi esperanza está en Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Mi esperanza está en Jesús.",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
             {
               "texto": "Y tus promesas fueron selladas",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 5
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 18
+                  "acorde": "E",
+                  "pos": 3
                 }
               ]
             },
@@ -440,16 +458,16 @@
               "texto": "Cuando tu cuerpo resucitó",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 7
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 9
-                },
-                {
                   "acorde": "D",
-                  "pos": 21
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
                 }
               ]
             },
@@ -457,12 +475,79 @@
               "texto": "Desde el silencio Tu gran rugido",
               "acordes": [
                 {
-                  "acorde": "G/B",
-                  "pos": 7
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Quebró el poder de la muerte en mí.",
+              "acordes": [
+                {
                   "acorde": "D",
-                  "pos": 21
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s009",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Y tus promesas fueron selladas",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Cuando tu cuerpo resucitó",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Desde el silencio Tu gran rugido",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 6
                 }
               ]
             },
@@ -470,16 +555,16 @@
               "texto": "Quebró el poder de la muerte en mí",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 8
-                },
-                {
                   "acorde": "D",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
-                  "acorde": "Em7",
-                  "pos": 19
+                  "acorde": "E",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 5
                 }
               ]
             },
@@ -487,39 +572,18 @@
               "texto": "La victoria está en Ti.",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 13
+                  "acorde": "D",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 20
+                  "acorde": "E",
+                  "pos": 3
                 },
                 {
-                  "acorde": "G",
-                  "pos": 22
+                  "acorde": "A",
+                  "pos": 5
                 }
               ]
-            },
-            {
-              "texto": "Final",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Mi esperanza está en Jesús",
-              "acordes": []
-            },
-            {
-              "texto": "Mi esperanza está en Jesús.",
-              "acordes": []
             }
           ]
         }

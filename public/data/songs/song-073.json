@@ -1,36 +1,53 @@
 {
   "id": "song-073",
-  "titulo": "Oceanos",
-  "artista": "",
-  "autor": "",
+  "titulo": "Océanos (Donde Mis Pies Pueden Fallar)",
+  "artista": "Oceans (Where Feet My Fail) - Hillsong United",
+  "autor": "Matt Crocker, Joel Houston, Salomon Lighthelm",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-073-v001",
       "nombre": "Original",
-      "tonalidad": "D",
-      "bpm": 0,
+      "tonalidad": "C",
+      "bpm": 125,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "(Oceans (Where Feet My Fail))",
-              "acordes": []
-            },
-            {
-              "texto": "Matt Crocker, Joel Houston, Salomon Lighthelm",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                }
+              ]
             }
           ]
         },
@@ -40,23 +57,19 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Intro: Bm - A/C# - D - A – G",
-              "acordes": []
-            },
-            {
               "texto": "Tu voz me llama a las aguas",
               "acordes": [
                 {
-                  "acorde": "Bm",
+                  "acorde": "Am",
                   "pos": 0
                 },
                 {
-                  "acorde": "A/C#",
-                  "pos": 16
+                  "acorde": "G/B",
+                  "pos": 3
                 },
                 {
-                  "acorde": "D",
-                  "pos": 21
+                  "acorde": "C",
+                  "pos": 7
                 }
               ]
             },
@@ -64,29 +77,29 @@
               "texto": "Donde mis pies pueden fallar",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 9
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 25
+                  "acorde": "F",
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Ahí te encuentro en lo incierto",
+              "texto": "Y ahí te encuentro en lo incierto",
               "acordes": [
                 {
-                  "acorde": "Bm",
+                  "acorde": "Am",
                   "pos": 0
                 },
                 {
-                  "acorde": "A/C#",
-                  "pos": 19
+                  "acorde": "G/B",
+                  "pos": 3
                 },
                 {
-                  "acorde": "D",
-                  "pos": 24
+                  "acorde": "C",
+                  "pos": 7
                 }
               ]
             },
@@ -94,12 +107,12 @@
               "texto": "Caminaré sobre el mar",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 7
+                  "acorde": "G",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G",
-                  "pos": 16
+                  "acorde": "F",
+                  "pos": 3
                 }
               ]
             }
@@ -107,23 +120,23 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "A tu nombre clamaré",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "F",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
+                  "acorde": "C",
                   "pos": 2
                 },
                 {
-                  "acorde": "A",
-                  "pos": 18
+                  "acorde": "G",
+                  "pos": 4
                 }
               ]
             },
@@ -131,25 +144,25 @@
               "texto": "En ti mis ojos fijaré",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "F",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 11
+                  "acorde": "C",
+                  "pos": 2
                 },
                 {
-                  "acorde": "A",
-                  "pos": 13
+                  "acorde": "G",
+                  "pos": 4
                 }
               ]
             },
             {
-              "texto": "En tempestad,",
+              "texto": "En tempestad",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 11
+                  "acorde": "F",
+                  "pos": 1
                 }
               ]
             },
@@ -157,95 +170,384 @@
               "texto": "Descansaré en tu poder",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 10
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "A",
-                  "pos": 21
+                  "acorde": "G",
+                  "pos": 3
                 }
               ]
             },
             {
-              "texto": "Pues tuyo soy",
+              "texto": "Pues tuyo soy hasta el final",
               "acordes": [
                 {
+                  "acorde": "F",
+                  "pos": 1
+                },
+                {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 5
                 }
               ]
-            },
-            {
-              "texto": "A Bm - A/C# - D - A - G(Em)",
-              "acordes": []
-            },
-            {
-              "texto": "Hasta el final",
-              "acordes": []
             }
           ]
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Tu gracia abunda en la tormenta",
-              "acordes": []
-            },
-            {
-              "texto": "Tu mano Dios me guiará",
-              "acordes": []
-            },
-            {
-              "texto": "Cuando hay temor en mi camino",
-              "acordes": []
-            },
-            {
-              "texto": "Tú eres fiel y no cambiarás",
-              "acordes": []
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                }
+              ]
             }
           ]
         },
         {
           "id": "s005",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 2,
           "lineas": [
             {
-              "texto": "Bm(G)               G(D)",
-              "acordes": []
+              "texto": "Tu gracia abunda en la tormenta",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
             },
             {
-              "texto": "Que tu espíritu me guíe sin fronteras",
-              "acordes": []
+              "texto": "Tu mano Dios, me guiará",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "D(A)                A(Em)",
-              "acordes": []
+              "texto": "Cuando hay temor en mi camino",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
             },
             {
-              "texto": "Más allá de las barreras, adonde tu me llames",
-              "acordes": []
+              "texto": "Tú eres fiel y no cambiarás",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             }
           ]
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
+              "texto": "Que tu Espíritu me guíe sin fronteras",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Más allá de las barreras",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "A donde tú me llames",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
               "texto": "Tú me llevas más allá de lo soñado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Donde puedo estar confiado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Al estar en tu presencia / X3",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "puente",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Que tu Espíritu me guíe sin fronteras",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Más allá de las barreras",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "A donde tú me llames",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Tú me llevas más allá de lo soñado",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Donde puedo estar confiado",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Al estar en tu presencia",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Que tu Espíritu me guíe sin fronteras",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Más allá de las barreras",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "A donde tú me llames",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Tú me llevas más allá de lo soñado",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Donde puedo estar confiado",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Al estar en tu presencia",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s009",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "(si se repite el puente desde aquí",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 11
+                }
+              ]
+            },
+            {
+              "texto": "se repiten estos acordes)",
               "acordes": []
             }
           ]

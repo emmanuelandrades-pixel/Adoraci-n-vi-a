@@ -1,20 +1,20 @@
 {
   "id": "song-146",
   "titulo": "You Know Me",
-  "artista": "",
-  "autor": "Bethel Music",
+  "artista": "Bethel Music",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Inglés",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-146-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 67,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 4
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 3
                 }
               ]
             },
@@ -55,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
+                  "pos": 4
                 }
               ]
             },
@@ -68,11 +68,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 3
                 }
               ]
             }
@@ -80,27 +80,27 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "You know when I rise and when I fall",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 30
+                  "pos": 7
                 }
               ]
             },
@@ -109,15 +109,15 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 25
+                  "pos": 5
                 }
               ]
             },
@@ -126,25 +126,18 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 27
+                  "pos": 5
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
+            },
             {
               "texto": "And still You know me",
               "acordes": []
@@ -152,9 +145,9 @@
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s003",
+          "tipo": "final-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Whoa oh oh oh oh oh",
@@ -165,7 +158,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 2
                 }
               ]
             },
@@ -178,20 +171,20 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 5
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 14
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "And nothing is hidden from Your sight",
@@ -202,11 +195,11 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 4
                 }
               ]
             },
@@ -215,11 +208,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -228,11 +221,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -241,11 +234,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             }

@@ -1,75 +1,67 @@
 {
   "id": "song-105",
-  "titulo": "Tu Presencia Es El Cielo – Alaba",
-  "artista": "",
+  "titulo": "Tu Presencia Es El Cielo - Alaba",
+  "artista": "Israel & New Breed Version",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-105-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "coro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Israel & New Breed Version",
-              "acordes": []
+              "texto": "Tu Presencia es el cielo para mi",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
             }
           ]
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
-            {
-              "texto": "Tu Presencia es el cielo para mi",
-              "acordes": [
-                {
-                  "acorde": "B",
-                  "pos": 3
-                },
-                {
-                  "acorde": "A",
-                  "pos": 13
-                },
-                {
-                  "acorde": "E",
-                  "pos": 20
-                }
-              ]
-            },
-            {
-              "texto": "Alaba a Dios",
-              "acordes": []
-            },
             {
               "texto": "Y cantamos Oh Cristo, Oh Cristo-o",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "B",
-                  "pos": 25
+                  "pos": 7
                 }
               ]
             },
@@ -78,29 +70,27 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "E",
-                  "pos": 31
+                  "pos": 3
                 }
               ]
-            },
-            {
-              "texto": "Alaba a Dios",
-              "acordes": [
-                {
-                  "acorde": "B",
-                  "pos": 11
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Oh alaba",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 3
+                  "pos": 1
                 }
               ]
             },
@@ -113,7 +103,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -122,17 +112,13 @@
               "acordes": []
             },
             {
-              "texto": "",
+              "texto": "Estás sufriendo alaba",
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "Estás sufriendo alaba",
-              "acordes": []
             },
             {
               "texto": "No importa alaba",
@@ -143,20 +129,23 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 12
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 14
+                  "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Dios va al frente abriendo caminos",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "E",
@@ -165,76 +154,16 @@
               ]
             },
             {
-              "texto": "Dios va al frente abriendo caminos     B",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Quebrando cadenas sacando espinas",
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Quebrando cadenas sacando espinas      C#",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
                   "pos": 0
                 }
               ]
             },
             {
               "texto": "Manda a sus ángeles contigo a luchar",
-              "acordes": []
-            },
-            {
-              "texto": "Él abre puertas nadie puede cerrar     F#",
-              "acordes": [
-                {
-                  "acorde": "B",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Él trabaja para los que confían",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Él trabaja para los que confían",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C#m",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Camina contigo de noche y de día       C#",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
                   "acorde": "A",
@@ -243,8 +172,47 @@
               ]
             },
             {
+              "texto": "Él abre puertas nadie puede cerrar",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Él trabaja para los que confían",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Camina contigo de noche y de día",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                }
+              ]
+            },
+            {
               "texto": "Levanta tus manos tu victoria llego",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Comienza a cantar y",
@@ -254,21 +222,29 @@
                   "pos": 0
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
-              "texto": "Mi Dios Cuán grande es",
-              "acordes": []
-            },
-            {
-              "texto": "Cuán grande eres tú",
-              "acordes": []
+              "texto": "Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Alaba a Dios",
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 4
+                  "pos": 1
                 }
               ]
             },
@@ -277,30 +253,81 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Alaba a Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Alaba a Dios",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Alaba a Dios",
               "acordes": [
                 {
                   "acorde": "D#m",
-                  "pos": 5
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Alaba a Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Alaba a Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Dios va al frente abriendo caminos",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Quebrando cadenas sacando espinas",
@@ -313,11 +340,37 @@
             },
             {
               "texto": "Manda a sus ángeles contigo a luchar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Él abre puertas nadie puede cerrar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s009",
+          "tipo": "verso",
+          "numero": 5,
+          "lineas": [
+            {
+              "texto": "Él trabaja para los que confían",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Camina contigo de noche y de día",
@@ -330,10 +383,52 @@
             },
             {
               "texto": "Levanta tus manos tu victoria llego",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Comienza a cantar y",
+              "acordes": [
+                {
+                  "acorde": "C#",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s010",
+          "tipo": "coro",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Mi Dios Cuán grande es",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D#m",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 6
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Cuán grande eres tú",
               "acordes": []
             }
           ]

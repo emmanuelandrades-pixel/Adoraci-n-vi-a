@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-128-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 75,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,32 +29,20 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 0
                 }
               ]
             },
             {
-              "texto": "He tratado de que orgulloso estés de mí   Lo quiero intentar otra vez",
+              "texto": "He tratado de que orgulloso estés de mí",
               "acordes": [
                 {
                   "acorde": "G/B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
                   "pos": 5
-                },
-                {
-                  "acorde": "C",
-                  "pos": 24
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 47
-                },
-                {
-                  "acorde": "D",
-                  "pos": 54
-                },
-                {
-                  "acorde": "C",
-                  "pos": 61
                 }
               ]
             },
@@ -63,7 +51,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -77,33 +65,25 @@
               ]
             },
             {
-              "texto": "",
+              "texto": "Más difícil llega a ser",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Más difícil llega a ser",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Ya no siento continuar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "",
+              "texto": "Otra vez",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -114,21 +94,20 @@
                   "pos": 4
                 }
               ]
-            },
-            {
-              "texto": "Otra vez",
-              "acordes": []
-            },
-            {
-              "texto": "Nunca se va a desvanecer",
-              "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Oh Dios",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 0
                 }
               ]
             },
@@ -137,11 +116,11 @@
               "acordes": [
                 {
                   "acorde": "G/B",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 20
+                  "pos": 5
                 }
               ]
             },
@@ -150,42 +129,34 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 10
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Menos tengo que ofrecer",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 0
+                  "acorde": "C",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Y me siento atrapado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
             },
             {
-              "texto": "",
+              "texto": "Otra vez",
               "acordes": [
                 {
                   "acorde": "G/B",
@@ -196,230 +167,114 @@
                   "pos": 4
                 }
               ]
-            },
-            {
-              "texto": "Otra vez",
-              "acordes": []
-            },
-            {
-              "texto": "Ya lo intentaste",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 15
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 15
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Pero si sigo cada regla",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 7
-                },
-                {
-                  "acorde": "C",
-                  "pos": 22
-                },
-                {
-                  "acorde": "G",
-                  "pos": 22
+                  "pos": 0
                 }
               ]
-            },
-            {
-              "texto": "Y te vi luchando con",
-              "acordes": []
             },
             {
               "texto": "Y si oro una vez más",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 4
-                },
-                {
-                  "acorde": "G",
-                  "pos": 19
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 19
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "Cada cómo y porqué",
-              "acordes": []
             },
             {
               "texto": "Aún no sé si mi progreso bastará",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 21
-                },
-                {
-                  "acorde": "C",
-                  "pos": 31
-                },
-                {
-                  "acorde": "G",
-                  "pos": 31
-                }
-              ]
-            },
-            {
-              "texto": "Escuché tu corazón",
-              "acordes": []
-            },
-            {
-              "texto": "Al misterio estoy llamándote",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 27
-                },
-                {
-                  "acorde": "D",
-                  "pos": 27
-                },
-                {
-                  "acorde": "G",
                   "pos": 4
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 6
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Sigo intentando",
-              "acordes": []
-            },
-            {
-              "texto": "En su canto te encontraré",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 24
+                  "acorde": "G",
+                  "pos": 0
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 24
-                },
-                {
-                  "acorde": "C",
-                  "pos": 5
-                },
-                {
-                  "acorde": "G",
-                  "pos": 12
+                  "pos": 2
                 }
               ]
             },
             {
               "texto": "Y termino en caer",
-              "acordes": []
-            },
-            {
-              "texto": "Hijo, intenta otra vez",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 21
-                },
-                {
-                  "acorde": "D",
-                  "pos": 21
-                },
-                {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 8
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 10
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Me estoy preguntando",
-              "acordes": []
-            },
-            {
-              "texto": "Hijo, intenta otra vez",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 21
-                },
-                {
-                  "acorde": "D",
-                  "pos": 21
-                },
-                {
-                  "acorde": "C",
-                  "pos": 21
-                },
-                {
-                  "acorde": "C",
-                  "pos": 6
-                },
-                {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Si la brisa seguiré",
-              "acordes": []
-            },
-            {
-              "texto": "Tú puedes amar otra",
               "acordes": [
                 {
-                  "acorde": "Em",
-                  "pos": 18
+                  "acorde": "C",
+                  "pos": 1
                 },
                 {
-                  "acorde": "D",
-                  "pos": 18
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 6
-                },
-                {
-                  "acorde": "D",
-                  "pos": 18
+                  "acorde": "G",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "El misterio está llamándome",
-              "acordes": []
-            },
-            {
-              "texto": "Vez",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 2
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
                 }
               ]
             },
@@ -428,11 +283,28 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 13
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Lo quiero intentar otra vez",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
                 }
               ]
             },
@@ -441,32 +313,71 @@
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Mi hijo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
                 }
               ]
             },
             {
-              "texto": "Mi hijo",
-              "acordes": []
-            },
-            {
               "texto": "No sabes cuán orgulloso yo estoy de ti",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Créeme que lo que yo pienso de ti",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Nunca se va a desvanecer",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Y aunque te sientas vencido",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -475,25 +386,192 @@
               "acordes": [
                 {
                   "acorde": "G/B",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "pre-coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "No me intimidan tus preguntas",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
                 }
               ]
             },
             {
-              "texto": "No me intimidan tus preguntas",
-              "acordes": []
-            },
-            {
               "texto": "Yo no busco perfección",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "En mis ojos suficiente tú serás",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Ya lo intentaste",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Y te vi luchando con",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Cada cómo y porqué",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Escuché tu corazón",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Al misterio estoy llamándote",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "En su canto te encontraré",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Hijo, intenta otra vez",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Hijo, intenta otra vez",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Tú puedes amar otra",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Vez",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                }
+              ]
             }
           ]
         }

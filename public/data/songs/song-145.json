@@ -1,20 +1,20 @@
 {
   "id": "song-145",
   "titulo": "Since Your Love",
-  "artista": "",
-  "autor": "United Pursuit",
+  "artista": "United Pursuit",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Inglés",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-145-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 71,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,19 +22,12 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Capo 4",
               "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
+            },
             {
               "texto": "You are the light, Song of my life",
               "acordes": [
@@ -44,7 +37,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -57,15 +50,15 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 5
                 },
                 {
                   "acorde": "Am",
-                  "pos": 26
+                  "pos": 7
                 }
               ]
             },
@@ -78,7 +71,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
@@ -91,15 +84,62 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 5
                 },
                 {
                   "acorde": "Am",
-                  "pos": 20
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "And I was made by You",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "I was made for You",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "I am unfulfilled",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Without full communion",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
                 }
               ]
             }
@@ -111,53 +151,6 @@
           "numero": 2,
           "lineas": [
             {
-              "texto": "And I was made by You",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 3
-                }
-              ]
-            },
-            {
-              "texto": "I was made for You",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 3
-                }
-              ]
-            },
-            {
-              "texto": "I am unfulfilled",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 3
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Without full communion",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
               "texto": "You are the light, Song of my life",
               "acordes": [
                 {
@@ -166,7 +159,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 2
                 }
               ]
             },
@@ -179,15 +172,15 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 17
+                  "pos": 5
                 },
                 {
                   "acorde": "Am",
-                  "pos": 25
+                  "pos": 7
                 }
               ]
             },
@@ -200,7 +193,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
@@ -213,24 +206,24 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 5
                 },
                 {
                   "acorde": "Am",
-                  "pos": 20
+                  "pos": 7
                 }
               ]
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s004",
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Since Your love got a hold of me",
@@ -259,7 +252,7 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 9
+                  "pos": 2
                 }
               ]
             },
@@ -272,16 +265,16 @@
                 },
                 {
                   "acorde": "Am",
-                  "pos": 10
+                  "pos": 2
                 }
               ]
             }
           ]
         },
         {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
               "texto": "In you, is all I need",
@@ -292,7 +285,7 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 18
+                  "pos": 2
                 }
               ]
             },
@@ -301,19 +294,19 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 17
+                  "pos": 1
                 },
                 {
                   "acorde": "C",
-                  "pos": 29
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 41
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 48
+                  "pos": 7
                 }
               ]
             }

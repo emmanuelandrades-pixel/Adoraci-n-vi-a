@@ -1,20 +1,20 @@
 {
   "id": "song-077",
   "titulo": "Perdonada",
-  "artista": "",
-  "autor": "Camila Bravo",
+  "artista": "Camila Bravo",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-077-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "G",
+      "bpm": 155,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,13 +22,13 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Te pido perdón",
               "acordes": [
                 {
-                  "acorde": "Am7",
+                  "acorde": "Em7",
                   "pos": 0
                 }
               ]
@@ -37,39 +37,59 @@
               "texto": "Por no pasar tiempo contigo",
               "acordes": [
                 {
-                  "acorde": "F9",
-                  "pos": 8
+                  "acorde": "C9",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "Por no escucharte cuando me",
+              "texto": "Por no escucharte cuando me hablabas",
               "acordes": [
                 {
-                  "acorde": "Am7",
-                  "pos": 6
-                }
-              ]
-            },
-            {
-              "texto": "hablabas",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Am",
+                  "acorde": "Em7",
                   "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 4
                 }
               ]
             },
             {
               "texto": "Por no hacer lo que me pides",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 4
+                }
+              ]
             },
             {
-              "texto": "",
+              "texto": "Si me has dado todo lo que tengo",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Oh Gracias Papá",
               "acordes": [
                 {
                   "acorde": "G",
@@ -78,48 +98,27 @@
               ]
             },
             {
-              "texto": "Si me has dado todo lo que tengo",
-              "acordes": []
-            },
-            {
-              "texto": "Porque diste vida con Cristo",
-              "acordes": []
-            },
-            {
-              "texto": "Oh Gracias Papá",
+              "texto": "Me has salvado",
               "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F9",
-                  "pos": 11
-                },
                 {
                   "acorde": "G/B",
-                  "pos": 14
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 7
                 }
               ]
-            },
-            {
-              "texto": "Me has salvado",
-              "acordes": []
             },
             {
               "texto": "Oh Gracias Papá",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "G",
                   "pos": 0
                 }
               ]
@@ -128,12 +127,16 @@
               "texto": "Me has perdonado",
               "acordes": [
                 {
-                  "acorde": "C/E",
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
                   "pos": 4
                 },
                 {
-                  "acorde": "F9",
-                  "pos": 15
+                  "acorde": "D/F#",
+                  "pos": 7
                 }
               ]
             },
@@ -141,7 +144,7 @@
               "texto": "Oh Gracias Papá",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "G",
                   "pos": 0
                 }
               ]
@@ -150,12 +153,16 @@
               "texto": "Por darme la vida",
               "acordes": [
                 {
-                  "acorde": "C/E",
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
                   "pos": 4
                 },
                 {
-                  "acorde": "F9",
-                  "pos": 15
+                  "acorde": "D/F#",
+                  "pos": 7
                 }
               ]
             },
@@ -163,40 +170,39 @@
               "texto": "Oh Gracias Papá",
               "acordes": [
                 {
-                  "acorde": "C",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "C/E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F9",
-                  "pos": 11
-                },
-                {
                   "acorde": "G",
-                  "pos": 18
-                },
-                {
-                  "acorde": "F9",
-                  "pos": 20
+                  "pos": 0
                 }
               ]
             },
             {
               "texto": "Por darme el regalo de Cristo",
-              "acordes": []
-            },
-            {
-              "texto": "Todo... el cansancio",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Perdón Papá",
               "acordes": []
@@ -216,17 +222,24 @@
             {
               "texto": "Si me has dado todo lo que tengo",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Enviaste a tu hijo a la Cruz",
               "acordes": [
                 {
-                  "acorde": "C",
+                  "acorde": "G",
                   "pos": 0
                 },
                 {
-                  "acorde": "C/E",
-                  "pos": 25
+                  "acorde": "G/B",
+                  "pos": 2
                 }
               ]
             },
@@ -234,35 +247,73 @@
               "texto": "Porque nos amas tanto",
               "acordes": [
                 {
-                  "acorde": "F9",
-                  "pos": 3
+                  "acorde": "C9",
+                  "pos": 0
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 20
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F9",
-                  "pos": 0
+                  "acorde": "D/F#",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Todo mal que hay en mi corazón",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                }
+              ]
             },
             {
-              "texto": "F9    Ya lo has perdonado",
-              "acordes": []
+              "texto": "Ya lo has perdonado",
+              "acordes": [
+                {
+                  "acorde": "C9",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "/Oh Gracias Papá",
-              "acordes": []
+              "texto": "Porque diste vida con Cristo",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "outro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Oh Gracias Papá",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Por no dejarme",
@@ -272,12 +323,12 @@
               "texto": "Sola... en el día",
               "acordes": [
                 {
-                  "acorde": "G/B",
+                  "acorde": "D/F#",
                   "pos": 0
                 },
                 {
-                  "acorde": "F9",
-                  "pos": 16
+                  "acorde": "C9",
+                  "pos": 5
                 }
               ]
             },
@@ -285,12 +336,12 @@
               "texto": "Sola... en esa noche",
               "acordes": [
                 {
-                  "acorde": "G/B",
+                  "acorde": "D/F#",
                   "pos": 0
                 },
                 {
-                  "acorde": "F9",
-                  "pos": 19
+                  "acorde": "C9",
+                  "pos": 5
                 }
               ]
             },
@@ -298,12 +349,12 @@
               "texto": "Sola... en mi mente",
               "acordes": [
                 {
-                  "acorde": "G/B",
+                  "acorde": "D/F#",
                   "pos": 0
                 },
                 {
-                  "acorde": "F9",
-                  "pos": 18
+                  "acorde": "C9",
+                  "pos": 5
                 }
               ]
             },
@@ -311,17 +362,17 @@
               "texto": "Sola... en mis sueños",
               "acordes": [
                 {
-                  "acorde": "G/B",
+                  "acorde": "D/F#",
                   "pos": 0
                 },
                 {
-                  "acorde": "F9",
-                  "pos": 20
+                  "acorde": "C9",
+                  "pos": 5
                 }
               ]
             },
             {
-              "texto": "/Oh Gracias Papá",
+              "texto": "Oh Gracias Papá",
               "acordes": []
             },
             {
@@ -333,6 +384,10 @@
               "acordes": []
             },
             {
+              "texto": "Todo... el cansancio",
+              "acordes": []
+            },
+            {
               "texto": "Toda... ansiedad",
               "acordes": []
             },
@@ -341,8 +396,21 @@
               "acordes": []
             },
             {
-              "texto": "/ Por entregarme tu amor",
-              "acordes": []
+              "texto": "Por entregarme tu amor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C9",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
             }
           ]
         }

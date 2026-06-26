@@ -1,20 +1,20 @@
 {
   "id": "song-074",
   "titulo": "Oír Tu Voz",
-  "artista": "",
-  "autor": "David Berguño",
+  "artista": "David Berguño",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-074-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 94,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,23 +29,23 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 2
+                  "pos": 3
                 },
                 {
                   "acorde": "Am",
-                  "pos": 6
+                  "pos": 7
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 10
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 12
                 }
               ]
             }
@@ -57,27 +57,27 @@
           "numero": 1,
           "lineas": [
             {
-              "texto": "Enséñanos a oír tu voz",
+              "texto": "Ensé - ña - nos a oír tu voz",
               "acordes": [
                 {
                   "acorde": "Em",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 3
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 8
+                  "pos": 9
                 },
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 11
                 },
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 13
                 }
               ]
             }
@@ -85,147 +85,19 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
-              "texto": "Santo Espíritu",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 2
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 9
-                },
-                {
-                  "acorde": "D",
-                  "pos": 11
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
-          "lineas": [
-            {
-              "texto": "Enséñanos a oír tu voz",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 3
-                },
-                {
-                  "acorde": "G",
-                  "pos": 8
-                },
-                {
-                  "acorde": "C",
-                  "pos": 10
-                },
-                {
-                  "acorde": "D",
-                  "pos": 12
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "lineas": [
-            {
-              "texto": "Santo Espíritu",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 0
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 2
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 9
-                },
-                {
-                  "acorde": "D",
-                  "pos": 11
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "lineas": [
-            {
-              "texto": "Enséñanos a oír tu voz",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                },
-                {
-                  "acorde": "D/F#",
-                  "pos": 3
-                },
-                {
-                  "acorde": "G",
-                  "pos": 8
-                },
-                {
-                  "acorde": "C",
-                  "pos": 10
-                },
-                {
-                  "acorde": "D",
-                  "pos": 12
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s007",
-          "tipo": "verso",
-          "numero": 6,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Te invitamos aquí",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 0
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 16
+                  "pos": 2
                 }
               ]
             },
@@ -234,11 +106,11 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             },
@@ -247,11 +119,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -260,54 +132,104 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 9
                 }
               ]
             }
           ]
         },
         {
-          "id": "s008",
-          "tipo": "verso",
-          "numero": 7,
+          "id": "s004",
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Ooh oh ohh oh oh oh",
-              "acordes": []
+              "texto": "Ooh oh",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
             }
           ]
         },
         {
-          "id": "s009",
-          "tipo": "verso",
-          "numero": 8,
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Tu susurro quiero escuchar",
+              "texto": "Tu susurro quiero es - cu - char",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 2
+                  "pos": 3
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 5
+                  "pos": 6
                 },
                 {
                   "acorde": "Am",
-                  "pos": 9
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Y que tu voz se vuelva fa - mi -liar",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
                 },
                 {
                   "acorde": "G",
@@ -318,91 +240,76 @@
                   "pos": 14
                 },
                 {
-                  "acorde": "G/B",
+                  "acorde": "G",
                   "pos": 19
                 }
               ]
             },
             {
-              "texto": "Y que tu voz se vuelva familiar",
+              "texto": "que tu voz se vuelva fa - mi -liar",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 2
+                  "pos": 3
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 5
+                  "pos": 6
                 },
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 10
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
-                },
-                {
-                  "acorde": "F#",
-                  "pos": 13
-                },
-                {
-                  "acorde": "G",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "Que tu voz se vuelva familiar",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 5
-                },
-                {
-                  "acorde": "C",
-                  "pos": 9
-                },
-                {
-                  "acorde": "G",
-                  "pos": 11
+                  "pos": 12
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 13
+                  "pos": 14
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 19
                 }
               ]
             }
           ]
         },
         {
-          "id": "s010",
-          "tipo": "verso",
-          "numero": 9,
+          "id": "s006",
+          "tipo": "outro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tu descanso",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "y tu paz llenando",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Cada hogar cada familia",

@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-127-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 81,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -37,7 +37,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 8
+                  "pos": 2
                 }
               ]
             },
@@ -50,11 +50,11 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 5
                 }
               ]
             },
@@ -67,11 +67,11 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 11
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 8
                 }
               ]
             }
@@ -91,7 +91,7 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 2
                 }
               ]
             },
@@ -104,11 +104,11 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 5
                 }
               ]
             },
@@ -121,11 +121,11 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 18
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 8
                 }
               ]
             }
@@ -133,8 +133,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Clamé, me oíste, me viniste a rescatar,",
@@ -145,19 +145,19 @@
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "Em",
-                  "pos": 12
+                  "pos": 7
                 },
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 10
                 },
                 {
                   "acorde": "G",
-                  "pos": 28
+                  "pos": 12
                 }
               ]
             },
@@ -170,11 +170,11 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 12
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 8
                 }
               ]
             }
@@ -182,8 +182,8 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Con mi fe te exaltaré,",
@@ -203,7 +203,7 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
@@ -212,7 +212,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             }

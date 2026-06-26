@@ -1,35 +1,63 @@
 {
   "id": "song-112",
   "titulo": "Ya No Somos Esclavos",
-  "artista": "No Longer Slaves",
+  "artista": "No Longer Slaves - Bethel Music",
   "autor": "Brian Johnson, Jonathan David Helser, Joel Case",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-112-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 149,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Me rodeas hoy con una canción",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -55,7 +83,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -68,35 +96,35 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Ya no soy un esclavo del temor,",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 30
+                  "pos": 5
                 }
               ]
             },
@@ -109,22 +137,54 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
-                },
-                {
-                  "acorde": "Em",
-                  "pos": 18
+                  "pos": 5
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Soy un hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -133,11 +193,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 29
+                  "pos": 3
                 }
               ]
             },
@@ -150,11 +210,11 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 8
+                  "pos": 2
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             },
@@ -163,11 +223,11 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 26
+                  "pos": 3
                 }
               ]
             },
@@ -176,32 +236,45 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 10
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 5
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s006",
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
-              "texto": "(Armonía del Interludio)",
-              "acordes": []
-            },
-            {
               "texto": "Estoy rodeado por los brazos del Padre",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Estoy rodeado por tu canto de libertad",
@@ -212,19 +285,43 @@
               "acordes": []
             },
             {
-              "texto": "Como hijos e hijas hoy cantamos libres...",
-              "acordes": []
-            },
-            {
-              "texto": "Oh, oh, oh, oh, oh",
+              "texto": "Como hijos e hijas hoy cantamos libres",
               "acordes": []
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s007",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Abriste el mar para que yo cruzara",
@@ -235,15 +332,15 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 29
+                  "pos": 7
                 }
               ]
             },
@@ -256,15 +353,15 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 26
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 26
+                  "pos": 7
                 }
               ]
             },
@@ -277,15 +374,15 @@
                 },
                 {
                   "acorde": "D",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 26
+                  "pos": 5
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 28
+                  "pos": 7
                 }
               ]
             },
@@ -294,15 +391,32 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Soy un hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
                 }
               ]
             }

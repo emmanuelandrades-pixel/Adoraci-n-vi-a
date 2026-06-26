@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-088-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 100,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -49,23 +49,23 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "En la tierra Santo eres Tú",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 22
+                  "pos": 5
                 }
               ]
             },
@@ -74,15 +74,15 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 27
+                  "pos": 5
                 }
               ]
             },
@@ -91,15 +91,15 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 23
+                  "pos": 5
                 }
               ]
             },
@@ -108,15 +108,15 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 5
                 }
               ]
             }
@@ -124,27 +124,51 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Santo, Santo eres Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Toda honra, toda bendición pertenece a Ti",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 9
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 6
                 },
                 {
                   "acorde": "D",
-                  "pos": 38
+                  "pos": 8
                 }
               ]
             },
@@ -157,11 +181,11 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 5
                 }
               ]
             }

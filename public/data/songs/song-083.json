@@ -1,20 +1,20 @@
 {
   "id": "song-083",
   "titulo": "Quien Dices Que Soy",
-  "artista": "Who You Say I Am",
-  "autor": "",
+  "artista": "Who You Say I Am - Hillsong Worship",
+  "autor": "Ben Fielding & Reuben Morgan",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-083-v001",
       "nombre": "Original",
-      "tonalidad": "F#",
-      "bpm": 0,
+      "tonalidad": "E",
+      "bpm": 176,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,24 +22,13 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Ben Fielding & Reuben Morgan",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
           "numero": 1,
           "lineas": [
             {
               "texto": "Quién soy yo para que el gran Rey",
               "acordes": [
                 {
-                  "acorde": "F#",
+                  "acorde": "E",
                   "pos": 0
                 }
               ]
@@ -48,12 +37,16 @@
               "texto": "Me acepte así",
               "acordes": [
                 {
-                  "acorde": "D#m",
-                  "pos": 6
+                  "acorde": "C#m",
+                  "pos": 1
                 },
                 {
-                  "acorde": "C#",
-                  "pos": 10
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
                 }
               ]
             },
@@ -61,179 +54,168 @@
               "texto": "Me encontró en mi perdición",
               "acordes": [
                 {
-                  "acorde": "F#",
+                  "acorde": "E",
                   "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D#m",
-                  "pos": 0
-                },
-                {
-                  "acorde": "C#",
-                  "pos": 4
-                },
-                {
-                  "acorde": "B",
-                  "pos": 7
                 }
               ]
             },
             {
               "texto": "Su amor por mí",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Oh su amor por mí",
               "acordes": [
                 {
-                  "acorde": "D#m",
-                  "pos": 8
-                },
-                {
-                  "acorde": "C#",
-                  "pos": 12
+                  "acorde": "C#m",
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "En tu casa Dios",
-              "acordes": [
+                  "pos": 5
+                },
                 {
-                  "acorde": "F#",
-                  "pos": 14
+                  "acorde": "A",
+                  "pos": 7
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Libre soy en Él",
               "acordes": [
                 {
-                  "acorde": "F#",
-                  "pos": 12
+                  "acorde": "E",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "Libre en verdad",
               "acordes": [
                 {
-                  "acorde": "C#",
+                  "acorde": "B",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Soy hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Sí lo soy",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Libre soy Él me rescató",
+              "acordes": [
+                {
+                  "acorde": "E",
                   "pos": 0
                 }
               ]
             },
             {
-              "texto": "Libre en verdad",
-              "acordes": []
-            },
-            {
-              "texto": "D # m C# B",
-              "acordes": []
-            },
-            {
-              "texto": "Soy hijo de Dios",
-              "acordes": []
-            },
-            {
-              "texto": "Sí lo soy",
+              "texto": "Su gracia en mí",
               "acordes": [
                 {
-                  "acorde": "F#",
-                  "pos": 8
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
                 }
               ]
-            },
-            {
-              "texto": "Escogido",
-              "acordes": []
-            },
-            {
-              "texto": "Libre soy Él me rescató",
-              "acordes": []
-            },
-            {
-              "texto": "Su gracia en mí",
-              "acordes": []
             },
             {
               "texto": "Aun siendo yo pecador",
               "acordes": [
                 {
-                  "acorde": "F#",
-                  "pos": 20
-                },
-                {
-                  "acorde": "B",
-                  "pos": 20
+                  "acorde": "E",
+                  "pos": 0
                 }
               ]
-            },
-            {
-              "texto": "Yo soy quien dices que soy",
-              "acordes": []
             },
             {
               "texto": "Él murió por mí",
-              "acordes": []
-            },
-            {
-              "texto": "Él murió por mí",
-              "acordes": []
-            },
-            {
-              "texto": "A mi lado",
               "acordes": [
                 {
-                  "acorde": "C#",
-                  "pos": 8
-                }
-              ]
-            },
-            {
-              "texto": "Yo soy quien dices que soy",
-              "acordes": [
-                {
-                  "acorde": "F#",
-                  "pos": 25
+                  "acorde": "C#m",
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 25
-                }
-              ]
-            },
-            {
-              "texto": "Yo soy quien dices que soy",
-              "acordes": [
-                {
-                  "acorde": "D#m",
-                  "pos": 25
+                  "pos": 5
                 },
                 {
-                  "acorde": "C#",
-                  "pos": 25
-                },
-                {
-                  "acorde": "B",
-                  "pos": 25
+                  "acorde": "A",
+                  "pos": 7
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Libre soy en Él",
               "acordes": [
                 {
-                  "acorde": "F#",
-                  "pos": 12
+                  "acorde": "E",
+                  "pos": 1
                 }
               ]
             },
@@ -241,25 +223,50 @@
               "texto": "Libre en verdad",
               "acordes": [
                 {
-                  "acorde": "C#",
-                  "pos": 8
+                  "acorde": "B",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "D # m C# B",
-              "acordes": []
-            },
-            {
               "texto": "Soy hijo de Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Sí lo soy",
               "acordes": [
                 {
-                  "acorde": "F#",
-                  "pos": 8
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "En tu casa Dios",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
                 }
               ]
             },
@@ -267,30 +274,122 @@
               "texto": "Sitio hay para mí",
               "acordes": [
                 {
-                  "acorde": "C#",
-                  "pos": 16
+                  "acorde": "B",
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "D # m C# B",
-              "acordes": []
-            },
-            {
               "texto": "Soy hijo de Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Sí lo soy",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Escogido",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Perdonado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Yo soy quien dices que soy",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "Vas conmigo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "A mi lado",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Yo soy quien dices que soy",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Yo soy quien dices que soy",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "A",
+                  "pos": 7
+                }
+              ]
             }
           ]
         }

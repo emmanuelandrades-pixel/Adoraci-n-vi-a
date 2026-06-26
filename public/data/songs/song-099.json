@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-099-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 83,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "F/C",
-                  "pos": 19
+                  "pos": 2
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 18
+                  "pos": 1
                 },
                 {
                   "acorde": "F/C",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
@@ -59,15 +59,15 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "Gsus4",
-                  "pos": 32
+                  "pos": 6
                 },
                 {
                   "acorde": "G",
-                  "pos": 33
+                  "pos": 12
                 }
               ]
             },
@@ -80,15 +80,15 @@
                 },
                 {
                   "acorde": "F/C",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 28
+                  "pos": 6
                 },
                 {
                   "acorde": "F/C",
-                  "pos": 30
+                  "pos": 8
                 }
               ]
             },
@@ -101,11 +101,11 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 12
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 6
                 }
               ]
             }
@@ -113,27 +113,27 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "He aquí, te preparé un lugar Señor",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 26
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 32
+                  "pos": 7
                 }
               ]
             },
@@ -142,19 +142,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 26
+                  "pos": 6
                 },
                 {
                   "acorde": "G",
-                  "pos": 28
+                  "pos": 8
                 }
               ]
             },
@@ -163,19 +163,19 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 4
                 },
                 {
                   "acorde": "C",
-                  "pos": 25
+                  "pos": 6
                 },
                 {
                   "acorde": "G",
-                  "pos": 30
+                  "pos": 8
                 }
               ]
             },
@@ -188,15 +188,43 @@
                 },
                 {
                   "acorde": "Gsus4",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 9
                 },
                 {
                   "acorde": "C",
-                  "pos": 25
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "He aquí te espero solo a ti",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Gsus4",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
                 }
               ]
             }

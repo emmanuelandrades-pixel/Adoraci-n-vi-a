@@ -1,20 +1,20 @@
 {
   "id": "song-124",
   "titulo": "Él Es Yahve",
-  "artista": "He is Yahve",
+  "artista": "He is Yahve - Vineyard Worship",
   "autor": "Dean Salyn",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-124-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 81,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "¿Quién se mueve por las aguas?",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 28
+                  "pos": 2
                 }
               ]
             },
@@ -46,7 +46,7 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 23
+                  "pos": 2
                 }
               ]
             },
@@ -59,7 +59,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 22
+                  "pos": 2
                 }
               ]
             },
@@ -72,7 +72,7 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 25
+                  "pos": 4
                 }
               ]
             },
@@ -85,7 +85,7 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 25
+                  "pos": 5
                 }
               ]
             },
@@ -98,7 +98,7 @@
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 22
+                  "pos": 2
                 }
               ]
             },
@@ -111,11 +111,11 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 13
+                  "pos": 4
                 },
                 {
                   "acorde": "Asus2",
-                  "pos": 24
+                  "pos": 6
                 }
               ]
             },
@@ -132,119 +132,7 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién es El que me alegra?",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién es El que me da paz?",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 1
-                },
-                {
-                  "acorde": "B",
-                  "pos": 22
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién es El que me conforta?",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 24
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién lo amargo endulzara?",
-              "acordes": [
-                {
-                  "acorde": "C#m",
-                  "pos": 0
-                },
-                {
-                  "acorde": "B",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién es el que me apasiona?",
-              "acordes": [
-                {
-                  "acorde": "E/G#",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 26
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién está creciendo en mi?",
-              "acordes": [
-                {
-                  "acorde": "E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "B/D#",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "¿Quién llena mi alma hambrienta,",
-              "acordes": [
-                {
-                  "acorde": "C#m",
-                  "pos": 0
-                },
-                {
-                  "acorde": "B",
-                  "pos": 18
-                },
-                {
-                  "acorde": "Asus2",
-                  "pos": 28
-                }
-              ]
-            },
-            {
-              "texto": "Y sacia mi necesidad?",
-              "acordes": [
-                {
-                  "acorde": "E/G#",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 5
-                },
-                {
-                  "acorde": "B",
-                  "pos": 19
+                  "pos": 7
                 }
               ]
             }
@@ -252,22 +140,9 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
-            {
-              "texto": "Eres Santo y Eterno",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 18
-                },
-                {
-                  "acorde": "B",
-                  "pos": 18
-                }
-              ]
-            },
             {
               "texto": "Dios Creador es Yahve",
               "acordes": [
@@ -281,7 +156,11 @@
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 17
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 11
                 }
               ]
             },
@@ -289,12 +168,12 @@
               "texto": "El Gran Yo Soy es Yahve",
               "acordes": [
                 {
-                  "acorde": "B",
-                  "pos": 0
+                  "acorde": "E/G#",
+                  "pos": 1
                 },
                 {
-                  "acorde": "E/G#",
-                  "pos": 18
+                  "acorde": "A",
+                  "pos": 6
                 }
               ]
             },
@@ -302,12 +181,12 @@
               "texto": "De todo Dios es Yahve",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 0
+                  "acorde": "C#m",
+                  "pos": 1
                 },
                 {
-                  "acorde": "C#m",
-                  "pos": 17
+                  "acorde": "B",
+                  "pos": 5
                 }
               ]
             },
@@ -324,7 +203,11 @@
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 19
+                  "pos": 7
+                },
+                {
+                  "acorde": "B",
+                  "pos": 11
                 }
               ]
             },
@@ -332,12 +215,12 @@
               "texto": "El Hijo Justo es Yahve",
               "acordes": [
                 {
-                  "acorde": "B",
-                  "pos": 0
+                  "acorde": "E/G#",
+                  "pos": 1
                 },
                 {
-                  "acorde": "E/G#",
-                  "pos": 19
+                  "acorde": "A",
+                  "pos": 6
                 }
               ]
             },
@@ -345,37 +228,151 @@
               "texto": "La trinidad es Yahve",
               "acordes": [
                 {
-                  "acorde": "A",
-                  "pos": 0
-                },
-                {
                   "acorde": "C#m",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 18
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "¿Quién es El que me alegra?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Para declararte oh Dios, a ti mi Dios",
+              "texto": "¿Quién es El que me da paz?",
               "acordes": [
                 {
-                  "acorde": "A/C#",
-                  "pos": 34
+                  "acorde": "E",
+                  "pos": 0
                 },
                 {
-                  "acorde": "B/D#",
-                  "pos": 36
-                },
+                  "acorde": "B",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién es El que me conforta?",
+              "acordes": [
                 {
-                  "acorde": "E/G#",
-                  "pos": 36
+                  "acorde": "E",
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 36
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién lo amargo endulzara?",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién es el que me apasiona?",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién está creciendo en mí?",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "¿Quién llena mi alma hambrienta,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Asus2",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Y sacia mi necesidad?",
+              "acordes": [
+                {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Eres Santo y Eterno",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 2
                 }
               ]
             },
@@ -388,11 +385,11 @@
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 6
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m7",
-                  "pos": 20
+                  "pos": 7
                 }
               ]
             },
@@ -409,7 +406,7 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             },
@@ -418,7 +415,7 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 18
+                  "pos": 1
                 }
               ]
             },
@@ -435,7 +432,7 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             },
@@ -448,11 +445,11 @@
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 6
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 20
+                  "pos": 7
                 }
               ]
             },
@@ -469,7 +466,28 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 18
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Para declararte oh Dios, a ti mi Dios",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 5
+                },
+                {
+                  "acorde": "E/G#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A",
+                  "pos": 15
                 }
               ]
             }

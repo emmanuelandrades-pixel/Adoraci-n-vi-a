@@ -1,20 +1,20 @@
 {
   "id": "song-012",
   "titulo": "Aquí Me Tienes",
-  "artista": "",
+  "artista": "David Berguño",
   "autor": "Gabriel Ávalos, David Berguño",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-012-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,14 +22,14 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Cuán grande es tu bondad",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 0
                 }
               ]
             },
@@ -38,23 +38,23 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 10
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 21
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 32
+                  "pos": 6
                 },
                 {
                   "acorde": "Am",
-                  "pos": 32
+                  "pos": 8
                 },
                 {
                   "acorde": "G",
-                  "pos": 32
+                  "pos": 11
                 }
               ]
             },
@@ -63,7 +63,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 1
                 }
               ]
             },
@@ -72,23 +72,23 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 28
+                  "pos": 6
                 },
                 {
                   "acorde": "Am",
-                  "pos": 28
+                  "pos": 8
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 28
+                  "pos": 11
                 }
               ]
             }
@@ -96,19 +96,19 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Aquí me tienes Dios,",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -117,15 +117,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 13
+                  "pos": 6
                 }
               ]
             },
@@ -134,11 +134,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -147,15 +147,15 @@
               "acordes": [
                 {
                   "acorde": "Dm",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Am",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 7
                 }
               ]
             }
@@ -168,26 +168,78 @@
           "lineas": [
             {
               "texto": "Día a día tu amor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "y tu verdad me atraen hacia Ti",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "No cerraré mis labios,",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "siempre cantaré de lo que has hecho en mí",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "F",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 7
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
             }
           ]
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Podría ofrecerte un sacrificio",
@@ -198,15 +250,11 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 24
-                },
-                {
-                  "acorde": "Dm",
-                  "pos": 29
+                  "pos": 5
                 }
               ]
             },
@@ -219,15 +267,11 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 24
-                },
-                {
-                  "acorde": "Dm",
-                  "pos": 28
+                  "pos": 5
                 }
               ]
             },
@@ -240,15 +284,15 @@
                 },
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 24
+                  "pos": 5
                 },
                 {
                   "acorde": "F",
-                  "pos": 27
+                  "pos": 7
                 }
               ]
             }

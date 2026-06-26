@@ -1,20 +1,20 @@
 {
   "id": "song-018",
   "titulo": "Como En El Cielo",
-  "artista": "Here As In Heaven",
+  "artista": "Here As In Heaven - Elevation Worship",
   "autor": "Paul Brown, Mack Brock, Matthews Ntlele, Steven Furtick, Wade Joye",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-018-v001",
       "nombre": "Original",
-      "tonalidad": "F",
-      "bpm": 0,
+      "tonalidad": "G",
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,18 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "La atmósfera cambiando está",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 19
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             },
@@ -41,12 +41,12 @@
               "texto": "Tu Espíritu está aquí",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 13
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             },
@@ -54,12 +54,12 @@
               "texto": "Es evidente tu mover",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 11
+                  "acorde": "D",
+                  "pos": 2
                 }
               ]
             },
@@ -67,16 +67,12 @@
               "texto": "Tu Espíritu está aquí",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G/B",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 12
-                },
-                {
-                  "acorde": "G",
-                  "pos": 14
+                  "acorde": "D",
+                  "pos": 4
                 }
               ]
             }
@@ -85,13 +81,76 @@
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "La atmósfera cambiando está",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tu Espíritu está aquí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Es evidente tu mover",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tu Espíritu está aquí",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Llena este lugar",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 0
                 }
               ]
@@ -100,8 +159,12 @@
               "texto": "Derramando tu amor",
               "acordes": [
                 {
-                  "acorde": "Am",
-                  "pos": 17
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
                 }
               ]
             },
@@ -109,8 +172,8 @@
               "texto": "Tu amor me envuelve",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 15
+                  "acorde": "A",
+                  "pos": 1
                 }
               ]
             },
@@ -118,7 +181,7 @@
               "texto": "He venido por Ti",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "G",
                   "pos": 0
                 }
               ]
@@ -127,8 +190,12 @@
               "texto": "A tus brazos de amor",
               "acordes": [
                 {
-                  "acorde": "Am",
-                  "pos": 19
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
                 }
               ]
             },
@@ -136,92 +203,8 @@
               "texto": "Tu amor me envuelve",
               "acordes": [
                 {
-                  "acorde": "G",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "Que tu poder, descienda hoy",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 23
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 26
-                }
-              ]
-            },
-            {
-              "texto": "Venga tu reino",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 13
-                }
-              ]
-            },
-            {
-              "texto": "Que se haga aquí, tu voluntad",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 6
-                },
-                {
-                  "acorde": "G",
-                  "pos": 23
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 28
-                }
-              ]
-            },
-            {
-              "texto": "Como en el cielo",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "instrumental",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Dm",
-                  "pos": 5
-                },
-                {
-                  "acorde": "G",
-                  "pos": 10
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 15
-                },
-                {
-                  "acorde": "G",
-                  "pos": 20
+                  "acorde": "A",
+                  "pos": 1
                 }
               ]
             }
@@ -229,24 +212,214 @@
         },
         {
           "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Que tu poder, descienda hoy",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Venga tu reino",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Que se haga aquí, tu voluntad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Como en el cielo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
           "tipo": "verso",
           "numero": 3,
           "lineas": [
             {
               "texto": "Milagros pueden suceder",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Tu Espíritu está aquí",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Es evidente tu mover",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Tu Espíritu está aquí",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "verso",
+          "numero": 4,
+          "lineas": [
+            {
+              "texto": "Milagros pueden suceder",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tu Espíritu está aquí",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Es evidente tu mover",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Tu Espíritu está aquí",
+              "acordes": [
+                {
+                  "acorde": "G/B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
             }
           ]
         }

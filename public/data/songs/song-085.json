@@ -1,20 +1,20 @@
 {
   "id": "song-085",
   "titulo": "Reinas Por La Eternidad",
-  "artista": "Forever Reign",
-  "autor": "",
+  "artista": "Forever Reign - Hillsong United",
+  "autor": "Reuben Morgan & Jason Ingram",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-085-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 83,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -25,23 +25,11 @@
           "numero": null,
           "lineas": [
             {
-              "texto": "Reuben Morgan & Jason Ingram",
-              "acordes": []
-            },
-            {
-              "texto": "Bueno es Dios, bueno es Dios   Tú me abrazas con tu amor",
+              "texto": "Bueno es Dios, bueno es Dios",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 11
-                },
-                {
-                  "acorde": "C",
-                  "pos": 31
-                },
-                {
-                  "acorde": "G",
-                  "pos": 55
+                  "pos": 1
                 }
               ]
             },
@@ -50,24 +38,16 @@
               "acordes": []
             },
             {
-              "texto": "",
+              "texto": "Tu amor, Tu amor",
               "acordes": [
                 {
                   "acorde": "G/B",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "Tu amor, Tu amor",
-              "acordes": []
-            },
-            {
               "texto": "No se puede resistir",
-              "acordes": []
-            },
-            {
-              "texto": "Cambió mi corazón",
               "acordes": []
             },
             {
@@ -85,11 +65,14 @@
             {
               "texto": "Has borrado mi maldad",
               "acordes": []
-            },
-            {
-              "texto": "Eres más, eres más",
-              "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Eres paz, eres paz",
               "acordes": []
@@ -107,10 +90,6 @@
               "acordes": []
             },
             {
-              "texto": "Aquí estás, aquí estás",
-              "acordes": []
-            },
-            {
               "texto": "La razón, la razón",
               "acordes": []
             },
@@ -125,52 +104,97 @@
             {
               "texto": "A la muerte en la cruz",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "Solo a ti",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 8
-                }
-              ]
-            },
-            {
-              "texto": "Yo cantaré",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Cristo, Cristo",
+              "texto": "Tú me abrazas con tu amor",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
             {
               "texto": "Me abrazas con tu amor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Tu gracia me encontró",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Cambió mi corazón",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Nada se puede comparar",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Reinas por la eternidad",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Eres más, eres más",
               "acordes": []
             },
             {
@@ -186,6 +210,10 @@
               "acordes": []
             },
             {
+              "texto": "Aquí estás, aquí estás",
+              "acordes": []
+            },
+            {
               "texto": "Tu presencia es real",
               "acordes": []
             },
@@ -196,6 +224,90 @@
             {
               "texto": "Lo pasado dejo atrás",
               "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Mi corazón",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Te adorará",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Jesús, Jesús",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Solo a ti",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Yo cantaré",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            },
+            {
+              "texto": "Cristo, Cristo",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G",
+                  "pos": 2
+                },
+                {
+                  "acorde": "F",
+                  "pos": 4
+                }
+              ]
             }
           ]
         }

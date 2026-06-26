@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-095-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 100,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Quien rompe el poder de las tinieblas",
@@ -51,32 +51,62 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 16
+                  "pos": 4
                 },
                 {
                   "acorde": "D",
-                  "pos": 34
+                  "pos": 6
                 }
               ]
             },
             {
               "texto": "Quien mueve el mundo con su estruendo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y nos asombra con maravillas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "El Rey de Gloria, el Rey de Majestad",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Sublime gracia es",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             },
@@ -85,7 +115,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -94,7 +124,7 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -103,7 +133,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 19
+                  "pos": 1
                 }
               ]
             },
@@ -112,7 +142,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             },
@@ -121,7 +151,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 16
+                  "pos": 1
                 }
               ]
             },
@@ -143,34 +173,123 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 22
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Jesús tu adoro",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
                 }
               ]
             },
             {
+              "texto": "Por lo que hiciste en mí",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
               "texto": "Quien puso en orden todo el caos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y nos adopta como sus hijos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "El Rey de Gloria, el Rey de Majestad",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "El que gobierna con su justicia",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Y resplandece con su belleza",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "El Rey de Gloria, el Rey de Majestad",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Digno es el Cordero de Dios",
               "acordes": [

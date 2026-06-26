@@ -1,41 +1,26 @@
 {
   "id": "song-108",
   "titulo": "Vasijas Rotas (Sublime Gracia)",
-  "artista": "",
-  "autor": "",
+  "artista": "Broken vassels (Amazing Grace) - Hillsong Worship",
+  "autor": "Joel Houston, Jonas Mirin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-108-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Broken vassels (Amazing Grace)",
-              "acordes": []
-            },
-            {
-              "texto": "Joel Houston, Jonas Mirin",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -44,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 20
+                  "pos": 4
                 }
               ]
             },
@@ -57,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             },
@@ -70,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
             },
@@ -83,7 +68,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -92,31 +77,31 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 9
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s002",
+          "tipo": "coro",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Sublime gracia del Señor",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             },
@@ -125,11 +110,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             },
@@ -138,11 +123,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 5
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
@@ -151,24 +136,31 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
             {
               "texto": "Ahora puedo ver",
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 3
                 }
               ]
             },
@@ -177,11 +169,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 9
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -190,11 +182,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 3
                 }
               ]
             },
@@ -203,11 +195,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 3
                 }
               ]
             }
@@ -216,18 +208,18 @@
         {
           "id": "s004",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Tú no me juzgas por mis fracasos",
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 20
+                  "pos": 4
                 }
               ]
             },
@@ -236,11 +228,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 17
+                  "pos": 4
                 }
               ]
             },
@@ -249,11 +241,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 4
                 }
               ]
             },
@@ -262,15 +254,15 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 16
+                  "pos": 3
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 6
                 }
               ]
             }

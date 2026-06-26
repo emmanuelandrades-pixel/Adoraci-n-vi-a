@@ -1,20 +1,20 @@
 {
   "id": "song-030",
   "titulo": "Despierta Mi Alma",
-  "artista": "Awake My Soul",
+  "artista": "Awake My Soul - Hillsong Worship",
   "autor": "Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-030-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 127,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,18 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Puedes oír qué hermoso es, son los pasos del Salvador",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -42,15 +42,15 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 3
                 },
                 {
                   "acorde": "E",
-                  "pos": 34
+                  "pos": 5
                 }
               ]
             }
@@ -58,11 +58,11 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "instrumental",
+          "numero": null,
           "lineas": [
             {
-              "texto": "Despierta mi alma y canta al Se - ñor",
+              "texto": "",
               "acordes": [
                 {
                   "acorde": "E",
@@ -70,31 +70,43 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 6
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m7",
-                  "pos": 10
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 17
-                },
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Despierta mi alma y canta al Se - ñor",
+              "acordes": [
                 {
                   "acorde": "E",
                   "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "Bsus",
-                  "pos": 18
+                  "pos": 5
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 23
+                  "pos": 10
                 }
               ]
             },
@@ -103,11 +115,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Bsus",
-                  "pos": 5
+                  "pos": 3
                 }
               ]
             },
@@ -120,15 +132,15 @@
                 },
                 {
                   "acorde": "A",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "Bsus",
-                  "pos": 18
+                  "pos": 5
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 23
+                  "pos": 10
                 }
               ]
             },
@@ -137,18 +149,46 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "Bsus",
-                  "pos": 5
+                  "pos": 3
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m7",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -161,27 +201,11 @@
                 },
                 {
                   "acorde": "A",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m7",
                   "pos": 4
-                },
-                {
-                  "acorde": "C#m7",
-                  "pos": 8
-                },
-                {
-                  "acorde": "A",
-                  "pos": 15
-                },
-                {
-                  "acorde": "E",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 15
-                },
-                {
-                  "acorde": "C#m7",
-                  "pos": 34
                 }
               ]
             },
@@ -190,16 +214,16 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s006",
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Y al orar Él obrará, caminos nuevos abrirá",
@@ -210,15 +234,15 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "B",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 23
+                  "pos": 6
                 }
               ]
             },
@@ -231,11 +255,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "B",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             },
@@ -248,15 +272,15 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "B",
-                  "pos": 15
+                  "pos": 4
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 26
+                  "pos": 6
                 }
               ]
             },
@@ -269,20 +293,20 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 10
+                  "pos": 2
                 },
                 {
                   "acorde": "B",
-                  "pos": 22
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "id": "s007",
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
               "texto": "¡Hey! ¡Oh! Está pasando el Rey de gloria",
@@ -301,7 +325,7 @@
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 18
+                  "pos": 6
                 }
               ]
             },
@@ -339,7 +363,7 @@
                 },
                 {
                   "acorde": "F#m",
-                  "pos": 17
+                  "pos": 6
                 }
               ]
             },
@@ -352,11 +376,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 0
+                  "pos": 2
                 },
                 {
                   "acorde": "B",
-                  "pos": 0
+                  "pos": 4
                 }
               ]
             }

@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-097-v001",
       "nombre": "Original",
-      "tonalidad": "Ab",
-      "bpm": 0,
+      "tonalidad": "A",
+      "bpm": 81,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,18 +22,18 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Tan maravilloso",
               "acordes": [
                 {
-                  "acorde": "Absus4",
+                  "acorde": "Asus4",
                   "pos": 0
                 },
                 {
-                  "acorde": "Ab",
-                  "pos": 14
+                  "acorde": "A",
+                  "pos": 6
                 }
               ]
             },
@@ -41,20 +41,20 @@
               "texto": "El amor de Dios revelado en la cruz",
               "acordes": [
                 {
-                  "acorde": "Absus4",
+                  "acorde": "Asus4",
                   "pos": 0
                 },
                 {
-                  "acorde": "Ab",
-                  "pos": 14
+                  "acorde": "A",
+                  "pos": 6
                 },
                 {
-                  "acorde": "Db",
-                  "pos": 33
+                  "acorde": "D",
+                  "pos": 8
                 },
                 {
-                  "acorde": "Dbmaj7",
-                  "pos": 34
+                  "acorde": "Dmaj7",
+                  "pos": 10
                 }
               ]
             },
@@ -62,33 +62,71 @@
               "texto": "En la sangre de Jesús",
               "acordes": [
                 {
-                  "acorde": "Ebsus2",
-                  "pos": 16
+                  "acorde": "Esus2",
+                  "pos": 1
                 }
               ]
             },
             {
               "texto": "Dejó el trono y Su Gloria",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Tomó el pecado del mundo sobre si",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Dmaj7",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Por todo hombre él murió",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "Esus2",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Te adoro en asombro",
               "acordes": [
                 {
-                  "acorde": "Db",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "Eb",
-                  "pos": 15
+                  "acorde": "E",
+                  "pos": 2
                 }
               ]
             },
@@ -96,16 +134,16 @@
               "texto": "Alzo mi voz y ofrezco mi adoración",
               "acordes": [
                 {
-                  "acorde": "Fm",
+                  "acorde": "F#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "Ab",
-                  "pos": 16
+                  "acorde": "A",
+                  "pos": 4
                 },
                 {
-                  "acorde": "Db",
-                  "pos": 30
+                  "acorde": "D",
+                  "pos": 6
                 }
               ]
             },
@@ -113,38 +151,107 @@
               "texto": "Al Rey de Reyes y Señor",
               "acordes": [
                 {
-                  "acorde": "Eb",
-                  "pos": 12
+                  "acorde": "E",
+                  "pos": 1
                 },
                 {
-                  "acorde": "Ab",
-                  "pos": 21
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Bendito el Cordero",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
                 }
               ]
             },
             {
-              "texto": "Bendito el Cordero",
-              "acordes": []
-            },
-            {
               "texto": "Estuvo muerto, pero Dios lo levantó",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Dmaj7",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Su brazo fuerte lo salvó",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Esus2",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Exaltado y reinando",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                }
+              ]
             },
             {
               "texto": "Tomó las llaves del Hades en sus manos",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Dmaj7",
+                  "pos": 10
+                }
+              ]
             },
             {
               "texto": "Y de todo hombre es Señor",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Esus2",
+                  "pos": 1
+                }
+              ]
             }
           ]
         }

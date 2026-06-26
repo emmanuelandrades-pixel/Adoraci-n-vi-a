@@ -1,20 +1,20 @@
 {
   "id": "song-057",
   "titulo": "La Bendición",
-  "artista": "The Blessings",
+  "artista": "The Blessings - Elevation Worship",
   "autor": "Kari Jobe, Cody Carnes, Steven Furtick, Chris Brown",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-057-v001",
       "nombre": "Original",
-      "tonalidad": "Bb",
-      "bpm": 0,
+      "tonalidad": "A",
+      "bpm": 70,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -26,99 +26,228 @@
           "lineas": [
             {
               "texto": "Dios te guarde y bendiga",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 2
+                }
+              ]
             },
             {
-              "texto": "Que extienda Su amor y te muestre favor",
-              "acordes": []
+              "texto": "Que extienda su amor y te muestre favor",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 7
+                }
+              ]
             },
             {
               "texto": "Dios te mire con agrado Y te dé paz",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                },
+                {
+                  "acorde": "A",
+                  "pos": 10
+                }
+              ]
             }
           ]
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Amén, amén, amén",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
             },
             {
               "texto": "Amén, amén, amén",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "A",
+                  "pos": 6
+                },
+                {
+                  "acorde": "E",
+                  "pos": 8
+                }
+              ]
             }
           ]
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "puente",
+          "numero": 1,
           "lineas": [
             {
-              "texto": "Que te cubra con Su gracia",
-              "acordes": []
+              "texto": "Que te cubra con su gracia hasta mil generaciones",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
             },
             {
-              "texto": "Hasta mil generaciones Tu familia y",
-              "acordes": []
-            },
-            {
-              "texto": "tus hijos",
-              "acordes": []
-            },
-            {
-              "texto": "Y los hijos de tus hijos",
-              "acordes": []
+              "texto": "Tu familia y tus hijos y los hijos de tus hijos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                }
+              ]
             }
           ]
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
-              "texto": "Su presencia te acompañe",
-              "acordes": []
+              "texto": "Su presencia te acompañe donde quiera que tú vayas",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
             },
             {
-              "texto": "Donde quiera que tú vayas",
-              "acordes": []
+              "texto": "Que te llene, te rodee va contigo, va contigo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                }
+              ]
             },
             {
-              "texto": "Que te llene, te rodee",
-              "acordes": []
+              "texto": "De mañana y de noche en tu entrada y salida",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                }
+              ]
             },
             {
-              "texto": "Va contigo, va contigo",
-              "acordes": []
+              "texto": "En tu llanto y alegría, Él te ama, Él te ama",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
             }
           ]
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "outro",
+          "numero": null,
           "lineas": [
             {
-              "texto": "De mañana y de noche",
-              "acordes": []
-            },
-            {
-              "texto": "En tu entrada y salida",
-              "acordes": []
-            },
-            {
-              "texto": "En tu llanto y alegría",
-              "acordes": []
+              "texto": "Él te ama, Él te ama,",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Él te ama, Él te ama",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 3
+                }
+              ]
             }
           ]
         }

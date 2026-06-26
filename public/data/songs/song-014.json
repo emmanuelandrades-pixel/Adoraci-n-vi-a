@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-014-v001",
       "nombre": "Original",
       "tonalidad": "A",
-      "bpm": 0,
+      "bpm": 143,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,121 +22,297 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Asus4",
-                  "pos": 2
-                },
-                {
-                  "acorde": "A",
-                  "pos": 8
-                }
-              ]
-            },
-            {
               "texto": "He oído mil historias",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Asus4",
-                  "pos": 0
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "A",
-                  "pos": 6
+                  "acorde": "Asus4",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "De cómo eres Tú",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Asus4",
-                  "pos": 0
+                  "acorde": "A",
+                  "pos": 1
                 },
                 {
-                  "acorde": "A",
-                  "pos": 12
+                  "acorde": "Asus4",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Pero yo he escuchado",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "En la noche tu dulce voz",
               "acordes": [
                 {
-                  "acorde": "Asus4",
-                  "pos": 15
-                },
-                {
                   "acorde": "A",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Dsus2",
-                  "pos": 0
+                  "pos": 1
                 },
                 {
-                  "acorde": "A/C#",
-                  "pos": 6
+                  "acorde": "Asus4",
+                  "pos": 3
                 }
               ]
             },
             {
               "texto": "Y me dices que me amas",
-              "acordes": []
-            },
-            {
-              "texto": "",
               "acordes": [
                 {
-                  "acorde": "Bm",
+                  "acorde": "A",
                   "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Y que solo no estoy",
-              "acordes": []
-            },
-            {
-              "texto": "Y perfecta es tu voluntad para mi",
-              "acordes": []
-            },
-            {
-              "texto": "Eres buen buen Padre",
-              "acordes": [
+                },
                 {
                   "acorde": "Dsus2",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A/C#",
                   "pos": 8
                 }
               ]
             },
             {
-              "texto": "",
+              "texto": "Y que solo no estoy",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Esus4",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Eres buen buen Padre",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Así eres Tú, así eres Tú, así eres Tú",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Esus4",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Y soy amado por ti",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Tal como soy, tal como soy, tal como soy",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Esus4",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "He visto a muchos buscando",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Respuestas por todo lugar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Pero sé que lo que buscamos",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Solo Tú nos puedes dar",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Porque sabes lo que anhelo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Dsus2",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Antes de mi oración",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Esus4",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Y perfecta es tu voluntad",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Y perfecta es tu voluntad",
+              "acordes": [
+                {
+                  "acorde": "Bm7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Y perfecta es tu voluntad para mi",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Tu amor es tan innegable",
               "acordes": [
                 {
                   "acorde": "A",
@@ -145,125 +321,7 @@
               ]
             },
             {
-              "texto": "Así eres Tú, así eres Tú, así eres Tú   Que no me puedo contener",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Y soy amado por ti",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A/C#",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "Tal como soy, tal como soy, tal como",
-              "acordes": []
-            },
-            {
-              "texto": "soy",
-              "acordes": []
-            },
-            {
-              "texto": "Me llamas más profundo",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 21
-                },
-                {
-                  "acorde": "A/C#",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "Me llamas más profundo",
-              "acordes": [
-                {
-                  "acorde": "Dsus2",
-                  "pos": 21
-                },
-                {
-                  "acorde": "A/C#",
-                  "pos": 21
-                }
-              ]
-            },
-            {
-              "texto": "En tu amor, tu dulce amor",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 24
-                },
-                {
-                  "acorde": "E",
-                  "pos": 24
-                }
-              ]
-            },
-            {
-              "texto": "He visto a muchos buscando",
-              "acordes": []
-            },
-            {
-              "texto": "Respuestas por todo lugar",
-              "acordes": []
-            },
-            {
-              "texto": "Pero sé que lo que buscamos",
-              "acordes": []
-            },
-            {
-              "texto": "Solo Tú nos puedes dar",
-              "acordes": []
-            },
-            {
-              "texto": "Porque sabes lo que anhelo",
-              "acordes": []
-            },
-            {
-              "texto": "Antes de mi oración",
-              "acordes": []
-            },
-            {
-              "texto": "//Y perfecta es tu voluntad",
-              "acordes": []
-            },
-            {
-              "texto": "Y perfecta es tu voluntad",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Esus4      Tu amor es tan innegable",
+              "texto": "Que no me puedo contener",
               "acordes": []
             },
             {
@@ -276,7 +334,55 @@
             },
             {
               "texto": "Y me llamas más profundo",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Me llamas más profundo",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 4
+                }
+              ]
+            },
+            {
+              "texto": "Me llamas más profundo",
+              "acordes": [
+                {
+                  "acorde": "Dsus2",
+                  "pos": 1
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "En tu amor, tu dulce amor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                }
+              ]
             }
           ]
         }

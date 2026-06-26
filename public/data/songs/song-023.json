@@ -1,20 +1,20 @@
 {
   "id": "song-023",
   "titulo": "Creo En Ti",
-  "artista": "",
-  "autor": "Julio Melgar",
+  "artista": "Julio Melgar",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-023-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 140,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 21
+                  "pos": 3
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 23
+                  "pos": 3
                 }
               ]
             },
@@ -59,7 +59,7 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 23
+                  "pos": 3
                 }
               ]
             },
@@ -68,7 +68,7 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -77,7 +77,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             }
@@ -85,23 +85,23 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Creo en Ti, Je - sús",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 16
+                  "pos": 6
                 }
               ]
             },
@@ -110,15 +110,15 @@
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 15
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 6
                 }
               ]
             },
@@ -127,11 +127,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 5
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 3
                 }
               ]
             }
@@ -139,15 +139,15 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Recibe toda la gloria,",
               "acordes": [
                 {
                   "acorde": "Am",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -156,7 +156,7 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             },
@@ -165,11 +165,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             }

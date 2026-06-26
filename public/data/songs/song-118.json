@@ -1,60 +1,31 @@
 {
   "id": "song-118",
   "titulo": "Oh Noche Divina",
-  "artista": "",
-  "autor": "Marcos Witt",
+  "artista": "Marcos Witt",
+  "autor": "",
   "genero": "Navidad",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-118-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 58,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Nos libertó rompió nuestras",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 10
-                },
-                {
-                  "acorde": "C",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "Santa la noche Hermosas las",
-              "acordes": []
-            },
-            {
-              "texto": "estrellas",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "x4",
               "acordes": [
                 {
                   "acorde": "Em",
@@ -62,242 +33,184 @@
                 },
                 {
                   "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
                   "pos": 9
                 },
                 {
                   "acorde": "G",
-                  "pos": 16
+                  "pos": 11
                 }
               ]
-            },
-            {
-              "texto": "La noche en que nació El",
-              "acordes": []
-            },
-            {
-              "texto": "Salvador",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Em",
-                  "pos": 0
-                },
-                {
-                  "acorde": "Bm",
-                  "pos": 10
-                },
-                {
-                  "acorde": "C",
-                  "pos": 13
-                }
-              ]
-            },
-            {
-              "texto": "Tanto esperó el mundo en su",
-              "acordes": []
-            },
-            {
-              "texto": "pecado",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "Bm",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F#m",
-                  "pos": 8
-                },
-                {
-                  "acorde": "G",
-                  "pos": 17
-                }
-              ]
-            },
-            {
-              "texto": "Hasta ese día en que Cristo",
-              "acordes": []
-            },
-            {
-              "texto": "llegó",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Una esperanza al mundo",
-              "acordes": []
-            },
-            {
-              "texto": "regocija",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "D",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "La luz de un nuevo día al fin",
-              "acordes": []
-            },
-            {
-              "texto": "brilló",
-              "acordes": []
-            },
-            {
-              "texto": "cadenas",
-              "acordes": []
-            },
-            {
-              "texto": "Su ley, su amor y su paz Él nos",
-              "acordes": []
-            },
-            {
-              "texto": "dió",
-              "acordes": []
-            },
-            {
-              "texto": "Nos enseñó amarnos uno al",
-              "acordes": []
-            },
-            {
-              "texto": "G         otro",
-              "acordes": []
-            },
-            {
-              "texto": "Y en Su nombre ya no hay más",
-              "acordes": []
-            },
-            {
-              "texto": "opresión",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "Con gratitud traemos",
-              "acordes": []
-            },
-            {
-              "texto": "alabanzas",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "G",
-                  "pos": 0
-                }
-              ]
-            },
-            {
-              "texto": "La gloria y el poder son del",
-              "acordes": []
-            },
-            {
-              "texto": "Señor",
-              "acordes": []
             }
           ]
         },
         {
           "id": "s002",
-          "tipo": "coro",
-          "numero": null,
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
-              "texto": "Coro 1: Em    Bm Am",
-              "acordes": []
-            },
-            {
-              "texto": "Hoy adorad, Los ángeles lo       Em - D - Bm - C - G (x4) ...D/F",
-              "acordes": []
-            },
-            {
-              "texto": "anuncian",
-              "acordes": []
-            },
-            {
-              "texto": "",
+              "texto": "Santa la noche Hermosas las estrellas",
               "acordes": [
                 {
-                  "acorde": "G",
+                  "acorde": "Em",
                   "pos": 0
                 },
                 {
-                  "acorde": "D",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G/B",
-                  "pos": 4
+                  "acorde": "Bm",
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
                   "pos": 8
                 }
               ]
             },
             {
-              "texto": "Oh Noche Divi-----na",
-              "acordes": []
+              "texto": "La noche en que nació El Salvador",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
             },
             {
-              "texto": "GD       G",
-              "acordes": []
+              "texto": "Tanto esperó el mundo en su pecado",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
             },
             {
-              "texto": "Nació El Salvador",
-              "acordes": []
+              "texto": "Hasta ese día en que Cristo llegó",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "pre-coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Una esperanza al mundo regocija",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
             },
             {
-              "texto": "adoren",
-              "acordes": []
+              "texto": "La luz de un nuevo día al fin brilló",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Hoy adorad, Los ángeles lo anuncian",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                }
+              ]
             },
             {
               "texto": "Oh Noche Divi-----na",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 19
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 19
+                  "pos": 3
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 19
+                  "pos": 5
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 9
                 }
               ]
             },
@@ -305,33 +218,314 @@
               "texto": "Nació El Salvador",
               "acordes": [
                 {
-                  "acorde": "G/D",
-                  "pos": 16
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "instrumental",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
                 },
                 {
                   "acorde": "G/B",
-                  "pos": 16
+                  "pos": 5
                 },
                 {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "G",
+                  "pos": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Nos libertó rompió nuestras cadenas",
+              "acordes": [
+                {
                   "acorde": "Em",
-                  "pos": 16
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
                 }
               ]
             },
             {
-              "texto": "Oh Noche Divi-----na",
+              "texto": "Su ley, su amor y su paz Él nos dió",
               "acordes": [
                 {
-                  "acorde": "D",
-                  "pos": 19
+                  "acorde": "Em",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 19
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Nos enseñó amarnos uno al otro",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 6
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            },
+            {
+              "texto": "Y en Su nombre ya no hay más opresión",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "pre-coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Con gratitud traemos alabanzas",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "La gloria y el poder son del Señor",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Repetir coro",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "id": "s009",
+          "tipo": "instrumental",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "x4",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "para terminar",
+              "acordes": [
+                {
+                  "acorde": "D/F",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s010",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Hoy adorad, Postrados adoren",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 6
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Oh Noche Divi - na",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Nació El Salvador",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s011",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Oh Noche Divi - na",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
                 }
               ]
             },
@@ -340,29 +534,17 @@
               "acordes": [
                 {
                   "acorde": "G/B",
-                  "pos": 20
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 20
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 20
+                  "pos": 7
                 }
               ]
-            },
-            {
-              "texto": "Coro 1",
-              "acordes": []
-            },
-            {
-              "texto": "(Intro)     Em     Bm     Am Em",
-              "acordes": []
-            },
-            {
-              "texto": "Hoy adorad, Postrados",
-              "acordes": []
             }
           ]
         }

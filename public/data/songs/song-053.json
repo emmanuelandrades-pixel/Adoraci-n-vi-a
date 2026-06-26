@@ -1,37 +1,26 @@
 {
   "id": "song-053",
   "titulo": "Hijo De Dios",
-  "artista": "",
+  "artista": "En Espíritu y en Verdad",
   "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-053-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 86,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "En Espíritu y en Verdad",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -44,7 +33,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
@@ -66,18 +55,18 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 23
+                  "pos": 4
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s002",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -90,7 +79,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 2
                 }
               ]
             },
@@ -112,11 +101,64 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 23
+                  "pos": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Jesús, Hijo de Dios que grande el costo de mi redención",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Mi Salvador, Eterno Rey toda mi alma ante tus pies se postra.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C",
+                  "pos": 11
                 }
               ]
             }
@@ -128,59 +170,6 @@
           "numero": 3,
           "lineas": [
             {
-              "texto": "Jesús, Hijo de Dios que grande el costo de mi redención",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 2
-                },
-                {
-                  "acorde": "G",
-                  "pos": 16
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 31
-                },
-                {
-                  "acorde": "D",
-                  "pos": 52
-                }
-              ]
-            },
-            {
-              "texto": "Mi Salvador, Eterno Rey toda mi alma ante tus pies se postra.",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 9
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 21
-                },
-                {
-                  "acorde": "G",
-                  "pos": 34
-                },
-                {
-                  "acorde": "D",
-                  "pos": 49
-                },
-                {
-                  "acorde": "C",
-                  "pos": 56
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
-          "lineas": [
-            {
               "texto": "El mismo hombre crucificado,",
               "acordes": [
                 {
@@ -189,7 +178,7 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 2
                 }
               ]
             },
@@ -211,43 +200,43 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 18
+                  "pos": 2
                 },
                 {
                   "acorde": "D",
-                  "pos": 37
+                  "pos": 4
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 46
+                  "pos": 6
                 }
               ]
             }
           ]
         },
         {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Jesús, Hijo de Dios todo te rinde adoración",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 3
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 29
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 39
+                  "pos": 9
                 }
               ]
             },
@@ -256,106 +245,124 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 22
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 41
+                  "pos": 7
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 47
+                  "pos": 9
                 },
                 {
                   "acorde": "D",
-                  "pos": 52
+                  "pos": 14
                 }
               ]
             },
             {
-              "texto": "C | Em7 | Gmaj7",
-              "acordes": []
+              "texto": "Se postra",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Gmaj7",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Aleluya a nuestro Dios al Cordero y el León",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Gmaj7",
+                  "pos": 7
+                }
+              ]
             },
             {
-              "texto": "Se postra",
-              "acordes": []
+              "texto": "Aleluya a nuestro Rey Él venció, Él venció.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Gmaj7",
+                  "pos": 7
+                }
+              ]
             }
           ]
         },
         {
           "id": "s007",
-          "tipo": "verso",
-          "numero": 6,
+          "tipo": "puente",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Aleluya a nuestro Dios al Cordero y el León",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 37
+                  "pos": 3
                 },
                 {
                   "acorde": "Gmaj7",
-                  "pos": 42
+                  "pos": 7
                 }
               ]
             },
             {
-              "texto": "Aleluya a nuestro Rey Él venció, Él venció.",
+              "texto": "Aleluya a nuestro Rey Él venció, Él venció",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "Em7",
-                  "pos": 37
+                  "pos": 3
                 },
                 {
-                  "acorde": "Gmaj7",
-                  "pos": 42
+                  "acorde": "D",
+                  "pos": 7
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "s008",
-          "tipo": "verso",
-          "numero": 7,
-          "lineas": [
-            {
-              "texto": "Aleluya a nuestro Dios al Cordero y el León",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 9
-                },
-                {
-                  "acorde": "Em7",
-                  "pos": 37
-                },
-                {
-                  "acorde": "Gmaj7",
-                  "pos": 42
-                }
-              ]
-            },
-            {
-              "texto": "C                            Em7        D|D|",
-              "acordes": []
-            },
-            {
-              "texto": "Aleluya a nuestro Rey Él venció, Él venció.",
-              "acordes": []
             }
           ]
         }

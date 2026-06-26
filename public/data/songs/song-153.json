@@ -1,0 +1,368 @@
+{
+  "id": "song-153",
+  "titulo": "Digno Es El Señor",
+  "artista": "Marcela Gándara",
+  "autor": "Marcela Gándara",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-153-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 88,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "intro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/C",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Gracias por la cruz oh Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "El precio que pagaste por mi",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Llevando mi pecado allí, sublime amor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Tu Gracia me salvó",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Gracias por tu amor oh Dios",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Tus manos clavadas por mí",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Me has lavado oh Señor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Conozco hoy tu abrazo y tu perdón",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 8
+                },
+                {
+                  "acorde": "D",
+                  "pos": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Digno es el Señor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "En su trono está",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C",
+                  "pos": 7
+                }
+              ]
+            },
+            {
+              "texto": "Hoy te coronamos rey",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Y reinas con poder",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Altísimo Señor, Jesús Hijo de Dios",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "El Amado del cielo en la cruz murió",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/C",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "Digno es el Señor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Digno es el Señor",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "D",
+                  "pos": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

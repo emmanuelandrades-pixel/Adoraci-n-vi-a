@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-132-v001",
       "nombre": "Original",
       "tonalidad": "Eb",
-      "bpm": 0,
+      "bpm": 130,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Nada nos separará",
@@ -33,7 +33,7 @@
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 9
+                  "pos": 3
                 }
               ]
             },
@@ -46,7 +46,7 @@
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 19
+                  "pos": 3
                 }
               ]
             },
@@ -59,15 +59,15 @@
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 17
+                  "pos": 6
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 18
+                  "pos": 9
                 }
               ]
             },
@@ -80,7 +80,7 @@
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 14
+                  "pos": 3
                 }
               ]
             },
@@ -93,7 +93,7 @@
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 23
+                  "pos": 3
                 }
               ]
             },
@@ -106,15 +106,15 @@
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 15
+                  "pos": 3
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 18
+                  "pos": 6
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 18
+                  "pos": 9
                 }
               ]
             }
@@ -122,8 +122,8 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tú sigues siendo el mismo",
@@ -134,11 +134,11 @@
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 11
+                  "pos": 3
                 },
                 {
                   "acorde": "F",
-                  "pos": 21
+                  "pos": 6
                 }
               ]
             },
@@ -151,7 +151,7 @@
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 17
+                  "pos": 3
                 }
               ]
             },
@@ -160,7 +160,7 @@
               "acordes": [
                 {
                   "acorde": "Bb",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             },
@@ -169,11 +169,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 4
+                  "pos": 1
                 },
                 {
                   "acorde": "Cm",
-                  "pos": 23
+                  "pos": 3
                 }
               ]
             },
@@ -186,11 +186,11 @@
                 },
                 {
                   "acorde": "Bb",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "F",
-                  "pos": 21
+                  "pos": 6
                 }
               ]
             },
@@ -203,7 +203,7 @@
                 },
                 {
                   "acorde": "Eb",
-                  "pos": 12
+                  "pos": 3
                 }
               ]
             },
@@ -212,11 +212,11 @@
               "acordes": [
                 {
                   "acorde": "Bb",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "F",
-                  "pos": 23
+                  "pos": 4
                 }
               ]
             },
@@ -225,15 +225,15 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 18
+                  "pos": 1
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 18
+                  "pos": 4
                 },
                 {
                   "acorde": "F",
-                  "pos": 18
+                  "pos": 7
                 }
               ]
             }

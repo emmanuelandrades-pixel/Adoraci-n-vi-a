@@ -1,37 +1,26 @@
 {
   "id": "song-102",
   "titulo": "Trae Tu Reino",
-  "artista": "",
-  "autor": "",
+  "artista": "Viña Ágape",
+  "autor": "Mike Van der Westhuizen",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-102-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 87,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "Mike Van der Westhuizen",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
           "tipo": "verso",
           "numero": 1,
           "lineas": [
@@ -49,11 +38,11 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 21
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 32
+                  "pos": 3
                 }
               ]
             },
@@ -68,9 +57,9 @@
           ]
         },
         {
-          "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Libera a tus hijos, sana nuestro corazón;",
@@ -81,15 +70,15 @@
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 12
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 17
+                  "pos": 8
                 },
                 {
                   "acorde": "C",
-                  "pos": 37
+                  "pos": 10
                 }
               ]
             },
@@ -110,35 +99,35 @@
                 },
                 {
                   "acorde": "D/F#",
-                  "pos": 19
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 24
+                  "pos": 8
                 }
               ]
             }
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Trae tu reino sobre nosotros,",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 21
+                  "pos": 5
                 }
               ]
             },
@@ -155,15 +144,39 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 1
                 },
                 {
                   "acorde": "D",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Y que tus hijos sepan quiénes son.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
                 }
               ]
             }
@@ -172,15 +185,29 @@
         {
           "id": "s005",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Hoy clamamos a ti, Dios del cielo y de la Tierra;",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Libera nuestro corazón del temor.",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D",
+                  "pos": 3
+                }
+              ]
             },
             {
               "texto": "La creación espera que tus hijos ya no teman,",

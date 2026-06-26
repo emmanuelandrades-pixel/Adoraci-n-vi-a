@@ -1,33 +1,57 @@
 {
   "id": "song-054",
   "titulo": "Hossana",
-  "artista": "",
+  "artista": "Hillsong United",
   "autor": "Brooke Ligertwood",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-054-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 150,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Veo como se levanta",
-              "acordes": []
-            },
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
             {
               "texto": "Veo al Rey de Gloria",
               "acordes": [
@@ -60,22 +84,29 @@
               "acordes": [
                 {
                   "acorde": "B",
+                  "pos": 1
+                },
+                {
+                  "acorde": "C#m",
                   "pos": 3
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Veo su amor y gracia",
               "acordes": [
                 {
                   "acorde": "E",
                   "pos": 0
                 }
               ]
-            },
-            {
-              "texto": "Veo su amor y gracia",
-              "acordes": []
             },
             {
               "texto": "Mi pecado perdonó",
@@ -95,12 +126,19 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 12
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "",
+              "texto": "Hosanna Hosanna",
               "acordes": [
                 {
                   "acorde": "E/G#",
@@ -119,81 +157,6 @@
                   "pos": 9
                 }
               ]
-            },
-            {
-              "texto": "Hosanna Hosanna",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 5
-                },
-                {
-                  "acorde": "B",
-                  "pos": 15
-                }
-              ]
-            },
-            {
-              "texto": "Hosanna en las alturas      C#m",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "E/G#",
-                  "pos": 0
-                },
-                {
-                  "acorde": "A",
-                  "pos": 5
-                },
-                {
-                  "acorde": "B",
-                  "pos": 7
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Hosanna Hosanna",
-              "acordes": []
-            },
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "A",
-                  "pos": 0
-                },
-                {
-                  "acorde": "B",
-                  "pos": 5
-                },
-                {
-                  "acorde": "C#m",
-                  "pos": 11
-                }
-              ]
-            },
-            {
-              "texto": "Hosanna en las alturas      E",
-              "acordes": []
-            },
-            {
-              "texto": "…",
-              "acordes": []
             },
             {
               "texto": "Hosanna en las alturas",
@@ -203,21 +166,90 @@
                   "pos": 0
                 },
                 {
-                  "acorde": "B",
-                  "pos": 5
+                  "acorde": "C#m",
+                  "pos": 2
                 },
                 {
-                  "acorde": "E",
-                  "pos": 13
+                  "acorde": "B",
+                  "pos": 6
                 }
               ]
             },
             {
-              "texto": "Eternidad",
+              "texto": "Hosanna Hosanna",
               "acordes": [
                 {
+                  "acorde": "E/G#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
                   "acorde": "C#m",
-                  "pos": 8
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "Hosanna en las alturas",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Hosanna en las alturas",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                },
+                {
+                  "acorde": "B",
+                  "pos": 3
+                },
+                {
+                  "acorde": "E",
+                  "pos": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Veo como se levanta",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
                 }
               ]
             },
@@ -235,11 +267,11 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 24
+                  "pos": 5
                 }
               ]
             },
@@ -266,18 +298,49 @@
               "acordes": [
                 {
                   "acorde": "F#m",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 22
+                  "pos": 5
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
             {
-              "texto": "C#m E F#m G#m (x2)",
-              "acordes": []
-            },
+              "texto": "x2",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#m",
+                  "pos": 6
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s008",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Sáname y Límpiame",
               "acordes": [
@@ -287,7 +350,7 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 10
+                  "pos": 2
                 }
               ]
             },
@@ -300,25 +363,57 @@
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 12
+                  "pos": 2
                 }
               ]
             },
             {
               "texto": "Quiero amarte como tú",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Me amas",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Muéstrame tú corazón",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Todo lo que soy por tu Reino Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 2
+                }
+              ]
             },
             {
               "texto": "Contigo quiero estar por la",
@@ -329,7 +424,16 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 23
+                  "pos": 2
+                }
+              ]
+            },
+            {
+              "texto": "Eternidad",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
                 }
               ]
             }

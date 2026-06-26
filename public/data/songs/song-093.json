@@ -1,20 +1,20 @@
 {
   "id": "song-093",
   "titulo": "Solo Cristo",
-  "artista": "None But You",
+  "artista": "None But You - Hillsong United",
   "autor": "Heather Laskin",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-093-v001",
       "nombre": "Original",
       "tonalidad": "B",
-      "bpm": 0,
+      "bpm": 73,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "En reposo, en silencio sé que",
@@ -33,11 +33,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 10
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 24
+                  "pos": 4
                 }
               ]
             },
@@ -46,7 +46,7 @@
               "acordes": [
                 {
                   "acorde": "F#",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             },
@@ -59,11 +59,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 11
+                  "pos": 2
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 26
+                  "pos": 4
                 }
               ]
             },
@@ -72,7 +72,7 @@
               "acordes": [
                 {
                   "acorde": "F#",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             }
@@ -80,7 +80,7 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
+          "tipo": "pre-coro",
           "numero": 1,
           "lineas": [
             {
@@ -88,27 +88,27 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 3
+                  "pos": 0
                 },
                 {
                   "acorde": "F#",
-                  "pos": 7
+                  "pos": 4
                 },
                 {
                   "acorde": "B",
-                  "pos": 10
+                  "pos": 7
                 },
                 {
                   "acorde": "E",
-                  "pos": 19
+                  "pos": 9
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 21
+                  "pos": 11
                 },
                 {
                   "acorde": "F#",
-                  "pos": 25
+                  "pos": 16
                 }
               ]
             },
@@ -117,27 +117,27 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "F#",
-                  "pos": 10
+                  "pos": 5
                 },
                 {
                   "acorde": "B",
-                  "pos": 13
+                  "pos": 8
                 },
                 {
                   "acorde": "E",
-                  "pos": 15
+                  "pos": 10
                 },
                 {
                   "acorde": "B/D#",
-                  "pos": 17
+                  "pos": 12
                 },
                 {
                   "acorde": "F#",
-                  "pos": 22
+                  "pos": 17
                 }
               ]
             }
@@ -145,8 +145,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "No hay nadie como Tú,",
@@ -157,15 +157,15 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 14
+                  "pos": 4
                 },
                 {
                   "acorde": "B",
-                  "pos": 16
+                  "pos": 6
                 },
                 {
                   "acorde": "F#",
-                  "pos": 18
+                  "pos": 8
                 }
               ]
             },
@@ -187,15 +187,15 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 16
+                  "pos": 4
                 },
                 {
                   "acorde": "B",
-                  "pos": 18
+                  "pos": 6
                 },
                 {
                   "acorde": "F#",
-                  "pos": 20
+                  "pos": 8
                 }
               ]
             },
@@ -213,49 +213,159 @@
         {
           "id": "s004",
           "tipo": "verso",
-          "numero": 3,
+          "numero": 2,
           "lineas": [
             {
               "texto": "En el caos, en tormenta sé que",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "Sigues siendo Dios",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "Cuando siento que soy débil me das",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "C#m",
+                  "pos": 4
+                }
+              ]
             },
             {
               "texto": "La gracia para seguir",
-              "acordes": []
-            },
-            {
-              "texto": "Al oír tu dulce voz,",
-              "acordes": []
-            },
-            {
-              "texto": "Cantaré esta canción",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 1
+                }
+              ]
             }
           ]
         },
         {
           "id": "s005",
-          "tipo": "verso",
-          "numero": 4,
+          "tipo": "pre-coro",
+          "numero": 2,
           "lineas": [
             {
-              "texto": "G#m - E - F# - B (X4)",
-              "acordes": []
+              "texto": "Al o - ír tu dul - ce voz,",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Can - ta - ré esta canción",
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "E",
+                  "pos": 9
+                },
+                {
+                  "acorde": "B/D#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 16
+                }
+              ]
             }
           ]
         },
         {
           "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
+          "tipo": "instrumental",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "X4",
+              "acordes": [
+                {
+                  "acorde": "G#m",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 6
+                },
+                {
+                  "acorde": "B",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s007",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Mi deleite está en ti",
@@ -270,36 +380,41 @@
                 },
                 {
                   "acorde": "B",
-                  "pos": 15
+                  "pos": 6
                 },
                 {
                   "acorde": "F#",
-                  "pos": 17
+                  "pos": 8
                 }
               ]
             },
             {
-              "texto": "C#m          G #m",
-              "acordes": []
-            },
-            {
               "texto": "Mi corazón, toda mi fe",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "C#m",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G#m",
+                  "pos": 5
+                }
+              ]
             },
             {
               "texto": "Mi deleite está en ti,",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 13
+                  "pos": 3
                 },
                 {
                   "acorde": "F#",
-                  "pos": 15
+                  "pos": 5
                 }
               ]
             },
@@ -308,7 +423,7 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 7
+                  "pos": 1
                 }
               ]
             }

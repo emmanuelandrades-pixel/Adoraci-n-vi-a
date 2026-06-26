@@ -1,20 +1,20 @@
 {
   "id": "song-036",
   "titulo": "El Fuego Nunca Duerme",
-  "artista": "",
-  "autor": "TOMA TU LUGAR",
+  "artista": "Toma Tu Lugar",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-036-v001",
       "nombre": "Original",
       "tonalidad": "E",
-      "bpm": 0,
+      "bpm": 136,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Existe un trono",
@@ -38,7 +38,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 19
+                  "pos": 1
                 }
               ]
             },
@@ -47,7 +47,7 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 0
+                  "pos": 1
                 }
               ]
             },
@@ -56,7 +56,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 10
+                  "pos": 1
                 }
               ]
             }
@@ -65,22 +65,22 @@
         {
           "id": "s002",
           "tipo": "verso",
-          "numero": 1,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Y en mi vida Él gobierna",
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 13
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 20
+                  "pos": 7
                 }
               ]
             }
@@ -88,19 +88,19 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Y este Rey vino a mí",
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 19
+                  "pos": 2
                 }
               ]
             },
@@ -109,11 +109,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             },
@@ -122,11 +122,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 25
+                  "pos": 2
                 }
               ]
             },
@@ -135,11 +135,11 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 7
+                  "pos": 0
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 2
                 }
               ]
             }
@@ -147,8 +147,8 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "El fuego nunca duerme",
@@ -164,7 +164,7 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 16
+                  "pos": 0
                 }
               ]
             },
@@ -173,11 +173,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 18
+                  "pos": 3
                 }
               ]
             },
@@ -186,7 +186,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 2
+                  "pos": 1
                 }
               ]
             },
@@ -195,7 +195,7 @@
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 17
+                  "pos": 1
                 }
               ]
             },
@@ -204,11 +204,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 15
+                  "pos": 3
                 }
               ]
             }
@@ -217,10 +217,10 @@
         {
           "id": "s005",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 3,
           "lineas": [
             {
-              "texto": "C#m …                               A",
+              "texto": "C#m … A",
               "acordes": []
             },
             {
@@ -232,22 +232,22 @@
         {
           "id": "s006",
           "tipo": "verso",
-          "numero": 5,
+          "numero": 4,
           "lineas": [
             {
               "texto": "Toda mi vida Él gobierna / x4",
               "acordes": [
                 {
                   "acorde": "C#m",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "B",
-                  "pos": 9
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 7
                 }
               ]
             }
@@ -255,19 +255,19 @@
         },
         {
           "id": "s007",
-          "tipo": "verso",
-          "numero": 6,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Alto más alto, Alto más alto",
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "C#m",
-                  "pos": 20
+                  "pos": 3
                 }
               ]
             },
@@ -276,7 +276,7 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 6
+                  "pos": 1
                 }
               ]
             },
@@ -285,7 +285,7 @@
               "acordes": [
                 {
                   "acorde": "B",
-                  "pos": 23
+                  "pos": 0
                 }
               ]
             }

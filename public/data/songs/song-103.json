@@ -1,26 +1,54 @@
 {
   "id": "song-103",
   "titulo": "Tumba Las Mesas",
-  "artista": "",
-  "autor": "Wladimir Aranda",
+  "artista": "Wladimir Aranda",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-103-v001",
       "nombre": "Original",
-      "tonalidad": "C",
-      "bpm": 0,
+      "tonalidad": "A",
+      "bpm": 132,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
+          "tipo": "intro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "oh oh ooh oh oh ooh",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "E",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "F#m7",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
           "tipo": "verso",
           "numero": null,
           "lineas": [
@@ -28,16 +56,16 @@
               "texto": "Examina mi corazón",
               "acordes": [
                 {
-                  "acorde": "Am7",
+                  "acorde": "F#m7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "E/G#",
                   "pos": 6
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 10
-                },
-                {
-                  "acorde": "C",
-                  "pos": 14
+                  "acorde": "A",
+                  "pos": 11
                 }
               ]
             },
@@ -45,16 +73,16 @@
               "texto": "Ve si en mi hay camino de perversidad",
               "acordes": [
                 {
-                  "acorde": "Am7",
-                  "pos": 10
+                  "acorde": "F#m7",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 14
+                  "acorde": "E/G#",
+                  "pos": 6
                 },
                 {
-                  "acorde": "C",
-                  "pos": 18
+                  "acorde": "A",
+                  "pos": 11
                 }
               ]
             },
@@ -62,16 +90,16 @@
               "texto": "Todo lo que quiero es hacer tu voluntad",
               "acordes": [
                 {
-                  "acorde": "Am7",
-                  "pos": 10
+                  "acorde": "F#m7",
+                  "pos": 1
                 },
                 {
-                  "acorde": "G/B",
-                  "pos": 14
+                  "acorde": "E/G#",
+                  "pos": 6
                 },
                 {
-                  "acorde": "Dm",
-                  "pos": 18
+                  "acorde": "Bm",
+                  "pos": 11
                 }
               ]
             },
@@ -79,58 +107,17 @@
               "texto": "Quiero amar lo que tú amas",
               "acordes": [
                 {
-                  "acorde": "F",
-                  "pos": 5
+                  "acorde": "D",
+                  "pos": 1
                 }
               ]
-            },
-            {
-              "texto": "G4",
-              "acordes": []
             },
             {
               "texto": "Y quiero odiar lo que tú odias",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "Soy tu casa de oración",
               "acordes": [
                 {
-                  "acorde": "F",
-                  "pos": 10
-                }
-              ]
-            },
-            {
-              "texto": "G4",
-              "acordes": []
-            },
-            {
-              "texto": "No una cueva de ladrones",
-              "acordes": []
-            },
-            {
-              "texto": "Tienes todo lo que soy",
-              "acordes": [
-                {
-                  "acorde": "C",
-                  "pos": 9
-                }
-              ]
-            },
-            {
-              "texto": "Tienes todos mis amores",
-              "acordes": [
-                {
-                  "acorde": "Am",
-                  "pos": 9
+                  "acorde": "E4",
+                  "pos": 1
                 }
               ]
             }
@@ -138,19 +125,62 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Soy tu casa de oración",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "No una cueva de ladrones",
+              "acordes": [
+                {
+                  "acorde": "E4",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Tienes todo lo que soy",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Tienes todos mis amores",
+              "acordes": [
+                {
+                  "acorde": "F#m",
+                  "pos": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Tumba las mesas en mi interior",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "G",
-                  "pos": 11
+                  "acorde": "E",
+                  "pos": 2
                 }
               ]
             },
@@ -158,12 +188,12 @@
               "texto": "Solo tú conoces las intenciones de mi corazón",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "F#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 16
+                  "acorde": "A",
+                  "pos": 4
                 }
               ]
             },
@@ -171,25 +201,25 @@
               "texto": "Tumba las mesas en mi interior",
               "acordes": [
                 {
-                  "acorde": "F",
+                  "acorde": "D",
                   "pos": 0
                 },
                 {
-                  "acorde": "G",
-                  "pos": 11
+                  "acorde": "E",
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "Yo soy tu templo de adoración",
+              "texto": "Yo soy tu templo de adoración (oh Señor)",
               "acordes": [
                 {
-                  "acorde": "Am",
+                  "acorde": "F#m",
                   "pos": 0
                 },
                 {
-                  "acorde": "C",
-                  "pos": 16
+                  "acorde": "A",
+                  "pos": 4
                 }
               ]
             }

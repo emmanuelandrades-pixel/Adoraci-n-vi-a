@@ -8,21 +8,49 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-026-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 97,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 5
+                },
+                {
+                  "acorde": "F",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Él es celoso de mí,",
@@ -37,8 +65,8 @@
               "texto": "Su amor es un huracán, un árbol soy yo,",
               "acordes": [
                 {
-                  "acorde": "F/A",
-                  "pos": 3
+                  "acorde": "Am",
+                  "pos": 1
                 }
               ]
             },
@@ -51,17 +79,10 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 32
+                  "pos": 3
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
+            },
             {
               "texto": "Cuando de repente,",
               "acordes": []
@@ -82,8 +103,8 @@
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "pre-coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Oh, cuánto nos ama Dios,",
@@ -101,8 +122,8 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Él nos ama,",
@@ -125,7 +146,7 @@
         {
           "id": "s005",
           "tipo": "verso",
-          "numero": 4,
+          "numero": 2,
           "lineas": [
             {
               "texto": "Somos su herencia, Él es nuestra meta",
@@ -138,14 +159,7 @@
             {
               "texto": "Si su gracia es un mar nos estamos hundiendo",
               "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s006",
-          "tipo": "verso",
-          "numero": 5,
-          "lineas": [
+            },
             {
               "texto": "El cielo y la tierra como un beso se encuentran",
               "acordes": []

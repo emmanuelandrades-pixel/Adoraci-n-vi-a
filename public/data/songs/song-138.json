@@ -1,20 +1,20 @@
 {
   "id": "song-138",
   "titulo": "Closer",
-  "artista": "",
-  "autor": "Bethel Music",
+  "artista": "Bethel Music",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Inglés",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-138-v001",
       "nombre": "Original",
       "tonalidad": "D",
-      "bpm": 0,
+      "bpm": 68,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 3
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 21
+                  "pos": 4
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "D/F#",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 6
                 }
               ]
             },
@@ -55,11 +55,11 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "A",
-                  "pos": 16
+                  "pos": 4
                 }
               ]
             },
@@ -68,11 +68,11 @@
               "acordes": [
                 {
                   "acorde": "D/F#",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 6
                 }
               ]
             }
@@ -80,7 +80,7 @@
         },
         {
           "id": "s002",
-          "tipo": "verso",
+          "tipo": "coro",
           "numero": 1,
           "lineas": [
             {
@@ -92,20 +92,25 @@
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 11
+                  "pos": 2
                 }
               ]
             },
             {
-              "texto": "BmTake me a little deeper",
-              "acordes": []
+              "texto": "Take me a little deeper",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 1
+                }
+              ]
             },
             {
               "texto": "I want to know Your heart",
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -114,7 +119,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -123,7 +128,7 @@
               "acordes": [
                 {
                   "acorde": "A/C#",
-                  "pos": 19
+                  "pos": 1
                 }
               ]
             },
@@ -132,7 +137,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -141,24 +146,33 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
             {
-              "texto": "Em D/F# G (2x)",
-              "acordes": []
-            },
-            {
               "texto": "I want to know Your heart",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 9
+                }
+              ]
             }
           ]
         },
         {
           "id": "s003",
-          "tipo": "verso",
-          "numero": 2,
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Whoa, whoa, how great Your love is for me",
@@ -177,7 +191,7 @@
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 18
+                  "pos": 6
                 }
               ]
             },
@@ -198,7 +212,7 @@
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 17
+                  "pos": 6
                 }
               ]
             }
@@ -206,8 +220,8 @@
         },
         {
           "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "tipo": "coro",
+          "numero": 2,
           "lineas": [
             {
               "texto": "Pull me a little closer",
@@ -218,7 +232,7 @@
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 12
+                  "pos": 2
                 }
               ]
             },
@@ -227,7 +241,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 11
+                  "pos": 1
                 }
               ]
             },
@@ -236,7 +250,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -245,7 +259,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             },
@@ -254,7 +268,7 @@
               "acordes": [
                 {
                   "acorde": "A/C#",
-                  "pos": 20
+                  "pos": 1
                 }
               ]
             },
@@ -263,7 +277,7 @@
               "acordes": [
                 {
                   "acorde": "Bm",
-                  "pos": 13
+                  "pos": 1
                 }
               ]
             },
@@ -272,7 +286,7 @@
               "acordes": [
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 1
                 }
               ]
             },
@@ -281,7 +295,7 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 15
+                  "pos": 1
                 }
               ]
             }

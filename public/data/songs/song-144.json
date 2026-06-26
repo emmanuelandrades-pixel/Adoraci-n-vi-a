@@ -1,20 +1,20 @@
 {
   "id": "song-144",
   "titulo": "Set A Fire",
-  "artista": "",
-  "autor": "United Pursuit",
+  "artista": "United Pursuit",
+  "autor": "",
   "genero": "Adoración",
   "idioma": "Inglés",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-144-v001",
       "nombre": "Original",
       "tonalidad": "C",
-      "bpm": 0,
+      "bpm": 130,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -30,33 +30,43 @@
                 {
                   "acorde": "C",
                   "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 4
-                },
-                {
-                  "acorde": "Am",
-                  "pos": 8
-                },
-                {
-                  "acorde": "F",
-                  "pos": 13
                 }
               ]
             },
             {
               "texto": "No place I would rather be",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "No place I would rather be",
-              "acordes": []
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                }
+              ]
             },
             {
               "texto": "Than here in Your love, here in Your love",
-              "acordes": []
-            },
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Set a fire down in my soul",
               "acordes": []
@@ -72,7 +82,14 @@
             {
               "texto": "I want more of You, God",
               "acordes": []
-            },
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "I want more /x6",
               "acordes": []

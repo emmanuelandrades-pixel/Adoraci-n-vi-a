@@ -1,28 +1,48 @@
 {
   "id": "song-062",
   "titulo": "Mi Dios, Mi Rey",
-  "artista": "",
+  "artista": "Viña Ágape",
   "autor": "Ángelo Díaz",
   "genero": "Adoración",
   "idioma": "Español",
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-062-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 88,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
       "secciones": [
         {
           "id": "s001",
-          "tipo": "verso",
+          "tipo": "intro",
           "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "Gadd9",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
           "lineas": [
             {
               "texto": "Dios, me dejo encontrar,",
@@ -33,15 +53,15 @@
                 },
                 {
                   "acorde": "Dsus2",
-                  "pos": 13
+                  "pos": 6
                 },
                 {
                   "acorde": "Asus4",
-                  "pos": 19
+                  "pos": 12
                 },
                 {
                   "acorde": "Gadd9",
-                  "pos": 23
+                  "pos": 18
                 }
               ]
             },
@@ -50,23 +70,23 @@
               "acordes": [
                 {
                   "acorde": "Dsus2",
-                  "pos": 2
+                  "pos": 1
                 },
                 {
                   "acorde": "Asus4",
-                  "pos": 8
+                  "pos": 7
                 },
                 {
                   "acorde": "Gadd9",
-                  "pos": 14
+                  "pos": 13
                 },
                 {
                   "acorde": "Dsus2",
-                  "pos": 16
+                  "pos": 19
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 16
+                  "pos": 25
                 }
               ]
             },
@@ -79,15 +99,15 @@
                 },
                 {
                   "acorde": "Dsus2",
-                  "pos": 13
+                  "pos": 6
                 },
                 {
                   "acorde": "Asus4",
-                  "pos": 19
+                  "pos": 12
                 },
                 {
                   "acorde": "Gadd9",
-                  "pos": 25
+                  "pos": 18
                 }
               ]
             },
@@ -100,11 +120,11 @@
                 },
                 {
                   "acorde": "Asus4",
-                  "pos": 13
+                  "pos": 6
                 },
                 {
                   "acorde": "Gadd9",
-                  "pos": 18
+                  "pos": 12
                 },
                 {
                   "acorde": "Dsus2",
@@ -112,29 +132,25 @@
                 },
                 {
                   "acorde": "A/C#",
-                  "pos": 18
+                  "pos": 24
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
+          "id": "s003",
+          "tipo": "coro",
           "numero": 1,
           "lineas": [
             {
-              "texto": "",
+              "texto": "Y aunque tormentas vengan,",
               "acordes": [
                 {
                   "acorde": "Gadd9",
                   "pos": 0
                 }
               ]
-            },
-            {
-              "texto": "Y aunque tormentas vengan,",
-              "acordes": []
             },
             {
               "texto": "De ti no me apartaré.",
@@ -149,11 +165,11 @@
                 },
                 {
                   "acorde": "Gadd9",
-                  "pos": 20
+                  "pos": 10
                 },
                 {
                   "acorde": "Bm7",
-                  "pos": 20
+                  "pos": 16
                 },
                 {
                   "acorde": "Asus4",
@@ -166,11 +182,11 @@
               "acordes": [
                 {
                   "acorde": "Gadd9",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "Bm7",
-                  "pos": 21
+                  "pos": 7
                 }
               ]
             },
@@ -179,30 +195,26 @@
               "acordes": [
                 {
                   "acorde": "Asus4",
-                  "pos": 6
+                  "pos": 1
                 },
                 {
                   "acorde": "Gadd9",
-                  "pos": 20
+                  "pos": 7
                 },
                 {
                   "acorde": "Bm7",
-                  "pos": 20
+                  "pos": 13
                 },
                 {
                   "acorde": "Asus4",
-                  "pos": 20
+                  "pos": 17
                 }
               ]
-            },
-            {
-              "texto": "(variación: Em7 – D/F#-Gadd9 - Asus4)",
-              "acordes": []
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -217,12 +229,116 @@
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s005",
+          "tipo": "coro",
+          "numero": 2,
           "lineas": [
             {
-              "texto": "Mi Dios,",
+              "texto": "Y aunque tormentas vengan,",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 9
+                }
+              ]
+            },
+            {
+              "texto": "De ti no me apartaré.",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Y si el mal me acecha,",
+              "acordes": [
+                {
+                  "acorde": "Em7",
+                  "pos": 1
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 5
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 10
+                }
+              ]
+            },
+            {
+              "texto": "De ti yo me aferraré.",
+              "acordes": [
+                {
+                  "acorde": "Asus4",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Em7",
+                  "pos": 7
+                },
+                {
+                  "acorde": "D/F#",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 16
+                },
+                {
+                  "acorde": "Asus4",
+                  "pos": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Mi Dios",
+              "acordes": [
+                {
+                  "acorde": "D/F#",
+                  "pos": 1
+                },
+                {
+                  "acorde": "Gadd9",
+                  "pos": 6
+                }
+              ]
+            },
+            {
+              "texto": "Mi rey",
               "acordes": [
                 {
                   "acorde": "D/F#",
@@ -235,19 +351,20 @@
               ]
             },
             {
-              "texto": "mi      rey, te alabo, te exalto",
+              "texto": "Te alabo",
               "acordes": [
                 {
-                  "acorde": "Gadd9",
-                  "pos": 2
-                },
-                {
                   "acorde": "Bm7",
-                  "pos": 8
-                },
+                  "pos": 1
+                }
+              ]
+            },
+            {
+              "texto": "Te exalto",
+              "acordes": [
                 {
                   "acorde": "Asus4",
-                  "pos": 28
+                  "pos": 1
                 }
               ]
             }

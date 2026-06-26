@@ -8,13 +8,13 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2024-06-01T00:00:00Z",
+  "fecha_actualizacion": "2026-06-26T00:00:00Z",
   "versions": [
     {
       "id": "song-047-v001",
       "nombre": "Original",
       "tonalidad": "G",
-      "bpm": 0,
+      "bpm": 105,
       "compas": "4/4",
       "duracion_segundos": 0,
       "es_original": true,
@@ -22,7 +22,7 @@
         {
           "id": "s001",
           "tipo": "verso",
-          "numero": null,
+          "numero": 1,
           "lineas": [
             {
               "texto": "Trae fuego a tu iglesia",
@@ -33,11 +33,11 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 6
+                  "pos": 2
                 },
                 {
                   "acorde": "Em",
-                  "pos": 8
+                  "pos": 4
                 }
               ]
             },
@@ -50,11 +50,11 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 11
+                  "pos": 2
                 },
                 {
                   "acorde": "Em",
-                  "pos": 13
+                  "pos": 4
                 }
               ]
             },
@@ -67,11 +67,11 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "Em",
-                  "pos": 9
+                  "pos": 4
                 }
               ]
             },
@@ -84,28 +84,35 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 10
+                  "pos": 2
                 },
                 {
                   "acorde": "Em",
-                  "pos": 18
+                  "pos": 4
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "pre-coro",
+          "numero": null,
+          "lineas": [
             {
               "texto": "Espíritu,",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 8
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 8
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 8
+                  "pos": 5
                 }
               ]
             },
@@ -114,39 +121,39 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 9
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 9
+                  "pos": 5
                 }
               ]
             }
           ]
         },
         {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
           "lineas": [
             {
               "texto": "Glorifícate",
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 7
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 10
+                  "pos": 5
                 }
               ]
             },
@@ -155,15 +162,15 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 22
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 24
+                  "pos": 5
                 }
               ]
             },
@@ -172,15 +179,15 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 14
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 14
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 14
+                  "pos": 5
                 }
               ]
             },
@@ -189,22 +196,55 @@
               "acordes": [
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 1
                 },
                 {
                   "acorde": "G",
-                  "pos": 25
+                  "pos": 3
                 },
                 {
                   "acorde": "Em",
-                  "pos": 32
+                  "pos": 5
                 }
               ]
             }
           ]
         },
         {
-          "id": "s003",
+          "id": "s004",
+          "tipo": "final-coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Que tu gloria brille en nuestro ser",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 1
+                },
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 5
+                }
+              ]
+            },
+            {
+              "texto": "Consúmenos",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
           "tipo": "verso",
           "numero": 2,
           "lineas": [
@@ -231,9 +271,9 @@
           ]
         },
         {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 3,
+          "id": "s006",
+          "tipo": "puente",
+          "numero": null,
           "lineas": [
             {
               "texto": "Fuego Santo, cae aquí",
@@ -244,15 +284,15 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 9
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 6
                 }
               ]
             },
@@ -265,15 +305,15 @@
                 },
                 {
                   "acorde": "Em",
-                  "pos": 7
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 19
+                  "pos": 5
                 },
                 {
                   "acorde": "G",
-                  "pos": 27
+                  "pos": 7
                 }
               ]
             },
@@ -286,15 +326,15 @@
                 },
                 {
                   "acorde": "G",
-                  "pos": 10
+                  "pos": 2
                 },
                 {
                   "acorde": "C",
-                  "pos": 12
+                  "pos": 4
                 },
                 {
                   "acorde": "G",
-                  "pos": 24
+                  "pos": 6
                 }
               ]
             },
@@ -306,16 +346,20 @@
                   "pos": 0
                 },
                 {
+                  "acorde": "D/F#",
+                  "pos": 2
+                },
+                {
                   "acorde": "Em",
-                  "pos": 8
+                  "pos": 7
                 },
                 {
                   "acorde": "C",
-                  "pos": 11
+                  "pos": 10
                 },
                 {
                   "acorde": "G",
-                  "pos": 13
+                  "pos": 12
                 }
               ]
             }

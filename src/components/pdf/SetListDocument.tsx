@@ -18,7 +18,7 @@ const ETIQUETAS_SECCION: Record<string, string> = {
 };
 
 // Tamaños reducidos para caber en una hoja
-const FS = { acordes: 8, letra: 9, secLabel: 7, titulo: 14, subtitulo: 8, tonalidad: 11, meta: 9 };
+const FS = { acordes: 10, letra: 11, secLabel: 7, titulo: 14, subtitulo: 8, tonalidad: 11, meta: 9 };
 
 const s = StyleSheet.create({
   page: {

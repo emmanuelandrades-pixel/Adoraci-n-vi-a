@@ -1,0 +1,186 @@
+{
+  "id": "song-154",
+  "titulo": "Lo Único Que Quiero Es Adorarte",
+  "artista": "Marcela Gándara",
+  "autor": "Marcela Gándara",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-07-02T00:00:00Z",
+  "fecha_actualizacion": "2026-07-02T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-154-v001",
+      "nombre": "Original",
+      "tonalidad": "B",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "coro",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Lo único que quiero es adorarte,",
+              "acordes": [
+                {
+                  "acorde": "F#/A#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Lo único que quiero es adorarte.",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Vengo a tus pies para entregar,",
+              "acordes": [
+                {
+                  "acorde": "D#m7",
+                  "pos": 12
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón.",
+              "acordes": [
+                {
+                  "acorde": "C#sus4",
+                  "pos": 8
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Lo único que quiero es agradarte,",
+              "acordes": [
+                {
+                  "acorde": "F#/A#",
+                  "pos": 3
+                },
+                {
+                  "acorde": "B",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Lo único que quiero es agradarte,",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "Por siempre cantare de tu amor.",
+              "acordes": [
+                {
+                  "acorde": "D#m7",
+                  "pos": 5
+                },
+                {
+                  "acorde": "C#sus4",
+                  "pos": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "puente",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "A - mor que me rescato, que me limpio",
+              "acordes": [
+                {
+                  "acorde": "F#/A#",
+                  "pos": 0
+                },
+                {
+                  "acorde": "B",
+                  "pos": 7
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 22
+                },
+                {
+                  "acorde": "D#m7",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "Que me da vida eterna.",
+              "acordes": [
+                {
+                  "acorde": "F#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F#/A#",
+                  "pos": 16
+                }
+              ]
+            },
+            {
+              "texto": "Tu sangre abre el camino,",
+              "acordes": [
+                {
+                  "acorde": "B",
+                  "pos": 4
+                },
+                {
+                  "acorde": "C#",
+                  "pos": 20
+                }
+              ]
+            },
+            {
+              "texto": "Nunca se cerrara, tengo libertad.",
+              "acordes": [
+                {
+                  "acorde": "B/D#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 24
+                },
+                {
+                  "acorde": "F#/A#",
+                  "pos": 28
+                },
+                {
+                  "acorde": "B",
+                  "pos": 35
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

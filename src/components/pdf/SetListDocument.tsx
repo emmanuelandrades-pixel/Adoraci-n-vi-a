@@ -35,31 +35,31 @@ const s = StyleSheet.create({
   portadaHeader: {
     flexDirection: "row",
     alignItems: "center",
-    gap: 14,
-    marginBottom: 20,
-    paddingBottom: 16,
+    gap: 20,
+    marginBottom: 30,
+    paddingBottom: 22,
     borderBottomWidth: 1,
     borderBottomColor: "#2A2D3A",
   },
-  portadaLogo: { width: 56, height: 56, borderRadius: 28 },
+  portadaLogo: { width: 96, height: 96, borderRadius: 48 },
   portadaHeaderTexto: { flex: 1 },
   ministerioNombre: {
     fontFamily: "Helvetica-Bold",
-    fontSize: 15,
-    color: "#F0F0F5",
-    marginBottom: 3,
+    fontSize: 24,
+    color: "#1F2430",
+    marginBottom: 5,
   },
   eventoNombre: {
     fontFamily: "Helvetica-Bold",
-    fontSize: 26,
+    fontSize: 44,
     color: "#111111",
-    marginBottom: 14,
+    marginBottom: 22,
   },
-  ministerioUbicacion: { fontSize: 10, color: "#8B8FA8" },
-  portadaMeta: { flexDirection: "row", flexWrap: "wrap", gap: 14, marginBottom: 8 },
-  portadaMetaItem: { fontSize: FS.meta, color: "#374151" },
+  ministerioUbicacion: { fontSize: 15, color: "#8B8FA8" },
+  portadaMeta: { flexDirection: "row", flexWrap: "wrap", gap: 22, marginBottom: 14 },
+  portadaMetaItem: { fontSize: 13, color: "#374151" },
   portadaMetaLabel: { color: "#9CA3AF" },
-  separadorPortada: { borderBottomWidth: 2, borderBottomColor: "#E5E7EB", marginTop: 18 },
+  separadorPortada: { borderBottomWidth: 2, borderBottomColor: "#E5E7EB", marginTop: 26 },
 
   // ── Cabecera canción ──────────────────────────────────────────────────────
   cancionHeader: { flexDirection: "row", alignItems: "flex-start", marginBottom: 5 },
@@ -408,16 +408,16 @@ export function SetListDocument({ setlist, canciones }: Props) {
           <View style={s.separadorPortada} />
 
           {/* Índice con títulos reales */}
-          <View style={{ marginTop: 18 }}>
+          <View style={{ marginTop: 28 }}>
             {items.map(({ csl, cancion }) => (
-              <View key={csl.cancion_id} style={{ flexDirection: "row", marginBottom: 5, alignItems: "center" }}>
-                <Text style={{ fontFamily: "Courier", fontSize: 8, color: "#9CA3AF", width: 24 }}>
+              <View key={csl.cancion_id} style={{ flexDirection: "row", marginBottom: 12, alignItems: "center" }}>
+                <Text style={{ fontFamily: "Courier", fontSize: 13, color: "#9CA3AF", width: 34 }}>
                   {String(csl.orden).padStart(2, "0")}
                 </Text>
-                <Text style={{ fontSize: FS.meta, color: "#111111", flex: 1 }}>
+                <Text style={{ fontSize: 18, color: "#111111", flex: 1 }}>
                   {cancion.titulo}
                 </Text>
-                <Text style={{ fontFamily: "Courier-Bold", fontSize: 9, color: "#3B82F6" }}>
+                <Text style={{ fontFamily: "Courier-Bold", fontSize: 15, color: "#3B82F6" }}>
                   {csl.tonalidad_evento}
                 </Text>
               </View>

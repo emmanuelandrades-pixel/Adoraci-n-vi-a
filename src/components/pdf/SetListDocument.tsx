@@ -119,6 +119,13 @@ function formatearDuracion(seg: number): string {
   return `${Math.floor(seg / 60)}:${(seg % 60).toString().padStart(2, "0")}`;
 }
 
+// La línea de acordes se renderiza en un tamaño (FS.acordes) distinto al de la
+// letra (FS.letra). Como el ancho de carácter en Courier es proporcional al
+// tamaño de fuente, hay que escalar la posición (medida en caracteres sobre la
+// letra) por la relación letra/acordes para que el acorde caiga sobre el
+// carácter correcto de la letra.
+const ESCALA_POS_ACORDE = FS.letra / FS.acordes;
+
 function construirLineaAcordes(
   acordes: { acorde: string; pos: number }[],
   semitonos: number,
@@ -127,7 +134,8 @@ function construirLineaAcordes(
   let linea = "";
   for (const { acorde, pos } of acordes) {
     const t = transponerAcorde(acorde, semitonos, tonalidad);
-    while (linea.length < pos) linea += " ";
+    const objetivo = Math.round(pos * ESCALA_POS_ACORDE);
+    while (linea.length < objetivo) linea += " ";
     linea += t + " ";
   }
   return linea;

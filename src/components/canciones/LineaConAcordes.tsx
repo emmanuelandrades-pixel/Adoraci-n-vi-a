@@ -25,7 +25,12 @@ export function LineaConAcordes({ texto, acordes, semitonos, tonalidad }: Props)
                 left: `${a.pos}ch`,
                 color: "#60A5FA",
                 fontWeight: "bold",
-                fontSize: "0.9em",
+                // La posición se mide en unidades de carácter (ch). El acorde
+                // debe usar el MISMO ancho de carácter que la letra para que
+                // `ch` coincida; se reduce visualmente con transform (no afecta
+                // la posición porque el origen es la esquina izquierda).
+                transform: "scale(0.9)",
+                transformOrigin: "left center",
                 whiteSpace: "nowrap",
               }}
             >

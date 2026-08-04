@@ -1,0 +1,183 @@
+{
+  "id": "song-156",
+  "titulo": "Porque Él Vive",
+  "artista": "Himno",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-07-13T00:00:00Z",
+  "fecha_actualizacion": "2026-07-13T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-156-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Dios nos envío, a su hijo Cristo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "El es salud,    paz y perdón",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Vivió y murió, por mis pecados",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 26
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Vacía está, la tumba porque, el triunfó",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 22
+                },
+                {
+                  "acorde": "G",
+                  "pos": 38
+                },
+                {
+                  "acorde": "C",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G",
+                  "pos": 46
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Porque el vive, triunfaré mañana",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Porque el vive,   ya no hay temor",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 15
+                },
+                {
+                  "acorde": "D",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Porque yo se, que el futuro es suyo",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "C",
+                  "pos": 32
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "La vida vale más y más, solo por El",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "G",
+                  "pos": 33
+                },
+                {
+                  "acorde": "C",
+                  "pos": 38
+                },
+                {
+                  "acorde": "D",
+                  "pos": 40
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

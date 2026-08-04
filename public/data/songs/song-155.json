@@ -1,0 +1,309 @@
+{
+  "id": "song-155",
+  "titulo": "Cuán Grande Es Él",
+  "artista": "Himno",
+  "autor": "",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-07-13T00:00:00Z",
+  "fecha_actualizacion": "2026-07-13T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-155-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Señor mi Dios al contemplar los cielos",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 23
+                }
+              ]
+            },
+            {
+              "texto": "El firmamento, y las estrellas mil",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 3
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Al oír tu voz en los potentes truenos",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "Y ver brillar el sol en su cenit",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 29
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Mi corazón entona la canción",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 13
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 31
+                },
+                {
+                  "acorde": "G/F#",
+                  "pos": 36
+                }
+              ]
+            },
+            {
+              "texto": "Cuan grande es El, cuan grande es El",
+              "acordes": [
+                {
+                  "acorde": "D7",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 31
+                },
+                {
+                  "acorde": "G",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Mi corazón entona la canción",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 31
+                }
+              ]
+            },
+            {
+              "texto": "Cuan grande es El, cuan grande es El",
+              "acordes": [
+                {
+                  "acorde": "D7",
+                  "pos": 21
+                },
+                {
+                  "acorde": "G",
+                  "pos": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Cuando recuerdo del  Amor Divino",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 6
+                },
+                {
+                  "acorde": "C",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Que desde el cielo al Salvador envío",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 9
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 17
+                },
+                {
+                  "acorde": "G",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "A aquel Jesús, que por salvarme vino",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Y en una cruz, sufrió y por mi murió",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 19
+                },
+                {
+                  "acorde": "G",
+                  "pos": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 3,
+          "lineas": [
+            {
+              "texto": "Cuando el     Señor           me llame a su presencia",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 10
+                },
+                {
+                  "acorde": "A/B",
+                  "pos": 20
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 25
+                },
+                {
+                  "acorde": "D",
+                  "pos": 38
+                }
+              ]
+            },
+            {
+              "texto": "Al dulce hogar, al cielo de esplendor",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 12
+                },
+                {
+                  "acorde": "E7",
+                  "pos": 21
+                },
+                {
+                  "acorde": "A",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Le adorare            cantando  la gran  -  deza",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 13
+                },
+                {
+                  "acorde": "D",
+                  "pos": 25
+                },
+                {
+                  "acorde": "Ddim",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "De su Poder, y su infinito Amor",
+              "acordes": [
+                {
+                  "acorde": "E7",
+                  "pos": 9
+                },
+                {
+                  "acorde": "A",
+                  "pos": 29
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

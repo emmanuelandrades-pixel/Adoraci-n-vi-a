@@ -64,9 +64,11 @@ export function transponerAcorde(acorde: string, semitonos: number, tonalidad?: 
     const parteBajo = acorde.slice(slashIdx + 1);
     const { raiz: raizBajo } = descomponerAcorde(parteBajo);
     // El bajo es siempre una nota simple sin sufijo
-    const nuevoBajo = raizBajo
+    let nuevoBajo = raizBajo
       ? transponerNotaBase(raizBajo, semitonos, usarBemol)
       : parteBajo;
+    // Gb como bajo es una grafía poco habitual; se prefiere F# (ej. D/Gb → D/F#)
+    if (nuevoBajo === "Gb") nuevoBajo = "F#";
     return transponerAcorde(parteBase, semitonos, tonalidad) + "/" + nuevoBajo;
   }
 

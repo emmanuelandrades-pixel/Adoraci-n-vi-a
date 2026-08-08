@@ -119,27 +119,13 @@ function formatearDuracion(seg: number): string {
   return `${Math.floor(seg / 60)}:${(seg % 60).toString().padStart(2, "0")}`;
 }
 
-// La línea de acordes se renderiza en un tamaño (FS.acordes) distinto al de la
-// letra (FS.letra). Como el ancho de carácter en Courier es proporcional al
-// tamaño de fuente, hay que escalar la posición (medida en caracteres sobre la
-// letra) por la relación letra/acordes para que el acorde caiga sobre el
-// carácter correcto de la letra.
-const ESCALA_POS_ACORDE = FS.letra / FS.acordes;
-
-function construirLineaAcordes(
-  acordes: { acorde: string; pos: number }[],
-  semitonos: number,
-  tonalidad: string,
-): string {
-  let linea = "";
-  for (const { acorde, pos } of acordes) {
-    const t = transponerAcorde(acorde, semitonos, tonalidad);
-    const objetivo = Math.round(pos * ESCALA_POS_ACORDE);
-    while (linea.length < objetivo) linea += " ";
-    linea += t + " ";
-  }
-  return linea;
-}
+// react-pdf recorta los espacios iniciales de un Text (no respeta "pre"),
+// así que rellenar la línea de acordes con espacios para posicionarlos no
+// funciona de forma confiable. En su lugar cada acorde se ubica con
+// posicionamiento absoluto en puntos, igual que en pantalla (que usa "ch").
+// Courier es monoespaciada con avance fijo de 0.6em en las fuentes estándar
+// de PDF, por lo que el ancho de carácter es simplemente 0.6 * fontSize.
+const ANCHO_CARACTER = FS.letra * 0.6;
 
 // Estima cuántas líneas de Courier ocupa una sección (acordes + texto)
 function pesoSeccion(sec: Seccion): number {
@@ -168,12 +154,27 @@ function LineaPDF({
   semitonos: number;
   tonalidad: string;
 }) {
-  const lineaAcordes = linea.acordes.length > 0
-    ? construirLineaAcordes(linea.acordes, semitonos, tonalidad)
-    : null;
+  const tieneAcordes = linea.acordes.length > 0;
   return (
     <View>
-      {lineaAcordes !== null && <Text style={s.lineaAcordes}>{lineaAcordes}</Text>}
+      {tieneAcordes && (
+        <View style={{ position: "relative", height: FS.acordes * 1.15 }}>
+          {linea.acordes.map((a, i) => (
+            <Text
+              key={i}
+              style={{
+                position: "absolute",
+                left: a.pos * ANCHO_CARACTER,
+                fontFamily: "Courier-Bold",
+                fontSize: FS.acordes,
+                color: "#3B82F6",
+              }}
+            >
+              {transponerAcorde(a.acorde, semitonos, tonalidad)}
+            </Text>
+          ))}
+        </View>
+      )}
       {linea.texto !== "" && <Text style={s.lineaTexto}>{linea.texto || " "}</Text>}
     </View>
   );

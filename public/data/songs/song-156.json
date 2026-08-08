@@ -8,7 +8,7 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2026-07-13T00:00:00Z",
-  "fecha_actualizacion": "2026-07-20T00:00:00Z",
+  "fecha_actualizacion": "2026-07-27T00:00:00Z",
   "versions": [
     {
       "id": "song-156-v001",
@@ -21,83 +21,190 @@
       "secciones": [
         {
           "id": "s001",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Dios nos envío,",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 14
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "a su hijo Cristo",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "El es salud,    paz y perdón",
+              "acordes": [
+                {
+                  "acorde": "Gm",
+                  "pos": 0
+                },
+                {
+                  "acorde": "F",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Vivió y murió,",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 13
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 13
+                }
+              ]
+            },
+            {
+              "texto": "por mis pecados",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 14
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 14
+                }
+              ]
+            },
+            {
+              "texto": "Vacía está, la tumba porque,",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 22
+                },
+                {
+                  "acorde": "C",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "el triunfó",
+              "acordes": [
+                {
+                  "acorde": "F",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F4",
+                  "pos": 9
+                },
+                {
+                  "acorde": "F",
+                  "pos": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
           "tipo": "coro",
           "numero": null,
           "lineas": [
             {
-              "texto": "Porque él vive",
-              "acordes": []
-            },
-            {
-              "texto": "Triunfaré mañana",
+              "texto": "Porque el vive,",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 0
+                  "pos": 14
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 1
-                },
-                {
-                  "acorde": "Bb",
-                  "pos": 2
-                },
-                {
-                  "acorde": "F/A",
-                  "pos": 4
-                },
-                {
-                  "acorde": "Gm",
-                  "pos": 8
+                  "pos": 14
                 }
               ]
             },
             {
-              "texto": "Porque él vive",
+              "texto": "triunfaré mañana",
+              "acordes": [
+                {
+                  "acorde": "Bb",
+                  "pos": 15
+                },
+                {
+                  "acorde": "F/A",
+                  "pos": 15
+                },
+                {
+                  "acorde": "Gm",
+                  "pos": 15
+                }
+              ]
+            },
+            {
+              "texto": "Porque el vive,",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 14
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 13
+                  "pos": 14
                 }
               ]
             },
             {
-              "texto": "Ya no hay temor",
+              "texto": "ya no hay temor",
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 0
+                  "pos": 14
                 },
                 {
                   "acorde": "C/E",
-                  "pos": 2
+                  "pos": 14
                 }
               ]
             },
             {
-              "texto": "Porque yo sé",
+              "texto": "Porque yo se,",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 0
+                  "pos": 12
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 1
+                  "pos": 12
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 4
+                  "pos": 12
                 }
               ]
             },
             {
-              "texto": "Que el futuro es suyo",
+              "texto": "que el futuro es suyo",
               "acordes": [
                 {
                   "acorde": "Bb",
@@ -110,250 +217,32 @@
               ]
             },
             {
-              "texto": "La vida vale más",
+              "texto": "La vida vale más y más,",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 20
                 },
                 {
                   "acorde": "C",
-                  "pos": 15
+                  "pos": 22
                 }
               ]
             },
             {
-              "texto": "Y más solo por Él",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "id": "s002",
-          "tipo": "verso",
-          "numero": 1,
-          "lineas": [
-            {
-              "texto": "Dios nos envió",
+              "texto": "solo por El",
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 0
+                  "pos": 10
                 },
                 {
                   "acorde": "F4",
-                  "pos": 1
+                  "pos": 10
                 },
                 {
                   "acorde": "F",
-                  "pos": 4
-                }
-              ]
-            },
-            {
-              "texto": "A su hijo cristo",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F/A",
-                  "pos": 1
-                },
-                {
-                  "acorde": "Bb",
-                  "pos": 2
-                }
-              ]
-            },
-            {
-              "texto": "El es salud paz y perdón",
-              "acordes": [
-                {
-                  "acorde": "Gm",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F",
-                  "pos": 12
-                },
-                {
-                  "acorde": "Dm",
-                  "pos": 14
-                },
-                {
-                  "acorde": "C",
-                  "pos": 23
-                }
-              ]
-            },
-            {
-              "texto": "Vivió y murió",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 12
-                },
-                {
-                  "acorde": "F/A",
-                  "pos": 12
-                }
-              ]
-            },
-            {
-              "texto": "Por mis pecados",
-              "acordes": [
-                {
-                  "acorde": "Bb",
-                  "pos": 14
-                },
-                {
-                  "acorde": "Gm",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "Vacía está la tumba porque",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 18
-                },
-                {
-                  "acorde": "C",
-                  "pos": 25
-                }
-              ]
-            },
-            {
-              "texto": "El triunfo",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 9
-                },
-                {
-                  "acorde": "F4",
-                  "pos": 9
-                },
-                {
-                  "acorde": "F",
-                  "pos": 9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s003",
-          "tipo": "instrumental",
-          "numero": null,
-          "lineas": [
-            {
-              "texto": "",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 0
-                },
-                {
-                  "acorde": "F/A",
-                  "pos": 3
-                },
-                {
-                  "acorde": "C",
-                  "pos": 6
-                },
-                {
-                  "acorde": "Bb",
-                  "pos": 9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "s004",
-          "tipo": "verso",
-          "numero": 2,
-          "lineas": [
-            {
-              "texto": "Y cuando un día",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "Yo el río cruce",
-              "acordes": [
-                {
-                  "acorde": "Bb",
-                  "pos": 14
-                }
-              ]
-            },
-            {
-              "texto": "Con el dolor batalla haré",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 16
-                },
-                {
-                  "acorde": "C",
-                  "pos": 24
-                }
-              ]
-            },
-            {
-              "texto": "Y al ver el triunfo",
-              "acordes": [
-                {
-                  "acorde": "F",
-                  "pos": 18
-                }
-              ]
-            },
-            {
-              "texto": "De la vida eterna",
-              "acordes": [
-                {
-                  "acorde": "F/A",
-                  "pos": 14
-                },
-                {
-                  "acorde": "Bb",
-                  "pos": 16
-                }
-              ]
-            },
-            {
-              "texto": "Veré la luz de gloria si veré al rey",
-              "acordes": [
-                {
-                  "acorde": "F/C",
-                  "pos": 18
-                },
-                {
-                  "acorde": "C",
-                  "pos": 32
-                },
-                {
-                  "acorde": "F",
-                  "pos": 35
-                },
-                {
-                  "acorde": "F4",
-                  "pos": 35
-                },
-                {
-                  "acorde": "F",
-                  "pos": 35
+                  "pos": 10
                 }
               ]
             }

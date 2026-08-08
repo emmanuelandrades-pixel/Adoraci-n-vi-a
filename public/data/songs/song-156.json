@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 22
+                  "pos": 10
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 25
+                  "pos": 11
                 }
               ]
             },
@@ -42,7 +42,7 @@
               "acordes": [
                 {
                   "acorde": "Bb",
-                  "pos": 23
+                  "pos": 10
                 }
               ]
             },
@@ -55,15 +55,15 @@
                 },
                 {
                   "acorde": "F",
-                  "pos": 8
+                  "pos": 4
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 18
+                  "pos": 8
                 },
                 {
                   "acorde": "C",
-                  "pos": 34
+                  "pos": 15
                 }
               ]
             },
@@ -72,11 +72,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 9
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 23
+                  "pos": 10
                 }
               ]
             },
@@ -85,11 +85,11 @@
               "acordes": [
                 {
                   "acorde": "Bb",
-                  "pos": 24
+                  "pos": 11
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 29
+                  "pos": 13
                 }
               ]
             },
@@ -98,11 +98,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 22
+                  "pos": 10
                 },
                 {
                   "acorde": "C",
-                  "pos": 35
+                  "pos": 16
                 }
               ]
             },
@@ -111,15 +111,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 13
+                  "pos": 6
                 },
                 {
                   "acorde": "F4",
-                  "pos": 16
+                  "pos": 7
                 },
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 9
                 }
               ]
             }
@@ -135,11 +135,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 25
+                  "pos": 11
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 28
+                  "pos": 13
                 }
               ]
             },
@@ -148,15 +148,15 @@
               "acordes": [
                 {
                   "acorde": "Bb",
-                  "pos": 25
+                  "pos": 11
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 32
+                  "pos": 14
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 37
+                  "pos": 15
                 }
               ]
             },
@@ -165,11 +165,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 24
+                  "pos": 11
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 28
+                  "pos": 13
                 }
               ]
             },
@@ -178,11 +178,11 @@
               "acordes": [
                 {
                   "acorde": "Eb",
-                  "pos": 25
+                  "pos": 11
                 },
                 {
                   "acorde": "C/E",
-                  "pos": 34
+                  "pos": 14
                 }
               ]
             },
@@ -191,15 +191,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 21
+                  "pos": 9
                 },
                 {
                   "acorde": "Gm",
-                  "pos": 25
+                  "pos": 11
                 },
                 {
                   "acorde": "F/A",
-                  "pos": 29
+                  "pos": 12
                 }
               ]
             },
@@ -208,11 +208,11 @@
               "acordes": [
                 {
                   "acorde": "Bb",
-                  "pos": 35
+                  "pos": 16
                 },
                 {
                   "acorde": "Bbm",
-                  "pos": 40
+                  "pos": 18
                 }
               ]
             },
@@ -221,11 +221,11 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 20
+                  "pos": 9
                 },
                 {
                   "acorde": "C",
-                  "pos": 34
+                  "pos": 15
                 }
               ]
             },
@@ -234,15 +234,15 @@
               "acordes": [
                 {
                   "acorde": "F",
-                  "pos": 17
+                  "pos": 8
                 },
                 {
                   "acorde": "F4",
-                  "pos": 20
+                  "pos": 9
                 },
                 {
                   "acorde": "F",
-                  "pos": 24
+                  "pos": 10
                 }
               ]
             }

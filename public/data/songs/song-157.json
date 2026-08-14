@@ -1,0 +1,247 @@
+{
+  "id": "song-157",
+  "titulo": "Quiero Levantar Mis Manos",
+  "artista": "Marcos Witt",
+  "autor": "Marcos Witt",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-08-14T00:00:00Z",
+  "fecha_actualizacion": "2026-08-14T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-157-v001",
+      "nombre": "Original",
+      "tonalidad": "G",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Quiero levantar mis manos, quiero levantar mi voz.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 20
+                },
+                {
+                  "acorde": "E",
+                  "pos": 29
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "Y ofrecerte a Ti mi vida, en santidad y amor.",
+              "acordes": [
+                {
+                  "acorde": "E",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                },
+                {
+                  "acorde": "G",
+                  "pos": 44
+                },
+                {
+                  "acorde": "G7",
+                  "pos": 47
+                }
+              ]
+            },
+            {
+              "texto": "Padre sólo a Ti te ofrezco mi vida y mi corazón.",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 0
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 20
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 29
+                },
+                {
+                  "acorde": "E",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "Y me postro en tu presencia en adoración.",
+              "acordes": [
+                {
+                  "acorde": "Am",
+                  "pos": 0
+                },
+                {
+                  "acorde": "D",
+                  "pos": 20
+                },
+                {
+                  "acorde": "C",
+                  "pos": 27
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 30
+                },
+                {
+                  "acorde": "D",
+                  "pos": 36
+                },
+                {
+                  "acorde": "G",
+                  "pos": 42
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Hijo de Dios,     recibe hoy,",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "toda la Gloria, la Honra y Honor.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 18
+                },
+                {
+                  "acorde": "G/B",
+                  "pos": 21
+                },
+                {
+                  "acorde": "C",
+                  "pos": 25
+                },
+                {
+                  "acorde": "A7/C#",
+                  "pos": 28
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                },
+                {
+                  "acorde": "G",
+                  "pos": 39
+                }
+              ]
+            },
+            {
+              "texto": "Hijo de Dios,     recibe hoy,",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Dm",
+                  "pos": 15
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "C",
+                  "pos": 29
+                },
+                {
+                  "acorde": "Cm",
+                  "pos": 33
+                }
+              ]
+            },
+            {
+              "texto": "toda la Gloria, la Honra y Honor.",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 12
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 22
+                },
+                {
+                  "acorde": "D",
+                  "pos": 35
+                },
+                {
+                  "acorde": "G",
+                  "pos": 39
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

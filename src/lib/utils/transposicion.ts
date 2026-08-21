@@ -1,4 +1,4 @@
-import { ESCALA_CROMATICA, ESCALA_BEMOLES, PREFERIR_BEMOL } from "@/lib/constants/tonalidades";
+import { ESCALA_CROMATICA, ESCALA_BEMOLES } from "@/lib/constants/tonalidades";
 
 // Notas raíz — las más largas primero para evitar match parcial (C# antes que C)
 const NOTAS_RAIZ = [
@@ -46,17 +46,6 @@ function descomponerAcorde(acorde: string): { raiz: string; sufijo: string } {
 export function transponerAcorde(acorde: string, semitonos: number, tonalidad?: string): string {
   if (semitonos === 0) return acorde;
 
-  // Determinar si la tonalidad destino prefiere bemoles
-  const tonalDestino = (() => {
-    const { raiz } = descomponerAcorde(acorde);
-    const idx = notaAIndice(raiz);
-    if (idx === -1) return tonalidad ?? "";
-    const nuevaRaiz = indiceANota(idx + semitonos, false); // provisional en sostenidos
-    // Si la tonalidad base prefiere bemol, usar bemol en el resultado
-    return PREFERIR_BEMOL[tonalidad ?? ""] ? nuevaRaiz : (tonalidad ?? "");
-  })();
-  const usarBemol = !!PREFERIR_BEMOL[tonalidad ?? ""];
-
   // Slash chord: "G/B", "D/F#", "Am/C" → transponer ambas partes por separado
   const slashIdx = acorde.indexOf("/");
   if (slashIdx !== -1) {
@@ -64,18 +53,18 @@ export function transponerAcorde(acorde: string, semitonos: number, tonalidad?: 
     const parteBajo = acorde.slice(slashIdx + 1);
     const { raiz: raizBajo } = descomponerAcorde(parteBajo);
     // El bajo es siempre una nota simple sin sufijo
-    let nuevoBajo = raizBajo
-      ? transponerNotaBase(raizBajo, semitonos, usarBemol)
+    const nuevoBajo = raizBajo
+      ? transponerNotaBase(raizBajo, semitonos, false)
       : parteBajo;
-    // Gb como bajo es una grafía poco habitual; se prefiere F# (ej. D/Gb → D/F#)
-    if (nuevoBajo === "Gb") nuevoBajo = "F#";
     return transponerAcorde(parteBase, semitonos, tonalidad) + "/" + nuevoBajo;
   }
 
   const { raiz, sufijo } = descomponerAcorde(acorde);
   if (!raiz) return acorde;
 
-  const nuevaRaiz = transponerNotaBase(raiz, semitonos, usarBemol);
+  // Siempre se usan sostenidos (#) en vez de bemoles (b) al transponer,
+  // p. ej. Gb se anota como F#.
+  const nuevaRaiz = transponerNotaBase(raiz, semitonos, false);
   return nuevaRaiz + sufijo;
 }
 

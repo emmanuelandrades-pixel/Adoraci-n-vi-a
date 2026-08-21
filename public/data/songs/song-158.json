@@ -1,0 +1,437 @@
+{
+  "id": "song-158",
+  "titulo": "El Nombre De Jesús",
+  "artista": "Elevation Worship",
+  "autor": "Elevation Worship",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-08-21T00:00:00Z",
+  "fecha_actualizacion": "2026-08-21T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-158-v001",
+      "nombre": "Original",
+      "tonalidad": "D",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "intro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s002",
+          "tipo": "verso",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tu nombre podría yo cantar",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 2
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 28
+                }
+              ]
+            },
+            {
+              "texto": "Toda mi vida sin cesar",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 2
+                },
+                {
+                  "acorde": "G",
+                  "pos": 10
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 24
+                }
+              ]
+            },
+            {
+              "texto": "El nombre de Jesús yo levantaré",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Cada vez que clamo más dulce es",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s003",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Solo el nombre de Jesús",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Solo el nombre de Jesús",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Solo el nombre de Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Me hace cantar santo",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Nadie como Jesús",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Nadie como Jesús",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Nadie como Jesús",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 17
+                }
+              ]
+            },
+            {
+              "texto": "Solo tú eres digno",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s004",
+          "tipo": "verso",
+          "numero": 2,
+          "lineas": [
+            {
+              "texto": "Tú has sido mi amigo fiel",
+              "acordes": [
+                {
+                  "acorde": "D",
+                  "pos": 0
+                },
+                {
+                  "acorde": "A/C#",
+                  "pos": 8
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 18
+                },
+                {
+                  "acorde": "D",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "Y tu bondad no olvidaré",
+              "acordes": [
+                {
+                  "acorde": "A/C#",
+                  "pos": 4
+                },
+                {
+                  "acorde": "Em",
+                  "pos": 10
+                },
+                {
+                  "acorde": "G",
+                  "pos": 22
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 26
+                }
+              ]
+            },
+            {
+              "texto": "El nombre de Jesús yo levantaré",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 5
+                },
+                {
+                  "acorde": "G",
+                  "pos": 27
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 40
+                }
+              ]
+            },
+            {
+              "texto": "Cada vez que clamo más dulce es",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 4
+                },
+                {
+                  "acorde": "G",
+                  "pos": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "s005",
+          "tipo": "puente",
+          "numero": 1,
+          "lineas": [
+            {
+              "texto": "Tu nombre es como la luz del Sol",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "Que a la oscuridad venció",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 29
+                }
+              ]
+            },
+            {
+              "texto": "La vida y la resurrección",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 19
+                }
+              ]
+            },
+            {
+              "texto": "Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Tu nombre es salvación y sanidad",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 30
+                }
+              ]
+            },
+            {
+              "texto": "Toda tormenta callará",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 22
+                }
+              ]
+            },
+            {
+              "texto": "Nunca has fallado y no lo harás",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "El pan partido por la humanidad",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 32
+                }
+              ]
+            },
+            {
+              "texto": "Herido por nuestra maldad",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Quien fue, quien es, y quien vendrá",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 35
+                }
+              ]
+            },
+            {
+              "texto": "Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            },
+            {
+              "texto": "Él es el Rey de Reyes y Señor",
+              "acordes": [
+                {
+                  "acorde": "Em",
+                  "pos": 34
+                }
+              ]
+            },
+            {
+              "texto": "Que a la muerte derrotó",
+              "acordes": [
+                {
+                  "acorde": "G",
+                  "pos": 25
+                }
+              ]
+            },
+            {
+              "texto": "Su nombre es el vencedor",
+              "acordes": [
+                {
+                  "acorde": "Bm",
+                  "pos": 27
+                }
+              ]
+            },
+            {
+              "texto": "Jesús",
+              "acordes": [
+                {
+                  "acorde": "A",
+                  "pos": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

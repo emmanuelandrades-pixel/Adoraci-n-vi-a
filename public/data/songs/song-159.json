@@ -1,0 +1,133 @@
+{
+  "id": "song-159",
+  "titulo": "Oh La Gloria De Tu Presencia",
+  "artista": "Himno",
+  "autor": "Franco Figueroa",
+  "genero": "Adoración",
+  "idioma": "Español",
+  "favorita": false,
+  "activa": true,
+  "fecha_creacion": "2026-08-27T00:00:00Z",
+  "fecha_actualizacion": "2026-08-27T00:00:00Z",
+  "versions": [
+    {
+      "id": "song-159-v001",
+      "nombre": "Original",
+      "tonalidad": "C",
+      "bpm": 0,
+      "compas": "4/4",
+      "duracion_segundos": 0,
+      "es_original": true,
+      "secciones": [
+        {
+          "id": "s001",
+          "tipo": "coro",
+          "numero": null,
+          "lineas": [
+            {
+              "texto": "Oh la gloria,    de tú presencia",
+              "acordes": [
+                {
+                  "acorde": "G7",
+                  "pos": 0
+                },
+                {
+                  "acorde": "C",
+                  "pos": 9
+                },
+                {
+                  "acorde": "C/E",
+                  "pos": 18
+                },
+                {
+                  "acorde": "F",
+                  "pos": 29
+                },
+                {
+                  "acorde": "A",
+                  "pos": 46
+                }
+              ]
+            },
+            {
+              "texto": "Tu pueblo te adora con reverencia",
+              "acordes": [
+                {
+                  "acorde": "Dm",
+                  "pos": 23
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 37
+                },
+                {
+                  "acorde": "G",
+                  "pos": 52
+                }
+              ]
+            },
+            {
+              "texto": "ven levántate señor, y recibe nuestra adoración",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G#aug",
+                  "pos": 27
+                },
+                {
+                  "acorde": "F",
+                  "pos": 40
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 70
+                }
+              ]
+            },
+            {
+              "texto": "nos gozamos        al adorar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 8
+                },
+                {
+                  "acorde": "G#dim",
+                  "pos": 19
+                },
+                {
+                  "acorde": "Am",
+                  "pos": 36
+                },
+                {
+                  "acorde": "D7",
+                  "pos": 48
+                }
+              ]
+            },
+            {
+              "texto": "que tú presencia llene este lugar",
+              "acordes": [
+                {
+                  "acorde": "C",
+                  "pos": 14
+                },
+                {
+                  "acorde": "G",
+                  "pos": 33
+                },
+                {
+                  "acorde": "C",
+                  "pos": 55
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

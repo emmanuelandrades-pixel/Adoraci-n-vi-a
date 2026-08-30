@@ -8,7 +8,7 @@
   "favorita": false,
   "activa": true,
   "fecha_creacion": "2024-06-01T00:00:00Z",
-  "fecha_actualizacion": "2026-06-26T00:00:00Z",
+  "fecha_actualizacion": "2026-08-30T00:00:00Z",
   "versions": [
     {
       "id": "song-041-v001",
@@ -29,11 +29,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 1
+                  "pos": 7
                 },
                 {
                   "acorde": "A7",
-                  "pos": 3
+                  "pos": 14
                 }
               ]
             },
@@ -42,11 +42,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 1
+                  "pos": 2
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 3
+                  "pos": 11
                 }
               ]
             },
@@ -55,19 +55,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 1
-                },
-                {
-                  "acorde": "E/G#",
-                  "pos": 3
+                  "pos": 2
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
-                },
-                {
-                  "acorde": "E",
-                  "pos": 10
+                  "pos": 25
                 }
               ]
             },
@@ -76,11 +68,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 1
+                  "pos": 6
                 },
                 {
                   "acorde": "A7",
-                  "pos": 3
+                  "pos": 16
                 }
               ]
             },
@@ -89,11 +81,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 1
+                  "pos": 6
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 3
+                  "pos": 14
                 }
               ]
             },
@@ -105,20 +97,16 @@
                   "pos": 1
                 },
                 {
+                  "acorde": "D/F#",
+                  "pos": 17
+                },
+                {
                   "acorde": "E/G#",
-                  "pos": 3
+                  "pos": 23
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
-                },
-                {
-                  "acorde": "D",
-                  "pos": 10
-                },
-                {
-                  "acorde": "A",
-                  "pos": 12
+                  "pos": 28
                 }
               ]
             }
@@ -134,15 +122,15 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 0
+                  "pos": 5
                 },
                 {
                   "acorde": "A",
-                  "pos": 2
+                  "pos": 24
                 },
                 {
-                  "acorde": "A7",
-                  "pos": 4
+                  "acorde": "A/C#",
+                  "pos": 28
                 }
               ]
             },
@@ -151,15 +139,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 1
-                },
-                {
-                  "acorde": "E",
-                  "pos": 3
+                  "pos": 6
                 },
                 {
                   "acorde": "A",
-                  "pos": 5
+                  "pos": 29
                 }
               ]
             },
@@ -167,16 +151,24 @@
               "texto": "Y algún día en vez de una cruz",
               "acordes": [
                 {
-                  "acorde": "A7",
-                  "pos": 1
+                  "acorde": "A",
+                  "pos": 2
                 },
                 {
-                  "acorde": "D",
-                  "pos": 4
+                  "acorde": "G",
+                  "pos": 11
+                },
+                {
+                  "acorde": "F#",
+                  "pos": 13
+                },
+                {
+                  "acorde": "Bm",
+                  "pos": 25
                 },
                 {
                   "acorde": "Dm",
-                  "pos": 6
+                  "pos": 29
                 }
               ]
             },
@@ -189,19 +181,11 @@
                 },
                 {
                   "acorde": "E",
-                  "pos": 3
+                  "pos": 12
                 },
                 {
                   "acorde": "A",
-                  "pos": 5
-                },
-                {
-                  "acorde": "D",
-                  "pos": 7
-                },
-                {
-                  "acorde": "A",
-                  "pos": 9
+                  "pos": 24
                 }
               ]
             }
@@ -217,7 +201,7 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 0
+                  "pos": 5
                 }
               ]
             },
@@ -226,15 +210,15 @@
               "acordes": [
                 {
                   "acorde": "A7",
-                  "pos": 1
+                  "pos": 5
                 },
                 {
                   "acorde": "D",
-                  "pos": 4
+                  "pos": 14
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 6
+                  "pos": 25
                 }
               ]
             },
@@ -243,19 +227,11 @@
               "acordes": [
                 {
                   "acorde": "E",
-                  "pos": 1
-                },
-                {
-                  "acorde": "E/G#",
-                  "pos": 3
+                  "pos": 4
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
-                },
-                {
-                  "acorde": "E",
-                  "pos": 10
+                  "pos": 28
                 }
               ]
             },
@@ -264,11 +240,11 @@
               "acordes": [
                 {
                   "acorde": "A",
-                  "pos": 1
+                  "pos": 7
                 },
                 {
                   "acorde": "A7",
-                  "pos": 3
+                  "pos": 16
                 }
               ]
             },
@@ -277,11 +253,11 @@
               "acordes": [
                 {
                   "acorde": "D",
-                  "pos": 1
+                  "pos": 6
                 },
                 {
                   "acorde": "Bm",
-                  "pos": 3
+                  "pos": 14
                 }
               ]
             },
@@ -293,20 +269,16 @@
                   "pos": 1
                 },
                 {
+                  "acorde": "D/F#",
+                  "pos": 9
+                },
+                {
                   "acorde": "E/G#",
-                  "pos": 3
+                  "pos": 17
                 },
                 {
                   "acorde": "A",
-                  "pos": 8
-                },
-                {
-                  "acorde": "D",
-                  "pos": 10
-                },
-                {
-                  "acorde": "A",
-                  "pos": 12
+                  "pos": 24
                 }
               ]
             }
